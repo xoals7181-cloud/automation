@@ -1,5 +1,8 @@
 name: US Stock Report Automation
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 1 * * *'   # 매일 오전 10시 (한국시간)
