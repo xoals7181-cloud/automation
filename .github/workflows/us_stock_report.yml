@@ -1,0 +1,29 @@
+name: US Stock Report Automation
+
+on:
+  schedule:
+    - cron: '0 1 * * *'   # 매일 오전 10시 (한국시간)
+  workflow_dispatch:
+
+jobs:
+  run-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 저장소 코드 가져오기
+        uses: actions/checkout@v4
+
+      - name: Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: 라이브러리 설치
+        run: |
+          pip install yt-dlp
+          pip install vosk
+          pip install openai
+
+      - name: 리포트 생성 실행
+        run: |
+          python main.py
