@@ -27,3 +27,11 @@ jobs:
       - name: 리포트 생성 실행
         run: |
           python main.py
+
+      - name: 결과 파일 저장
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git add report.txt
+          git commit -m "자동 생성 리포트 저장" || echo "변경사항 없음"
+          git push
