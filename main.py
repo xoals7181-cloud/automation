@@ -1,27 +1,26 @@
 from datetime import datetime
 
-def generate_report():
-    today = datetime.now().strftime("%Y-%m-%d")
+def main():
+    now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
     lines = []
-    lines.append(f"미국 증시 리포트 ({today})")
-    lines.append("-" * 30)
-    lines.append("1. 시장 요약")
-    lines.append("- 다우, 나스닥, S&P500 혼조세")
+    lines.append("[전날 미국 증시 요약]")
     lines.append("")
-    lines.append("2. 주요 이슈")
-    lines.append("- 금리 동결 기대감 지속")
-    lines.append("- AI 관련 종목 변동성 확대")
+    lines.append("■ 생성 시각")
+    lines.append(f"- {now}")
     lines.append("")
-    lines.append("3. 투자 심리")
-    lines.append("- 단기 경계, 중장기 관망")
-
-    report = "\n".join(lines)
+    lines.append("■ 핵심 이슈 TOP 5")
+    for i in range(1, 6):
+        lines.append(f"{i}. 데이터 수집 예정")
+    lines.append("")
+    lines.append("━━━━━━━━━━━━━━━━━━")
+    lines.append("[기타 사항]")
+    lines.append("- 현재는 자동화 구조 검증 단계입니다.")
 
     with open("report.txt", "w", encoding="utf-8") as f:
-        f.write(report)
+        f.write("\n".join(lines))
 
-    print("리포트 생성 완료")
+    print("report.txt 생성 완료")
 
 if __name__ == "__main__":
-    generate_report()
+    main()
