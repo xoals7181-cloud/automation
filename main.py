@@ -8,44 +8,39 @@ from dataclasses import dataclass, field
 from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Optional, Tuple
 
-import whisper  # pip install openai-whisper
+import whisper  # openai-whisper
 
 # =========================
 # 설정
 # =========================
 
 REPORT_FILE = "report.txt"
+UC_IDS_FILE = "uc_ids.txt"
 
-# YouTube upload_date는 보통 YYYYMMDD(일 단위)라 12시간 필터가 정확하지 않습니다.
-# 운영 안정성을 위해 24시간으로 고정 권장.
-RECENT_HOURS = 24
-
-# 세그먼트 분할(초) - 15분
-SEGMENT_SECONDS = 15 * 60
-
-# "무조건 재다운로드 + 재시도": 재시도 2회 = 총 3회
-MAX_RETRIES = 2
-
-# Whisper 모델(깃헙 액션 CPU 기준 base 권장, small은 더 정확하지만 느림)
-WHISPER_MODEL = "base"
-
-# 반드시 /videos로 끝나게
-CHANNELS = {
-    "Bloomberg": "https://www.youtube.com/@BloombergTV/videos",
-    "Meet Kevin": "https://www.youtube.com/@MeetKevin/videos",
-    # 아래는 예시(실제 핸들이 다르면 교체)
-    "오선의 미국 증시": "https://www.youtube.com/@osunstock/videos",
-    "설명왕 테이버": "https://www.youtube.com/@taver/videos",
-    "뉴욕주민": "https://www.youtube.com/@nyresident/videos",
-}
+RECENT_HOURS = 24                 # upload_date가 일단위라 24h 권장
+SEGMENT_SECONDS = 15 * 60         # 15분 분할
+MAX_RETRIES = 2                   # "무조건 재다운 2회" => 총 3회
+WHISPER_MODEL = "base"            # GitHub Actions CPU 기준
 
 WORKDIR = "_work"
 AUDIODIR = os.path.join(WORKDIR, "audio")
 SEGDIR = os.path.join(WORKDIR, "segments")
+CACHE_DIR = os.path.join(WORKDIR, "cache")
+UC_CACHE_PATH = os.path.join(CACHE_DIR, "uc_cache.json")
+
+# ✅ 이제 UC ID를 직접 넣지 않아도 됩니다. handle/URL만 넣으면 됩니다.
+CHANNELS = {
+    "Bloomberg": "https://www.youtube.com/@BloombergTV",
+    "Meet Kevin": "https://www.youtube.com/@MeetKevin",
+    "오선의 미국 증시": "https://www.youtube.com/@futuresnow",
+    "설명왕 테이버": "https://www.youtube.com/@taver",
+    "내일은 투자왕 - 김단테": "https://www.youtube.com/@kimdante",
+    "소수몽키": "https://www.youtube.com/@sosumonkey",
+}
 
 
 # =========================
-# 유틸
+# 공통 유틸
 # =========================
 
 def run(cmd: List[str], timeout: Optional[int] = None) -> Tuple[int, str, str]:
@@ -69,6 +64,10 @@ def utc_now() -> datetime:
     return datetime.now(timezone.utc)
 
 
+def kst_now_str() -> str:
+    return (utc_now() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M (KST)")
+
+
 def parse_upload_date_yyyymmdd(s: str) -> Optional[datetime]:
     if not s or not re.fullmatch(r"\d{8}", s):
         return None
@@ -81,55 +80,17 @@ def within_recent_window(upload_dt: Optional[datetime], hours: int) -> bool:
     return (utc_now() - upload_dt) <= timedelta(hours=hours)
 
 
-def kst_now_str() -> str:
-    return (utc_now() + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M (KST)")
-
-
-# =========================
-# 결과 구조 (필수)
-# =========================
-
-@dataclass
-class ChannelResult:
-    channel: str
-    status: str  # SUCCESS / NO_VIDEO / FAILED
-
-    video_url: Optional[str] = None
-    video_title: Optional[str] = None
-    upload_date: Optional[str] = None
-
-    attempts: int = 0
-
-    # 실패 분석 (FAILED일 때만 의미 있게 출력)
-    failed_stage: Optional[str] = None  # FETCH / DOWNLOAD / SPLIT / TRANSCRIBE
-    fail_label: Optional[str] = None    # 정확한 원인 라벨
-    reason: Optional[str] = None        # 사람이 읽기 쉬운 요약
-    error_detail: Optional[str] = None  # 마지막 에러/스택/스텟더 요약
-
-    # 디버깅용: 시도별 실패 기록(FAILED일 때만 리포트에 출력)
-    attempt_fail_logs: List[str] = field(default_factory=list)
-
-    # 산출물 요약
-    transcript_chars: int = 0
-
-
-# =========================
-# 원인 라벨링
-# =========================
-
 def label_error(stderr_or_msg: str) -> str:
     s = (stderr_or_msg or "").lower()
-
-    # HTTP/접근 계열
     if "http error 403" in s or "403 forbidden" in s:
         return "HTTP_403"
     if "http error 401" in s or "401" in s:
         return "HTTP_401"
     if "http error 429" in s or "too many requests" in s or "429" in s:
         return "HTTP_429"
-    if "http error 404" in s or "404" in s:
+    if "http error 404" in s or "requested entity was not found" in s or "404" in s:
         return "HTTP_404"
-    if "geoblock" in s or "not available in your country" in s or "country" in s:
+    if "not available in your country" in s or "geoblock" in s:
         return "GEO_BLOCK"
     if "sign in to confirm your age" in s or "age-restricted" in s:
         return "AGE_RESTRICTED"
@@ -137,61 +98,106 @@ def label_error(stderr_or_msg: str) -> str:
         return "PRIVATE_VIDEO"
     if "premiere" in s and ("not started" in s or "will begin" in s):
         return "PREMIERE_NOT_STARTED"
-    if "live" in s and ("is currently live" in s or "this live event" in s or "livestream" in s):
+    if "live" in s and ("is currently live" in s or "livestream" in s or "live event" in s):
         return "LIVE"
-
-    # 다운로드/포맷 계열
     if "no video formats found" in s:
         return "NO_FORMAT"
     if "requested format is not available" in s:
         return "FORMAT_UNAVAILABLE"
     if "unable to download webpage" in s or "failed to download" in s:
         return "DOWNLOAD_WEBPAGE_FAIL"
-    if "no such file or directory" in s:
-        return "FILE_NOT_FOUND"
-
-    # ffmpeg 계열
-    if "ffmpeg" in s and ("error" in s or "invalid" in s or "failed" in s):
-        return "FFMPEG_FAIL"
     if "could not find ffmpeg" in s:
         return "FFMPEG_MISSING"
-
-    # whisper/stt 계열
-    if "whisper 결과 텍스트가 비어" in s or "empty" in s and "text" in s:
-        return "WHISPER_EMPTY"
-    if "cuda" in s and "not available" in s:
-        return "CUDA_NOT_AVAILABLE"
+    if "ffmpeg" in s and ("error" in s or "invalid" in s or "failed" in s):
+        return "FFMPEG_FAIL"
     if "timeout" in s or "timed out" in s:
         return "TIMEOUT"
-
+    if "whisper 결과 텍스트가 비어" in s or ("empty" in s and "text" in s):
+        return "WHISPER_EMPTY"
     return "UNKNOWN"
 
 
 def stage_reason_from_exception(msg: str) -> Tuple[str, str]:
-    """Exception 메시지로 stage, reason을 추정"""
     m = msg or ""
-    if "yt-dlp 채널 조회 실패" in m or "채널 조회 실패" in m:
-        return "FETCH", "채널에서 최신 영상 목록 조회 실패"
+    if "yt-dlp 채널 조회 실패" in m or "채널 조회 실패" in m or "channel_id 추출 실패" in m:
+        return "FETCH", "채널 메타/ID 조회 실패"
     if "오디오 다운로드 실패" in m or "오디오 파일이 생성되지 않음" in m:
-        return "DOWNLOAD", "오디오 다운로드 실패(유튜브 차단/접근 제한/포맷 이슈)"
+        return "DOWNLOAD", "오디오 다운로드 실패(차단/접근제한/포맷)"
     if "ffmpeg 정규화 실패" in m:
-        return "DOWNLOAD", "오디오 정규화 실패(ffmpeg 코덱/파일 손상)"
+        return "DOWNLOAD", "오디오 정규화 실패(ffmpeg/코덱)"
     if "ffmpeg 분할 실패" in m:
-        return "SPLIT", "오디오 분할 실패(ffmpeg segment 처리 오류)"
+        return "SPLIT", "오디오 분할 실패(ffmpeg segment)"
     if "Whisper 결과 텍스트가 비어" in m:
-        return "TRANSCRIBE", "음성→텍스트 결과가 비어 있음(무음/차단/디코딩)"
+        return "TRANSCRIBE", "Whisper 결과 텍스트 비어 있음"
     return "TRANSCRIBE", "처리 중 알 수 없는 오류"
 
 
 # =========================
-# 1) 채널에서 최신 영상 찾기 (yt-dlp flat json)
+# UC ID 자동 해석 + 캐시
+# =========================
+
+def load_uc_cache() -> Dict[str, str]:
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    if os.path.exists(UC_CACHE_PATH):
+        try:
+            with open(UC_CACHE_PATH, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except:
+            return {}
+    return {}
+
+
+def save_uc_cache(cache: Dict[str, str]) -> None:
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    with open(UC_CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def resolve_uc_id(channel_url: str, cache: Dict[str, str]) -> str:
+    """
+    어떤 형태(@handle / c / channel / m.youtube)로 들어와도
+    yt-dlp를 이용해 channel_id(UC...)를 추출합니다.
+    """
+    # 모바일 링크면 정규화
+    channel_url = channel_url.replace("m.youtube.com", "www.youtube.com").rstrip("/")
+
+    if channel_url in cache:
+        return cache[channel_url]
+
+    # 채널 영상 목록에서 1개만 뽑아 channel_id를 얻는다(가장 단단한 방법)
+    cmd = [
+        "yt-dlp",
+        "--dump-single-json",
+        "--flat-playlist",
+        "--playlist-end", "1",
+        f"{channel_url}/videos"
+    ]
+    rc, out, err = run(cmd, timeout=180)
+    if rc != 0:
+        raise RuntimeError(f"채널 조회 실패({label_error(err)}): {err[-500:]}")
+
+    data = json.loads(out)
+    channel_id = data.get("channel_id") or data.get("uploader_id")
+    if not channel_id or not channel_id.startswith("UC"):
+        raise RuntimeError("channel_id 추출 실패")
+
+    cache[channel_url] = channel_id
+    return channel_id
+
+
+def make_channel_videos_url(uc_id: str) -> str:
+    return f"https://www.youtube.com/channel/{uc_id}/videos"
+
+
+# =========================
+# 최신 영상 선택 (UC 기반 videos)
 # =========================
 
 def pick_latest_video(channel_videos_url: str) -> Tuple[Optional[str], Optional[str], Optional[str]]:
     cmd = ["yt-dlp", "--flat-playlist", "--dump-single-json", channel_videos_url]
     rc, out, err = run(cmd, timeout=180)
     if rc != 0:
-        raise RuntimeError(f"yt-dlp 채널 조회 실패: {err[-500:]}")
+        raise RuntimeError(f"yt-dlp 채널 조회 실패({label_error(err)}): {err[-500:]}")
 
     data = json.loads(out)
     entries = data.get("entries") or []
@@ -202,7 +208,6 @@ def pick_latest_video(channel_videos_url: str) -> Tuple[Optional[str], Optional[
         upload_date = e.get("upload_date")  # YYYYMMDD
         if not vid:
             continue
-
         upload_dt = parse_upload_date_yyyymmdd(upload_date or "")
         if upload_dt and within_recent_window(upload_dt, RECENT_HOURS):
             return f"https://www.youtube.com/watch?v={vid}", title, upload_date
@@ -211,12 +216,11 @@ def pick_latest_video(channel_videos_url: str) -> Tuple[Optional[str], Optional[
 
 
 # =========================
-# 2) 오디오 다운로드 + 정규화
+# 오디오 다운로드 + 전처리 + 분할 + Whisper
 # =========================
 
 def download_audio(video_url: str, out_base: str) -> str:
     outtmpl = os.path.join(AUDIODIR, f"{out_base}.%(ext)s")
-
     cmd = [
         "yt-dlp",
         "-f", "bestaudio/best",
@@ -227,11 +231,8 @@ def download_audio(video_url: str, out_base: str) -> str:
     ]
     rc, out, err = run(cmd, timeout=1200)
     if rc != 0:
-        # yt-dlp stderr 기반 라벨링
-        label = label_error(err)
-        raise RuntimeError(f"오디오 다운로드 실패 ({label}): {err[-500:]}")
+        raise RuntimeError(f"오디오 다운로드 실패({label_error(err)}): {err[-500:]}")
 
-    # 생성된 파일 찾기
     for fn in os.listdir(AUDIODIR):
         if fn.startswith(out_base + "."):
             return os.path.join(AUDIODIR, fn)
@@ -243,12 +244,8 @@ def normalize_to_wav_mono16k(input_audio: str, out_wav: str) -> None:
     cmd = ["ffmpeg", "-y", "-i", input_audio, "-ar", "16000", "-ac", "1", "-vn", out_wav]
     rc, out, err = run(cmd, timeout=900)
     if rc != 0:
-        raise RuntimeError(f"ffmpeg 정규화 실패 (FFMPEG_FAIL): {err[-500:]}")
+        raise RuntimeError(f"ffmpeg 정규화 실패({label_error(err)}): {err[-500:]}")
 
-
-# =========================
-# 3) 길이 분할 (세그먼트)
-# =========================
 
 def split_wav(input_wav: str, seg_prefix: str) -> List[str]:
     os.makedirs(SEGDIR, exist_ok=True)
@@ -263,7 +260,7 @@ def split_wav(input_wav: str, seg_prefix: str) -> List[str]:
     ]
     rc, out, err = run(cmd, timeout=900)
     if rc != 0:
-        raise RuntimeError(f"ffmpeg 분할 실패 (FFMPEG_FAIL): {err[-500:]}")
+        raise RuntimeError(f"ffmpeg 분할 실패({label_error(err)}): {err[-500:]}")
 
     segs = sorted(
         os.path.join(SEGDIR, f) for f in os.listdir(SEGDIR)
@@ -271,10 +268,6 @@ def split_wav(input_wav: str, seg_prefix: str) -> List[str]:
     )
     return segs if segs else [input_wav]
 
-
-# =========================
-# 4) Whisper 텍스트화
-# =========================
 
 def transcribe_segments(model, segments: List[str]) -> str:
     texts: List[str] = []
@@ -287,48 +280,88 @@ def transcribe_segments(model, segments: List[str]) -> str:
 
 
 # =========================
-# 5) 채널 처리 (무조건 재다운 2회 + 최종 실패만 기록)
+# 결과 구조
 # =========================
 
-def process_channel(channel: str, channel_url: str, whisper_model) -> ChannelResult:
-    res = ChannelResult(channel=channel, status="FAILED")
+@dataclass
+class ChannelResult:
+    channel: str
+    status: str  # SUCCESS / NO_VIDEO / FAILED
 
-    # (A) 최신 영상 선택
+    channel_url: Optional[str] = None
+    uc_id: Optional[str] = None
+    resolved_videos_url: Optional[str] = None
+
+    video_url: Optional[str] = None
+    video_title: Optional[str] = None
+    upload_date: Optional[str] = None
+
+    attempts: int = 0
+
+    failed_stage: Optional[str] = None
+    fail_label: Optional[str] = None
+    reason: Optional[str] = None
+    error_detail: Optional[str] = None
+
+    attempt_fail_logs: List[str] = field(default_factory=list)
+    transcript_chars: int = 0
+
+
+# =========================
+# 채널 처리(UC 자동해석 + 무조건 재다운 2회 + FAILED만 로그)
+# =========================
+
+def process_channel(name: str, url: str, cache: Dict[str, str], whisper_model) -> ChannelResult:
+    res = ChannelResult(channel=name, status="FAILED", channel_url=url)
+
+    # 1) UC ID 해석
     try:
-        video_url, title, upload_date = pick_latest_video(channel_url)
-        if not video_url:
+        uc_id = resolve_uc_id(url, cache)
+        res.uc_id = uc_id
+        res.resolved_videos_url = make_channel_videos_url(uc_id)
+    except Exception as e:
+        msg = str(e)
+        res.status = "FAILED"
+        res.failed_stage = "FETCH"
+        res.fail_label = label_error(msg)
+        res.reason = "UC ID(채널 고유 ID) 해석 실패"
+        res.error_detail = msg[-800:]
+        return res
+
+    # 2) 최신 영상 선택
+    try:
+        vurl, title, udate = pick_latest_video(res.resolved_videos_url)
+        if not vurl:
             res.status = "NO_VIDEO"
             res.reason = f"최근 {RECENT_HOURS}시간 내 업로드 영상 없음"
             return res
-        res.video_url = video_url
+        res.video_url = vurl
         res.video_title = title
-        res.upload_date = upload_date
+        res.upload_date = udate
     except Exception as e:
         msg = str(e)
         res.status = "FAILED"
         res.failed_stage = "FETCH"
         res.fail_label = label_error(msg)
         res.reason = "채널에서 최신 영상 조회 실패"
-        res.error_detail = msg[-700:]
+        res.error_detail = msg[-800:]
         return res
 
-    base = safe_filename(f"{channel}_{res.upload_date or 'nodate'}")
+    # 3) 오디오→분할→Whisper (무조건 3회 시도, 매번 재다운)
+    base = safe_filename(f"{name}_{res.upload_date or 'nodate'}")
 
-    # 최종 실패 정보(3회 모두 실패했을 때만 기록)
     final_stage = None
     final_label = None
     final_reason = None
     final_detail = None
 
-    # ✅ 무조건 3회(최초 1 + 재다운 2)
     for attempt in range(MAX_RETRIES + 1):
         res.attempts = attempt + 1
-
         try:
             os.makedirs(AUDIODIR, exist_ok=True)
             os.makedirs(SEGDIR, exist_ok=True)
 
-            # ✅ 매 시도마다 잔여물 전부 삭제 (무조건 재다운 보장)
+            # 매 시도마다 잔여물 삭제 => "무조건 재다운"
             for fn in list(os.listdir(AUDIODIR)):
                 if fn.startswith(base):
                     try:
@@ -342,28 +375,23 @@ def process_channel(channel: str, channel_url: str, whisper_model) -> ChannelRes
                     except:
                         pass
 
-            # 1) 오디오 다운로드 (항상 새로)
             audio_path = download_audio(res.video_url, base)
-
-            # 2) 정규화
             wav_path = os.path.join(AUDIODIR, f"{base}_clean.wav")
             normalize_to_wav_mono16k(audio_path, wav_path)
 
-            # 3) 분할
             segs = split_wav(wav_path, base)
-
-            # 4) Whisper
             transcript = transcribe_segments(whisper_model, segs)
+
             if not transcript:
                 raise RuntimeError("Whisper 결과 텍스트가 비어 있음(WHISPER_EMPTY)")
 
-            # ✅ 성공: FAILED 기록은 남기지 않는다(요청사항)
+            # 성공 시: 실패기록은 report에 남기지 않는다
             res.status = "SUCCESS"
             res.transcript_chars = len(transcript)
             res.failed_stage = None
             res.fail_label = None
-            res.error_detail = None
             res.reason = f"성공 (총 {res.attempts}회 시도)" if res.attempts > 1 else "성공"
+            res.error_detail = None
             return res
 
         except Exception as e:
@@ -371,7 +399,7 @@ def process_channel(channel: str, channel_url: str, whisper_model) -> ChannelRes
             stage, reason = stage_reason_from_exception(msg)
             label = label_error(msg)
 
-            # 시도별 로그는 'FAILED일 때만 출력'하므로 여기선 저장만
+            # 시도별 실패는 저장만(FAILED일 때만 출력)
             res.attempt_fail_logs.append(
                 f"{attempt+1}회차 실패 | stage={stage} | label={label} | reason={reason} | detail={msg[-220:]}"
             )
@@ -381,11 +409,9 @@ def process_channel(channel: str, channel_url: str, whisper_model) -> ChannelRes
             final_reason = reason
             final_detail = msg[-800:]
 
-            # ✅ 조건 없이 재시도
             if attempt < MAX_RETRIES:
                 time.sleep(3)
 
-    # ✅ 3회 모두 실패: 여기서만 FAILED 기록 확정
     res.status = "FAILED"
     res.failed_stage = final_stage or "UNKNOWN"
     res.fail_label = final_label or "UNKNOWN"
@@ -395,7 +421,7 @@ def process_channel(channel: str, channel_url: str, whisper_model) -> ChannelRes
 
 
 # =========================
-# 메인: report.txt 작성 (FAILED일 때만 실패 기록 출력)
+# 메인
 # =========================
 
 def main():
@@ -404,30 +430,53 @@ def main():
         shutil.rmtree(WORKDIR, ignore_errors=True)
     os.makedirs(AUDIODIR, exist_ok=True)
     os.makedirs(SEGDIR, exist_ok=True)
+    os.makedirs(CACHE_DIR, exist_ok=True)
 
+    # UC 캐시 로드
+    uc_cache = load_uc_cache()
+
+    # Whisper 모델 로드
     model = whisper.load_model(WHISPER_MODEL)
 
+    results: List[ChannelResult] = []
+
+    for name, url in CHANNELS.items():
+        r = process_channel(name, url, uc_cache, model)
+        results.append(r)
+
+    # UC 캐시 저장(런타임 캐시)
+    save_uc_cache(uc_cache)
+
+    # 1) uc_ids.txt 생성 (이름 빠진 UC ID 모음)
+    #   - 성공/실패 상관없이 UC 해석이 된 채널은 모두 기록
+    uc_lines: List[str] = []
+    uc_lines.append(f"# UC IDs (auto-collected) - {kst_now_str()}")
+    uc_lines.append("# format: name<TAB>uc_id<TAB>resolved_videos_url")
+    for r in results:
+        if r.uc_id:
+            uc_lines.append(f"{r.channel}\t{r.uc_id}\t{r.resolved_videos_url}")
+        else:
+            # UC 해석 실패도 남겨서 나중에 추적 가능
+            uc_lines.append(f"{r.channel}\t<UC_ID_NOT_RESOLVED>\t{r.channel_url}")
+    with open(UC_IDS_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(uc_lines).rstrip() + "\n")
+
+    # 2) report.txt 생성
     lines: List[str] = []
     lines.append("[미국 주식 시황 리포트 - 자동 생성]")
     lines.append(f"생성 시각: {kst_now_str()}")
     lines.append(f"최근 업로드 필터: {RECENT_HOURS}시간")
     lines.append(f"세그먼트 분할: {SEGMENT_SECONDS//60}분 단위")
-    lines.append(f"재시도: 무조건 재다운 2회 (총 3회)")
     lines.append("")
 
     lines.append("■ 채널별 텍스트화 결과")
-    results: List[ChannelResult] = []
-
-    for ch, url in CHANNELS.items():
-        r = process_channel(ch, url, model)
-        results.append(r)
-
     for r in results:
         lines.append(f"- {r.channel}")
 
         if r.status == "SUCCESS":
             lines.append("  상태: SUCCESS")
             lines.append(f"  시도횟수: {r.attempts}")
+            lines.append(f"  UC ID: {r.uc_id}")
             lines.append(f"  영상: {r.video_title or '제목 없음'}")
             lines.append(f"  URL: {r.video_url}")
             lines.append(f"  업로드일: {r.upload_date or '알 수 없음'}")
@@ -435,12 +484,14 @@ def main():
 
         elif r.status == "NO_VIDEO":
             lines.append("  상태: NO_VIDEO")
+            lines.append(f"  UC ID: {r.uc_id}")
             lines.append(f"  사유: {r.reason}")
 
         else:
-            # ✅ FAILED일 때만 실패 기록 출력
+            # FAILED일 때만 실패기록 출력
             lines.append("  상태: FAILED")
             lines.append(f"  시도횟수: {r.attempts}")
+            lines.append(f"  UC ID: {r.uc_id or 'N/A'}")
             lines.append(f"  실패단계: {r.failed_stage}")
             lines.append(f"  원인라벨: {r.fail_label}")
             lines.append(f"  사유: {r.reason}")
@@ -448,8 +499,6 @@ def main():
                 lines.append(f"  URL: {r.video_url}")
             if r.error_detail:
                 lines.append(f"  상세: {r.error_detail}")
-
-            # (옵션) 시도별 실패 기록도 FAILED일 때만 표시
             if r.attempt_fail_logs:
                 lines.append("  시도별 실패 기록:")
                 for logline in r.attempt_fail_logs:
@@ -458,15 +507,14 @@ def main():
         lines.append("")
 
     lines.append("━━━━━━━━━━━━━━━━━━")
-    lines.append("[기타 사항]")
-    lines.append("- 본 버전은 '오디오 다운로드 → 분할 → Whisper 텍스트화' 성공률을 최대화하고, FAILED 시 원인라벨을 남깁니다.")
-    lines.append("- 다음 단계에서 SUCCESS 채널의 텍스트를 이용해 리포트 템플릿(핵심이슈/전문가/대중심리/메타판단)을 자동 생성합니다.")
+    lines.append("[UC ID 모음 파일]")
+    lines.append(f"- {UC_IDS_FILE} 에 채널명-UCID-영상탭 URL이 저장됩니다.")
     lines.append("")
 
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(lines).rstrip() + "\n")
 
-    print("report.txt 생성 완료")
+    print("report.txt / uc_ids.txt 생성 완료")
 
 
 if __name__ == "__main__":
