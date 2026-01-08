@@ -1,4 +1,4 @@
-name: US Stock Report Automation
+name: US Stock Report Automation (Stable)
 
 on:
   schedule:
@@ -17,11 +17,6 @@ jobs:
       - name: 저장소 코드 가져오기
         uses: actions/checkout@v4
 
-      - name: ffmpeg 설치
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg
-
       - name: Python 설치
         uses: actions/setup-python@v5
         with:
@@ -30,15 +25,12 @@ jobs:
       - name: Python 라이브러리 설치
         run: |
           python -m pip install --upgrade pip
-          pip install yt-dlp
-          pip install openai-whisper
           pip install requests
-
-      - name: cookies.txt 생성
-        run: |
-          printf "%s" "${{ secrets.YTDLP_COOKIES }}" > cookies.txt
+          pip install youtube-transcript-api
 
       - name: 리포트 생성 실행
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
           python main.py
 
@@ -46,6 +38,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add report.txt uc_ids.txt || true
-          git commit -m "Auto: daily US stock report" || echo "No changes to commit"
+          git add report.txt || true
+          git commit -m "Auto: daily US stock report (stable)" || echo "No changes to commit"
           git push
