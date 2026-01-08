@@ -1,15 +1,17 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-08 23:28 (KST)
-최근 필터: 12시간 (종료된 라이브 포함, 진행중 라이브 제외)
+생성 시각: 2026-01-08 23:58 (KST)
+Run: 20 (id=20821137697)
+검색 범위: 최근 48시간 / 최종 선택: 최근 12시간
+진행중 라이브 제외, 종료된 콘텐츠만 선택
 
 ■ 채널별 결과
 - Bloomberg
   상태: API_ERROR
-  비고: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+  비고: NoTranscriptFound.__init__() missing 2 required positional arguments: 'requested_language_codes' and 'transcript_data'
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 영상 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외)
 
 - 오선의 미국 증시
   상태: NO_VIDEO
@@ -17,12 +19,12 @@
 
 - 설명왕 테이버
   상태: API_ERROR
-  비고: type object 'YouTubeTranscriptApi' has no attribute 'list_transcripts'
+  비고: NoTranscriptFound.__init__() missing 2 required positional arguments: 'requested_language_codes' and 'transcript_data'
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 영상 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 영상 없음
+  비고: 최근 48시간 검색 결과 없음
