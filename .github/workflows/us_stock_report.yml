@@ -25,8 +25,8 @@ jobs:
       - name: Python 라이브러리 설치
         run: |
           python -m pip install --upgrade pip
+          pip install -U youtube-transcript-api
           pip install requests
-          pip install youtube-transcript-api
 
       - name: 리포트 생성 실행
         env:
