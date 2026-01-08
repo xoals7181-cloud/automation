@@ -1,0 +1,8 @@
+# UC IDs - 2026-01-08 22:59 (KST)
+# format: name<TAB>uc_id<TAB>videos_url
+Bloomberg	UCIALMKvObZNtJ6AmdCLP7Lg	https://www.youtube.com/channel/UCIALMKvObZNtJ6AmdCLP7Lg/videos
+Meet Kevin	UCUvvj5lwue7PspotMDjk5UA	https://www.youtube.com/channel/UCUvvj5lwue7PspotMDjk5UA/videos
+오선의 미국 증시	UC_JJ_NhRqPKcIOj5Ko3W_3w	https://www.youtube.com/channel/UC_JJ_NhRqPKcIOj5Ko3W_3w/videos
+설명왕 테이버	UCOio3vyYLWiKlHSYRKW-9UA	https://www.youtube.com/channel/UCOio3vyYLWiKlHSYRKW-9UA/videos
+내일은 투자왕 - 김단테	UCKTMvIu9a4VGSrpWy-8bUrQ	https://www.youtube.com/channel/UCKTMvIu9a4VGSrpWy-8bUrQ/videos
+소수몽키	UCC3yfxS5qC6PCwDzetUuEWg	https://www.youtube.com/channel/UCC3yfxS5qC6PCwDzetUuEWg/videos

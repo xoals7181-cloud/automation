@@ -1,5 +1,5 @@
 [미국 주식 시황 리포트 - 자동 생성]
-생성 시각: 2026-01-08 22:16 (KST)
+생성 시각: 2026-01-08 22:59 (KST)
 기준: 최근 12시간, 종료된 라이브 포함(was_live), 진행 중 라이브 제외(is_live)
 세그먼트 분할: 15분 단위
 
@@ -13,7 +13,7 @@
   사유: 채널 콘텐츠 조회 실패
   상세: yt-dlp 채널 조회 실패(UNKNOWN):  missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
-ERROR: [youtube] -S4jxt18BAs: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
+ERROR: [youtube] U13_17EZijA: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
 
 - Meet Kevin
@@ -23,7 +23,7 @@ ERROR: [youtube] -S4jxt18BAs: Sign in to confirm you’re not a bot. Use --cooki
   실패단계: FETCH
   원인라벨: UNKNOWN
   사유: 채널 콘텐츠 조회 실패
-  상세: yt-dlp 채널 조회 실패(UNKNOWN):  missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+  상세: yt-dlp 채널 조회 실패(UNKNOWN):  refer to  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies .
 WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
 ERROR: [youtube] _ZA23pxvRIE: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
@@ -71,8 +71,7 @@ ERROR: [youtube] 6SwEFgFVRBc: Sign in to confirm you’re not a bot. Use --cooki
   실패단계: FETCH
   원인라벨: UNKNOWN
   사유: 채널 콘텐츠 조회 실패
-  상세: yt-dlp 채널 조회 실패(UNKNOWN):  missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
-WARNING: [youtube] No title found in player responses; falling back to title from initial data. Other metadata may also be missing
+  상세: yt-dlp 채널 조회 실패(UNKNOWN): nsure you have a supported JavaScript runtime and challenge solver script distribution installed. Review any warnings presented before this message. For more details, refer to  https://github.com/yt-dlp/yt-dlp/wiki/EJS
 ERROR: [youtube] Fgb7fxqiByM: Sign in to confirm you’re not a bot. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies
 
 
