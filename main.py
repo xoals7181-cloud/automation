@@ -156,8 +156,9 @@ def pick_latest_content_within_12h(channel_videos_url: str) -> Tuple[Optional[st
     # --flat-playlist 쓰면 timestamp가 누락되는 케이스가 있어 "비-flat"으로 가져옵니다.
     cmd = [
         "yt-dlp",
+        "--cookies", "cookies.txt",
         "--dump-single-json",
-        "--playlist-end", "15",   # 최신 15개만 확인(빠르고 충분)
+        "--playlist-end", "15",
         channel_videos_url
     ]
     rc, out, err = run(cmd, timeout=240)
@@ -214,6 +215,7 @@ def download_audio(video_url: str, out_base: str) -> str:
     outtmpl = os.path.join(AUDIODIR, f"{out_base}.%(ext)s")
     cmd = [
         "yt-dlp",
+        "--cookies", "cookies.txt",
         "-f", "bestaudio/best",
         "--no-playlist",
         "--no-progress",
