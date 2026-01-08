@@ -2,7 +2,7 @@ name: US Stock Report Automation
 
 on:
   schedule:
-    # 매일 오전 10시 (한국시간 = UTC 01:00)
+    # 매일 오전 10시 (KST = UTC 01:00)
     - cron: '0 1 * * *'
   workflow_dispatch:
 
@@ -34,6 +34,10 @@ jobs:
           pip install openai-whisper
           pip install requests
 
+      - name: cookies.txt 생성
+        run: |
+          printf "%s" "${{ secrets.YTDLP_COOKIES }}" > cookies.txt
+
       - name: 리포트 생성 실행
         run: |
           python main.py
@@ -42,6 +46,6 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add report.txt
-          git commit -m "Auto: daily US stock report"
+          git add report.txt uc_ids.txt || true
+          git commit -m "Auto: daily US stock report" || echo "No changes to commit"
           git push
