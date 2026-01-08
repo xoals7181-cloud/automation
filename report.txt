@@ -1,17 +1,17 @@
 [미국 주식 시황 리포트 - 자동 생성]
-생성 시각: 2026-01-08 19:19 (KST)
+생성 시각: 2026-01-08 20:16 (KST)
 최근 업로드 필터: 24시간
 세그먼트 분할: 15분 단위
-재시도: 무조건 재다운 2회 (총 3회)
 
 ■ 채널별 텍스트화 결과
 - Bloomberg
   상태: FAILED
   시도횟수: 0
+  UC ID: N/A
   실패단계: FETCH
   원인라벨: HTTP_404
-  사유: 채널에서 최신 영상 조회 실패
-  상세: yt-dlp 채널 조회 실패: ...
+  사유: UC ID(채널 고유 ID) 해석 실패
+  상세: 채널 조회 실패(HTTP_404): ...
 WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
 WARNING: [youtube:tab] HTTP Error 404: Not Found. Retrying (2/3)...
 WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
@@ -22,30 +22,22 @@ ERROR: [youtube:tab] @BloombergTV: Unable to download API page: HTTP Error 404: 
 
 - Meet Kevin
   상태: NO_VIDEO
+  UC ID: UCUvvj5lwue7PspotMDjk5UA
   사유: 최근 24시간 내 업로드 영상 없음
 
 - 오선의 미국 증시
-  상태: FAILED
-  시도횟수: 0
-  실패단계: FETCH
-  원인라벨: HTTP_404
-  사유: 채널에서 최신 영상 조회 실패
-  상세: yt-dlp 채널 조회 실패: 3)...
-WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
-WARNING: [youtube:tab] HTTP Error 404: Not Found. Retrying (2/3)...
-WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
-WARNING: [youtube:tab] HTTP Error 404: Not Found. Retrying (3/3)...
-WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
-ERROR: [youtube:tab] @osunstock: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
-
+  상태: NO_VIDEO
+  UC ID: UC_JJ_NhRqPKcIOj5Ko3W_3w
+  사유: 최근 24시간 내 업로드 영상 없음
 
 - 설명왕 테이버
   상태: FAILED
   시도횟수: 0
+  UC ID: N/A
   실패단계: FETCH
   원인라벨: HTTP_404
-  사유: 채널에서 최신 영상 조회 실패
-  상세: yt-dlp 채널 조회 실패:  (1/3)...
+  사유: UC ID(채널 고유 ID) 해석 실패
+  상세: 채널 조회 실패(HTTP_404):  (1/3)...
 WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
 WARNING: [youtube:tab] HTTP Error 404: Not Found. Retrying (2/3)...
 WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
@@ -54,16 +46,16 @@ WARNING: [youtube:tab] YouTube said: ERROR - Requested entity was not found.
 ERROR: [youtube:tab] @taver: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)
 
 
-- 뉴욕주민
-  상태: FAILED
-  시도횟수: 0
-  실패단계: FETCH
-  원인라벨: UNKNOWN
-  사유: 채널에서 최신 영상 조회 실패
-  상세: yt-dlp 채널 조회 실패: ERROR: [youtube:tab] @nyresident: This channel does not have a videos tab
+- 내일은 투자왕 - 김단테
+  상태: NO_VIDEO
+  UC ID: UCgH2THmX3KgZN72xGO5K_gw
+  사유: 최근 24시간 내 업로드 영상 없음
 
+- 소수몽키
+  상태: NO_VIDEO
+  UC ID: UCC3yfxS5qC6PCwDzetUuEWg
+  사유: 최근 24시간 내 업로드 영상 없음
 
 ━━━━━━━━━━━━━━━━━━
-[기타 사항]
-- 본 버전은 '오디오 다운로드 → 분할 → Whisper 텍스트화' 성공률을 최대화하고, FAILED 시 원인라벨을 남깁니다.
-- 다음 단계에서 SUCCESS 채널의 텍스트를 이용해 리포트 템플릿(핵심이슈/전문가/대중심리/메타판단)을 자동 생성합니다.
+[UC ID 모음 파일]
+- uc_ids.txt 에 채널명-UCID-영상탭 URL이 저장됩니다.
