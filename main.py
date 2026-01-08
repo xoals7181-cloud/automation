@@ -5,11 +5,11 @@ import os
 REPORT_FILE = "report.txt"
 
 YOUTUBE_CHANNELS = {
-    "Bloomberg": "https://www.youtube.com/@BloombergTV",
-    "Meet Kevin": "https://www.youtube.com/@MeetKevin",
-    "오선의 미국 증시": "https://www.youtube.com/@osunstock",
-    "설명왕 테이버": "https://www.youtube.com/@taver",
-    "뉴욕주민": "https://www.youtube.com/@nyresident"
+    "Bloomberg": "https://www.youtube.com/@BloombergTV/videos",
+    "Meet Kevin": "https://www.youtube.com/@MeetKevin/videos",
+    "오선의 미국 증시": "https://www.youtube.com/@osunstock/videos",
+    "설명왕 테이버": "https://www.youtube.com/@taver/videos",
+    "뉴욕주민": "https://www.youtube.com/@nyresident/videos"
 }
 
 def write_line(text=""):
@@ -17,12 +17,12 @@ def write_line(text=""):
         f.write(text + "\n")
 
 def header():
-    write_line(f"[전날 미국 증시 요약]")
+    write_line("[전날 미국 증시 요약]")
     write_line(f"생성 시각: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
     write_line("=" * 50)
     write_line()
 
-def check_recent_video(channel_name, channel_url):
+def check_recent_video(channel_url):
     try:
         cmd = [
             "yt-dlp",
@@ -38,29 +38,14 @@ def check_recent_video(channel_name, channel_url):
         for line in lines:
             date_str, title = line.split("|", 1)
             upload_time = datetime.strptime(date_str, "%Y%m%d")
-            if now - upload_time <= timedelta(hours=12):
+            if now - upload_time <= timedelta(hours=24):
                 return f"✔ 최근 영상 있음: {title}"
 
-        return "영상 없음 (최근 12시간)"
+        return "영상 없음 (최근 24시간)"
 
-    except Exception as e:
+    except Exception:
         return "오류로 인한 누락"
 
 def main():
     if os.path.exists(REPORT_FILE):
-        os.remove(REPORT_FILE)
-
-    header()
-
-    write_line("■ 유튜브 채널 체크")
-    for name, url in YOUTUBE_CHANNELS.items():
-        status = check_recent_video(name, url)
-        write_line(f"- {name}: {status}")
-
-    write_line()
-    write_line("━━━━━━━━━━━━━━━━━━")
-    write_line("[기타 사항]")
-    write_line("자동 생성 리포트입니다.")
-
-if __name__ == "__main__":
-    main()
+        os.remove
