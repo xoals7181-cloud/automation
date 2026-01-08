@@ -137,44 +137,58 @@ class ChannelResult:
 
 def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
     now = datetime.now(timezone.utc)
-    published_after = now - timedelta(hours=RECENT_HOURS)
 
     try:
-        items = youtube_search_latest(channel_id, published_after, api_key, max_results=5)
+        # 🔹 검색은 넉넉하게 48시간
+        search_after = now - timedelta(hours=48)
+        items = youtube_search_latest(channel_id, search_after, api_key, max_results=10)
+
         if not items:
-            return ChannelResult(channel=name, status="NO_VIDEO", note=f"최근 {RECENT_HOURS}시간 내 영상 없음")
+            return ChannelResult(channel=name, status="NO_VIDEO", note="최근 48시간 검색 결과 없음")
 
         video_ids = []
-        basic = {}
         for it in items:
             vid = it.get("id", {}).get("videoId")
-            if not vid:
-                continue
-            video_ids.append(vid)
-            basic[vid] = it.get("snippet", {})
+            if vid:
+                video_ids.append(vid)
 
         details = youtube_videos_details(video_ids, api_key)
 
-        # 종료된 라이브 포함, 진행 중 라이브는 제외
         chosen_id = None
+        chosen_detail = None
+
         for vid in video_ids:
-            d = details.get(vid, {})
+            d = details.get(vid)
             if not d:
                 continue
+
+            # 진행 중 라이브 제외
             if is_live_ongoing(d):
                 continue
+
+            published_at = d.get("snippet", {}).get("publishedAt")
+            if not published_at:
+                continue
+
+            pub_dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            if (now - pub_dt) > timedelta(hours=RECENT_HOURS):
+                continue
+
             chosen_id = vid
+            chosen_detail = d
             break
 
         if not chosen_id:
-            return ChannelResult(channel=name, status="NO_VIDEO", note=f"최근 {RECENT_HOURS}시간 내 종료된 콘텐츠 없음(진행중 라이브 제외)")
+            return ChannelResult(
+                channel=name,
+                status="NO_VIDEO",
+                note=f"최근 {RECENT_HOURS}시간 내 종료된 콘텐츠 없음"
+            )
 
-        sn = details[chosen_id].get("snippet", {})
-        title = sn.get("title")
-        published_at = sn.get("publishedAt")
+        title = chosen_detail.get("snippet", {}).get("title")
         url = f"https://www.youtube.com/watch?v={chosen_id}"
+        published_at = chosen_detail.get("snippet", {}).get("publishedAt")
 
-        # transcript 시도
         try:
             text = fetch_transcript_text(chosen_id)
             return ChannelResult(
@@ -195,47 +209,12 @@ def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
                 title=title,
                 url=url,
                 published_at=published_at,
-                note="자막 없음/비활성화(Transcript 불가)"
+                note="자막 없음/비활성화"
             )
 
     except Exception as e:
-        return ChannelResult(channel=name, status="API_ERROR", note=str(e)[:300])
-
-def main():
-    api_key = os.getenv("YOUTUBE_API_KEY", "").strip()
-    if not api_key:
-        raise RuntimeError("YOUTUBE_API_KEY가 설정되지 않았습니다(GitHub Secrets 확인).")
-
-    results: List[ChannelResult] = []
-    for name, cid in CHANNELS.items():
-        results.append(process_channel(name, cid, api_key))
-
-    lines: List[str] = []
-    lines.append("[미국 주식 시황 리포트 - 안정형]")
-    lines.append(f"생성 시각: {kst_now_str()}")
-    lines.append(f"최근 필터: {RECENT_HOURS}시간 (종료된 라이브 포함, 진행중 라이브 제외)")
-    lines.append("")
-    lines.append("■ 채널별 결과")
-
-    for r in results:
-        lines.append(f"- {r.channel}")
-        lines.append(f"  상태: {r.status}")
-        if r.title:
-            lines.append(f"  제목: {r.title}")
-        if r.url:
-            lines.append(f"  URL: {r.url}")
-        if r.published_at:
-            lines.append(f"  게시: {r.published_at}")
-        if r.status == "SUCCESS":
-            lines.append(f"  텍스트화: 성공(문자수 {r.transcript_chars})")
-        if r.note:
-            lines.append(f"  비고: {r.note}")
-        lines.append("")
-
-    with open(REPORT_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(lines).rstrip() + "\n")
-
-    print("report.txt 생성 완료")
-
-if __name__ == "__main__":
-    main()
+        return ChannelResult(
+            channel=name,
+            status="API_ERROR",
+            note=str(e)[:300]
+        )
