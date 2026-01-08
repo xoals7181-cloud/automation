@@ -1,19 +1,24 @@
 import os
 import re
-import json
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional
 
 import requests
-from youtube_transcript_api import YouTubeTranscriptApi, TranscriptsDisabled, NoTranscriptFound
+from youtube_transcript_api import YouTubeTranscriptApi
+from youtube_transcript_api import TranscriptsDisabled, NoTranscriptFound
 
 # =========================
 # 설정
 # =========================
 
 REPORT_FILE = "report.txt"
+
+# 최종 선택은 최근 12시간
 RECENT_HOURS = 12
+
+# 검색은 넓게: 48시간
+SEARCH_HOURS = 48
 
 # ✅ UC ID 기반(가장 안정)
 CHANNELS = {
@@ -39,13 +44,20 @@ def clean_text(s: str) -> str:
     s = re.sub(r"\s+", " ", s).strip()
     return s
 
+def parse_published_at(s: str) -> Optional[datetime]:
+    # "2026-01-08T12:34:56Z" 형태
+    try:
+        return datetime.fromisoformat(s.replace("Z", "+00:00"))
+    except Exception:
+        return None
+
 # =========================
 # YouTube Data API
 # =========================
 
-def youtube_search_latest(channel_id: str, published_after: datetime, api_key: str, max_results: int = 5) -> List[dict]:
+def youtube_search_latest(channel_id: str, published_after: datetime, api_key: str, max_results: int = 10) -> List[dict]:
     """
-    최근 12시간 내 업로드된 영상(및 종료된 라이브 포함 가능) 후보를 조회
+    최근 SEARCH_HOURS 시간 내 업로드된 영상 후보를 조회
     """
     url = "https://www.googleapis.com/youtube/v3/search"
     params = {
@@ -82,38 +94,36 @@ def youtube_videos_details(video_ids: List[str], api_key: str) -> Dict[str, dict
 
 def is_live_ongoing(video_detail: dict) -> bool:
     lsd = video_detail.get("liveStreamingDetails") or {}
-    # 진행 중 라이브는 actualEndTime이 없음 + actualStartTime만 있는 케이스가 많음
     return ("actualStartTime" in lsd) and ("actualEndTime" not in lsd)
 
 # =========================
-# Transcript
+# Transcript (구버전 호환 포함)
 # =========================
 
 def fetch_transcript_text(video_id: str, prefer_langs=("ko", "en")) -> str:
     """
-    자막이 있으면 가져오고, 없으면 예외를 던진다.
+    자막이 있으면 가져오고, 없으면 예외.
+    설치된 youtube-transcript-api 버전에 따라 list_transcripts/get_transcript를 자동 사용.
     """
-    # 가능한 transcript 목록 조회
-    transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+    # 신버전 경로
+    if hasattr(YouTubeTranscriptApi, "list_transcripts"):
+        transcripts = YouTubeTranscriptApi.list_transcripts(video_id)
+        for lang in prefer_langs:
+            try:
+                t = transcripts.find_transcript([lang])
+                parts = t.fetch()
+                return clean_text(" ".join(p.get("text", "") for p in parts))
+            except Exception:
+                pass
+        raise NoTranscriptFound(video_id)
 
-    # 선호 언어 우선
+    # 구버전 경로
     for lang in prefer_langs:
         try:
-            t = transcripts.find_transcript([lang])
-            parts = t.fetch()
+            parts = YouTubeTranscriptApi.get_transcript(video_id, languages=[lang])
             return clean_text(" ".join(p.get("text", "") for p in parts))
-        except:
+        except Exception:
             pass
-
-    # 자동번역 자막도 시도
-    for lang in prefer_langs:
-        try:
-            t = transcripts.find_transcript([lang])
-            # 위에서 실패하면 여기까지 보통 안 오지만 형태 유지
-        except:
-            pass
-
-    # 아무것도 안 되면 NoTranscriptFound로 처리
     raise NoTranscriptFound(video_id)
 
 # =========================
@@ -139,12 +149,12 @@ def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
     now = datetime.now(timezone.utc)
 
     try:
-        # 🔹 검색은 넉넉하게 48시간
-        search_after = now - timedelta(hours=48)
-        items = youtube_search_latest(channel_id, search_after, api_key, max_results=10)
+        # 검색은 넓게
+        published_after = now - timedelta(hours=SEARCH_HOURS)
+        items = youtube_search_latest(channel_id, published_after, api_key, max_results=10)
 
         if not items:
-            return ChannelResult(channel=name, status="NO_VIDEO", note="최근 48시간 검색 결과 없음")
+            return ChannelResult(channel=name, status="NO_VIDEO", note=f"최근 {SEARCH_HOURS}시간 검색 결과 없음")
 
         video_ids = []
         for it in items:
@@ -157,12 +167,14 @@ def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
         chosen_id = None
         chosen_detail = None
 
+        # 최신순 후보에서:
+        # - 진행 중 라이브 제외
+        # - publishedAt 기준 최근 12시간(RECENT_HOURS)만 채택
         for vid in video_ids:
             d = details.get(vid)
             if not d:
                 continue
 
-            # 진행 중 라이브 제외
             if is_live_ongoing(d):
                 continue
 
@@ -170,7 +182,10 @@ def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
             if not published_at:
                 continue
 
-            pub_dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            pub_dt = parse_published_at(published_at)
+            if not pub_dt:
+                continue
+
             if (now - pub_dt) > timedelta(hours=RECENT_HOURS):
                 continue
 
@@ -182,7 +197,7 @@ def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
             return ChannelResult(
                 channel=name,
                 status="NO_VIDEO",
-                note=f"최근 {RECENT_HOURS}시간 내 종료된 콘텐츠 없음"
+                note=f"최근 {RECENT_HOURS}시간 내 종료된 콘텐츠 없음(진행중 라이브 제외)"
             )
 
         title = chosen_detail.get("snippet", {}).get("title")
@@ -209,12 +224,52 @@ def process_channel(name: str, channel_id: str, api_key: str) -> ChannelResult:
                 title=title,
                 url=url,
                 published_at=published_at,
-                note="자막 없음/비활성화"
+                note="자막 없음/비활성화(Transcript 불가)"
             )
 
     except Exception as e:
-        return ChannelResult(
-            channel=name,
-            status="API_ERROR",
-            note=str(e)[:300]
-        )
+        return ChannelResult(channel=name, status="API_ERROR", note=str(e)[:300])
+
+def main():
+    api_key = os.getenv("YOUTUBE_API_KEY", "").strip()
+    if not api_key:
+        raise RuntimeError("YOUTUBE_API_KEY가 설정되지 않았습니다(GitHub Secrets 확인).")
+
+    run_id = os.getenv("GITHUB_RUN_ID", "LOCAL")
+    run_num = os.getenv("GITHUB_RUN_NUMBER", "0")
+
+    results: List[ChannelResult] = []
+    for name, cid in CHANNELS.items():
+        results.append(process_channel(name, cid, api_key))
+
+    lines: List[str] = []
+    lines.append("[미국 주식 시황 리포트 - 안정형]")
+    lines.append(f"생성 시각: {kst_now_str()}")
+    lines.append(f"Run: {run_num} (id={run_id})")
+    lines.append(f"검색 범위: 최근 {SEARCH_HOURS}시간 / 최종 선택: 최근 {RECENT_HOURS}시간")
+    lines.append("진행중 라이브 제외, 종료된 콘텐츠만 선택")
+    lines.append("")
+    lines.append("■ 채널별 결과")
+
+    for r in results:
+        lines.append(f"- {r.channel}")
+        lines.append(f"  상태: {r.status}")
+        if r.title:
+            lines.append(f"  제목: {r.title}")
+        if r.url:
+            lines.append(f"  URL: {r.url}")
+        if r.published_at:
+            lines.append(f"  게시: {r.published_at}")
+        if r.status == "SUCCESS":
+            lines.append(f"  텍스트화: 성공(문자수 {r.transcript_chars})")
+        if r.note:
+            lines.append(f"  비고: {r.note}")
+        lines.append("")
+
+    with open(REPORT_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines).rstrip() + "\n")
+
+    print("report.txt 생성 완료")
+
+if __name__ == "__main__":
+    main()
