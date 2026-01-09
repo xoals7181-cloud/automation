@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-09 09:49 (KST)
-Run: 21 (id=20837243560)
+생성 시각: 2026-01-09 13:10 (KST)
+Run: 22 (id=20840909816)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,11 +8,14 @@ Run: 21 (id=20837243560)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: NBA Star Jaylen Brown on Entrepreneurial Goals and Player Equity
-  URL: https://www.youtube.com/watch?v=PxmFsyRpbPU
-  publishedAt: 2026-01-09T00:42:59Z
+  제목: Venezuela Is No Template for Taiwan, Eurasia's Wang Says
+  URL: https://www.youtube.com/watch?v=tPZgW9wzHYc
+  publishedAt: 2026-01-09T02:29:42Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - tPZgW9wzHYc | ongoing=False | publishedAt=2026-01-09T02:29:42Z | actualEndTime=None | effective=2026-01-09 02:29:42+00:00 | Venezuela Is No Template for Taiwan, Eurasia's Wang Says
+   - a_5GxfaXRC8 | ongoing=False | publishedAt=2026-01-09T01:12:03Z | actualEndTime=None | effective=2026-01-09 01:12:03+00:00 | House Passes Bill to Extend ACA Tax Credits | Balance of Pow
+   - mdFQNh1hWYo | ongoing=False | publishedAt=2026-01-09T01:01:12Z | actualEndTime=None | effective=2026-01-09 01:01:12+00:00 | Saudi Arabia opens its markets to the world #saudiarabia #sh
    - PxmFsyRpbPU | ongoing=False | publishedAt=2026-01-09T00:42:59Z | actualEndTime=None | effective=2026-01-09 00:42:59+00:00 | NBA Star Jaylen Brown on Entrepreneurial Goals and Player Eq
    - ytWeP7Y5HGo | ongoing=False | publishedAt=2026-01-09T00:00:08Z | actualEndTime=None | effective=2026-01-09 00:00:08+00:00 | Defense Stocks Outperform as Tech Softens Ahead of Tariff Ru
    - XC5ssY4WvqU | ongoing=False | publishedAt=2026-01-08T23:33:22Z | actualEndTime=None | effective=2026-01-08 23:33:22+00:00 | Defense Stocks Rebound as Markets Eye Jobs Report and Tariff
@@ -20,9 +23,6 @@ Run: 21 (id=20837243560)
    - uRhIUh6hjb0 | ongoing=False | publishedAt=2026-01-08T22:01:06Z | actualEndTime=None | effective=2026-01-08 22:01:06+00:00 | Trump Bid to Ban Corporate Homebuying Blindsides Wall Street
    - wLra3LqMkg4 | ongoing=False | publishedAt=2026-01-08T22:00:46Z | actualEndTime=None | effective=2026-01-08 22:00:46+00:00 | Trump Wants to Spend $500 Billion More on Defense
    - lt8v33-N6rk | ongoing=False | publishedAt=2026-01-08T21:49:51Z | actualEndTime=None | effective=2026-01-08 21:49:51+00:00 | Inside the Nighttime Raid to Capture Venezuela's Maduro
-   - NKX8umOIwjg | ongoing=False | publishedAt=2026-01-08T21:18:05Z | actualEndTime=None | effective=2026-01-08 21:18:05+00:00 | Traders Await Payrolls as Rotation Hits Big Tech | Bloomberg
-   - SLQaXlS48OU | ongoing=False | publishedAt=2026-01-08T21:12:38Z | actualEndTime=None | effective=2026-01-08 21:12:38+00:00 | What to Expect From the US Jobs Report
-   - vh_0vdkBvx8 | ongoing=False | publishedAt=2026-01-08T21:02:01Z | actualEndTime=None | effective=2026-01-08 21:02:01+00:00 | Paramount Reaffirms Warner Bros. Offer, Views Cable Channels
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
@@ -51,16 +51,15 @@ Run: 21 (id=20837243560)
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: FAFO를 외치는 트럼프, 근데 말이 너무 많아졌다...? 대법원 관세판결에 쫄...??ㅣ[아침시황&미국마감] #260109
-  URL: https://www.youtube.com/watch?v=Cl9etIbLa7w
-  publishedAt: 2026-01-08T23:04:39Z
-  actualEndTime: 2026-01-09T00:05:59Z
+  제목: 역대최대 '신용잔고', 조심해야 할 것 같습니다
+  URL: https://www.youtube.com/watch?v=c41AjcT1cHE
+  publishedAt: 2026-01-09T03:00:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - c41AjcT1cHE | ongoing=False | publishedAt=2026-01-09T03:00:58Z | actualEndTime=None | effective=2026-01-09 03:00:58+00:00 | 역대최대 '신용잔고', 조심해야 할 것 같습니다
    - Cl9etIbLa7w | ongoing=False | publishedAt=2026-01-08T23:04:39Z | actualEndTime=2026-01-09T00:05:59Z | effective=2026-01-09 00:05:59+00:00 | FAFO를 외치는 트럼프, 근데 말이 너무 많아졌다...? 대법원 관세판결에 쫄...??ㅣ[아침시황&미국마감
    - 3t2cqgC8KP8 | ongoing=False | publishedAt=2026-01-08T09:51:16Z | actualEndTime=2026-01-07T23:56:54Z | effective=2026-01-07 23:56:54+00:00 | 삼성전자 실적 나왔네요! 과연!!ㅣ[아침시황&미국마감] #260108
    - wlpY4tALklA | ongoing=False | publishedAt=2026-01-08T03:01:13Z | actualEndTime=None | effective=2026-01-08 03:01:13+00:00 | 삼성전자, SK하이닉스 지금 사면 위험합니다
-   - crBWG0pcgxQ | ongoing=False | publishedAt=2026-01-07T03:00:48Z | actualEndTime=None | effective=2026-01-07 03:00:48+00:00 | 한국처럼 돈 풀다가 경고먹은 일본
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
