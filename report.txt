@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-10 13:03 (KST)
-Run: 24 (id=20872504509)
+생성 시각: 2026-01-11 13:35 (KST)
+Run: 25 (id=20889543037)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,21 +8,21 @@ Run: 24 (id=20872504509)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Cambodia Deputy PM Pushes to Cool Thai Border Tensions
-  URL: https://www.youtube.com/watch?v=C5F01kskcn8
-  publishedAt: 2026-01-10T02:00:13Z
+  제목: Inside the battle to win the robotaxi race #shorts #robotaxi #zoox
+  URL: https://www.youtube.com/watch?v=Hf2a90ouajE
+  publishedAt: 2026-01-10T18:00:17Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Hf2a90ouajE | ongoing=False | publishedAt=2026-01-10T18:00:17Z | actualEndTime=None | effective=2026-01-10 18:00:17+00:00 | Inside the battle to win the robotaxi race #shorts #robotaxi
+   - f5wMclRcG5Q | ongoing=False | publishedAt=2026-01-10T17:04:45Z | actualEndTime=None | effective=2026-01-10 17:04:45+00:00 | Hershey & Shaquille O'Neal Team Up on New Candy Launch
+   - pMOsU2Xk94w | ongoing=False | publishedAt=2026-01-10T15:01:29Z | actualEndTime=None | effective=2026-01-10 15:01:29+00:00 | Wall Street Week | US-Venezuela Policy, Farming Without Subs
+   - 4NwuUONOAu8 | ongoing=False | publishedAt=2026-01-10T13:00:10Z | actualEndTime=None | effective=2026-01-10 13:00:10+00:00 | Why New Zealand Abolished Farm Subsidies
+   - H3jCogWq98c | ongoing=False | publishedAt=2026-01-10T10:00:26Z | actualEndTime=None | effective=2026-01-10 10:00:26+00:00 | With millions of Americans on GLP-1s...what are they eating?
+   - uNViH4I7te8 | ongoing=False | publishedAt=2026-01-10T08:01:11Z | actualEndTime=None | effective=2026-01-10 08:01:11+00:00 | will.i.am on telling AI-made and organic music apart #AI #mu
+   - hLAbIUe41gY | ongoing=False | publishedAt=2026-01-10T07:00:39Z | actualEndTime=None | effective=2026-01-10 07:00:39+00:00 | will.i.am on AI, Music, Creative 'Renaissance'
+   - BEpFz2Ob6xI | ongoing=False | publishedAt=2026-01-10T05:00:13Z | actualEndTime=None | effective=2026-01-10 05:00:13+00:00 | Why Is Trump Obsessed With Taking Over Greenland?
+   - ehfwLiRvHvY | ongoing=False | publishedAt=2026-01-10T05:00:53Z | actualEndTime=None | effective=2026-01-10 05:00:53+00:00 | Saudi Arabia Moves to Open Its Property Market
    - C5F01kskcn8 | ongoing=False | publishedAt=2026-01-10T02:00:13Z | actualEndTime=None | effective=2026-01-10 02:00:13+00:00 | Cambodia Deputy PM Pushes to Cool Thai Border Tensions
-   - bUbiniLHqd8 | ongoing=False | publishedAt=2026-01-10T00:50:05Z | actualEndTime=None | effective=2026-01-10 00:50:05+00:00 | Trump Meets Energy Execs, Outlines Venezuela Plan | Balance 
-   - tF6n3Q3rRuM | ongoing=False | publishedAt=2026-01-10T00:05:12Z | actualEndTime=2026-01-08T23:21:52Z | effective=2026-01-08 23:21:52+00:00 | LIVE: A Conversation With Jaylen Brown of the Boston Celtics
-   - 5fM09xcuNbw | ongoing=False | publishedAt=2026-01-10T00:01:20Z | actualEndTime=None | effective=2026-01-10 00:01:20+00:00 | Sec. Wright: Oil production in Venezuela likely to grow by s
-   - 7esda7lh-SU | ongoing=False | publishedAt=2026-01-10T00:00:10Z | actualEndTime=None | effective=2026-01-10 00:00:10+00:00 | Oil Access and Power Politics: Inside America’s Venezuela St
-   - 7D8jj0ZofyA | ongoing=False | publishedAt=2026-01-09T23:47:41Z | actualEndTime=None | effective=2026-01-09 23:47:41+00:00 | Stocks Rise as Payroll Growth Slows: Trump Meets Oil Executi
-   - BB6e9Gw3XfY | ongoing=False | publishedAt=2026-01-09T23:42:37Z | actualEndTime=None | effective=2026-01-09 23:42:37+00:00 | Did Competitive Geopolitical Factors Influence US Venezuela 
-   - f-mrZNuSfak | ongoing=False | publishedAt=2026-01-09T23:35:55Z | actualEndTime=None | effective=2026-01-09 23:35:55+00:00 | India’s 7.4% Growth: Strong Signal or Misleading Headline?
-   - opGFpoVT8QY | ongoing=False | publishedAt=2026-01-09T23:09:12Z | actualEndTime=None | effective=2026-01-09 23:09:12+00:00 | One-on-One With Energy Secretary Chris Wright
-   - fg5kjuBS85s | ongoing=False | publishedAt=2026-01-09T23:00:58Z | actualEndTime=None | effective=2026-01-09 23:00:58+00:00 | Why more Americans are moving to Europe
 
 - Meet Kevin
   상태: NO_VIDEO
@@ -30,34 +30,19 @@ Run: 24 (id=20872504509)
   후보(최신 10개) 디버그:
    - joWGUM2_0Tg | ongoing=False | publishedAt=2026-01-09T14:27:57Z | actualEndTime=None | effective=2026-01-09 14:27:57+00:00 | Rug pull | Jobs Data JUST OUT Shocks Fed
    - OK0UVOvyeI4 | ongoing=False | publishedAt=2026-01-09T14:23:54Z | actualEndTime=2026-01-09T14:20:34Z | effective=2026-01-09 14:20:34+00:00 | MASSIVE Jobs Report [Official BLS Data OUT!]
-   - dvy-HhZkMDg | ongoing=False | publishedAt=2026-01-09T00:18:56Z | actualEndTime=None | effective=2026-01-09 00:18:56+00:00 | Trump JUST Announced $200 Billion Dollar Housing BAILOUT
-   - ZOLhEV43ESY | ongoing=False | publishedAt=2026-01-08T20:30:05Z | actualEndTime=None | effective=2026-01-08 20:30:05+00:00 | Supreme Court to FLIP the Economy | ENDING TARIFFS
-   - ukz3sBVSiHI | ongoing=False | publishedAt=2026-01-08T17:13:18Z | actualEndTime=2026-01-08T17:08:53Z | effective=2026-01-08 17:08:53+00:00 | Stocks, Fed, Trump
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 관세 우려 딛고 신고가 랠리… 트럼프 한마디에 인텔·건설주 '폭등'  -  2026/01/09
-  URL: https://www.youtube.com/watch?v=pWIi0_bgkUY
-  publishedAt: 2026-01-09T23:15:03Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - pWIi0_bgkUY | ongoing=False | publishedAt=2026-01-09T23:15:03Z | actualEndTime=None | effective=2026-01-09 23:15:03+00:00 | 【미국 증시 오늘의 요약】 관세 우려 딛고 신고가 랠리… 트럼프 한마디에 인텔·건설주 '폭등'  -  202
    - pbWb5FXVFXc | ongoing=False | publishedAt=2026-01-09T22:21:08Z | actualEndTime=2026-01-09T22:01:44Z | effective=2026-01-09 22:01:44+00:00 | [26년 01월 09일 금] 미 대법원 관세 '적법성' 판결 전망｜ 비농업 취업자수, 실업률 ｜ 메타, 대규
-   - Yi0Ym8GcqSA | ongoing=False | publishedAt=2026-01-08T23:30:26Z | actualEndTime=None | effective=2026-01-08 23:30:26+00:00 | 【미국 증시 오늘의 요약】 웃는 소형주·우는 빅테크... 오늘 밤 고용보고서가 관건   -  2026/01/
-   - YqsOf_8Yx1E | ongoing=False | publishedAt=2026-01-08T22:52:31Z | actualEndTime=2026-01-08T22:29:43Z | effective=2026-01-08 22:29:43+00:00 | [26년 01월 08일 목]  트럼프, 국방 예산 증액 제안｜ 중국, 1분기내 'H200 승인' 예정 ｜ 실
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: [미국주식 LIVE] 똥뿌린 대법원.......... NOT TODAY.............ㅣ#260109
-  URL: https://www.youtube.com/watch?v=auF9C8ikkvY
-  publishedAt: 2026-01-09T23:49:09Z
-  actualEndTime: 2026-01-09T16:17:14Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - auF9C8ikkvY | ongoing=False | publishedAt=2026-01-09T23:49:09Z | actualEndTime=2026-01-09T16:17:14Z | effective=2026-01-09 16:17:14+00:00 | [미국주식 LIVE] 똥뿌린 대법원.......... NOT TODAY.............ㅣ#260109
    - Cl9etIbLa7w | ongoing=False | publishedAt=2026-01-09T21:23:44Z | actualEndTime=2026-01-09T00:05:59Z | effective=2026-01-09 00:05:59+00:00 | FAFO를 외치는 트럼프, 근데 말이 너무 많아졌다...? 대법원 관세판결에 쫄...??ㅣ[아침시황&미국마감
-   - c41AjcT1cHE | ongoing=False | publishedAt=2026-01-09T03:00:58Z | actualEndTime=None | effective=2026-01-09 03:00:58+00:00 | 역대최대 '신용잔고', 조심해야 할 것 같습니다
-   - 3t2cqgC8KP8 | ongoing=False | publishedAt=2026-01-08T09:51:16Z | actualEndTime=2026-01-07T23:56:54Z | effective=2026-01-07 23:56:54+00:00 | 삼성전자 실적 나왔네요! 과연!!ㅣ[아침시황&미국마감] #260108
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
