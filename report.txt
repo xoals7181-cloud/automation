@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-11 13:35 (KST)
-Run: 25 (id=20889543037)
+생성 시각: 2026-01-12 13:38 (KST)
+Run: 26 (id=20908233249)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,41 +8,44 @@ Run: 25 (id=20889543037)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Inside the battle to win the robotaxi race #shorts #robotaxi #zoox
-  URL: https://www.youtube.com/watch?v=Hf2a90ouajE
-  publishedAt: 2026-01-10T18:00:17Z
+  제목: Fed Served With DOJ Subpoenas
+  URL: https://www.youtube.com/watch?v=-QWAw3bPBCQ
+  publishedAt: 2026-01-12T03:52:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -QWAw3bPBCQ | ongoing=False | publishedAt=2026-01-12T03:52:53Z | actualEndTime=None | effective=2026-01-12 03:52:53+00:00 | Fed Served With DOJ Subpoenas
+   - KmTFRg-UgYY | ongoing=False | publishedAt=2026-01-12T03:47:02Z | actualEndTime=None | effective=2026-01-12 03:47:02+00:00 | Fed's Powell Vows to Stand Firm After DOJ Subpoenas | The As
+   - rPTu7i8gKIc | ongoing=False | publishedAt=2026-01-11T18:01:04Z | actualEndTime=None | effective=2026-01-11 18:01:04+00:00 | Why New Zealand abolished farm subsidies #shorts #farming #a
+   - xiVN1h__sNQ | ongoing=False | publishedAt=2026-01-11T16:01:27Z | actualEndTime=None | effective=2026-01-11 16:01:27+00:00 | Navarro on the midterms and taxing the wealthy
+   - S-iMEHVHc00 | ongoing=False | publishedAt=2026-01-11T15:00:51Z | actualEndTime=None | effective=2026-01-11 15:00:51+00:00 | Why Mount Everest Became a Playground for the Ultra-Rich
+   - RuSVVqHuCNo | ongoing=False | publishedAt=2026-01-11T15:00:56Z | actualEndTime=None | effective=2026-01-11 15:00:56+00:00 | How Venezuelan oil is reshaping US foreign policy #shorts #v
+   - n7J6dPuk6Ek | ongoing=False | publishedAt=2026-01-11T13:01:34Z | actualEndTime=None | effective=2026-01-11 13:01:34+00:00 | Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?
+   - 5daRaAFzAjE | ongoing=False | publishedAt=2026-01-11T07:00:10Z | actualEndTime=None | effective=2026-01-11 07:00:10+00:00 | will.i.am: What genre does AI bring to music?
    - Hf2a90ouajE | ongoing=False | publishedAt=2026-01-10T18:00:17Z | actualEndTime=None | effective=2026-01-10 18:00:17+00:00 | Inside the battle to win the robotaxi race #shorts #robotaxi
    - f5wMclRcG5Q | ongoing=False | publishedAt=2026-01-10T17:04:45Z | actualEndTime=None | effective=2026-01-10 17:04:45+00:00 | Hershey & Shaquille O'Neal Team Up on New Candy Launch
-   - pMOsU2Xk94w | ongoing=False | publishedAt=2026-01-10T15:01:29Z | actualEndTime=None | effective=2026-01-10 15:01:29+00:00 | Wall Street Week | US-Venezuela Policy, Farming Without Subs
-   - 4NwuUONOAu8 | ongoing=False | publishedAt=2026-01-10T13:00:10Z | actualEndTime=None | effective=2026-01-10 13:00:10+00:00 | Why New Zealand Abolished Farm Subsidies
-   - H3jCogWq98c | ongoing=False | publishedAt=2026-01-10T10:00:26Z | actualEndTime=None | effective=2026-01-10 10:00:26+00:00 | With millions of Americans on GLP-1s...what are they eating?
-   - uNViH4I7te8 | ongoing=False | publishedAt=2026-01-10T08:01:11Z | actualEndTime=None | effective=2026-01-10 08:01:11+00:00 | will.i.am on telling AI-made and organic music apart #AI #mu
-   - hLAbIUe41gY | ongoing=False | publishedAt=2026-01-10T07:00:39Z | actualEndTime=None | effective=2026-01-10 07:00:39+00:00 | will.i.am on AI, Music, Creative 'Renaissance'
-   - BEpFz2Ob6xI | ongoing=False | publishedAt=2026-01-10T05:00:13Z | actualEndTime=None | effective=2026-01-10 05:00:13+00:00 | Why Is Trump Obsessed With Taking Over Greenland?
-   - ehfwLiRvHvY | ongoing=False | publishedAt=2026-01-10T05:00:53Z | actualEndTime=None | effective=2026-01-10 05:00:53+00:00 | Saudi Arabia Moves to Open Its Property Market
-   - C5F01kskcn8 | ongoing=False | publishedAt=2026-01-10T02:00:13Z | actualEndTime=None | effective=2026-01-10 02:00:13+00:00 | Cambodia Deputy PM Pushes to Cool Thai Border Tensions
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Trump is PREPARING to ARREST Jerome Powell | WTF
+  URL: https://www.youtube.com/watch?v=cenE30VFs5Y
+  publishedAt: 2026-01-12T03:58:15Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - joWGUM2_0Tg | ongoing=False | publishedAt=2026-01-09T14:27:57Z | actualEndTime=None | effective=2026-01-09 14:27:57+00:00 | Rug pull | Jobs Data JUST OUT Shocks Fed
-   - OK0UVOvyeI4 | ongoing=False | publishedAt=2026-01-09T14:23:54Z | actualEndTime=2026-01-09T14:20:34Z | effective=2026-01-09 14:20:34+00:00 | MASSIVE Jobs Report [Official BLS Data OUT!]
+   - cenE30VFs5Y | ongoing=False | publishedAt=2026-01-12T03:58:15Z | actualEndTime=None | effective=2026-01-12 03:58:15+00:00 | Trump is PREPARING to ARREST Jerome Powell | WTF
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - pWIi0_bgkUY | ongoing=False | publishedAt=2026-01-09T23:15:03Z | actualEndTime=None | effective=2026-01-09 23:15:03+00:00 | 【미국 증시 오늘의 요약】 관세 우려 딛고 신고가 랠리… 트럼프 한마디에 인텔·건설주 '폭등'  -  202
-   - pbWb5FXVFXc | ongoing=False | publishedAt=2026-01-09T22:21:08Z | actualEndTime=2026-01-09T22:01:44Z | effective=2026-01-09 22:01:44+00:00 | [26년 01월 09일 금] 미 대법원 관세 '적법성' 판결 전망｜ 비농업 취업자수, 실업률 ｜ 메타, 대규
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 엔비디아만 미움받는 이유는?? 그래서 올라요? 못올라요? 팔아요?? 더사요??
+  URL: https://www.youtube.com/watch?v=Yx79CenpojM
+  publishedAt: 2026-01-12T03:00:46Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Cl9etIbLa7w | ongoing=False | publishedAt=2026-01-09T21:23:44Z | actualEndTime=2026-01-09T00:05:59Z | effective=2026-01-09 00:05:59+00:00 | FAFO를 외치는 트럼프, 근데 말이 너무 많아졌다...? 대법원 관세판결에 쫄...??ㅣ[아침시황&미국마감
+   - Yx79CenpojM | ongoing=False | publishedAt=2026-01-12T03:00:46Z | actualEndTime=None | effective=2026-01-12 03:00:46+00:00 | 엔비디아만 미움받는 이유는?? 그래서 올라요? 못올라요? 팔아요?? 더사요??
+   - rqfGNTDCWHE | ongoing=False | publishedAt=2026-01-12T01:01:35Z | actualEndTime=2026-01-11T23:57:29Z | effective=2026-01-11 23:57:29+00:00 | 반도체 가즈아!!!!!!!!!!!!!!!!ㅣ[아침시황&미국마감] #260112
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
