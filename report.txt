@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-12 13:38 (KST)
-Run: 26 (id=20908233249)
+생성 시각: 2026-01-13 13:11 (KST)
+Run: 27 (id=20944378202)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,49 +8,63 @@ Run: 26 (id=20908233249)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Fed Served With DOJ Subpoenas
-  URL: https://www.youtube.com/watch?v=-QWAw3bPBCQ
-  publishedAt: 2026-01-12T03:52:53Z
+  제목: Powell Probe Sparks Republican Outcry | The Asia Trade 1/13/2026
+  URL: https://www.youtube.com/watch?v=IFzx2-HHfqc
+  publishedAt: 2026-01-13T04:07:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - -QWAw3bPBCQ | ongoing=False | publishedAt=2026-01-12T03:52:53Z | actualEndTime=None | effective=2026-01-12 03:52:53+00:00 | Fed Served With DOJ Subpoenas
-   - KmTFRg-UgYY | ongoing=False | publishedAt=2026-01-12T03:47:02Z | actualEndTime=None | effective=2026-01-12 03:47:02+00:00 | Fed's Powell Vows to Stand Firm After DOJ Subpoenas | The As
-   - rPTu7i8gKIc | ongoing=False | publishedAt=2026-01-11T18:01:04Z | actualEndTime=None | effective=2026-01-11 18:01:04+00:00 | Why New Zealand abolished farm subsidies #shorts #farming #a
-   - xiVN1h__sNQ | ongoing=False | publishedAt=2026-01-11T16:01:27Z | actualEndTime=None | effective=2026-01-11 16:01:27+00:00 | Navarro on the midterms and taxing the wealthy
-   - S-iMEHVHc00 | ongoing=False | publishedAt=2026-01-11T15:00:51Z | actualEndTime=None | effective=2026-01-11 15:00:51+00:00 | Why Mount Everest Became a Playground for the Ultra-Rich
-   - RuSVVqHuCNo | ongoing=False | publishedAt=2026-01-11T15:00:56Z | actualEndTime=None | effective=2026-01-11 15:00:56+00:00 | How Venezuelan oil is reshaping US foreign policy #shorts #v
-   - n7J6dPuk6Ek | ongoing=False | publishedAt=2026-01-11T13:01:34Z | actualEndTime=None | effective=2026-01-11 13:01:34+00:00 | Waymo, Zoox, Tesla: Who Wins the Robotaxi Race?
-   - 5daRaAFzAjE | ongoing=False | publishedAt=2026-01-11T07:00:10Z | actualEndTime=None | effective=2026-01-11 07:00:10+00:00 | will.i.am: What genre does AI bring to music?
-   - Hf2a90ouajE | ongoing=False | publishedAt=2026-01-10T18:00:17Z | actualEndTime=None | effective=2026-01-10 18:00:17+00:00 | Inside the battle to win the robotaxi race #shorts #robotaxi
-   - f5wMclRcG5Q | ongoing=False | publishedAt=2026-01-10T17:04:45Z | actualEndTime=None | effective=2026-01-10 17:04:45+00:00 | Hershey & Shaquille O'Neal Team Up on New Candy Launch
+   - IFzx2-HHfqc | ongoing=False | publishedAt=2026-01-13T04:07:11Z | actualEndTime=None | effective=2026-01-13 04:07:11+00:00 | Powell Probe Sparks Republican Outcry | The Asia Trade 1/13/
+   - _f1ghc29AkQ | ongoing=False | publishedAt=2026-01-13T01:02:37Z | actualEndTime=None | effective=2026-01-13 01:02:37+00:00 | The Fight for Fed Independence, Trump's Phone Call With Sen.
+   - 57Lmj6zm0MQ | ongoing=False | publishedAt=2026-01-13T00:09:12Z | actualEndTime=None | effective=2026-01-13 00:09:12+00:00 | Stocks Rise as Credit Card Shares Slip on Trump Rate Cap Tal
+   - Ol2QLQ_EeJI | ongoing=False | publishedAt=2026-01-12T23:31:47Z | actualEndTime=None | effective=2026-01-12 23:31:47+00:00 | Warren says call with Trump discussed ways to lower costs #s
+   - jPdpyvpNXo0 | ongoing=False | publishedAt=2026-01-12T22:56:21Z | actualEndTime=None | effective=2026-01-12 22:56:21+00:00 | S&P 500 Hits Record as Gold and Silver Extend Rally | Closin
+   - zBAymwA_AiA | ongoing=False | publishedAt=2026-01-12T22:32:22Z | actualEndTime=None | effective=2026-01-12 22:32:22+00:00 | What the DOJ Subpoenas Mean for the Fed
+   - woiYrcMhmXU | ongoing=False | publishedAt=2026-01-12T22:31:28Z | actualEndTime=None | effective=2026-01-12 22:31:28+00:00 | Mamdani Joins NYC Nurses on Hospital Walkout Picket Line
+   - Ct6dtu2V-xU | ongoing=False | publishedAt=2026-01-12T21:50:14Z | actualEndTime=None | effective=2026-01-12 21:50:14+00:00 | Wall Street Jolted By Trump-Fed Fight | Bloomberg Businesswe
+   - IwJLZKkT92Q | ongoing=False | publishedAt=2026-01-12T21:42:27Z | actualEndTime=None | effective=2026-01-12 21:42:27+00:00 | Musk Moves Back Into Trump Orbit
+   - m-XwyNz0ANU | ongoing=False | publishedAt=2026-01-12T20:09:34Z | actualEndTime=None | effective=2026-01-12 20:09:34+00:00 | Powell Probe Sparks GOP Backlash | Balance of Power: Early E
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Trump is PREPARING to ARREST Jerome Powell | WTF
-  URL: https://www.youtube.com/watch?v=cenE30VFs5Y
-  publishedAt: 2026-01-12T03:58:15Z
+  제목: The Trump TACO, Rate Hikes, and Fed DRAMA
+  URL: https://www.youtube.com/watch?v=VZpgYf1GDXM
+  publishedAt: 2026-01-12T16:17:41Z
+  actualEndTime: 2026-01-12T16:13:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - VZpgYf1GDXM | ongoing=False | publishedAt=2026-01-12T16:17:41Z | actualEndTime=2026-01-12T16:13:47Z | effective=2026-01-12 16:13:47+00:00 | The Trump TACO, Rate Hikes, and Fed DRAMA
    - cenE30VFs5Y | ongoing=False | publishedAt=2026-01-12T03:58:15Z | actualEndTime=None | effective=2026-01-12 03:58:15+00:00 | Trump is PREPARING to ARREST Jerome Powell | WTF
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 파월 수사에도 증시는 신고가… 트럼프 ‘카드금리 10%’ 금융주 직격탄  -  2026/01/12
+  URL: https://www.youtube.com/watch?v=SDZ-6R6G9X8
+  publishedAt: 2026-01-12T23:15:04Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - SDZ-6R6G9X8 | ongoing=False | publishedAt=2026-01-12T23:15:04Z | actualEndTime=None | effective=2026-01-12 23:15:04+00:00 | 【미국 증시 오늘의 요약】 파월 수사에도 증시는 신고가… 트럼프 ‘카드금리 10%’ 금융주 직격탄  -  2
+   - nGPh5znS8Yk | ongoing=False | publishedAt=2026-01-12T22:36:27Z | actualEndTime=2026-01-12T22:15:43Z | effective=2026-01-12 22:15:43+00:00 | [26년 01월 12일 월] 미 법무부, 연준 파월 의장에 소환장 발부｜ 트럼프, 신용카드 금리 10% 상한
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 엔비디아만 미움받는 이유는?? 그래서 올라요? 못올라요? 팔아요?? 더사요??
-  URL: https://www.youtube.com/watch?v=Yx79CenpojM
-  publishedAt: 2026-01-12T03:00:46Z
+  제목: 미국 vs 한국 vs 중국 vs 일본 vs 대만 , 大환율 전쟁의 시대... ㄷㄷㄷㄷ
+  URL: https://www.youtube.com/watch?v=UZkzLzQCCc0
+  publishedAt: 2026-01-13T03:00:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UZkzLzQCCc0 | ongoing=False | publishedAt=2026-01-13T03:00:41Z | actualEndTime=None | effective=2026-01-13 03:00:41+00:00 | 미국 vs 한국 vs 중국 vs 일본 vs 대만 , 大환율 전쟁의 시대... ㄷㄷㄷㄷ
+   - y7bzaO0GXZs | ongoing=False | publishedAt=2026-01-13T00:00:18Z | actualEndTime=2026-01-12T23:56:20Z | effective=2026-01-12 23:56:20+00:00 | 진짜 빡친 파월, 바로 꼬리 내린 트럼프ㅣ대세는 OpenAI(GPT) 손절...?ㅣ[아침시황&미국마감] #2
    - Yx79CenpojM | ongoing=False | publishedAt=2026-01-12T03:00:46Z | actualEndTime=None | effective=2026-01-12 03:00:46+00:00 | 엔비디아만 미움받는 이유는?? 그래서 올라요? 못올라요? 팔아요?? 더사요??
    - rqfGNTDCWHE | ongoing=False | publishedAt=2026-01-12T01:01:35Z | actualEndTime=2026-01-11T23:57:29Z | effective=2026-01-11 23:57:29+00:00 | 반도체 가즈아!!!!!!!!!!!!!!!!ㅣ[아침시황&미국마감] #260112
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - OQN0RQoqm0I | ongoing=False | publishedAt=2026-01-12T05:49:42Z | actualEndTime=None | effective=2026-01-12 05:49:42+00:00 | 파월 감옥간다고?? 증시는 어떻게 되나?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - uImxnpLaKtg | ongoing=False | publishedAt=2026-01-12T10:28:39Z | actualEndTime=None | effective=2026-01-12 10:28:39+00:00 | 트럼프 다음 타겟은 어디? 동시다발적 공격에 증시 혼란 찾아올까
