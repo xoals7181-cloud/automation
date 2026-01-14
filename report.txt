@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-13 13:11 (KST)
-Run: 27 (id=20944378202)
+생성 시각: 2026-01-14 13:35 (KST)
+Run: 28 (id=20982506154)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,63 +8,67 @@ Run: 27 (id=20944378202)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Powell Probe Sparks Republican Outcry | The Asia Trade 1/13/2026
-  URL: https://www.youtube.com/watch?v=IFzx2-HHfqc
-  publishedAt: 2026-01-13T04:07:11Z
+  제목: 'Takaichi Trade' Roars Back on Snap Election Bets | The Asia Trade 1/13/2026
+  URL: https://www.youtube.com/watch?v=7V5Zat2KCx4
+  publishedAt: 2026-01-14T04:01:02Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - IFzx2-HHfqc | ongoing=False | publishedAt=2026-01-13T04:07:11Z | actualEndTime=None | effective=2026-01-13 04:07:11+00:00 | Powell Probe Sparks Republican Outcry | The Asia Trade 1/13/
-   - _f1ghc29AkQ | ongoing=False | publishedAt=2026-01-13T01:02:37Z | actualEndTime=None | effective=2026-01-13 01:02:37+00:00 | The Fight for Fed Independence, Trump's Phone Call With Sen.
-   - 57Lmj6zm0MQ | ongoing=False | publishedAt=2026-01-13T00:09:12Z | actualEndTime=None | effective=2026-01-13 00:09:12+00:00 | Stocks Rise as Credit Card Shares Slip on Trump Rate Cap Tal
-   - Ol2QLQ_EeJI | ongoing=False | publishedAt=2026-01-12T23:31:47Z | actualEndTime=None | effective=2026-01-12 23:31:47+00:00 | Warren says call with Trump discussed ways to lower costs #s
-   - jPdpyvpNXo0 | ongoing=False | publishedAt=2026-01-12T22:56:21Z | actualEndTime=None | effective=2026-01-12 22:56:21+00:00 | S&P 500 Hits Record as Gold and Silver Extend Rally | Closin
-   - zBAymwA_AiA | ongoing=False | publishedAt=2026-01-12T22:32:22Z | actualEndTime=None | effective=2026-01-12 22:32:22+00:00 | What the DOJ Subpoenas Mean for the Fed
-   - woiYrcMhmXU | ongoing=False | publishedAt=2026-01-12T22:31:28Z | actualEndTime=None | effective=2026-01-12 22:31:28+00:00 | Mamdani Joins NYC Nurses on Hospital Walkout Picket Line
-   - Ct6dtu2V-xU | ongoing=False | publishedAt=2026-01-12T21:50:14Z | actualEndTime=None | effective=2026-01-12 21:50:14+00:00 | Wall Street Jolted By Trump-Fed Fight | Bloomberg Businesswe
-   - IwJLZKkT92Q | ongoing=False | publishedAt=2026-01-12T21:42:27Z | actualEndTime=None | effective=2026-01-12 21:42:27+00:00 | Musk Moves Back Into Trump Orbit
-   - m-XwyNz0ANU | ongoing=False | publishedAt=2026-01-12T20:09:34Z | actualEndTime=None | effective=2026-01-12 20:09:34+00:00 | Powell Probe Sparks GOP Backlash | Balance of Power: Early E
+   - 7V5Zat2KCx4 | ongoing=False | publishedAt=2026-01-14T04:01:02Z | actualEndTime=None | effective=2026-01-14 04:01:02+00:00 | 'Takaichi Trade' Roars Back on Snap Election Bets | The Asia
+   - 1MWXWib9fj4 | ongoing=False | publishedAt=2026-01-14T01:03:49Z | actualEndTime=None | effective=2026-01-14 01:03:49+00:00 | Trump States Help is On Its Way to Iranian Protesters | Bala
+   - FFfZrHqk-bM | ongoing=False | publishedAt=2026-01-13T23:43:26Z | actualEndTime=None | effective=2026-01-13 23:43:26+00:00 | Stocks Slide on CPI, Traders Boost June Fed Rate-Cut Odds | 
+   - n12NQo3l4pU | ongoing=False | publishedAt=2026-01-13T23:16:33Z | actualEndTime=None | effective=2026-01-13 23:16:33+00:00 | What to Make of Iran Protests and Potential US Involvement?
+   - Tidh0n6xLng | ongoing=False | publishedAt=2026-01-13T23:03:10Z | actualEndTime=None | effective=2026-01-13 23:03:10+00:00 | Does Sen. Coons See Trump Helping Iranian Protesters?
+   - 71bdM9dVOao | ongoing=False | publishedAt=2026-01-13T22:17:05Z | actualEndTime=None | effective=2026-01-13 22:17:05+00:00 | UBS’ Fang on China Markets, Investment Strategy
+   - 71aBDOFaOt0 | ongoing=False | publishedAt=2026-01-13T22:00:14Z | actualEndTime=None | effective=2026-01-13 22:00:14+00:00 | A CEO’s Guide to Trump’s White House
+   - gtQ5RE1_VOM | ongoing=False | publishedAt=2026-01-13T21:32:03Z | actualEndTime=None | effective=2026-01-13 21:32:03+00:00 | Netflix May Amend Warner Bros. Bid to Make It All Cash
+   - XhVqX1jG07o | ongoing=False | publishedAt=2026-01-13T21:07:07Z | actualEndTime=None | effective=2026-01-13 21:07:07+00:00 | CPI Data Fails to Alter Rate Cut Bets Amid DOJ-Powell Spat |
+   - Lwg_X80Nw84 | ongoing=False | publishedAt=2026-01-13T21:01:26Z | actualEndTime=None | effective=2026-01-13 21:01:26+00:00 | Meta Should Get Out of Metaverse, Says Laffer Tengler CEO
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Trump TACO, Rate Hikes, and Fed DRAMA
-  URL: https://www.youtube.com/watch?v=VZpgYf1GDXM
-  publishedAt: 2026-01-12T16:17:41Z
-  actualEndTime: 2026-01-12T16:13:47Z
+  제목: HOLY MOLY: Trump's 2026 Stimulus for Everyone Plan | HUGE!!!
+  URL: https://www.youtube.com/watch?v=9-6EdI8DHuE
+  publishedAt: 2026-01-13T18:08:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 9-6EdI8DHuE | ongoing=False | publishedAt=2026-01-13T18:08:52Z | actualEndTime=None | effective=2026-01-13 18:08:52+00:00 | HOLY MOLY: Trump's 2026 Stimulus for Everyone Plan | HUGE!!!
+   - r40RSP2Hq40 | ongoing=False | publishedAt=2026-01-13T18:00:09Z | actualEndTime=2026-01-13T17:52:18Z | effective=2026-01-13 17:52:18+00:00 | Stock Drama, Trump, Fed | Bank Earnings Drop
    - VZpgYf1GDXM | ongoing=False | publishedAt=2026-01-12T16:17:41Z | actualEndTime=2026-01-12T16:13:47Z | effective=2026-01-12 16:13:47+00:00 | The Trump TACO, Rate Hikes, and Fed DRAMA
-   - cenE30VFs5Y | ongoing=False | publishedAt=2026-01-12T03:58:15Z | actualEndTime=None | effective=2026-01-12 03:58:15+00:00 | Trump is PREPARING to ARREST Jerome Powell | WTF
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 파월 수사에도 증시는 신고가… 트럼프 ‘카드금리 10%’ 금융주 직격탄  -  2026/01/12
-  URL: https://www.youtube.com/watch?v=SDZ-6R6G9X8
-  publishedAt: 2026-01-12T23:15:04Z
+  제목: 【미국 증시 오늘의 요약】 근원 CPI 4년 최저에도 증시는 왜 흔들렸나?  -  2026/01/13
+  URL: https://www.youtube.com/watch?v=vCQzKumDIJI
+  publishedAt: 2026-01-13T23:06:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - vCQzKumDIJI | ongoing=False | publishedAt=2026-01-13T23:06:00Z | actualEndTime=None | effective=2026-01-13 23:06:00+00:00 | 【미국 증시 오늘의 요약】 근원 CPI 4년 최저에도 증시는 왜 흔들렸나?  -  2026/01/13
+   - YKT8LXosqdI | ongoing=False | publishedAt=2026-01-13T22:45:28Z | actualEndTime=2026-01-13T22:22:48Z | effective=2026-01-13 22:22:48+00:00 | [26년 01월 13일 화]  소비자물가지수(CPI) ｜ 트럼프, 이란과 거래하는 국가 25% 관세 ｜ 미 
    - SDZ-6R6G9X8 | ongoing=False | publishedAt=2026-01-12T23:15:04Z | actualEndTime=None | effective=2026-01-12 23:15:04+00:00 | 【미국 증시 오늘의 요약】 파월 수사에도 증시는 신고가… 트럼프 ‘카드금리 10%’ 금융주 직격탄  -  2
    - nGPh5znS8Yk | ongoing=False | publishedAt=2026-01-12T22:36:27Z | actualEndTime=2026-01-12T22:15:43Z | effective=2026-01-12 22:15:43+00:00 | [26년 01월 12일 월] 미 법무부, 연준 파월 의장에 소환장 발부｜ 트럼프, 신용카드 금리 10% 상한
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 미국 vs 한국 vs 중국 vs 일본 vs 대만 , 大환율 전쟁의 시대... ㄷㄷㄷㄷ
-  URL: https://www.youtube.com/watch?v=UZkzLzQCCc0
-  publishedAt: 2026-01-13T03:00:41Z
+  제목: IPO 준비중인 OpenAI, 그런데 '샘 알트먼'이 안보인다...??
+  URL: https://www.youtube.com/watch?v=VLlDIz4PfSg
+  publishedAt: 2026-01-14T03:00:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - VLlDIz4PfSg | ongoing=False | publishedAt=2026-01-14T03:00:41Z | actualEndTime=None | effective=2026-01-14 03:00:41+00:00 | IPO 준비중인 OpenAI, 그런데 '샘 알트먼'이 안보인다...??
+   - 0tDn_6gkuEI | ongoing=False | publishedAt=2026-01-14T00:07:46Z | actualEndTime=2026-01-14T00:02:47Z | effective=2026-01-14 00:02:47+00:00 | 금/은 또 규제 떴다!!ㅣ인플레 진짜 없다? 근데 금리인하도 없다??ㅣ이제는 '전력 숏티지'!! ㅣ[아침시황
    - UZkzLzQCCc0 | ongoing=False | publishedAt=2026-01-13T03:00:41Z | actualEndTime=None | effective=2026-01-13 03:00:41+00:00 | 미국 vs 한국 vs 중국 vs 일본 vs 대만 , 大환율 전쟁의 시대... ㄷㄷㄷㄷ
    - y7bzaO0GXZs | ongoing=False | publishedAt=2026-01-13T00:00:18Z | actualEndTime=2026-01-12T23:56:20Z | effective=2026-01-12 23:56:20+00:00 | 진짜 빡친 파월, 바로 꼬리 내린 트럼프ㅣ대세는 OpenAI(GPT) 손절...?ㅣ[아침시황&미국마감] #2
-   - Yx79CenpojM | ongoing=False | publishedAt=2026-01-12T03:00:46Z | actualEndTime=None | effective=2026-01-12 03:00:46+00:00 | 엔비디아만 미움받는 이유는?? 그래서 올라요? 못올라요? 팔아요?? 더사요??
-   - rqfGNTDCWHE | ongoing=False | publishedAt=2026-01-12T01:01:35Z | actualEndTime=2026-01-11T23:57:29Z | effective=2026-01-11 23:57:29+00:00 | 반도체 가즈아!!!!!!!!!!!!!!!!ㅣ[아침시황&미국마감] #260112
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - oqWerg9Ktus | ongoing=False | publishedAt=2026-01-13T05:49:52Z | actualEndTime=None | effective=2026-01-13 05:49:52+00:00 | 딥시크가 사고쳤다? 2026년 상반기 주식시장 답안지 나왔네요.
    - OQN0RQoqm0I | ongoing=False | publishedAt=2026-01-12T05:49:42Z | actualEndTime=None | effective=2026-01-12 05:49:42+00:00 | 파월 감옥간다고?? 증시는 어떻게 되나?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - j-7OSyZ-kpI | ongoing=False | publishedAt=2026-01-13T11:01:30Z | actualEndTime=None | effective=2026-01-13 11:01:30+00:00 | 챗GPT 가고 피지컬AI 시대 온다, 젠슨황이 찍어준 2026 주목할 분야와 주식들
    - uImxnpLaKtg | ongoing=False | publishedAt=2026-01-12T10:28:39Z | actualEndTime=None | effective=2026-01-12 10:28:39+00:00 | 트럼프 다음 타겟은 어디? 동시다발적 공격에 증시 혼란 찾아올까
