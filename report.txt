@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-15 13:13 (KST)
-Run: 29 (id=21019483035)
+생성 시각: 2026-01-16 13:10 (KST)
+Run: 30 (id=21055321269)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,72 +8,72 @@ Run: 29 (id=21019483035)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How Trump could hurt #China and #India by punishing #Iran #politics
-  URL: https://www.youtube.com/watch?v=CY388rAkr14
-  publishedAt: 2026-01-15T03:00:20Z
+  제목: How to make money from the booming demand for energy
+  URL: https://www.youtube.com/watch?v=vNzVImFR18o
+  publishedAt: 2026-01-16T02:01:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - CY388rAkr14 | ongoing=False | publishedAt=2026-01-15T03:00:20Z | actualEndTime=None | effective=2026-01-15 03:00:20+00:00 | How Trump could hurt #China and #India by punishing #Iran #p
-   - YxE6sFQvxhU | ongoing=False | publishedAt=2026-01-15T02:28:09Z | actualEndTime=None | effective=2026-01-15 02:28:09+00:00 | Stephen Ross Says Offers for Miami Dolphins Are Close to $15
-   - g2uGoEWJScs | ongoing=False | publishedAt=2026-01-15T02:06:17Z | actualEndTime=None | effective=2026-01-15 02:06:17+00:00 | An Ozempic Price War Is Coming
-   - hiffBxb_-Ks | ongoing=False | publishedAt=2026-01-15T01:19:56Z | actualEndTime=None | effective=2026-01-15 01:19:56+00:00 | Trump Says Killings & Executions in Iran Have Stopped | Bala
-   - r9GyOcmBZzI | ongoing=False | publishedAt=2026-01-15T00:22:02Z | actualEndTime=None | effective=2026-01-15 00:22:02+00:00 | Stocks Slide as Tech Slips, Banks Report Strong Lending | Th
-   - 5tmN544A0CA | ongoing=False | publishedAt=2026-01-15T00:04:30Z | actualEndTime=None | effective=2026-01-15 00:04:30+00:00 | Sen. Thom Tillis on Iran, Greenland, Trump & Powell
-   - I6KTbuUbnek | ongoing=False | publishedAt=2026-01-15T00:05:16Z | actualEndTime=None | effective=2026-01-15 00:05:16+00:00 | Is This The Most Dangerous Moment in Geopolitics For Trump?
-   - ycxQ1IjKaHw | ongoing=False | publishedAt=2026-01-14T23:56:24Z | actualEndTime=None | effective=2026-01-14 23:56:24+00:00 | Tillis: I see no path for Trump’s Greenland aspiration #shor
-   - F7HxTSic0OY | ongoing=False | publishedAt=2026-01-14T23:03:07Z | actualEndTime=None | effective=2026-01-14 23:03:07+00:00 | US Will Halt Immigrant Visas for 75 Countries
-   - g7ucfAbGxyA | ongoing=False | publishedAt=2026-01-14T22:56:26Z | actualEndTime=None | effective=2026-01-14 22:56:26+00:00 | Stephen Ross on Palm Beach Development, Dolphins Offers
+   - vNzVImFR18o | ongoing=False | publishedAt=2026-01-16T02:01:05Z | actualEndTime=None | effective=2026-01-16 02:01:05+00:00 | How to make money from the booming demand for energy
+   - harXaPIrss8 | ongoing=False | publishedAt=2026-01-16T00:57:47Z | actualEndTime=None | effective=2026-01-16 00:57:47+00:00 | US, Taiwan Make Deal to Cut Tariffs, Boost Chip Investment |
+   - caklP-RHue0 | ongoing=False | publishedAt=2026-01-16T00:03:39Z | actualEndTime=None | effective=2026-01-16 00:03:39+00:00 | US, Taiwan clinch deal to cut tariffs, boost chip investment
+   - uwuRlLQsBAs | ongoing=False | publishedAt=2026-01-15T23:47:58Z | actualEndTime=None | effective=2026-01-15 23:47:58+00:00 | Tech Lifts Stocks as Small Caps Rally Anew | The Close 1/15/
+   - ZcXyx28z6ks | ongoing=False | publishedAt=2026-01-15T22:40:53Z | actualEndTime=None | effective=2026-01-15 22:40:53+00:00 | Dimon says “absolutely, positively no chance” on Fed chair j
+   - WQRSe_-nrYc | ongoing=False | publishedAt=2026-01-15T22:24:41Z | actualEndTime=None | effective=2026-01-15 22:24:41+00:00 | JPMorgan's Dimon on Being Fed Chair: 'Absolutely, Positively
+   - xIVRrIgRPiw | ongoing=False | publishedAt=2026-01-15T22:23:05Z | actualEndTime=None | effective=2026-01-15 22:23:05+00:00 | Jamie Dimon Says He Supports Fed Independence
+   - bh1xTIn2fyg | ongoing=False | publishedAt=2026-01-15T22:17:41Z | actualEndTime=None | effective=2026-01-15 22:17:41+00:00 | Trump says the executions have stopped in Iran 🇮🇷 #politics
+   - Mkh-Z_04Gxs | ongoing=False | publishedAt=2026-01-15T22:14:44Z | actualEndTime=None | effective=2026-01-15 22:14:44+00:00 | Graphic images: Minneapolis tensions escalate after man is s
+   - YHLfeZud8yU | ongoing=False | publishedAt=2026-01-15T21:44:49Z | actualEndTime=None | effective=2026-01-15 21:44:49+00:00 | US, Taiwan Clinch Deal to Cut Tariffs, Boost Chip Investment
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Iran is about to Get f**ked
-  URL: https://www.youtube.com/watch?v=8fof5rtNoAc
-  publishedAt: 2026-01-14T20:55:27Z
+  제목: Very Bullish Catalyst.
+  URL: https://www.youtube.com/watch?v=NFFMAJnvop8
+  publishedAt: 2026-01-15T19:48:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - NFFMAJnvop8 | ongoing=False | publishedAt=2026-01-15T19:48:29Z | actualEndTime=None | effective=2026-01-15 19:48:29+00:00 | Very Bullish Catalyst.
+   - TBDkI3l7rmM | ongoing=False | publishedAt=2026-01-15T16:28:13Z | actualEndTime=2026-01-15T16:24:37Z | effective=2026-01-15 16:24:37+00:00 | Trump Dials Back Iran Threats, Stocks REBOUND, Cautious
    - 8fof5rtNoAc | ongoing=False | publishedAt=2026-01-14T20:55:27Z | actualEndTime=None | effective=2026-01-14 20:55:27+00:00 | Iran is about to Get f**ked
    - YbpUQsE8L8s | ongoing=False | publishedAt=2026-01-14T16:57:50Z | actualEndTime=2026-01-14T16:53:04Z | effective=2026-01-14 16:53:04+00:00 | Trump, No Tariff Ruling, Stocks Fall, and Powell TACO Drama
-   - 9-6EdI8DHuE | ongoing=False | publishedAt=2026-01-13T18:08:52Z | actualEndTime=None | effective=2026-01-13 18:08:52+00:00 | HOLY MOLY: Trump's 2026 Stimulus for Everyone Plan | HUGE!!!
-   - r40RSP2Hq40 | ongoing=False | publishedAt=2026-01-13T18:00:09Z | actualEndTime=2026-01-13T17:52:18Z | effective=2026-01-13 17:52:18+00:00 | Stock Drama, Trump, Fed | Bank Earnings Drop
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 지수는 내렸는데 상승 종목이 더 많다? 가속화된 섹터 로테이션  -  2026/01/14
-  URL: https://www.youtube.com/watch?v=yQG-6CJxBVM
-  publishedAt: 2026-01-14T23:20:00Z
+  제목: 【미국 증시 오늘의 요약】 TSMC 호실적에 반등 성공… 반도체↑·소프트웨어↓ 왜?  -  2026/01/15
+  URL: https://www.youtube.com/watch?v=cwfADu2ezsA
+  publishedAt: 2026-01-15T23:41:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - cwfADu2ezsA | ongoing=False | publishedAt=2026-01-15T23:41:01Z | actualEndTime=None | effective=2026-01-15 23:41:01+00:00 | 【미국 증시 오늘의 요약】 TSMC 호실적에 반등 성공… 반도체↑·소프트웨어↓ 왜?  -  2026/01/1
+   - 0pHqzXA7_yo | ongoing=False | publishedAt=2026-01-15T23:10:25Z | actualEndTime=2026-01-15T22:46:27Z | effective=2026-01-15 22:46:27+00:00 | [26년 01월 15일 목]  TSMC 어닝 서프라이즈!?! ｜ 트럼프, '파월 해임 계획 없어' ｜ 미국·
    - yQG-6CJxBVM | ongoing=False | publishedAt=2026-01-14T23:20:00Z | actualEndTime=None | effective=2026-01-14 23:20:00+00:00 | 【미국 증시 오늘의 요약】 지수는 내렸는데 상승 종목이 더 많다? 가속화된 섹터 로테이션  -  2026/0
    - Pms52dxpMKE | ongoing=False | publishedAt=2026-01-14T22:51:21Z | actualEndTime=2026-01-14T22:26:45Z | effective=2026-01-14 22:26:45+00:00 | [26년 01월 14일 수] 생산자물가지수, 소매판매｜ 미국·그린란드·덴마크 3자 회담 ｜ 미 대법원, 관세
-   - vCQzKumDIJI | ongoing=False | publishedAt=2026-01-13T23:06:00Z | actualEndTime=None | effective=2026-01-13 23:06:00+00:00 | 【미국 증시 오늘의 요약】 근원 CPI 4년 최저에도 증시는 왜 흔들렸나?  -  2026/01/13
-   - YKT8LXosqdI | ongoing=False | publishedAt=2026-01-13T22:45:28Z | actualEndTime=2026-01-13T22:22:48Z | effective=2026-01-13 22:22:48+00:00 | [26년 01월 13일 화]  소비자물가지수(CPI) ｜ 트럼프, 이란과 거래하는 국가 25% 관세 ｜ 미 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 테슬라, FSD 100% 구독제 전환! 호재인가, 악재인가?
-  URL: https://www.youtube.com/watch?v=-QrEhxO7P7g
-  publishedAt: 2026-01-15T03:06:12Z
+  제목: TSMC 실적에서 가장 중요한 것
+  URL: https://www.youtube.com/watch?v=wbLfO5B6lUM
+  publishedAt: 2026-01-16T03:01:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - wbLfO5B6lUM | ongoing=False | publishedAt=2026-01-16T03:01:13Z | actualEndTime=None | effective=2026-01-16 03:01:13+00:00 | TSMC 실적에서 가장 중요한 것
+   - xy8LIM_zHpE | ongoing=False | publishedAt=2026-01-16T00:21:44Z | actualEndTime=2026-01-16T00:13:28Z | effective=2026-01-16 00:13:28+00:00 | 실적이 이끄는 미국증시! TSMC 2029년까지 50%씩 성장한다!!ㅣ스테이블코인법, 무기한 중단 선언ㅣTr
    - -QrEhxO7P7g | ongoing=False | publishedAt=2026-01-15T03:06:12Z | actualEndTime=None | effective=2026-01-15 03:06:12+00:00 | 테슬라, FSD 100% 구독제 전환! 호재인가, 악재인가?
    - t1PmZfQ2VFw | ongoing=False | publishedAt=2026-01-15T03:01:11Z | actualEndTime=None | effective=2026-01-15 03:01:11+00:00 | 단 한 종목만 사야한다면? 저는 이 주식을 선택합니다
    - UCzybL29IKY | ongoing=False | publishedAt=2026-01-15T00:18:41Z | actualEndTime=2026-01-15T00:10:40Z | effective=2026-01-15 00:10:40+00:00 | 이란은 영공폐쇄, 이스라엘 공군 움직인다ㅣ베센트, 원화 약세 불편하다ㅣ올해의 주인공은 OOOO!!ㅣ[아침시황
-   - VLlDIz4PfSg | ongoing=False | publishedAt=2026-01-14T03:00:41Z | actualEndTime=None | effective=2026-01-14 03:00:41+00:00 | IPO 준비중인 OpenAI, 그런데 '샘 알트먼'이 안보인다...??
-   - 0tDn_6gkuEI | ongoing=False | publishedAt=2026-01-14T00:07:46Z | actualEndTime=2026-01-14T00:02:47Z | effective=2026-01-14 00:02:47+00:00 | 금/은 또 규제 떴다!!ㅣ인플레 진짜 없다? 근데 금리인하도 없다??ㅣ이제는 '전력 숏티지'!! ㅣ[아침시황
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 잘 나가던 증시에 새로운 변수!?
-  URL: https://www.youtube.com/watch?v=gh-IbHQhy08
-  publishedAt: 2026-01-14T18:22:33Z
+  제목: TSMC 실적이 더 소름돋는 이유는...
+  URL: https://www.youtube.com/watch?v=8ESW5Sph2o4
+  publishedAt: 2026-01-15T18:44:16Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 8ESW5Sph2o4 | ongoing=False | publishedAt=2026-01-15T18:44:16Z | actualEndTime=None | effective=2026-01-15 18:44:16+00:00 | TSMC 실적이 더 소름돋는 이유는...
+   - uj8bVjc96BU | ongoing=False | publishedAt=2026-01-15T10:54:07Z | actualEndTime=None | effective=2026-01-15 10:54:07+00:00 | 버핏의 마지막 인터뷰
    - gh-IbHQhy08 | ongoing=False | publishedAt=2026-01-14T18:22:33Z | actualEndTime=None | effective=2026-01-14 18:22:33+00:00 | 잘 나가던 증시에 새로운 변수!?
-   - oqWerg9Ktus | ongoing=False | publishedAt=2026-01-13T05:49:52Z | actualEndTime=None | effective=2026-01-13 05:49:52+00:00 | 딥시크가 사고쳤다? 2026년 상반기 주식시장 답안지 나왔네요.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - sNzIfXqHp_M | ongoing=False | publishedAt=2026-01-14T11:50:45Z | actualEndTime=None | effective=2026-01-14 11:50:45+00:00 | 올해 중간선거 지면 대통령 끝? 트럼프 선거 올인 선언의 수혜주들
-   - j-7OSyZ-kpI | ongoing=False | publishedAt=2026-01-13T11:01:30Z | actualEndTime=None | effective=2026-01-13 11:01:30+00:00 | 챗GPT 가고 피지컬AI 시대 온다, 젠슨황이 찍어준 2026 주목할 분야와 주식들
