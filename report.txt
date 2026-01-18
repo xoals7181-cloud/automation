@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-17 13:01 (KST)
-Run: 31 (id=21088112160)
+생성 시각: 2026-01-18 13:15 (KST)
+Run: 32 (id=21105851327)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,63 +8,49 @@ Run: 31 (id=21088112160)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Why Mark Mobius Recommends China, India; Shuns Gold
-  URL: https://www.youtube.com/watch?v=xT7fdYfSHY0
-  publishedAt: 2026-01-17T02:01:08Z
+  제목: How The Antarctic Ice Vault Stores Clues To The Earth's Past
+  URL: https://www.youtube.com/watch?v=mKdaI03hmvY
+  publishedAt: 2026-01-18T00:00:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - xT7fdYfSHY0 | ongoing=False | publishedAt=2026-01-17T02:01:08Z | actualEndTime=None | effective=2026-01-17 02:01:08+00:00 | Why Mark Mobius Recommends China, India; Shuns Gold
-   - Gw5TPDl5uro | ongoing=False | publishedAt=2026-01-17T01:00:24Z | actualEndTime=None | effective=2026-01-17 01:00:24+00:00 | How Israeli startups raised record levels of private capital
-   - mlKvYGWe8Ig | ongoing=False | publishedAt=2026-01-17T00:57:15Z | actualEndTime=None | effective=2026-01-17 00:57:15+00:00 | Trump Moves to Tech Giants to Pay Surging Power Costs | Bala
-   - cU-PFQ-QLzA | ongoing=False | publishedAt=2026-01-17T00:25:49Z | actualEndTime=None | effective=2026-01-17 00:25:49+00:00 | Russell 2000 Rallies as Small Caps Outperform Broader Market
-   - xiu9dlESsK8 | ongoing=False | publishedAt=2026-01-17T00:01:15Z | actualEndTime=None | effective=2026-01-17 00:01:15+00:00 | Bill Dudley: Trump Pressure on Powell ‘Counterproductive’
-   - Og3mENdtUyk | ongoing=False | publishedAt=2026-01-16T23:51:30Z | actualEndTime=None | effective=2026-01-16 23:51:30+00:00 | Inside Max Verstappen’s Championship Mindset
-   - rR_9NNzaSlQ | ongoing=False | publishedAt=2026-01-16T23:21:45Z | actualEndTime=None | effective=2026-01-16 23:21:45+00:00 | Should Big Tech or States Pay for Surging Energy Costs?
-   - mTtzyXizbAc | ongoing=False | publishedAt=2026-01-16T23:11:42Z | actualEndTime=None | effective=2026-01-16 23:11:42+00:00 | Trump Greenland Policy 'Unnecessary' and 'Misguided,' Says R
-   - tVn3Ph9-3EA | ongoing=False | publishedAt=2026-01-16T23:11:48Z | actualEndTime=None | effective=2026-01-16 23:11:48+00:00 | Trump Says He'll hold off on sending troops to Minnesota for
-   - QhCafH3pDQY | ongoing=False | publishedAt=2026-01-16T23:02:55Z | actualEndTime=None | effective=2026-01-16 23:02:55+00:00 | Stocks Close Lower While Chip Names Outperform Broad Market 
+   - mKdaI03hmvY | ongoing=False | publishedAt=2026-01-18T00:00:53Z | actualEndTime=None | effective=2026-01-18 00:00:53+00:00 | How The Antarctic Ice Vault Stores Clues To The Earth's Past
+   - n3O-M2OOhuY | ongoing=False | publishedAt=2026-01-17T18:00:57Z | actualEndTime=None | effective=2026-01-17 18:00:57+00:00 | Lower rates aren’t always good, says Fed’s Bill Dudley #shor
+   - bbDyLRWIxjI | ongoing=False | publishedAt=2026-01-17T15:01:09Z | actualEndTime=None | effective=2026-01-17 15:01:09+00:00 | Wall Street Week | Dudley on Powell, Saudi Arabia Tourism, I
+   - R0dOmSfnr2U | ongoing=False | publishedAt=2026-01-17T15:00:54Z | actualEndTime=None | effective=2026-01-17 15:00:54+00:00 | Former NY Fed President Dudley on Powell probe #shorts #powe
+   - KiUTQQGBjsM | ongoing=False | publishedAt=2026-01-17T14:43:45Z | actualEndTime=None | effective=2026-01-17 14:43:45+00:00 | NASA Starts Artemis II Roll Out to Kennedy Space Center
+   - YPfQOQM37EM | ongoing=False | publishedAt=2026-01-17T13:00:59Z | actualEndTime=None | effective=2026-01-17 13:00:59+00:00 | Inside Saudi Arabia’s Push to Become a Global Vacation Desti
+   - 5fPhylW9IGU | ongoing=False | publishedAt=2026-01-17T11:30:04Z | actualEndTime=None | effective=2026-01-17 11:30:04+00:00 | Why Is Trump looking to punish corporate landlords?
+   - 1V8VipNYiQ4 | ongoing=False | publishedAt=2026-01-17T10:00:08Z | actualEndTime=None | effective=2026-01-17 10:00:08+00:00 | Plunging US birth rate leaves many college with too few kids
+   - uZv95Rvc9h8 | ongoing=False | publishedAt=2026-01-17T06:30:27Z | actualEndTime=None | effective=2026-01-17 06:30:27+00:00 | Spotify’s new playbook for staying on top
+   - 4lhATlD1tQ8 | ongoing=False | publishedAt=2026-01-17T06:00:03Z | actualEndTime=None | effective=2026-01-17 06:00:03+00:00 | Solar Energy Drives Transformation in Nigeria
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Prepare.
-  URL: https://www.youtube.com/watch?v=zFKIGXIKJM0
-  publishedAt: 2026-01-16T18:00:09Z
+  제목: Liberation 2.0 | New Tariffs JUST Announced.
+  URL: https://www.youtube.com/watch?v=4fIQugsi1p8
+  publishedAt: 2026-01-17T18:58:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 4fIQugsi1p8 | ongoing=False | publishedAt=2026-01-17T18:58:01Z | actualEndTime=None | effective=2026-01-17 18:58:01+00:00 | Liberation 2.0 | New Tariffs JUST Announced.
    - zFKIGXIKJM0 | ongoing=False | publishedAt=2026-01-16T18:00:09Z | actualEndTime=None | effective=2026-01-16 18:00:09+00:00 | Prepare.
    - 37T0hXw74Gc | ongoing=False | publishedAt=2026-01-16T17:52:54Z | actualEndTime=2026-01-16T17:46:03Z | effective=2026-01-16 17:46:03+00:00 | Mortgage Stocks SKYROCKET, Others TANK | Fed RUGGING
-   - NFFMAJnvop8 | ongoing=False | publishedAt=2026-01-15T19:48:29Z | actualEndTime=None | effective=2026-01-15 19:48:29+00:00 | Very Bullish Catalyst.
-   - TBDkI3l7rmM | ongoing=False | publishedAt=2026-01-15T16:28:13Z | actualEndTime=2026-01-15T16:24:37Z | effective=2026-01-15 16:24:37+00:00 | Trump Dials Back Iran Threats, Stocks REBOUND, Cautious
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 트럼프 "해셋 잔류 원해"... 연준 의장 판도 변화?  -  2026/01/16
-  URL: https://www.youtube.com/watch?v=wIaIXIsB03w
-  publishedAt: 2026-01-16T22:45:04Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - wIaIXIsB03w | ongoing=False | publishedAt=2026-01-16T22:45:04Z | actualEndTime=None | effective=2026-01-16 22:45:04+00:00 | 【미국 증시 오늘의 요약】 트럼프 "해셋 잔류 원해"... 연준 의장 판도 변화?  -  2026/01/16
-   - MmQfuwBCm9c | ongoing=False | publishedAt=2026-01-16T22:26:57Z | actualEndTime=2026-01-16T22:07:16Z | effective=2026-01-16 22:07:16+00:00 | [26년 01월 16일 금]  미국, 긴급 전력 경매 추진｜ 월간 옵션 만기, 산업생산 ｜ 트럼프, '농촌 
-   - cwfADu2ezsA | ongoing=False | publishedAt=2026-01-15T23:41:01Z | actualEndTime=None | effective=2026-01-15 23:41:01+00:00 | 【미국 증시 오늘의 요약】 TSMC 호실적에 반등 성공… 반도체↑·소프트웨어↓ 왜?  -  2026/01/1
-   - 0pHqzXA7_yo | ongoing=False | publishedAt=2026-01-15T23:10:25Z | actualEndTime=2026-01-15T22:46:27Z | effective=2026-01-15 22:46:27+00:00 | [26년 01월 15일 목]  TSMC 어닝 서프라이즈!?! ｜ 트럼프, '파월 해임 계획 없어' ｜ 미국·
-
-- 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: K-주식시장에 드디어 3배 레버리지가 나옵니다!!!!
-  URL: https://www.youtube.com/watch?v=pU358I4bPao
-  publishedAt: 2026-01-17T00:09:59Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - pU358I4bPao | ongoing=False | publishedAt=2026-01-17T00:09:59Z | actualEndTime=None | effective=2026-01-17 00:09:59+00:00 | K-주식시장에 드디어 3배 레버리지가 나옵니다!!!!
-   - wbLfO5B6lUM | ongoing=False | publishedAt=2026-01-16T03:01:13Z | actualEndTime=None | effective=2026-01-16 03:01:13+00:00 | TSMC 실적에서 가장 중요한 것
-   - xy8LIM_zHpE | ongoing=False | publishedAt=2026-01-16T00:21:44Z | actualEndTime=2026-01-16T00:13:28Z | effective=2026-01-16 00:13:28+00:00 | 실적이 이끄는 미국증시! TSMC 2029년까지 50%씩 성장한다!!ㅣ스테이블코인법, 무기한 중단 선언ㅣTr
-
-- 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 8ESW5Sph2o4 | ongoing=False | publishedAt=2026-01-15T18:44:16Z | actualEndTime=None | effective=2026-01-15 18:44:16+00:00 | TSMC 실적이 더 소름돋는 이유는...
-   - uj8bVjc96BU | ongoing=False | publishedAt=2026-01-15T10:54:07Z | actualEndTime=None | effective=2026-01-15 10:54:07+00:00 | 버핏의 마지막 인터뷰
+   - wIaIXIsB03w | ongoing=False | publishedAt=2026-01-16T22:45:04Z | actualEndTime=None | effective=2026-01-16 22:45:04+00:00 | 【미국 증시 오늘의 요약】 트럼프 "해셋 잔류 원해"... 연준 의장 판도 변화?  -  2026/01/16
+   - MmQfuwBCm9c | ongoing=False | publishedAt=2026-01-16T22:26:57Z | actualEndTime=2026-01-16T22:07:16Z | effective=2026-01-16 22:07:16+00:00 | [26년 01월 16일 금]  미국, 긴급 전력 경매 추진｜ 월간 옵션 만기, 산업생산 ｜ 트럼프, '농촌 
+
+- 설명왕 테이버
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - pU358I4bPao | ongoing=False | publishedAt=2026-01-17T00:09:59Z | actualEndTime=None | effective=2026-01-17 00:09:59+00:00 | K-주식시장에 드디어 3배 레버리지가 나옵니다!!!!
+
+- 내일은 투자왕 - 김단테
+  상태: NO_VIDEO
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
