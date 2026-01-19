@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-18 13:15 (KST)
-Run: 32 (id=21105851327)
+생성 시각: 2026-01-19 13:39 (KST)
+Run: 33 (id=21125531495)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,45 +8,42 @@ Run: 32 (id=21105851327)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How The Antarctic Ice Vault Stores Clues To The Earth's Past
-  URL: https://www.youtube.com/watch?v=mKdaI03hmvY
-  publishedAt: 2026-01-18T00:00:53Z
+  제목: Trump's Greenland Threat Drives Gold to Fresh Record | The Asia Trade 1/19/2026
+  URL: https://www.youtube.com/watch?v=I1bMxqVGkZs
+  publishedAt: 2026-01-19T03:42:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - I1bMxqVGkZs | ongoing=False | publishedAt=2026-01-19T03:42:31Z | actualEndTime=None | effective=2026-01-19 03:42:31+00:00 | Trump's Greenland Threat Drives Gold to Fresh Record | The A
+   - yDMOndbHP1s | ongoing=False | publishedAt=2026-01-18T22:00:58Z | actualEndTime=None | effective=2026-01-18 22:00:58+00:00 | How Vail and Alterra took over American skiing #shorts #skii
+   - mIDBF_1yLsY | ongoing=False | publishedAt=2026-01-18T18:00:51Z | actualEndTime=None | effective=2026-01-18 18:00:51+00:00 | How one ski resort aims to stay independent #skiing #shorts 
+   - fMVdxzGCkgA | ongoing=False | publishedAt=2026-01-18T15:01:14Z | actualEndTime=None | effective=2026-01-18 15:01:14+00:00 | Why “Big Ski” Economics is Hard to Shake Off
+   - L5E1jPVCJz0 | ongoing=False | publishedAt=2026-01-18T15:00:40Z | actualEndTime=None | effective=2026-01-18 15:00:40+00:00 | Can tourism transform Saudi Arabia’s economy? #shorts #saudi
+   - ADhEtYZ6g8c | ongoing=False | publishedAt=2026-01-18T14:15:04Z | actualEndTime=None | effective=2026-01-18 14:15:04+00:00 | Ford, F1, and Trump’s Trade Fight
+   - IICk7fdYnto | ongoing=False | publishedAt=2026-01-18T13:00:38Z | actualEndTime=None | effective=2026-01-18 13:00:38+00:00 | Israel’s Wartime Tech Economy
+   - tVDnic2lanY | ongoing=False | publishedAt=2026-01-18T12:01:38Z | actualEndTime=None | effective=2026-01-18 12:01:38+00:00 | Inside America's Skilled Labor Shortage
    - mKdaI03hmvY | ongoing=False | publishedAt=2026-01-18T00:00:53Z | actualEndTime=None | effective=2026-01-18 00:00:53+00:00 | How The Antarctic Ice Vault Stores Clues To The Earth's Past
    - n3O-M2OOhuY | ongoing=False | publishedAt=2026-01-17T18:00:57Z | actualEndTime=None | effective=2026-01-17 18:00:57+00:00 | Lower rates aren’t always good, says Fed’s Bill Dudley #shor
-   - bbDyLRWIxjI | ongoing=False | publishedAt=2026-01-17T15:01:09Z | actualEndTime=None | effective=2026-01-17 15:01:09+00:00 | Wall Street Week | Dudley on Powell, Saudi Arabia Tourism, I
-   - R0dOmSfnr2U | ongoing=False | publishedAt=2026-01-17T15:00:54Z | actualEndTime=None | effective=2026-01-17 15:00:54+00:00 | Former NY Fed President Dudley on Powell probe #shorts #powe
-   - KiUTQQGBjsM | ongoing=False | publishedAt=2026-01-17T14:43:45Z | actualEndTime=None | effective=2026-01-17 14:43:45+00:00 | NASA Starts Artemis II Roll Out to Kennedy Space Center
-   - YPfQOQM37EM | ongoing=False | publishedAt=2026-01-17T13:00:59Z | actualEndTime=None | effective=2026-01-17 13:00:59+00:00 | Inside Saudi Arabia’s Push to Become a Global Vacation Desti
-   - 5fPhylW9IGU | ongoing=False | publishedAt=2026-01-17T11:30:04Z | actualEndTime=None | effective=2026-01-17 11:30:04+00:00 | Why Is Trump looking to punish corporate landlords?
-   - 1V8VipNYiQ4 | ongoing=False | publishedAt=2026-01-17T10:00:08Z | actualEndTime=None | effective=2026-01-17 10:00:08+00:00 | Plunging US birth rate leaves many college with too few kids
-   - uZv95Rvc9h8 | ongoing=False | publishedAt=2026-01-17T06:30:27Z | actualEndTime=None | effective=2026-01-17 06:30:27+00:00 | Spotify’s new playbook for staying on top
-   - 4lhATlD1tQ8 | ongoing=False | publishedAt=2026-01-17T06:00:03Z | actualEndTime=None | effective=2026-01-17 06:00:03+00:00 | Solar Energy Drives Transformation in Nigeria
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Liberation 2.0 | New Tariffs JUST Announced.
-  URL: https://www.youtube.com/watch?v=4fIQugsi1p8
-  publishedAt: 2026-01-17T18:58:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 4fIQugsi1p8 | ongoing=False | publishedAt=2026-01-17T18:58:01Z | actualEndTime=None | effective=2026-01-17 18:58:01+00:00 | Liberation 2.0 | New Tariffs JUST Announced.
-   - zFKIGXIKJM0 | ongoing=False | publishedAt=2026-01-16T18:00:09Z | actualEndTime=None | effective=2026-01-16 18:00:09+00:00 | Prepare.
-   - 37T0hXw74Gc | ongoing=False | publishedAt=2026-01-16T17:52:54Z | actualEndTime=2026-01-16T17:46:03Z | effective=2026-01-16 17:46:03+00:00 | Mortgage Stocks SKYROCKET, Others TANK | Fed RUGGING
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - wIaIXIsB03w | ongoing=False | publishedAt=2026-01-16T22:45:04Z | actualEndTime=None | effective=2026-01-16 22:45:04+00:00 | 【미국 증시 오늘의 요약】 트럼프 "해셋 잔류 원해"... 연준 의장 판도 변화?  -  2026/01/16
-   - MmQfuwBCm9c | ongoing=False | publishedAt=2026-01-16T22:26:57Z | actualEndTime=2026-01-16T22:07:16Z | effective=2026-01-16 22:07:16+00:00 | [26년 01월 16일 금]  미국, 긴급 전력 경매 추진｜ 월간 옵션 만기, 산업생산 ｜ 트럼프, '농촌 
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 진짜 투자자는 '현금'을 삽니다
+  URL: https://www.youtube.com/watch?v=WUQte1bgttw
+  publishedAt: 2026-01-19T03:00:28Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - pU358I4bPao | ongoing=False | publishedAt=2026-01-17T00:09:59Z | actualEndTime=None | effective=2026-01-17 00:09:59+00:00 | K-주식시장에 드디어 3배 레버리지가 나옵니다!!!!
+   - WUQte1bgttw | ongoing=False | publishedAt=2026-01-19T03:00:28Z | actualEndTime=None | effective=2026-01-19 03:00:28+00:00 | 진짜 투자자는 '현금'을 삽니다
+   - 02Rt3Y3jMdk | ongoing=False | publishedAt=2026-01-19T00:21:39Z | actualEndTime=2026-01-18T23:58:37Z | effective=2026-01-18 23:58:37+00:00 | [이제는 5000피] 반도체 대장이 풀매수한 마이크론, 삼성전자/하이닉스도 가즈아!!ㅣ[아침시황&미국마감] 
+   - ICuJqKo-b1Q | ongoing=False | publishedAt=2026-01-18T09:02:32Z | actualEndTime=2026-01-18T08:37:36Z | effective=2026-01-18 08:37:36+00:00 | 이번주엔 어떤 기업이 맛도리일까?ㅣ26년 3주차 주간시황
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
