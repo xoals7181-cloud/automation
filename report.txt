@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-19 13:39 (KST)
-Run: 33 (id=21125531495)
+생성 시각: 2026-01-20 13:16 (KST)
+Run: 34 (id=21159278405)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,27 +8,25 @@ Run: 33 (id=21125531495)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump's Greenland Threat Drives Gold to Fresh Record | The Asia Trade 1/19/2026
-  URL: https://www.youtube.com/watch?v=I1bMxqVGkZs
-  publishedAt: 2026-01-19T03:42:31Z
+  제목: Inside Australia's Hate Speech Debate and US Ambassador Search
+  URL: https://www.youtube.com/watch?v=mORdy1Ev9BU
+  publishedAt: 2026-01-20T04:02:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - I1bMxqVGkZs | ongoing=False | publishedAt=2026-01-19T03:42:31Z | actualEndTime=None | effective=2026-01-19 03:42:31+00:00 | Trump's Greenland Threat Drives Gold to Fresh Record | The A
-   - yDMOndbHP1s | ongoing=False | publishedAt=2026-01-18T22:00:58Z | actualEndTime=None | effective=2026-01-18 22:00:58+00:00 | How Vail and Alterra took over American skiing #shorts #skii
-   - mIDBF_1yLsY | ongoing=False | publishedAt=2026-01-18T18:00:51Z | actualEndTime=None | effective=2026-01-18 18:00:51+00:00 | How one ski resort aims to stay independent #skiing #shorts 
-   - fMVdxzGCkgA | ongoing=False | publishedAt=2026-01-18T15:01:14Z | actualEndTime=None | effective=2026-01-18 15:01:14+00:00 | Why “Big Ski” Economics is Hard to Shake Off
-   - L5E1jPVCJz0 | ongoing=False | publishedAt=2026-01-18T15:00:40Z | actualEndTime=None | effective=2026-01-18 15:00:40+00:00 | Can tourism transform Saudi Arabia’s economy? #shorts #saudi
-   - ADhEtYZ6g8c | ongoing=False | publishedAt=2026-01-18T14:15:04Z | actualEndTime=None | effective=2026-01-18 14:15:04+00:00 | Ford, F1, and Trump’s Trade Fight
-   - IICk7fdYnto | ongoing=False | publishedAt=2026-01-18T13:00:38Z | actualEndTime=None | effective=2026-01-18 13:00:38+00:00 | Israel’s Wartime Tech Economy
-   - tVDnic2lanY | ongoing=False | publishedAt=2026-01-18T12:01:38Z | actualEndTime=None | effective=2026-01-18 12:01:38+00:00 | Inside America's Skilled Labor Shortage
-   - mKdaI03hmvY | ongoing=False | publishedAt=2026-01-18T00:00:53Z | actualEndTime=None | effective=2026-01-18 00:00:53+00:00 | How The Antarctic Ice Vault Stores Clues To The Earth's Past
-   - n3O-M2OOhuY | ongoing=False | publishedAt=2026-01-17T18:00:57Z | actualEndTime=None | effective=2026-01-17 18:00:57+00:00 | Lower rates aren’t always good, says Fed’s Bill Dudley #shor
+   - mORdy1Ev9BU | ongoing=False | publishedAt=2026-01-20T04:02:14Z | actualEndTime=None | effective=2026-01-20 04:02:14+00:00 | Inside Australia's Hate Speech Debate and US Ambassador Sear
+   - yhNRBjas8Xk | ongoing=False | publishedAt=2026-01-20T03:25:20Z | actualEndTime=None | effective=2026-01-20 03:25:20+00:00 | Japan's 40-Year Bond Yield Hits 4% for First Time | The Asia
+   - JiDOfLU6QV4 | ongoing=False | publishedAt=2026-01-19T15:39:47Z | actualEndTime=None | effective=2026-01-19 15:39:47+00:00 | Davos: IMF's Georgieva on Trade Tariffs, AI, Venezuela, Ukra
+   - fjWdOR5KKyQ | ongoing=False | publishedAt=2026-01-19T15:08:05Z | actualEndTime=None | effective=2026-01-19 15:08:05+00:00 | Axis Bank CEO says #India needs eight to 10 large banks #Dav
+   - g5Fnce7xNA4 | ongoing=False | publishedAt=2026-01-19T13:54:08Z | actualEndTime=None | effective=2026-01-19 13:54:08+00:00 | UAE Economy Minister on #Trump weaponizing economic relation
+   - I5iVgOL4s3I | ongoing=False | publishedAt=2026-01-19T13:45:24Z | actualEndTime=None | effective=2026-01-19 13:45:24+00:00 | Trump Era Davos 'Survival of the Richest' | The Pulse 1/19
+   - kuxT_nB5mcM | ongoing=False | publishedAt=2026-01-19T13:24:10Z | actualEndTime=None | effective=2026-01-19 13:24:10+00:00 | Trump Threatens Europe, Global Stocks Sell Off | The Opening
+   - LaJdIp1P5EI | ongoing=False | publishedAt=2026-01-19T12:00:43Z | actualEndTime=None | effective=2026-01-19 12:00:43+00:00 | HSBC Bank CEO on trading with #AI and quantum computing #Dav
+   - d4kv-taWPLI | ongoing=False | publishedAt=2026-01-19T11:30:39Z | actualEndTime=None | effective=2026-01-19 11:30:39+00:00 | Jenny Johnson on productivity gains from #AI #Davos #WEF2026
+   - WGomsCAD8lg | ongoing=False | publishedAt=2026-01-19T10:35:25Z | actualEndTime=None | effective=2026-01-19 10:35:25+00:00 | Davos: HSBC's Roberts Says AI Won't Lead to 'Massive Layoffs
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 4fIQugsi1p8 | ongoing=False | publishedAt=2026-01-17T18:58:01Z | actualEndTime=None | effective=2026-01-17 18:58:01+00:00 | Liberation 2.0 | New Tariffs JUST Announced.
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_VIDEO
@@ -36,11 +34,13 @@ Run: 33 (id=21125531495)
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 진짜 투자자는 '현금'을 삽니다
-  URL: https://www.youtube.com/watch?v=WUQte1bgttw
-  publishedAt: 2026-01-19T03:00:28Z
+  제목: 코스피 어디까지 올라가는 거에요?ㅣ다보스포럼, 트럼프의 물량공세!? 핵심은 무엇일까?ㅣ[아침시황&미국마감] #260120
+  URL: https://www.youtube.com/watch?v=HGqJ3nHAOXo
+  publishedAt: 2026-01-20T00:30:12Z
+  actualEndTime: 2026-01-20T00:03:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - HGqJ3nHAOXo | ongoing=False | publishedAt=2026-01-20T00:30:12Z | actualEndTime=2026-01-20T00:03:29Z | effective=2026-01-20 00:03:29+00:00 | 코스피 어디까지 올라가는 거에요?ㅣ다보스포럼, 트럼프의 물량공세!? 핵심은 무엇일까?ㅣ[아침시황&미국마감] 
    - WUQte1bgttw | ongoing=False | publishedAt=2026-01-19T03:00:28Z | actualEndTime=None | effective=2026-01-19 03:00:28+00:00 | 진짜 투자자는 '현금'을 삽니다
    - 02Rt3Y3jMdk | ongoing=False | publishedAt=2026-01-19T00:21:39Z | actualEndTime=2026-01-18T23:58:37Z | effective=2026-01-18 23:58:37+00:00 | [이제는 5000피] 반도체 대장이 풀매수한 마이크론, 삼성전자/하이닉스도 가즈아!!ㅣ[아침시황&미국마감] 
    - ICuJqKo-b1Q | ongoing=False | publishedAt=2026-01-18T09:02:32Z | actualEndTime=2026-01-18T08:37:36Z | effective=2026-01-18 08:37:36+00:00 | 이번주엔 어떤 기업이 맛도리일까?ㅣ26년 3주차 주간시황
@@ -51,4 +51,6 @@ Run: 33 (id=21125531495)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - aj0_S31MM7s | ongoing=False | publishedAt=2026-01-19T10:59:23Z | actualEndTime=None | effective=2026-01-19 10:59:23+00:00 | 반도체 전설도 급하게 매수? 미국 반도체 띄우기의 수혜주들
