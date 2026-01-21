@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-20 13:16 (KST)
-Run: 34 (id=21159278405)
+생성 시각: 2026-01-21 13:16 (KST)
+Run: 35 (id=21197019774)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,49 +8,65 @@ Run: 34 (id=21159278405)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Inside Australia's Hate Speech Debate and US Ambassador Search
-  URL: https://www.youtube.com/watch?v=mORdy1Ev9BU
-  publishedAt: 2026-01-20T04:02:14Z
+  제목: The Asia Trade 1/21/26
+  URL: https://www.youtube.com/watch?v=uCBVTPfOmDk
+  publishedAt: 2026-01-21T03:46:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - mORdy1Ev9BU | ongoing=False | publishedAt=2026-01-20T04:02:14Z | actualEndTime=None | effective=2026-01-20 04:02:14+00:00 | Inside Australia's Hate Speech Debate and US Ambassador Sear
-   - yhNRBjas8Xk | ongoing=False | publishedAt=2026-01-20T03:25:20Z | actualEndTime=None | effective=2026-01-20 03:25:20+00:00 | Japan's 40-Year Bond Yield Hits 4% for First Time | The Asia
-   - JiDOfLU6QV4 | ongoing=False | publishedAt=2026-01-19T15:39:47Z | actualEndTime=None | effective=2026-01-19 15:39:47+00:00 | Davos: IMF's Georgieva on Trade Tariffs, AI, Venezuela, Ukra
-   - fjWdOR5KKyQ | ongoing=False | publishedAt=2026-01-19T15:08:05Z | actualEndTime=None | effective=2026-01-19 15:08:05+00:00 | Axis Bank CEO says #India needs eight to 10 large banks #Dav
-   - g5Fnce7xNA4 | ongoing=False | publishedAt=2026-01-19T13:54:08Z | actualEndTime=None | effective=2026-01-19 13:54:08+00:00 | UAE Economy Minister on #Trump weaponizing economic relation
-   - I5iVgOL4s3I | ongoing=False | publishedAt=2026-01-19T13:45:24Z | actualEndTime=None | effective=2026-01-19 13:45:24+00:00 | Trump Era Davos 'Survival of the Richest' | The Pulse 1/19
-   - kuxT_nB5mcM | ongoing=False | publishedAt=2026-01-19T13:24:10Z | actualEndTime=None | effective=2026-01-19 13:24:10+00:00 | Trump Threatens Europe, Global Stocks Sell Off | The Opening
-   - LaJdIp1P5EI | ongoing=False | publishedAt=2026-01-19T12:00:43Z | actualEndTime=None | effective=2026-01-19 12:00:43+00:00 | HSBC Bank CEO on trading with #AI and quantum computing #Dav
-   - d4kv-taWPLI | ongoing=False | publishedAt=2026-01-19T11:30:39Z | actualEndTime=None | effective=2026-01-19 11:30:39+00:00 | Jenny Johnson on productivity gains from #AI #Davos #WEF2026
-   - WGomsCAD8lg | ongoing=False | publishedAt=2026-01-19T10:35:25Z | actualEndTime=None | effective=2026-01-19 10:35:25+00:00 | Davos: HSBC's Roberts Says AI Won't Lead to 'Massive Layoffs
+   - uCBVTPfOmDk | ongoing=False | publishedAt=2026-01-21T03:46:34Z | actualEndTime=None | effective=2026-01-21 03:46:34+00:00 | The Asia Trade 1/21/26
+   - HoHvZK1Yndg | ongoing=False | publishedAt=2026-01-21T03:42:23Z | actualEndTime=None | effective=2026-01-21 03:42:23+00:00 | Think Tank's Two Scenarios on How a Chinese Invasion of Taiw
+   - 5QZoIsyeii0 | ongoing=False | publishedAt=2026-01-21T00:58:47Z | actualEndTime=None | effective=2026-01-21 00:58:47+00:00 | Trump Brings Greenland Fight to Davos | Balance of Power 01/
+   - lDI9XvVSxl8 | ongoing=False | publishedAt=2026-01-21T00:13:07Z | actualEndTime=None | effective=2026-01-21 00:13:07+00:00 | Stocks Fall on Tariff Fears as Gold and Silver Hit Record Hi
+   - M4ZJ3RjZHg8 | ongoing=False | publishedAt=2026-01-20T23:00:34Z | actualEndTime=None | effective=2026-01-20 23:00:34+00:00 | Jeremy Grantham says #AI is a classic market bubble #stockma
+   - H49iuONyaVw | ongoing=False | publishedAt=2026-01-20T22:56:36Z | actualEndTime=None | effective=2026-01-20 22:56:36+00:00 | US Stocks Fall as ‘Sell America’ Sentiment Returns | Closing
+   - QM8X1yqpLW4 | ongoing=False | publishedAt=2026-01-20T22:43:59Z | actualEndTime=None | effective=2026-01-20 22:43:59+00:00 | The Key Takeaways From Netflix's Q4 Results and Forecast
+   - PzwrGGiwtNI | ongoing=False | publishedAt=2026-01-20T22:30:09Z | actualEndTime=None | effective=2026-01-20 22:30:09+00:00 | The Hottest New Thing in #AI - Claude Code #tech
+   - tbYjF7fI9tQ | ongoing=False | publishedAt=2026-01-20T22:13:27Z | actualEndTime=None | effective=2026-01-20 22:13:27+00:00 | Julian Emanuel’s 2026 Market Surprises
+   - obSuyPCUaOg | ongoing=False | publishedAt=2026-01-20T22:05:49Z | actualEndTime=None | effective=2026-01-20 22:05:49+00:00 | Netflix Issues Cautious Forecast Amid WBD Saga
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: The World Capital War JUST Starting | This is Bad.
+  URL: https://www.youtube.com/watch?v=OI_hJ6qSkKo
+  publishedAt: 2026-01-20T21:45:10Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - OI_hJ6qSkKo | ongoing=False | publishedAt=2026-01-20T21:45:10Z | actualEndTime=None | effective=2026-01-20 21:45:10+00:00 | The World Capital War JUST Starting | This is Bad.
+   - vKqzlRXZId4 | ongoing=False | publishedAt=2026-01-20T16:46:48Z | actualEndTime=2026-01-20T16:42:05Z | effective=2026-01-20 16:42:05+00:00 | stocks tank
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 그린란드 관세 리스크 + 일본 국채 발작... 주식·채권·달러 다 무너졌다  -  2026/01/20
+  URL: https://www.youtube.com/watch?v=28HIGvYc8cs
+  publishedAt: 2026-01-20T23:23:00Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 28HIGvYc8cs | ongoing=False | publishedAt=2026-01-20T23:23:00Z | actualEndTime=None | effective=2026-01-20 23:23:00+00:00 | 【미국 증시 오늘의 요약】 그린란드 관세 리스크 + 일본 국채 발작... 주식·채권·달러 다 무너졌다  - 
+   - BdwtlOCqWb0 | ongoing=False | publishedAt=2026-01-20T22:41:52Z | actualEndTime=2026-01-20T22:18:32Z | effective=2026-01-20 22:18:32+00:00 | [26년 01월 20일 화]  미국vs유럽 '그린란드' 문제로 갈등 격화｜ 일본 국채 금리 4% 돌파 ｜ 베
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 코스피 어디까지 올라가는 거에요?ㅣ다보스포럼, 트럼프의 물량공세!? 핵심은 무엇일까?ㅣ[아침시황&미국마감] #260120
-  URL: https://www.youtube.com/watch?v=HGqJ3nHAOXo
-  publishedAt: 2026-01-20T00:30:12Z
-  actualEndTime: 2026-01-20T00:03:29Z
+  제목: 엔화 공격이 시작되었습니다
+  URL: https://www.youtube.com/watch?v=PkY_20WNtDI
+  publishedAt: 2026-01-21T03:00:33Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - PkY_20WNtDI | ongoing=False | publishedAt=2026-01-21T03:00:33Z | actualEndTime=None | effective=2026-01-21 03:00:33+00:00 | 엔화 공격이 시작되었습니다
+   - CWQseXf3xLM | ongoing=False | publishedAt=2026-01-21T00:41:22Z | actualEndTime=2026-01-21T00:01:05Z | effective=2026-01-21 00:01:05+00:00 | 버텨!! 트럼프 중간선거는 아직 10개월이나 남았어!!!ㅣ[아침시황&미국마감] #260121
    - HGqJ3nHAOXo | ongoing=False | publishedAt=2026-01-20T00:30:12Z | actualEndTime=2026-01-20T00:03:29Z | effective=2026-01-20 00:03:29+00:00 | 코스피 어디까지 올라가는 거에요?ㅣ다보스포럼, 트럼프의 물량공세!? 핵심은 무엇일까?ㅣ[아침시황&미국마감] 
-   - WUQte1bgttw | ongoing=False | publishedAt=2026-01-19T03:00:28Z | actualEndTime=None | effective=2026-01-19 03:00:28+00:00 | 진짜 투자자는 '현금'을 삽니다
-   - 02Rt3Y3jMdk | ongoing=False | publishedAt=2026-01-19T00:21:39Z | actualEndTime=2026-01-18T23:58:37Z | effective=2026-01-18 23:58:37+00:00 | [이제는 5000피] 반도체 대장이 풀매수한 마이크론, 삼성전자/하이닉스도 가즈아!!ㅣ[아침시황&미국마감] 
-   - ICuJqKo-b1Q | ongoing=False | publishedAt=2026-01-18T09:02:32Z | actualEndTime=2026-01-18T08:37:36Z | effective=2026-01-18 08:37:36+00:00 | 이번주엔 어떤 기업이 맛도리일까?ㅣ26년 3주차 주간시황
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 나스닥 폭락은 달러의 붕괴인가? (ft. 레이달리오)
+  URL: https://www.youtube.com/watch?v=UHZgpQyrTKY
+  publishedAt: 2026-01-20T19:18:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - UHZgpQyrTKY | ongoing=False | publishedAt=2026-01-20T19:18:02Z | actualEndTime=None | effective=2026-01-20 19:18:02+00:00 | 나스닥 폭락은 달러의 붕괴인가? (ft. 레이달리오)
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - sSvolxYeS_8 | ongoing=False | publishedAt=2026-01-20T10:40:04Z | actualEndTime=None | effective=2026-01-20 10:40:04+00:00 | 올해 증시 쇼크 못 피한다? 족집게 보고서의 경고, 이번에도 적중할까
    - aj0_S31MM7s | ongoing=False | publishedAt=2026-01-19T10:59:23Z | actualEndTime=None | effective=2026-01-19 10:59:23+00:00 | 반도체 전설도 급하게 매수? 미국 반도체 띄우기의 수혜주들
