@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-21 13:16 (KST)
-Run: 35 (id=21197019774)
+생성 시각: 2026-01-22 13:35 (KST)
+Run: 36 (id=21236209454)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,59 +8,61 @@ Run: 35 (id=21197019774)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: The Asia Trade 1/21/26
-  URL: https://www.youtube.com/watch?v=uCBVTPfOmDk
-  publishedAt: 2026-01-21T03:46:34Z
+  제목: How The US Changed China’s Calculus in Latin America
+  URL: https://www.youtube.com/watch?v=k6UZsjz0ErI
+  publishedAt: 2026-01-22T01:00:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - uCBVTPfOmDk | ongoing=False | publishedAt=2026-01-21T03:46:34Z | actualEndTime=None | effective=2026-01-21 03:46:34+00:00 | The Asia Trade 1/21/26
-   - HoHvZK1Yndg | ongoing=False | publishedAt=2026-01-21T03:42:23Z | actualEndTime=None | effective=2026-01-21 03:42:23+00:00 | Think Tank's Two Scenarios on How a Chinese Invasion of Taiw
-   - 5QZoIsyeii0 | ongoing=False | publishedAt=2026-01-21T00:58:47Z | actualEndTime=None | effective=2026-01-21 00:58:47+00:00 | Trump Brings Greenland Fight to Davos | Balance of Power 01/
-   - lDI9XvVSxl8 | ongoing=False | publishedAt=2026-01-21T00:13:07Z | actualEndTime=None | effective=2026-01-21 00:13:07+00:00 | Stocks Fall on Tariff Fears as Gold and Silver Hit Record Hi
-   - M4ZJ3RjZHg8 | ongoing=False | publishedAt=2026-01-20T23:00:34Z | actualEndTime=None | effective=2026-01-20 23:00:34+00:00 | Jeremy Grantham says #AI is a classic market bubble #stockma
-   - H49iuONyaVw | ongoing=False | publishedAt=2026-01-20T22:56:36Z | actualEndTime=None | effective=2026-01-20 22:56:36+00:00 | US Stocks Fall as ‘Sell America’ Sentiment Returns | Closing
-   - QM8X1yqpLW4 | ongoing=False | publishedAt=2026-01-20T22:43:59Z | actualEndTime=None | effective=2026-01-20 22:43:59+00:00 | The Key Takeaways From Netflix's Q4 Results and Forecast
-   - PzwrGGiwtNI | ongoing=False | publishedAt=2026-01-20T22:30:09Z | actualEndTime=None | effective=2026-01-20 22:30:09+00:00 | The Hottest New Thing in #AI - Claude Code #tech
-   - tbYjF7fI9tQ | ongoing=False | publishedAt=2026-01-20T22:13:27Z | actualEndTime=None | effective=2026-01-20 22:13:27+00:00 | Julian Emanuel’s 2026 Market Surprises
-   - obSuyPCUaOg | ongoing=False | publishedAt=2026-01-20T22:05:49Z | actualEndTime=None | effective=2026-01-20 22:05:49+00:00 | Netflix Issues Cautious Forecast Amid WBD Saga
+   - k6UZsjz0ErI | ongoing=False | publishedAt=2026-01-22T01:00:58Z | actualEndTime=None | effective=2026-01-22 01:00:58+00:00 | How The US Changed China’s Calculus in Latin America
+   - JFQc0efy8KE | ongoing=False | publishedAt=2026-01-22T00:51:17Z | actualEndTime=None | effective=2026-01-22 00:51:17+00:00 | Trump Announces 'Framework' Of A Deal On Greenland | Balance
+   - DZglTlswdzs | ongoing=False | publishedAt=2026-01-22T00:20:31Z | actualEndTime=None | effective=2026-01-22 00:20:31+00:00 | Small Caps Lead Market Gains as Russell 2000 Climbs | The Cl
+   - NEU5FY45FoQ | ongoing=False | publishedAt=2026-01-21T23:44:14Z | actualEndTime=None | effective=2026-01-21 23:44:14+00:00 | GOP will lose the House with Trump’s tactics, says pollster 
+   - IVAI4I4AQ88 | ongoing=False | publishedAt=2026-01-21T23:13:12Z | actualEndTime=None | effective=2026-01-21 23:13:12+00:00 | US Stocks Rally After Trump Announces Greenland Framework | 
+   - LDbSMcfkBYI | ongoing=False | publishedAt=2026-01-21T22:08:39Z | actualEndTime=None | effective=2026-01-21 22:08:39+00:00 | Charles Schwab CEO on "geopolitical noise" surrounding Green
+   - EVXfXCVEcE0 | ongoing=False | publishedAt=2026-01-21T21:56:24Z | actualEndTime=None | effective=2026-01-21 21:56:24+00:00 | Trump Rebuffs Carney at Davos  'Canada Should Be Grateful'
+   - qXK0kxXWBb8 | ongoing=False | publishedAt=2026-01-21T21:55:21Z | actualEndTime=None | effective=2026-01-21 21:55:21+00:00 | Trump Gripes About Norway, Not Winning Nobel Prize
+   - BukFAZ6_xo8 | ongoing=False | publishedAt=2026-01-21T21:55:46Z | actualEndTime=None | effective=2026-01-21 21:55:46+00:00 | Trump's Davos Speech in 3 Minutes
+   - s7EgbWQAesU | ongoing=False | publishedAt=2026-01-21T21:54:41Z | actualEndTime=None | effective=2026-01-21 21:54:41+00:00 | Finland President on Being a 'Trump Whisperer' at Davos
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The World Capital War JUST Starting | This is Bad.
-  URL: https://www.youtube.com/watch?v=OI_hJ6qSkKo
-  publishedAt: 2026-01-20T21:45:10Z
+  제목: Trump JUST Completely U-Turned [Total Game Changer]
+  URL: https://www.youtube.com/watch?v=Nc71c9A_4q8
+  publishedAt: 2026-01-21T20:55:12Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Nc71c9A_4q8 | ongoing=False | publishedAt=2026-01-21T20:55:12Z | actualEndTime=None | effective=2026-01-21 20:55:12+00:00 | Trump JUST Completely U-Turned [Total Game Changer]
+   - gQ3JFN6aeZc | ongoing=False | publishedAt=2026-01-21T17:39:24Z | actualEndTime=2026-01-21T17:33:05Z | effective=2026-01-21 17:33:05+00:00 | Trump is Starting to TACO
    - OI_hJ6qSkKo | ongoing=False | publishedAt=2026-01-20T21:45:10Z | actualEndTime=None | effective=2026-01-20 21:45:10+00:00 | The World Capital War JUST Starting | This is Bad.
    - vKqzlRXZId4 | ongoing=False | publishedAt=2026-01-20T16:46:48Z | actualEndTime=2026-01-20T16:42:05Z | effective=2026-01-20 16:42:05+00:00 | stocks tank
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 그린란드 관세 리스크 + 일본 국채 발작... 주식·채권·달러 다 무너졌다  -  2026/01/20
-  URL: https://www.youtube.com/watch?v=28HIGvYc8cs
-  publishedAt: 2026-01-20T23:23:00Z
+  제목: 【미국 증시 오늘의 요약】 트럼프 관세 철회! 돌아온 'TACO' 장세에 증시 급등    -  2026/01/21
+  URL: https://www.youtube.com/watch?v=Xxnb_oFqdlE
+  publishedAt: 2026-01-21T23:15:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Xxnb_oFqdlE | ongoing=False | publishedAt=2026-01-21T23:15:01Z | actualEndTime=None | effective=2026-01-21 23:15:01+00:00 | 【미국 증시 오늘의 요약】 트럼프 관세 철회! 돌아온 'TACO' 장세에 증시 급등    -  2026/01
+   - Q9F43Ryl6NE | ongoing=False | publishedAt=2026-01-21T22:36:38Z | actualEndTime=2026-01-21T22:15:28Z | effective=2026-01-21 22:15:28+00:00 | [26년 01월 21일 수]  트럼프 대통령, '다보스 포럼' 연설｜ 일본 국채 급락세 진정 ｜넷플릭스, 자
    - 28HIGvYc8cs | ongoing=False | publishedAt=2026-01-20T23:23:00Z | actualEndTime=None | effective=2026-01-20 23:23:00+00:00 | 【미국 증시 오늘의 요약】 그린란드 관세 리스크 + 일본 국채 발작... 주식·채권·달러 다 무너졌다  - 
    - BdwtlOCqWb0 | ongoing=False | publishedAt=2026-01-20T22:41:52Z | actualEndTime=2026-01-20T22:18:32Z | effective=2026-01-20 22:18:32+00:00 | [26년 01월 20일 화]  미국vs유럽 '그린란드' 문제로 갈등 격화｜ 일본 국채 금리 4% 돌파 ｜ 베
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 엔화 공격이 시작되었습니다
-  URL: https://www.youtube.com/watch?v=PkY_20WNtDI
-  publishedAt: 2026-01-21T03:00:33Z
+  제목: 알테오젠 급락, 무엇이 문제인가?
+  URL: https://www.youtube.com/watch?v=zBlkxOaFslc
+  publishedAt: 2026-01-22T03:01:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - zBlkxOaFslc | ongoing=False | publishedAt=2026-01-22T03:01:06Z | actualEndTime=None | effective=2026-01-22 03:01:06+00:00 | 알테오젠 급락, 무엇이 문제인가?
+   - lJLKAAcTxmQ | ongoing=False | publishedAt=2026-01-22T00:23:04Z | actualEndTime=2026-01-22T00:04:10Z | effective=2026-01-22 00:04:10+00:00 | 나토와 비공개 협상!! 유럽은 할 수 있는게 없다...??ㅣ원화 약세 참치않겠다!! 가능할까?ㅣ[아침시황&미
    - PkY_20WNtDI | ongoing=False | publishedAt=2026-01-21T03:00:33Z | actualEndTime=None | effective=2026-01-21 03:00:33+00:00 | 엔화 공격이 시작되었습니다
    - CWQseXf3xLM | ongoing=False | publishedAt=2026-01-21T00:41:22Z | actualEndTime=2026-01-21T00:01:05Z | effective=2026-01-21 00:01:05+00:00 | 버텨!! 트럼프 중간선거는 아직 10개월이나 남았어!!!ㅣ[아침시황&미국마감] #260121
-   - HGqJ3nHAOXo | ongoing=False | publishedAt=2026-01-20T00:30:12Z | actualEndTime=2026-01-20T00:03:29Z | effective=2026-01-20 00:03:29+00:00 | 코스피 어디까지 올라가는 거에요?ㅣ다보스포럼, 트럼프의 물량공세!? 핵심은 무엇일까?ㅣ[아침시황&미국마감] 
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 나스닥 폭락은 달러의 붕괴인가? (ft. 레이달리오)
-  URL: https://www.youtube.com/watch?v=UHZgpQyrTKY
-  publishedAt: 2026-01-20T19:18:02Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - UHZgpQyrTKY | ongoing=False | publishedAt=2026-01-20T19:18:02Z | actualEndTime=None | effective=2026-01-20 19:18:02+00:00 | 나스닥 폭락은 달러의 붕괴인가? (ft. 레이달리오)
 
@@ -68,5 +70,5 @@ Run: 35 (id=21197019774)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - OGwlXAhf5fY | ongoing=False | publishedAt=2026-01-21T10:00:37Z | actualEndTime=None | effective=2026-01-21 10:00:37+00:00 | 이번에도 적중? 다보스포럼에서 찍은 2026년 증시 최대 리스크
    - sSvolxYeS_8 | ongoing=False | publishedAt=2026-01-20T10:40:04Z | actualEndTime=None | effective=2026-01-20 10:40:04+00:00 | 올해 증시 쇼크 못 피한다? 족집게 보고서의 경고, 이번에도 적중할까
-   - aj0_S31MM7s | ongoing=False | publishedAt=2026-01-19T10:59:23Z | actualEndTime=None | effective=2026-01-19 10:59:23+00:00 | 반도체 전설도 급하게 매수? 미국 반도체 띄우기의 수혜주들
