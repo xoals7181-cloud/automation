@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-22 13:35 (KST)
-Run: 36 (id=21236209454)
+생성 시각: 2026-01-23 13:13 (KST)
+Run: 37 (id=21274325846)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,69 @@ Run: 36 (id=21236209454)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How The US Changed China’s Calculus in Latin America
-  URL: https://www.youtube.com/watch?v=k6UZsjz0ErI
-  publishedAt: 2026-01-22T01:00:58Z
+  제목: Intel Tumbles As Manufacturing Snags Hit Comeback | The Asia Trade 1/23/2026
+  URL: https://www.youtube.com/watch?v=PACqfVDfTwI
+  publishedAt: 2026-01-23T03:36:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - k6UZsjz0ErI | ongoing=False | publishedAt=2026-01-22T01:00:58Z | actualEndTime=None | effective=2026-01-22 01:00:58+00:00 | How The US Changed China’s Calculus in Latin America
-   - JFQc0efy8KE | ongoing=False | publishedAt=2026-01-22T00:51:17Z | actualEndTime=None | effective=2026-01-22 00:51:17+00:00 | Trump Announces 'Framework' Of A Deal On Greenland | Balance
-   - DZglTlswdzs | ongoing=False | publishedAt=2026-01-22T00:20:31Z | actualEndTime=None | effective=2026-01-22 00:20:31+00:00 | Small Caps Lead Market Gains as Russell 2000 Climbs | The Cl
-   - NEU5FY45FoQ | ongoing=False | publishedAt=2026-01-21T23:44:14Z | actualEndTime=None | effective=2026-01-21 23:44:14+00:00 | GOP will lose the House with Trump’s tactics, says pollster 
-   - IVAI4I4AQ88 | ongoing=False | publishedAt=2026-01-21T23:13:12Z | actualEndTime=None | effective=2026-01-21 23:13:12+00:00 | US Stocks Rally After Trump Announces Greenland Framework | 
-   - LDbSMcfkBYI | ongoing=False | publishedAt=2026-01-21T22:08:39Z | actualEndTime=None | effective=2026-01-21 22:08:39+00:00 | Charles Schwab CEO on "geopolitical noise" surrounding Green
-   - EVXfXCVEcE0 | ongoing=False | publishedAt=2026-01-21T21:56:24Z | actualEndTime=None | effective=2026-01-21 21:56:24+00:00 | Trump Rebuffs Carney at Davos  'Canada Should Be Grateful'
-   - qXK0kxXWBb8 | ongoing=False | publishedAt=2026-01-21T21:55:21Z | actualEndTime=None | effective=2026-01-21 21:55:21+00:00 | Trump Gripes About Norway, Not Winning Nobel Prize
-   - BukFAZ6_xo8 | ongoing=False | publishedAt=2026-01-21T21:55:46Z | actualEndTime=None | effective=2026-01-21 21:55:46+00:00 | Trump's Davos Speech in 3 Minutes
-   - s7EgbWQAesU | ongoing=False | publishedAt=2026-01-21T21:54:41Z | actualEndTime=None | effective=2026-01-21 21:54:41+00:00 | Finland President on Being a 'Trump Whisperer' at Davos
+   - PACqfVDfTwI | ongoing=False | publishedAt=2026-01-23T03:36:13Z | actualEndTime=None | effective=2026-01-23 03:36:13+00:00 | Intel Tumbles As Manufacturing Snags Hit Comeback | The Asia
+   - g1C_1q3XApk | ongoing=False | publishedAt=2026-01-23T01:43:17Z | actualEndTime=None | effective=2026-01-23 01:43:17+00:00 | Trump Meets Zelenskiy at Davos | Balance of Power 1/22/2026
+   - eebF1Uw1kXk | ongoing=False | publishedAt=2026-01-23T01:22:38Z | actualEndTime=None | effective=2026-01-23 01:22:38+00:00 | Zelenskiy Blasts Europe for Inaction Countering Putin | Bala
+   - p_HYzuJzVB8 | ongoing=False | publishedAt=2026-01-23T00:26:55Z | actualEndTime=None | effective=2026-01-23 00:26:55+00:00 | Stocks Climb as Small Caps Extend 13-Day Winning Streak | Th
+   - h4rHF3n3bQ4 | ongoing=False | publishedAt=2026-01-22T23:47:58Z | actualEndTime=None | effective=2026-01-22 23:47:58+00:00 | Mike Pence “hopeful” SCOTUS rules against Trump’s tariffs#sh
+   - mPskOe__XJI | ongoing=False | publishedAt=2026-01-22T21:53:10Z | actualEndTime=None | effective=2026-01-22 21:53:10+00:00 | Intel Struggles to Meet Demand, CEO Says After Earnings
+   - xGRy3KXDPPs | ongoing=False | publishedAt=2026-01-22T21:50:11Z | actualEndTime=None | effective=2026-01-22 21:50:11+00:00 | Stocks Mixed as Intel Slides on Weak Outlook | Closing Bell
+   - UlSOO1wNQto | ongoing=False | publishedAt=2026-01-22T21:25:09Z | actualEndTime=None | effective=2026-01-22 21:25:09+00:00 | Cathie Wood : AI boom will drive 7% GDP growth by end of dec
+   - M6kYUVdBSAg | ongoing=False | publishedAt=2026-01-22T21:24:39Z | actualEndTime=None | effective=2026-01-22 21:24:39+00:00 | What's in the deal for Greenland?
+   - Gpl08i14Y5k | ongoing=False | publishedAt=2026-01-22T21:21:16Z | actualEndTime=None | effective=2026-01-22 21:21:16+00:00 | Trump Can End the War With Russia, Ukraine's Zelenskiy Says
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Trump JUST Completely U-Turned [Total Game Changer]
-  URL: https://www.youtube.com/watch?v=Nc71c9A_4q8
-  publishedAt: 2026-01-21T20:55:12Z
+  제목: The Collapse of OpenAI | Exposing the Fraud.
+  URL: https://www.youtube.com/watch?v=e7biZYsG02o
+  publishedAt: 2026-01-23T01:47:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - e7biZYsG02o | ongoing=False | publishedAt=2026-01-23T01:47:27Z | actualEndTime=None | effective=2026-01-23 01:47:27+00:00 | The Collapse of OpenAI | Exposing the Fraud.
+   - rRhg1zWbVG0 | ongoing=False | publishedAt=2026-01-22T18:25:49Z | actualEndTime=2026-01-22T18:13:25Z | effective=2026-01-22 18:13:25+00:00 | stale trump taco's
    - Nc71c9A_4q8 | ongoing=False | publishedAt=2026-01-21T20:55:12Z | actualEndTime=None | effective=2026-01-21 20:55:12+00:00 | Trump JUST Completely U-Turned [Total Game Changer]
    - gQ3JFN6aeZc | ongoing=False | publishedAt=2026-01-21T17:39:24Z | actualEndTime=2026-01-21T17:33:05Z | effective=2026-01-21 17:33:05+00:00 | Trump is Starting to TACO
-   - OI_hJ6qSkKo | ongoing=False | publishedAt=2026-01-20T21:45:10Z | actualEndTime=None | effective=2026-01-20 21:45:10+00:00 | The World Capital War JUST Starting | This is Bad.
-   - vKqzlRXZId4 | ongoing=False | publishedAt=2026-01-20T16:46:48Z | actualEndTime=2026-01-20T16:42:05Z | effective=2026-01-20 16:42:05+00:00 | stocks tank
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 트럼프 관세 철회! 돌아온 'TACO' 장세에 증시 급등    -  2026/01/21
-  URL: https://www.youtube.com/watch?v=Xxnb_oFqdlE
-  publishedAt: 2026-01-21T23:15:01Z
+  제목: 【미국 증시 오늘의 요약】  테슬라 '무인' 로보택시 시작, 메타 5.7% 급등!  -  2026/01/22
+  URL: https://www.youtube.com/watch?v=7tlPMID6_P4
+  publishedAt: 2026-01-22T23:43:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 7tlPMID6_P4 | ongoing=False | publishedAt=2026-01-22T23:43:00Z | actualEndTime=None | effective=2026-01-22 23:43:00+00:00 | 【미국 증시 오늘의 요약】  테슬라 '무인' 로보택시 시작, 메타 5.7% 급등!  -  2026/01/22
+   - feCe3G_fiN8 | ongoing=False | publishedAt=2026-01-22T23:19:30Z | actualEndTime=2026-01-22T22:55:14Z | effective=2026-01-22 22:55:14+00:00 | [26년 01월 22일 목] 덴마크, '골든 돔 협의 열려 있다'｜ 일론 머스크, '다보스 포럼' 연설 ｜인
    - Xxnb_oFqdlE | ongoing=False | publishedAt=2026-01-21T23:15:01Z | actualEndTime=None | effective=2026-01-21 23:15:01+00:00 | 【미국 증시 오늘의 요약】 트럼프 관세 철회! 돌아온 'TACO' 장세에 증시 급등    -  2026/01
    - Q9F43Ryl6NE | ongoing=False | publishedAt=2026-01-21T22:36:38Z | actualEndTime=2026-01-21T22:15:28Z | effective=2026-01-21 22:15:28+00:00 | [26년 01월 21일 수]  트럼프 대통령, '다보스 포럼' 연설｜ 일본 국채 급락세 진정 ｜넷플릭스, 자
-   - 28HIGvYc8cs | ongoing=False | publishedAt=2026-01-20T23:23:00Z | actualEndTime=None | effective=2026-01-20 23:23:00+00:00 | 【미국 증시 오늘의 요약】 그린란드 관세 리스크 + 일본 국채 발작... 주식·채권·달러 다 무너졌다  - 
-   - BdwtlOCqWb0 | ongoing=False | publishedAt=2026-01-20T22:41:52Z | actualEndTime=2026-01-20T22:18:32Z | effective=2026-01-20 22:18:32+00:00 | [26년 01월 20일 화]  미국vs유럽 '그린란드' 문제로 갈등 격화｜ 일본 국채 금리 4% 돌파 ｜ 베
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 알테오젠 급락, 무엇이 문제인가?
-  URL: https://www.youtube.com/watch?v=zBlkxOaFslc
-  publishedAt: 2026-01-22T03:01:06Z
+  제목: 저는 안삽니다... 왜냐면요...
+  URL: https://www.youtube.com/watch?v=QX8JRMBvx9w
+  publishedAt: 2026-01-23T03:00:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QX8JRMBvx9w | ongoing=False | publishedAt=2026-01-23T03:00:35Z | actualEndTime=None | effective=2026-01-23 03:00:35+00:00 | 저는 안삽니다... 왜냐면요...
+   - c7U_qSzJTDU | ongoing=False | publishedAt=2026-01-23T00:10:14Z | actualEndTime=2026-01-23T00:02:00Z | effective=2026-01-23 00:02:00+00:00 | 그린란드, 미국 방위선에 포함!?ㅣ인텔 실적발표, 파운드리 어렵습니다ㅣ금도 5,000! 코스피도 5,000!
    - zBlkxOaFslc | ongoing=False | publishedAt=2026-01-22T03:01:06Z | actualEndTime=None | effective=2026-01-22 03:01:06+00:00 | 알테오젠 급락, 무엇이 문제인가?
    - lJLKAAcTxmQ | ongoing=False | publishedAt=2026-01-22T00:23:04Z | actualEndTime=2026-01-22T00:04:10Z | effective=2026-01-22 00:04:10+00:00 | 나토와 비공개 협상!! 유럽은 할 수 있는게 없다...??ㅣ원화 약세 참치않겠다!! 가능할까?ㅣ[아침시황&미
-   - PkY_20WNtDI | ongoing=False | publishedAt=2026-01-21T03:00:33Z | actualEndTime=None | effective=2026-01-21 03:00:33+00:00 | 엔화 공격이 시작되었습니다
-   - CWQseXf3xLM | ongoing=False | publishedAt=2026-01-21T00:41:22Z | actualEndTime=2026-01-21T00:01:05Z | effective=2026-01-21 00:01:05+00:00 | 버텨!! 트럼프 중간선거는 아직 10개월이나 남았어!!!ㅣ[아침시황&미국마감] #260121
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 그린란드와 스페이스엑스
+  URL: https://www.youtube.com/watch?v=2392FeeRPYc
+  publishedAt: 2026-01-22T18:33:20Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - UHZgpQyrTKY | ongoing=False | publishedAt=2026-01-20T19:18:02Z | actualEndTime=None | effective=2026-01-20 19:18:02+00:00 | 나스닥 폭락은 달러의 붕괴인가? (ft. 레이달리오)
+   - 2392FeeRPYc | ongoing=False | publishedAt=2026-01-22T18:33:20Z | actualEndTime=None | effective=2026-01-22 18:33:20+00:00 | 그린란드와 스페이스엑스
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - OGwlXAhf5fY | ongoing=False | publishedAt=2026-01-21T10:00:37Z | actualEndTime=None | effective=2026-01-21 10:00:37+00:00 | 이번에도 적중? 다보스포럼에서 찍은 2026년 증시 최대 리스크
-   - sSvolxYeS_8 | ongoing=False | publishedAt=2026-01-20T10:40:04Z | actualEndTime=None | effective=2026-01-20 10:40:04+00:00 | 올해 증시 쇼크 못 피한다? 족집게 보고서의 경고, 이번에도 적중할까
