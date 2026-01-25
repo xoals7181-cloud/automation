@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-24 13:06 (KST)
-Run: 38 (id=21308911753)
+생성 시각: 2026-01-25 13:39 (KST)
+Run: 39 (id=21327007720)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,53 +8,45 @@ Run: 38 (id=21308911753)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Massive Storm to Test Power Grids Across US This Weekend
-  URL: https://www.youtube.com/watch?v=kkF0FI68Bls
-  publishedAt: 2026-01-24T03:28:23Z
+  제목: Why the world keeps buying Israeli weapons #shorts #israel #defense #tech
+  URL: https://www.youtube.com/watch?v=Lg6Y6qETlas
+  publishedAt: 2026-01-25T04:00:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Lg6Y6qETlas | ongoing=False | publishedAt=2026-01-25T04:00:18Z | actualEndTime=None | effective=2026-01-25 04:00:18+00:00 | Why the world keeps buying Israeli weapons #shorts #israel #
+   - wcz7luRGzXs | ongoing=False | publishedAt=2026-01-25T03:01:07Z | actualEndTime=None | effective=2026-01-25 03:01:07+00:00 | Davos: G42 CEO Peng Xiao on UAE Chip Imports, AI Development
+   - WdbuYhw-qos | ongoing=False | publishedAt=2026-01-24T15:01:04Z | actualEndTime=None | effective=2026-01-24 15:01:04+00:00 | Why European Wine Could Get Pricier Under New US Tariffs
+   - hQMjDhenXmQ | ongoing=False | publishedAt=2026-01-24T13:01:24Z | actualEndTime=None | effective=2026-01-24 13:01:24+00:00 | Chrystia Freeland: ‘Ball Is In Putin’s Court’
+   - qAvo4K-MAmU | ongoing=False | publishedAt=2026-01-24T07:30:32Z | actualEndTime=None | effective=2026-01-24 07:30:32+00:00 | Davos: DeepMind's Ibrahim Sees WEF Conversations as Chance t
+   - quJJuHl6EJ0 | ongoing=False | publishedAt=2026-01-24T06:00:45Z | actualEndTime=None | effective=2026-01-24 06:00:45+00:00 | Africa’s Betting Boom: Big Money, Bigger Risks | Bloomberg N
    - kkF0FI68Bls | ongoing=False | publishedAt=2026-01-24T03:28:23Z | actualEndTime=None | effective=2026-01-24 03:28:23+00:00 | Massive Storm to Test Power Grids Across US This Weekend
    - Zoszjix-qtU | ongoing=False | publishedAt=2026-01-24T03:00:41Z | actualEndTime=None | effective=2026-01-24 03:00:41+00:00 | Davos: Mubadala CEO Al Mubarak on Monetization, AI, Private 
    - 97-J_afPt24 | ongoing=False | publishedAt=2026-01-24T00:49:56Z | actualEndTime=None | effective=2026-01-24 00:49:56+00:00 | FEMA Halts Firings With Massive Storm About to Hit | Balance
    - m9uHzDZ2Kv4 | ongoing=False | publishedAt=2026-01-24T00:00:55Z | actualEndTime=None | effective=2026-01-24 00:00:55+00:00 | Wall Street Week | Chrystia Freeland, Wine Tariffs, Ecuador’
-   - rsw8EH3K7Mg | ongoing=False | publishedAt=2026-01-23T23:40:04Z | actualEndTime=None | effective=2026-01-23 23:40:04+00:00 | What's Next For The Trump Administration And Iran?
-   - agfSHXujht4 | ongoing=False | publishedAt=2026-01-23T23:29:55Z | actualEndTime=None | effective=2026-01-23 23:29:55+00:00 | S&P 500 Poised for First Two‑Week Loss Since June as Silver 
-   - W7PRV1DzqTg | ongoing=False | publishedAt=2026-01-23T22:53:02Z | actualEndTime=None | effective=2026-01-23 22:53:02+00:00 | Is FEMA Ready to Assist With Winter Storm?
-   - 112kZ3fKIaE | ongoing=False | publishedAt=2026-01-23T22:50:11Z | actualEndTime=None | effective=2026-01-23 22:50:11+00:00 | S&P 500 Ends Week Lower After Volatile Trading | Closing Bel
-   - 89xK9z6Pv1I | ongoing=False | publishedAt=2026-01-23T22:38:53Z | actualEndTime=None | effective=2026-01-23 22:38:53+00:00 | Chrystia Freeland: “The ball is in Putin’s court” #shorts #p
-   - rVIPe57_ZRQ | ongoing=False | publishedAt=2026-01-23T22:09:54Z | actualEndTime=None | effective=2026-01-23 22:09:54+00:00 | Former TikTok CEO Mayer Weighs In on US Deal, Disney and War
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - e7biZYsG02o | ongoing=False | publishedAt=2026-01-23T01:47:27Z | actualEndTime=None | effective=2026-01-23 01:47:27+00:00 | The Collapse of OpenAI | Exposing the Fraud.
-   - rRhg1zWbVG0 | ongoing=False | publishedAt=2026-01-22T18:25:49Z | actualEndTime=2026-01-22T18:13:25Z | effective=2026-01-22 18:13:25+00:00 | stale trump taco's
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  슈퍼위크 앞둔 폭풍전야... 혼조세 속 개인투자자의 '63억불' 베팅  -  2026/01/23
-  URL: https://www.youtube.com/watch?v=xUiqpf4FIb4
-  publishedAt: 2026-01-23T23:23:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - xUiqpf4FIb4 | ongoing=False | publishedAt=2026-01-23T23:23:01Z | actualEndTime=None | effective=2026-01-23 23:23:01+00:00 | 【미국 증시 오늘의 요약】  슈퍼위크 앞둔 폭풍전야... 혼조세 속 개인투자자의 '63억불' 베팅  -  2
    - fCwXSjOBbMU | ongoing=False | publishedAt=2026-01-23T22:44:57Z | actualEndTime=2026-01-23T22:23:33Z | effective=2026-01-23 22:23:33+00:00 | [26년 01월 23일 금] 중국, 엔비디아 H200 구매 준비 허용? ｜ 틱톡, 미국 합작법인 설립 공식 
-   - 7tlPMID6_P4 | ongoing=False | publishedAt=2026-01-22T23:43:00Z | actualEndTime=None | effective=2026-01-22 23:43:00+00:00 | 【미국 증시 오늘의 요약】  테슬라 '무인' 로보택시 시작, 메타 5.7% 급등!  -  2026/01/22
-   - feCe3G_fiN8 | ongoing=False | publishedAt=2026-01-22T23:19:30Z | actualEndTime=2026-01-22T22:55:14Z | effective=2026-01-22 22:55:14+00:00 | [26년 01월 22일 목] 덴마크, '골든 돔 협의 열려 있다'｜ 일론 머스크, '다보스 포럼' 연설 ｜인
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 로봇 주식이 문제가 아닙니다
+  URL: https://www.youtube.com/watch?v=kr1zNAInJ4M
+  publishedAt: 2026-01-25T01:29:31Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - QX8JRMBvx9w | ongoing=False | publishedAt=2026-01-23T03:00:35Z | actualEndTime=None | effective=2026-01-23 03:00:35+00:00 | 저는 안삽니다... 왜냐면요...
-   - c7U_qSzJTDU | ongoing=False | publishedAt=2026-01-23T00:10:14Z | actualEndTime=2026-01-23T00:02:00Z | effective=2026-01-23 00:02:00+00:00 | 그린란드, 미국 방위선에 포함!?ㅣ인텔 실적발표, 파운드리 어렵습니다ㅣ금도 5,000! 코스피도 5,000!
+   - kr1zNAInJ4M | ongoing=False | publishedAt=2026-01-25T01:29:31Z | actualEndTime=None | effective=2026-01-25 01:29:31+00:00 | 로봇 주식이 문제가 아닙니다
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 2392FeeRPYc | ongoing=False | publishedAt=2026-01-22T18:33:20Z | actualEndTime=None | effective=2026-01-22 18:33:20+00:00 | 그린란드와 스페이스엑스
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
