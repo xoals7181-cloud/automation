@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-25 13:39 (KST)
-Run: 39 (id=21327007720)
+생성 시각: 2026-01-26 13:43 (KST)
+Run: 40 (id=21346565446)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,40 +8,44 @@ Run: 39 (id=21327007720)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Why the world keeps buying Israeli weapons #shorts #israel #defense #tech
-  URL: https://www.youtube.com/watch?v=Lg6Y6qETlas
-  publishedAt: 2026-01-25T04:00:18Z
+  제목: Traders Game Out US Plans for Japanese Yen | The Asia Trade 1/26/2026
+  URL: https://www.youtube.com/watch?v=dw260hpbqe0
+  publishedAt: 2026-01-26T02:46:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - dw260hpbqe0 | ongoing=False | publishedAt=2026-01-26T02:46:43Z | actualEndTime=None | effective=2026-01-26 02:46:43+00:00 | Traders Game Out US Plans for Japanese Yen | The Asia Trade 
+   - XbFaD65NMJ4 | ongoing=False | publishedAt=2026-01-25T20:29:29Z | actualEndTime=None | effective=2026-01-25 20:29:29+00:00 | Power Outages Cascade as Big Winter Storm Reaches US East Co
+   - uX3J-40fg_8 | ongoing=False | publishedAt=2026-01-25T15:01:26Z | actualEndTime=None | effective=2026-01-25 15:01:26+00:00 | How global warming is changing where the world gets its choc
+   - KC44Ybnmfv8 | ongoing=False | publishedAt=2026-01-25T15:00:36Z | actualEndTime=None | effective=2026-01-25 15:00:36+00:00 | Why Israeli Weapons Are in Demand Despite Global Criticism
+   - GbQ_9GYCYvE | ongoing=False | publishedAt=2026-01-25T13:00:23Z | actualEndTime=None | effective=2026-01-25 13:00:23+00:00 | Ecuador’s Cocoa Boom Shows How Climate Change Is Redrawing A
+   - xfBAuPE_jnw | ongoing=False | publishedAt=2026-01-25T06:00:49Z | actualEndTime=None | effective=2026-01-25 06:00:49+00:00 | Why Super Group Is Betting on Gambling in Africa
    - Lg6Y6qETlas | ongoing=False | publishedAt=2026-01-25T04:00:18Z | actualEndTime=None | effective=2026-01-25 04:00:18+00:00 | Why the world keeps buying Israeli weapons #shorts #israel #
    - wcz7luRGzXs | ongoing=False | publishedAt=2026-01-25T03:01:07Z | actualEndTime=None | effective=2026-01-25 03:01:07+00:00 | Davos: G42 CEO Peng Xiao on UAE Chip Imports, AI Development
    - WdbuYhw-qos | ongoing=False | publishedAt=2026-01-24T15:01:04Z | actualEndTime=None | effective=2026-01-24 15:01:04+00:00 | Why European Wine Could Get Pricier Under New US Tariffs
    - hQMjDhenXmQ | ongoing=False | publishedAt=2026-01-24T13:01:24Z | actualEndTime=None | effective=2026-01-24 13:01:24+00:00 | Chrystia Freeland: ‘Ball Is In Putin’s Court’
-   - qAvo4K-MAmU | ongoing=False | publishedAt=2026-01-24T07:30:32Z | actualEndTime=None | effective=2026-01-24 07:30:32+00:00 | Davos: DeepMind's Ibrahim Sees WEF Conversations as Chance t
-   - quJJuHl6EJ0 | ongoing=False | publishedAt=2026-01-24T06:00:45Z | actualEndTime=None | effective=2026-01-24 06:00:45+00:00 | Africa’s Betting Boom: Big Money, Bigger Risks | Bloomberg N
-   - kkF0FI68Bls | ongoing=False | publishedAt=2026-01-24T03:28:23Z | actualEndTime=None | effective=2026-01-24 03:28:23+00:00 | Massive Storm to Test Power Grids Across US This Weekend
-   - Zoszjix-qtU | ongoing=False | publishedAt=2026-01-24T03:00:41Z | actualEndTime=None | effective=2026-01-24 03:00:41+00:00 | Davos: Mubadala CEO Al Mubarak on Monetization, AI, Private 
-   - 97-J_afPt24 | ongoing=False | publishedAt=2026-01-24T00:49:56Z | actualEndTime=None | effective=2026-01-24 00:49:56+00:00 | FEMA Halts Firings With Massive Storm About to Hit | Balance
-   - m9uHzDZ2Kv4 | ongoing=False | publishedAt=2026-01-24T00:00:55Z | actualEndTime=None | effective=2026-01-24 00:00:55+00:00 | Wall Street Week | Chrystia Freeland, Wine Tariffs, Ecuador’
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: The Fed JUST Panic'd: MAJOR Crisis BREWING.
+  URL: https://www.youtube.com/watch?v=DFwnFhj4WHs
+  publishedAt: 2026-01-25T23:22:15Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - DFwnFhj4WHs | ongoing=False | publishedAt=2026-01-25T23:22:15Z | actualEndTime=None | effective=2026-01-25 23:22:15+00:00 | The Fed JUST Panic'd: MAJOR Crisis BREWING.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - xUiqpf4FIb4 | ongoing=False | publishedAt=2026-01-23T23:23:01Z | actualEndTime=None | effective=2026-01-23 23:23:01+00:00 | 【미국 증시 오늘의 요약】  슈퍼위크 앞둔 폭풍전야... 혼조세 속 개인투자자의 '63억불' 베팅  -  2
-   - fCwXSjOBbMU | ongoing=False | publishedAt=2026-01-23T22:44:57Z | actualEndTime=2026-01-23T22:23:33Z | effective=2026-01-23 22:23:33+00:00 | [26년 01월 23일 금] 중국, 엔비디아 H200 구매 준비 허용? ｜ 틱톡, 미국 합작법인 설립 공식 
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 로봇 주식이 문제가 아닙니다
-  URL: https://www.youtube.com/watch?v=kr1zNAInJ4M
-  publishedAt: 2026-01-25T01:29:31Z
+  제목: 한국은 반도체, 일본은 엔화개입, 중국은 장유사 축출, 미국은 주 방위군 출동... 진짜 미친것 같아요 ㄷㄷㄷㅣ[아침시황&미국마감] #260126
+  URL: https://www.youtube.com/watch?v=DFMuylxUjQg
+  publishedAt: 2026-01-26T00:09:54Z
+  actualEndTime: 2026-01-26T00:03:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - DFMuylxUjQg | ongoing=False | publishedAt=2026-01-26T00:09:54Z | actualEndTime=2026-01-26T00:03:34Z | effective=2026-01-26 00:03:34+00:00 | 한국은 반도체, 일본은 엔화개입, 중국은 장유사 축출, 미국은 주 방위군 출동... 진짜 미친것 같아요 ㄷㄷ
    - kr1zNAInJ4M | ongoing=False | publishedAt=2026-01-25T01:29:31Z | actualEndTime=None | effective=2026-01-25 01:29:31+00:00 | 로봇 주식이 문제가 아닙니다
 
 - 내일은 투자왕 - 김단테
