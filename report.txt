@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-26 13:43 (KST)
-Run: 40 (id=21346565446)
+생성 시각: 2026-01-27 13:34 (KST)
+Run: 41 (id=21384676818)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,50 +8,65 @@ Run: 40 (id=21346565446)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Traders Game Out US Plans for Japanese Yen | The Asia Trade 1/26/2026
-  URL: https://www.youtube.com/watch?v=dw260hpbqe0
-  publishedAt: 2026-01-26T02:46:43Z
+  제목: Trump Threatens to Hike Tariffs on South Korea | The Asia Trade 1/27/2026
+  URL: https://www.youtube.com/watch?v=MjD2uFREDuE
+  publishedAt: 2026-01-27T03:40:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - dw260hpbqe0 | ongoing=False | publishedAt=2026-01-26T02:46:43Z | actualEndTime=None | effective=2026-01-26 02:46:43+00:00 | Traders Game Out US Plans for Japanese Yen | The Asia Trade 
-   - XbFaD65NMJ4 | ongoing=False | publishedAt=2026-01-25T20:29:29Z | actualEndTime=None | effective=2026-01-25 20:29:29+00:00 | Power Outages Cascade as Big Winter Storm Reaches US East Co
-   - uX3J-40fg_8 | ongoing=False | publishedAt=2026-01-25T15:01:26Z | actualEndTime=None | effective=2026-01-25 15:01:26+00:00 | How global warming is changing where the world gets its choc
-   - KC44Ybnmfv8 | ongoing=False | publishedAt=2026-01-25T15:00:36Z | actualEndTime=None | effective=2026-01-25 15:00:36+00:00 | Why Israeli Weapons Are in Demand Despite Global Criticism
-   - GbQ_9GYCYvE | ongoing=False | publishedAt=2026-01-25T13:00:23Z | actualEndTime=None | effective=2026-01-25 13:00:23+00:00 | Ecuador’s Cocoa Boom Shows How Climate Change Is Redrawing A
-   - xfBAuPE_jnw | ongoing=False | publishedAt=2026-01-25T06:00:49Z | actualEndTime=None | effective=2026-01-25 06:00:49+00:00 | Why Super Group Is Betting on Gambling in Africa
-   - Lg6Y6qETlas | ongoing=False | publishedAt=2026-01-25T04:00:18Z | actualEndTime=None | effective=2026-01-25 04:00:18+00:00 | Why the world keeps buying Israeli weapons #shorts #israel #
-   - wcz7luRGzXs | ongoing=False | publishedAt=2026-01-25T03:01:07Z | actualEndTime=None | effective=2026-01-25 03:01:07+00:00 | Davos: G42 CEO Peng Xiao on UAE Chip Imports, AI Development
-   - WdbuYhw-qos | ongoing=False | publishedAt=2026-01-24T15:01:04Z | actualEndTime=None | effective=2026-01-24 15:01:04+00:00 | Why European Wine Could Get Pricier Under New US Tariffs
-   - hQMjDhenXmQ | ongoing=False | publishedAt=2026-01-24T13:01:24Z | actualEndTime=None | effective=2026-01-24 13:01:24+00:00 | Chrystia Freeland: ‘Ball Is In Putin’s Court’
+   - MjD2uFREDuE | ongoing=False | publishedAt=2026-01-27T03:40:35Z | actualEndTime=None | effective=2026-01-27 03:40:35+00:00 | Trump Threatens to Hike Tariffs on South Korea | The Asia Tr
+   - U31zxGhKXc0 | ongoing=False | publishedAt=2026-01-27T02:00:33Z | actualEndTime=None | effective=2026-01-27 02:00:33+00:00 | TikTok Avoids US Ban With New Deal After Years of Drama
+   - kCo6T1mB3AE | ongoing=False | publishedAt=2026-01-27T00:33:16Z | actualEndTime=None | effective=2026-01-27 00:33:16+00:00 | Trump Signals Minnesota Strategy Shift | Balance of Power 01
+   - 3L2p1p8pDCQ | ongoing=False | publishedAt=2026-01-26T23:45:45Z | actualEndTime=None | effective=2026-01-26 23:45:45+00:00 | Kristi Noem needs to be removed, says Rep. Ivey #shorts #pol
+   - CPi92PG9BY0 | ongoing=False | publishedAt=2026-01-26T23:16:36Z | actualEndTime=None | effective=2026-01-26 23:16:36+00:00 | US Stocks Rise as Dollar Weakens and Precious Metals Rally |
+   - bX4ZE6Os0Go | ongoing=False | publishedAt=2026-01-26T23:00:45Z | actualEndTime=None | effective=2026-01-26 23:00:45+00:00 | Why Consumers Are Obsessed With Zero Sugar Soda
+   - XXcqBqn3ZYc | ongoing=False | publishedAt=2026-01-26T22:52:34Z | actualEndTime=None | effective=2026-01-26 22:52:34+00:00 | ICE Has to Completely Withdraw From St. Paul, Mayor Says
+   - 5xfvyChh6jQ | ongoing=False | publishedAt=2026-01-26T22:30:01Z | actualEndTime=None | effective=2026-01-26 22:30:01+00:00 | For New York City Families, Free Childcare Can’t Come Soon E
+   - Gaiuw8a4a7o | ongoing=False | publishedAt=2026-01-26T22:23:37Z | actualEndTime=None | effective=2026-01-26 22:23:37+00:00 | Bezos
+   - uamYx9jjWBE | ongoing=False | publishedAt=2026-01-26T22:22:44Z | actualEndTime=None | effective=2026-01-26 22:22:44+00:00 | Pippa
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Fed JUST Panic'd: MAJOR Crisis BREWING.
-  URL: https://www.youtube.com/watch?v=DFwnFhj4WHs
-  publishedAt: 2026-01-25T23:22:15Z
+  제목: Stonks
+  URL: https://www.youtube.com/watch?v=_f3WAqgH4uw
+  publishedAt: 2026-01-26T16:44:15Z
+  actualEndTime: 2026-01-26T16:37:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - _f3WAqgH4uw | ongoing=False | publishedAt=2026-01-26T16:44:15Z | actualEndTime=2026-01-26T16:37:39Z | effective=2026-01-26 16:37:39+00:00 | Stonks
    - DFwnFhj4WHs | ongoing=False | publishedAt=2026-01-25T23:22:15Z | actualEndTime=None | effective=2026-01-25 23:22:15+00:00 | The Fed JUST Panic'd: MAJOR Crisis BREWING.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 트럼프 "한국 관세 25% 즉각 인상" 선전포고... 미 증시, 악재 뚫고 상승 마감  -  2026/01/26
+  URL: https://www.youtube.com/watch?v=VI3E2f5m0Qg
+  publishedAt: 2026-01-26T23:25:00Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - VI3E2f5m0Qg | ongoing=False | publishedAt=2026-01-26T23:25:00Z | actualEndTime=None | effective=2026-01-26 23:25:00+00:00 | 【미국 증시 오늘의 요약】 트럼프 "한국 관세 25% 즉각 인상" 선전포고... 미 증시, 악재 뚫고 상승 
+   - li9mnW5_D_8 | ongoing=False | publishedAt=2026-01-26T23:01:47Z | actualEndTime=2026-01-26T22:40:43Z | effective=2026-01-26 22:40:43+00:00 | [26년 01월 26일 월]  백악관 대변인 '언론 브리핑' ｜ 트럼프 행정부, 'USA 레어어스'에 투자 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 한국은 반도체, 일본은 엔화개입, 중국은 장유사 축출, 미국은 주 방위군 출동... 진짜 미친것 같아요 ㄷㄷㄷㅣ[아침시황&미국마감] #260126
-  URL: https://www.youtube.com/watch?v=DFMuylxUjQg
-  publishedAt: 2026-01-26T00:09:54Z
-  actualEndTime: 2026-01-26T00:03:34Z
+  제목: AI 버블은 '일론 머스크'로 끝납니다
+  URL: https://www.youtube.com/watch?v=UPBaXAHAYsM
+  publishedAt: 2026-01-27T03:00:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UPBaXAHAYsM | ongoing=False | publishedAt=2026-01-27T03:00:26Z | actualEndTime=None | effective=2026-01-27 03:00:26+00:00 | AI 버블은 '일론 머스크'로 끝납니다
+   - AvF4hMOiWTw | ongoing=False | publishedAt=2026-01-27T00:01:38Z | actualEndTime=2026-01-26T23:55:04Z | effective=2026-01-26 23:55:04+00:00 | 금 5,000달러, 은 100달러, 심상치 않은 변동성...?ㅣ또 다시 셧다운? 이거 괜찮은거 맞아?ㅣ마이크
    - DFMuylxUjQg | ongoing=False | publishedAt=2026-01-26T00:09:54Z | actualEndTime=2026-01-26T00:03:34Z | effective=2026-01-26 00:03:34+00:00 | 한국은 반도체, 일본은 엔화개입, 중국은 장유사 축출, 미국은 주 방위군 출동... 진짜 미친것 같아요 ㄷㄷ
-   - kr1zNAInJ4M | ongoing=False | publishedAt=2026-01-25T01:29:31Z | actualEndTime=None | effective=2026-01-25 01:29:31+00:00 | 로봇 주식이 문제가 아닙니다
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 5000달러 돌파! 금값이 미친 진짜 이유.
+  URL: https://www.youtube.com/watch?v=oaArIKp1dSk
+  publishedAt: 2026-01-26T19:14:16Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - oaArIKp1dSk | ongoing=False | publishedAt=2026-01-26T19:14:16Z | actualEndTime=None | effective=2026-01-26 19:14:16+00:00 | 5000달러 돌파! 금값이 미친 진짜 이유.
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - EGNCZLYkJQ0 | ongoing=False | publishedAt=2026-01-26T11:16:10Z | actualEndTime=None | effective=2026-01-26 11:16:10+00:00 | 트럼프발 대혼돈에 미 증시에서 돈 빠져나간다? 25년 증시 쇼크 데자뷰일까
