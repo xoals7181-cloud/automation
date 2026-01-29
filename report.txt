@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-28 13:16 (KST)
-Run: 42 (id=21424758077)
+생성 시각: 2026-01-29 13:58 (KST)
+Run: 43 (id=21466251007)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,69 @@ Run: 42 (id=21424758077)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Is the US Set to Strike Iran?
-  URL: https://www.youtube.com/watch?v=BAhYaiL1ywI
-  publishedAt: 2026-01-28T03:31:33Z
+  제목: Senators Are Talking But No Shutdown Deal Sighted | Balance of Power 01/28/26
+  URL: https://www.youtube.com/watch?v=UPQmg-YKO8s
+  publishedAt: 2026-01-29T01:05:10Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - BAhYaiL1ywI | ongoing=False | publishedAt=2026-01-28T03:31:33Z | actualEndTime=None | effective=2026-01-28 03:31:33+00:00 | Is the US Set to Strike Iran?
-   - nyCP0tAtZdA | ongoing=False | publishedAt=2026-01-28T03:06:57Z | actualEndTime=None | effective=2026-01-28 03:06:57+00:00 | Why Do Japan’s Market Meltdowns Cause Global Chaos?
-   - g2myZC4RpE4 | ongoing=False | publishedAt=2026-01-28T00:39:00Z | actualEndTime=None | effective=2026-01-28 00:39:00+00:00 | Impeachment Threat Growing for Kristi Noem | Balance of Powe
-   - SaJuGZbpKdM | ongoing=False | publishedAt=2026-01-27T23:59:00Z | actualEndTime=None | effective=2026-01-27 23:59:00+00:00 | S&P 500 Rises as Dollar Slides, Market Gains on Earnings | T
-   - FiToueKA44U | ongoing=False | publishedAt=2026-01-27T23:08:47Z | actualEndTime=None | effective=2026-01-27 23:08:47+00:00 | S&P 500 Hits Record as Dollar Weakens | Closing Bell
-   - LsZEANgbIjk | ongoing=False | publishedAt=2026-01-27T22:01:45Z | actualEndTime=None | effective=2026-01-27 22:01:45+00:00 | The US Dollar Is Still Dominant, Cantrill Says
-   - A5_OQ-9A8XM | ongoing=False | publishedAt=2026-01-27T21:38:12Z | actualEndTime=None | effective=2026-01-27 21:38:12+00:00 | Trump Says US Dollar Is 'Doing Great'
-   - mU4tLFMuOeU | ongoing=False | publishedAt=2026-01-27T21:12:57Z | actualEndTime=None | effective=2026-01-27 21:12:57+00:00 | Bitcoin Seen as Safe Haven by Some, Vujinovic Says
-   - CacoZcBISy8 | ongoing=False | publishedAt=2026-01-27T21:03:03Z | actualEndTime=None | effective=2026-01-27 21:03:03+00:00 | Dollar's 'Relentless' Slide, More CEOs Respond to MN Unrest 
-   - MiQgU6AMRpU | ongoing=False | publishedAt=2026-01-27T20:36:49Z | actualEndTime=None | effective=2026-01-27 20:36:49+00:00 | Trump Shifts Strategy in Minnesota After Pretti Deadly Shoot
+   - UPQmg-YKO8s | ongoing=False | publishedAt=2026-01-29T01:05:10Z | actualEndTime=None | effective=2026-01-29 01:05:10+00:00 | Senators Are Talking But No Shutdown Deal Sighted | Balance 
+   - 6xz6KoJYxFI | ongoing=False | publishedAt=2026-01-29T00:08:38Z | actualEndTime=None | effective=2026-01-29 00:08:38+00:00 | Fed Holds Rates as Big Tech Earnings Hit Markets | The Close
+   - 3ls3yC6_aME | ongoing=False | publishedAt=2026-01-28T23:36:26Z | actualEndTime=None | effective=2026-01-28 23:36:26+00:00 | S&P 500 Pulls Back as Big Tech Earnings Land | Closing Bell
+   - knnoETNFR9Y | ongoing=False | publishedAt=2026-01-28T22:38:08Z | actualEndTime=None | effective=2026-01-28 22:38:08+00:00 | Tesla Plans $2 Billion Investment in Musk’s xAI
+   - PWWS2obtfHs | ongoing=False | publishedAt=2026-01-28T22:29:14Z | actualEndTime=None | effective=2026-01-28 22:29:14+00:00 | Bloomberg Surveillance: The Fed Decides 1/28/2025
+   - LHkUAqLUyWc | ongoing=False | publishedAt=2026-01-28T22:15:24Z | actualEndTime=None | effective=2026-01-28 22:15:24+00:00 | Shareholders Have No Say in Tesla, Gerber Says
+   - jtrVc_DVcdI | ongoing=False | publishedAt=2026-01-28T22:14:08Z | actualEndTime=None | effective=2026-01-28 22:14:08+00:00 | Zuckerberg Is Doing the Right Thing for Meta, Futurum Group 
+   - liKb-MY64M0 | ongoing=False | publishedAt=2026-01-28T21:57:45Z | actualEndTime=2026-01-28T21:03:22Z | effective=2026-01-28 21:03:22+00:00 | LIVE: Federal Reserve Holds Rates Steady | Special Coverage
+   - -UnSMAopJ0c | ongoing=False | publishedAt=2026-01-28T21:44:08Z | actualEndTime=None | effective=2026-01-28 21:44:08+00:00 | Microsoft to Outperform This Year, D.A. Davidson's Luria Say
+   - 1MEFFXwmcm0 | ongoing=False | publishedAt=2026-01-28T21:44:24Z | actualEndTime=None | effective=2026-01-28 21:44:24+00:00 | Trump’s Border Patrol Commander Bovino Is Leaving Minnesota 
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: HOLY!! Trump's going to FLIP EVERYTHING at the Fed! GAME CHANGER
-  URL: https://www.youtube.com/watch?v=BRP8JQvFYMU
-  publishedAt: 2026-01-28T01:02:41Z
+  제목: This is INSANE | $6 Trillion of America is CLUELESS
+  URL: https://www.youtube.com/watch?v=dDVelIFFlZU
+  publishedAt: 2026-01-29T03:58:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - BRP8JQvFYMU | ongoing=False | publishedAt=2026-01-28T01:02:41Z | actualEndTime=None | effective=2026-01-28 01:02:41+00:00 | HOLY!! Trump's going to FLIP EVERYTHING at the Fed! GAME CHA
+   - dDVelIFFlZU | ongoing=False | publishedAt=2026-01-29T03:58:47Z | actualEndTime=None | effective=2026-01-29 03:58:47+00:00 | This is INSANE | $6 Trillion of America is CLUELESS
+   - 7_8t4ietHaw | ongoing=False | publishedAt=2026-01-28T21:50:36Z | actualEndTime=2026-01-28T21:29:51Z | effective=2026-01-28 21:29:51+00:00 | Tesla, Microsoft, Meta Earnings LIVE
+   - pGtjwbkYDfI | ongoing=False | publishedAt=2026-01-28T20:36:58Z | actualEndTime=None | effective=2026-01-28 20:36:58+00:00 | WHOA! I'VE **NEVER** Seen Jerome Powell like this [Fed Annou
+   - BRP8JQvFYMU | ongoing=False | publishedAt=2026-01-28T01:02:41Z | actualEndTime=None | effective=2026-01-28 01:02:41+00:00 | Trump's Secret Plan EXPOSED: Rick Rieder for Fed Chair
    - 5SUQFfcNtyU | ongoing=False | publishedAt=2026-01-27T18:54:01Z | actualEndTime=None | effective=2026-01-27 18:54:01+00:00 | The Private Credit Blow is WORSENING | Another Collapse
-   - _f3WAqgH4uw | ongoing=False | publishedAt=2026-01-26T16:44:15Z | actualEndTime=2026-01-26T16:37:39Z | effective=2026-01-26 16:37:39+00:00 | Stonks
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】S&P500 사상 최고치 경신! 근데 달러는 4년 만에 '대폭락'?   -  2026/01/27
-  URL: https://www.youtube.com/watch?v=SSR5YbMYzdc
-  publishedAt: 2026-01-27T23:46:00Z
+  제목: 【미국 증시 오늘의 요약】테슬라·메타 실적 호조, 마이크로소프트 AI 지출 우려… 엇갈린 빅테크   -  2026/01/28
+  URL: https://www.youtube.com/watch?v=LzvLYG6l6h8
+  publishedAt: 2026-01-29T00:20:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - LzvLYG6l6h8 | ongoing=False | publishedAt=2026-01-29T00:20:00Z | actualEndTime=None | effective=2026-01-29 00:20:00+00:00 | 【미국 증시 오늘의 요약】테슬라·메타 실적 호조, 마이크로소프트 AI 지출 우려… 엇갈린 빅테크   -  2
+   - DA2Puf2IXzY | ongoing=False | publishedAt=2026-01-29T00:01:04Z | actualEndTime=2026-01-28T23:37:18Z | effective=2026-01-28 23:37:18+00:00 | [26년 01월 28일 수]  실적: 마이크로소프트, 테슬라, 메타 ｜ASML, SK하이닉스 어닝 서프라이즈
    - SSR5YbMYzdc | ongoing=False | publishedAt=2026-01-27T23:46:00Z | actualEndTime=None | effective=2026-01-27 23:46:00+00:00 | 【미국 증시 오늘의 요약】S&P500 사상 최고치 경신! 근데 달러는 4년 만에 '대폭락'?   -  202
    - chYgGg7AhRY | ongoing=False | publishedAt=2026-01-27T23:24:24Z | actualEndTime=2026-01-27T23:00:15Z | effective=2026-01-27 23:00:15+00:00 | [26년 01월 27일 화]  미 정부, 2027년 메디케어 지급률 동결 제안 ｜ 메모리 반도체 초강세 ｜ 
-   - VI3E2f5m0Qg | ongoing=False | publishedAt=2026-01-26T23:25:00Z | actualEndTime=None | effective=2026-01-26 23:25:00+00:00 | 【미국 증시 오늘의 요약】 트럼프 "한국 관세 25% 즉각 인상" 선전포고... 미 증시, 악재 뚫고 상승 
-   - li9mnW5_D_8 | ongoing=False | publishedAt=2026-01-26T23:01:47Z | actualEndTime=2026-01-26T22:40:43Z | effective=2026-01-26 22:40:43+00:00 | [26년 01월 26일 월]  백악관 대변인 '언론 브리핑' ｜ 트럼프 행정부, 'USA 레어어스'에 투자 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 이번주에 101번 들었던 질문, 딱 말해드릴게요ㅣ#삼성전자 #SK하이닉스
-  URL: https://www.youtube.com/watch?v=qnSEH9nvQ3U
-  publishedAt: 2026-01-28T03:01:04Z
+  제목: [같이 욕해요] 삼성전자 2025년 4분기 컨퍼런스콜 LIVE
+  URL: https://www.youtube.com/watch?v=WsrKKDK1w1g
+  publishedAt: 2026-01-29T02:53:19Z
+  actualEndTime: 2026-01-29T02:28:21Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - WsrKKDK1w1g | ongoing=False | publishedAt=2026-01-29T02:53:19Z | actualEndTime=2026-01-29T02:28:21Z | effective=2026-01-29 02:28:21+00:00 | [같이 욕해요] 삼성전자 2025년 4분기 컨퍼런스콜 LIVE
+   - hbwkBMO7QHY | ongoing=False | publishedAt=2026-01-29T00:25:17Z | actualEndTime=2026-01-29T00:17:53Z | effective=2026-01-29 00:17:53+00:00 | 실적을 보면 미래가 보인다!!!!ㅣ[아침시황&미국마감] #260129
    - qnSEH9nvQ3U | ongoing=False | publishedAt=2026-01-28T03:01:04Z | actualEndTime=None | effective=2026-01-28 03:01:04+00:00 | 이번주에 101번 들었던 질문, 딱 말해드릴게요ㅣ#삼성전자 #SK하이닉스
    - qSKz3KQw6XQ | ongoing=False | publishedAt=2026-01-28T00:04:20Z | actualEndTime=2026-01-27T23:55:43Z | effective=2026-01-27 23:55:43+00:00 | 기쁘다 실적 오셨네! 반도체 가즈아!!!!ㅣ달러 약세, 코스피에 호재인 이유ㅣ[아침시황&미국마감] #2601
-   - UPBaXAHAYsM | ongoing=False | publishedAt=2026-01-27T03:00:26Z | actualEndTime=None | effective=2026-01-27 03:00:26+00:00 | AI 버블은 '일론 머스크'로 끝납니다
-   - AvF4hMOiWTw | ongoing=False | publishedAt=2026-01-27T00:01:38Z | actualEndTime=2026-01-26T23:55:04Z | effective=2026-01-26 23:55:04+00:00 | 금 5,000달러, 은 100달러, 심상치 않은 변동성...?ㅣ또 다시 셧다운? 이거 괜찮은거 맞아?ㅣ마이크
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 솔직히 말하면… 이 인공지능 툴은 너무 위험합니다. (클로드봇)
-  URL: https://www.youtube.com/watch?v=-JghA4b8guM
-  publishedAt: 2026-01-27T17:48:27Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - -JghA4b8guM | ongoing=False | publishedAt=2026-01-27T17:48:27Z | actualEndTime=None | effective=2026-01-27 17:48:27+00:00 | 솔직히 말하면… 이 인공지능 툴은 너무 위험합니다. (클로드봇)
-   - oaArIKp1dSk | ongoing=False | publishedAt=2026-01-26T19:14:16Z | actualEndTime=None | effective=2026-01-26 19:14:16+00:00 | 5000달러 돌파! 금값이 미친 진짜 이유.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - T68rjDE41Tg | ongoing=False | publishedAt=2026-01-28T11:37:27Z | actualEndTime=None | effective=2026-01-28 11:37:27+00:00 | GDP 7% 시대 시작된다? 혁신주 대가가 찍은 기술 혁명 수혜주들
    - utF8DycjVaI | ongoing=False | publishedAt=2026-01-27T10:26:35Z | actualEndTime=None | effective=2026-01-27 10:26:35+00:00 | 트럼프 행정부의 역대급 매수, 20년만의 슈퍼사이클 신호일까
-   - EGNCZLYkJQ0 | ongoing=False | publishedAt=2026-01-26T11:16:10Z | actualEndTime=None | effective=2026-01-26 11:16:10+00:00 | 트럼프발 대혼돈에 미 증시에서 돈 빠져나간다? 25년 증시 쇼크 데자뷰일까
