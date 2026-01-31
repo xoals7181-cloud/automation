@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-01-30 14:12 (KST)
-Run: 44 (id=21505210106)
+생성 시각: 2026-01-31 13:53 (KST)
+Run: 45 (id=21539058463)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,69 +8,63 @@ Run: 44 (id=21505210106)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump to Announce Fed Pick | The Asia Trade 1/30/2026
-  URL: https://www.youtube.com/watch?v=X87GZddlC2w
-  publishedAt: 2026-01-30T04:19:23Z
+  제목: Senate Votes on Government Funding Bill | Balance of Power 01/30/2026
+  URL: https://www.youtube.com/watch?v=ELs2foqOR-4
+  publishedAt: 2026-01-31T01:18:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - X87GZddlC2w | ongoing=False | publishedAt=2026-01-30T04:19:23Z | actualEndTime=None | effective=2026-01-30 04:19:23+00:00 | Trump to Announce Fed Pick | The Asia Trade 1/30/2026
-   - i-I3HovorNU | ongoing=False | publishedAt=2026-01-30T01:00:00Z | actualEndTime=None | effective=2026-01-30 01:00:00+00:00 | Bloomberg Goes One-On-One With NYC Mayor Mamdani | Balance o
-   - YSoKYU3DO7c | ongoing=False | publishedAt=2026-01-29T22:51:21Z | actualEndTime=None | effective=2026-01-29 22:51:21+00:00 | Mamdani on Homeless, Trump Cuts and NYC's Economy
-   - 3wk1gxdAfZ0 | ongoing=False | publishedAt=2026-01-29T22:43:10Z | actualEndTime=None | effective=2026-01-29 22:43:10+00:00 | Apple Sales Trounce Estimates After iPhone Fuels Record Quar
-   - Dl1vxrClvXs | ongoing=False | publishedAt=2026-01-29T22:33:52Z | actualEndTime=None | effective=2026-01-29 22:33:52+00:00 | Nasdaq Falls on Big Tech Weakness | Closing Bell
-   - qKrPjV0zlwg | ongoing=False | publishedAt=2026-01-29T22:18:13Z | actualEndTime=None | effective=2026-01-29 22:18:13+00:00 | Apple Earnings: iPhone 17 Demand Surges, Revenue Up 16%
-   - UF6GAyrH4WM | ongoing=False | publishedAt=2026-01-29T22:08:56Z | actualEndTime=None | effective=2026-01-29 22:08:56+00:00 | Siri Co-Founder Says Apple Is in 'Pretty Good Position'
-   - p5wXWReRcJg | ongoing=False | publishedAt=2026-01-29T21:50:51Z | actualEndTime=None | effective=2026-01-29 21:50:51+00:00 | Microsoft Drops Most Since 2020
-   - VTvO4gPBDP0 | ongoing=False | publishedAt=2026-01-29T21:46:59Z | actualEndTime=None | effective=2026-01-29 21:46:59+00:00 | Wall Street's Stamp of Legitimacy Fuels Suspected Pump-and-D
-   - cTXVOGud0XI | ongoing=False | publishedAt=2026-01-29T21:47:48Z | actualEndTime=None | effective=2026-01-29 21:47:48+00:00 | Homan Says ICE Working on 'Draw Down Plan' in Minneapolis
+   - ELs2foqOR-4 | ongoing=False | publishedAt=2026-01-31T01:18:32Z | actualEndTime=None | effective=2026-01-31 01:18:32+00:00 | Senate Votes on Government Funding Bill | Balance of Power 0
+   - ZctpB9XN8kc | ongoing=False | publishedAt=2026-01-31T01:06:26Z | actualEndTime=None | effective=2026-01-31 01:06:26+00:00 | Patrick McHenry on Govt. Funding Vote, Kevin Warsh
+   - 2UF88fz18w4 | ongoing=False | publishedAt=2026-01-31T00:01:13Z | actualEndTime=None | effective=2026-01-31 00:01:13+00:00 | Trump Taps Warsh For Fed Chair, Furman Reacts to Rate Hold
+   - ZHhr_XzquuY | ongoing=False | publishedAt=2026-01-30T23:39:54Z | actualEndTime=None | effective=2026-01-30 23:39:54+00:00 | Stocks Lower as Commodities and Tech Weigh on S&P; Gold, Sil
+   - Lm_itg3pfuw | ongoing=False | publishedAt=2026-01-30T23:23:51Z | actualEndTime=None | effective=2026-01-30 23:23:51+00:00 | Kevin Warsh Passes Trump's Sock Puppet Test: Sen. Warren
+   - ul7ezHCSY2g | ongoing=False | publishedAt=2026-01-30T22:01:05Z | actualEndTime=None | effective=2026-01-30 22:01:05+00:00 | The US is flirting with its first-ever population decline
+   - oHk0cGsACKc | ongoing=False | publishedAt=2026-01-30T21:34:35Z | actualEndTime=None | effective=2026-01-30 21:34:35+00:00 | Fed’s Miran Sees Warsh as Persuasive, Respected New Chair
+   - ZedGf-4J7Fc | ongoing=False | publishedAt=2026-01-30T21:32:34Z | actualEndTime=None | effective=2026-01-30 21:32:34+00:00 | Warsh Isn't a 'Complete Partisan Clown,' Krugman Says
+   - N0uHgg3H5Qk | ongoing=False | publishedAt=2026-01-30T21:31:01Z | actualEndTime=None | effective=2026-01-30 21:31:01+00:00 | Will Kevin Warsh Be Confirmed as Fed Chair?
+   - V-dZPF8dZ4E | ongoing=False | publishedAt=2026-01-30T21:28:53Z | actualEndTime=None | effective=2026-01-30 21:28:53+00:00 | S&P, Nasdaq Fall; Dollar Rallies After Trump Taps Warsh | Cl
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Holy Sh*t | It's ACTIVELY Collapsing
-  URL: https://www.youtube.com/watch?v=rImoL62xd5M
-  publishedAt: 2026-01-30T00:20:39Z
+  제목: Trump JUST Chose VIOLENCE | The Fed Choice (Kevin Warsh)
+  URL: https://www.youtube.com/watch?v=RmnXiWa5fhY
+  publishedAt: 2026-01-30T17:07:07Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - RmnXiWa5fhY | ongoing=False | publishedAt=2026-01-30T17:07:07Z | actualEndTime=None | effective=2026-01-30 17:07:07+00:00 | Trump JUST Chose VIOLENCE | The Fed Choice (Kevin Warsh)
    - rImoL62xd5M | ongoing=False | publishedAt=2026-01-30T00:20:39Z | actualEndTime=None | effective=2026-01-30 00:20:39+00:00 | Holy Sh*t | It's ACTIVELY Collapsing
-   - dDVelIFFlZU | ongoing=False | publishedAt=2026-01-29T03:58:47Z | actualEndTime=None | effective=2026-01-29 03:58:47+00:00 | This is INSANE | $6 Trillion of America is CLUELESS
-   - 7_8t4ietHaw | ongoing=False | publishedAt=2026-01-28T21:50:36Z | actualEndTime=2026-01-28T21:29:51Z | effective=2026-01-28 21:29:51+00:00 | Tesla, Microsoft, Meta Earnings LIVE
-   - pGtjwbkYDfI | ongoing=False | publishedAt=2026-01-28T20:36:58Z | actualEndTime=None | effective=2026-01-28 20:36:58+00:00 | WHOA! I'VE **NEVER** Seen Jerome Powell like this [Fed Annou
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 AI 수익성 검증의 시간, 실적 못 내면 가차 없다   -  2026/01/29
-  URL: https://www.youtube.com/watch?v=CeqEC1nZaeg
-  publishedAt: 2026-01-30T00:00:19Z
+  제목: 【미국 증시 오늘의 요약】 은 -28%, 금 -9% 증발, 대체 무슨 일?   -  2026/01/29
+  URL: https://www.youtube.com/watch?v=zBeYeoUTeRo
+  publishedAt: 2026-01-30T23:30:21Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - zBeYeoUTeRo | ongoing=False | publishedAt=2026-01-30T23:30:21Z | actualEndTime=None | effective=2026-01-30 23:30:21+00:00 | 【미국 증시 오늘의 요약】 은 -28%, 금 -9% 증발, 대체 무슨 일?   -  2026/01/29
+   - iVVn01lEHkQ | ongoing=False | publishedAt=2026-01-30T22:52:30Z | actualEndTime=2026-01-30T22:28:23Z | effective=2026-01-30 22:28:23+00:00 | [26년 01월 30일 금]  트럼프, 차기 연준 의장에 '케빈 워시' 지명｜ 스페이스X, 테슬라 합병 검토
    - CeqEC1nZaeg | ongoing=False | publishedAt=2026-01-30T00:00:19Z | actualEndTime=None | effective=2026-01-30 00:00:19+00:00 | 【미국 증시 오늘의 요약】 AI 수익성 검증의 시간, 실적 못 내면 가차 없다   -  2026/01/29
    - KloBVQyBzRU | ongoing=False | publishedAt=2026-01-29T23:30:48Z | actualEndTime=2026-01-29T23:07:00Z | effective=2026-01-29 23:07:00+00:00 | [26년 01월 29일 목]  실적발표: 애플, 샌디스크 ｜미국, 핵심 광물 가격 보장 철회?! ｜ 트럼프 
-   - LzvLYG6l6h8 | ongoing=False | publishedAt=2026-01-29T00:20:00Z | actualEndTime=None | effective=2026-01-29 00:20:00+00:00 | 【미국 증시 오늘의 요약】테슬라·메타 실적 호조, 마이크로소프트 AI 지출 우려… 엇갈린 빅테크   -  2
-   - DA2Puf2IXzY | ongoing=False | publishedAt=2026-01-29T00:01:04Z | actualEndTime=2026-01-28T23:37:18Z | effective=2026-01-28 23:37:18+00:00 | [26년 01월 28일 수]  실적: 마이크로소프트, 테슬라, 메타 ｜ASML, SK하이닉스 어닝 서프라이즈
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 애플, 샌디스크 실적!ㅣxAI, SpaceX 합병한다...??ㅣ[아침시황&미국마감] #260130
-  URL: https://www.youtube.com/watch?v=gcDtECM9oZI
-  publishedAt: 2026-01-30T00:28:56Z
-  actualEndTime: 2026-01-30T00:20:42Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - R7C5uWKoFrg | ongoing=False | publishedAt=2026-01-30T16:54:14Z | actualEndTime=2026-01-30T16:10:10Z | effective=2026-01-30 16:10:10+00:00 | [미국증시 LIVE] 케빈 워시 연준의장 대변인 왔습니다
    - gcDtECM9oZI | ongoing=False | publishedAt=2026-01-30T00:28:56Z | actualEndTime=2026-01-30T00:20:42Z | effective=2026-01-30 00:20:42+00:00 | 애플, 샌디스크 실적!ㅣxAI, SpaceX 합병한다...??ㅣ[아침시황&미국마감] #260130
-   - WsrKKDK1w1g | ongoing=False | publishedAt=2026-01-29T02:53:19Z | actualEndTime=2026-01-29T02:28:21Z | effective=2026-01-29 02:28:21+00:00 | [같이 욕해요] 삼성전자 2025년 4분기 컨퍼런스콜 LIVE
-   - hbwkBMO7QHY | ongoing=False | publishedAt=2026-01-29T00:25:17Z | actualEndTime=2026-01-29T00:17:53Z | effective=2026-01-29 00:17:53+00:00 | 실적을 보면 미래가 보인다!!!!ㅣ[아침시황&미국마감] #260129
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 6년만의 대폭락. 버블 붕괴 시작인가?
-  URL: https://www.youtube.com/watch?v=WRxy7PUcwG8
-  publishedAt: 2026-01-29T19:21:35Z
+  제목: AI가 종교를 만들었네요 ㄷㄷㄷ (클로드봇)
+  URL: https://www.youtube.com/watch?v=4votPcplooo
+  publishedAt: 2026-01-30T18:36:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 4votPcplooo | ongoing=False | publishedAt=2026-01-30T18:36:53Z | actualEndTime=None | effective=2026-01-30 18:36:53+00:00 | AI가 종교를 만들었네요 ㄷㄷㄷ (클로드봇)
    - WRxy7PUcwG8 | ongoing=False | publishedAt=2026-01-29T19:21:35Z | actualEndTime=None | effective=2026-01-29 19:21:35+00:00 | 6년만의 대폭락. 버블 붕괴 시작인가?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - T68rjDE41Tg | ongoing=False | publishedAt=2026-01-28T11:37:27Z | actualEndTime=None | effective=2026-01-28 11:37:27+00:00 | GDP 7% 시대 시작된다? 혁신주 대가가 찍은 기술 혁명 수혜주들
+   - ChFk24YJkRg | ongoing=False | publishedAt=2026-01-30T10:39:14Z | actualEndTime=None | effective=2026-01-30 10:39:14+00:00 | 이번에 중국에 밀리면 끝난다, 트럼프가 작심하고 돈 쏟아붓는 전력 수혜주들
