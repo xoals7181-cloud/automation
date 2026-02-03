@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-02 14:45 (KST)
-Run: 47 (id=21578837733)
+생성 시각: 2026-02-03 14:19 (KST)
+Run: 48 (id=21618091036)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,53 +8,68 @@ Run: 47 (id=21578837733)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Record Crashes in Gold, Silver Rattle Markets | The Asia Trade 2/2/2026
-  URL: https://www.youtube.com/watch?v=XRXixhFFz9A
-  publishedAt: 2026-02-02T03:53:19Z
+  제목: Saudi Arabia Opens Stock Market to Foreign Investors
+  URL: https://www.youtube.com/watch?v=GFTpVqmbCkU
+  publishedAt: 2026-02-03T05:00:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - XRXixhFFz9A | ongoing=False | publishedAt=2026-02-02T03:53:19Z | actualEndTime=None | effective=2026-02-02 03:53:19+00:00 | Record Crashes in Gold, Silver Rattle Markets | The Asia Tra
-   - Pzbo6NrcZPk | ongoing=False | publishedAt=2026-02-01T16:00:41Z | actualEndTime=None | effective=2026-02-01 16:00:41+00:00 | Hunger in One of America’s Wealthiest Counties
-   - fxcQfoqaABM | ongoing=False | publishedAt=2026-02-01T15:01:13Z | actualEndTime=None | effective=2026-02-01 15:01:13+00:00 | How Private Equity Is Reshaping Youth Sports in America
-   - eFNfmW6DF28 | ongoing=False | publishedAt=2026-02-01T13:01:13Z | actualEndTime=None | effective=2026-02-01 13:01:13+00:00 | The High Stakes of SNAP: Inside America’s Food Safety Net
-   - CiKwz6-mzCc | ongoing=False | publishedAt=2026-02-01T11:00:32Z | actualEndTime=None | effective=2026-02-01 11:00:32+00:00 | The Filmmaker Who Trains Her Lens on American Power | The Mi
-   - 2sfzQENTDew | ongoing=False | publishedAt=2026-02-01T07:00:05Z | actualEndTime=None | effective=2026-02-01 07:00:05+00:00 | Sweden's Wallenbergs Prepare for Generational Handover
-   - FmX1AuxNEkw | ongoing=False | publishedAt=2026-02-01T06:00:11Z | actualEndTime=None | effective=2026-02-01 06:00:11+00:00 | Regulating Africa’s Expanding Gambling Market
-   - uxsOpaY1o34 | ongoing=False | publishedAt=2026-01-31T15:01:40Z | actualEndTime=None | effective=2026-01-31 15:01:40+00:00 | Is the US Moving Toward State Capitalism?
-   - N2vEkZhJRqc | ongoing=False | publishedAt=2026-01-31T13:00:44Z | actualEndTime=None | effective=2026-01-31 13:00:44+00:00 | Wall Street Week | Trump Picks Warsh, US State Capitalism, S
-   - -Ht1jgvfhGI | ongoing=False | publishedAt=2026-01-31T11:15:00Z | actualEndTime=None | effective=2026-01-31 11:15:00+00:00 | Where does the funding for ICE come from? #politics #shorts
+   - GFTpVqmbCkU | ongoing=False | publishedAt=2026-02-03T05:00:29Z | actualEndTime=None | effective=2026-02-03 05:00:29+00:00 | Saudi Arabia Opens Stock Market to Foreign Investors
+   - WN0TSDilyt0 | ongoing=False | publishedAt=2026-02-03T04:26:17Z | actualEndTime=None | effective=2026-02-03 04:26:17+00:00 | Trump Cuts India Tariffs; Asian Stocks, Metals Rebound | The
+   - anlVf25yTJk | ongoing=False | publishedAt=2026-02-03T01:18:44Z | actualEndTime=None | effective=2026-02-03 01:18:44+00:00 | ICE Raids Fight Complicates House Vote | Balance of Power 02
+   - 8RszSpEfweI | ongoing=False | publishedAt=2026-02-03T00:20:04Z | actualEndTime=None | effective=2026-02-03 00:20:04+00:00 | Stocks Climb on Factory Data as Dollar Rises and Metals Drop
+   - UrbHfoXjkgY | ongoing=False | publishedAt=2026-02-02T23:23:29Z | actualEndTime=None | effective=2026-02-02 23:23:29+00:00 | ICE Agents to Use Body Cameras, Will This Help Reopen The Go
+   - AsAQxqZc4V4 | ongoing=False | publishedAt=2026-02-02T23:17:59Z | actualEndTime=None | effective=2026-02-02 23:17:59+00:00 | Democrat Taylor Rehmet on Flipping a Texas Senate District
+   - JneYfDZQtYA | ongoing=False | publishedAt=2026-02-02T22:39:10Z | actualEndTime=None | effective=2026-02-02 22:39:10+00:00 | Stocks Climb to Start February as Gold and Silver Sell Off |
+   - DkQsm7rTGq0 | ongoing=False | publishedAt=2026-02-02T22:37:47Z | actualEndTime=None | effective=2026-02-02 22:37:47+00:00 | Trump Launches 'Project Vault' to Stockpile Rare Earths
+   - ZGmFgdywbVI | ongoing=False | publishedAt=2026-02-02T22:30:16Z | actualEndTime=None | effective=2026-02-02 22:30:16+00:00 | Trump Thinks Deal to End Shutdown Is 'Pretty Close'
+   - GaXMN_FtcUc | ongoing=False | publishedAt=2026-02-02T22:22:44Z | actualEndTime=None | effective=2026-02-02 22:22:44+00:00 | Elon Musk’s SpaceX acquires xAI ahead of planned mega IPO #s
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: The Bubble is Bursting.
+  URL: https://www.youtube.com/watch?v=oZMx77alRwo
+  publishedAt: 2026-02-02T20:08:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - oZMx77alRwo | ongoing=False | publishedAt=2026-02-02T20:08:02Z | actualEndTime=None | effective=2026-02-02 20:08:02+00:00 | The Bubble is Bursting.
+   - KHXXmxApxrk | ongoing=False | publishedAt=2026-02-02T15:33:56Z | actualEndTime=2026-02-02T15:31:11Z | effective=2026-02-02 15:31:11+00:00 | back from vacation | stocks rocket
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 제조업 부활! 미 증시 반등.. 구글 뚫고 반도체 날았다   -  2026/02/02
+  URL: https://www.youtube.com/watch?v=fIGTVBOaxzA
+  publishedAt: 2026-02-02T23:42:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - fIGTVBOaxzA | ongoing=False | publishedAt=2026-02-02T23:42:01Z | actualEndTime=None | effective=2026-02-02 23:42:01+00:00 | 【미국 증시 오늘의 요약】 제조업 부활! 미 증시 반등.. 구글 뚫고 반도체 날았다   -  2026/02/
+   - EXnM2zNv5Ik | ongoing=False | publishedAt=2026-02-02T23:18:22Z | actualEndTime=2026-02-02T22:53:57Z | effective=2026-02-02 22:53:57+00:00 | [26년 02월 02일 월]  미국, 120억 달러 핵심광물 비축 프로젝트 출범｜ 스페이스X, xAI와 합병
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 테슬라, 스페이스X, xAI 합병은 호재인가? 악재인가?
-  URL: https://www.youtube.com/watch?v=Q3YsF8zJwDk
-  publishedAt: 2026-02-02T03:00:35Z
+  제목: 또 TACO, 애플 상승! 엔비디아는 하락..?ㅣ팔란티어 실적, 진짜 미쳤네요 ㄷㄷㄷㄷㅣ[아침시황&미국마감] #260203
+  URL: https://www.youtube.com/watch?v=vVaU-gmkAsE
+  publishedAt: 2026-02-03T00:07:07Z
+  actualEndTime: 2026-02-03T00:00:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - vVaU-gmkAsE | ongoing=False | publishedAt=2026-02-03T00:07:07Z | actualEndTime=2026-02-03T00:00:25Z | effective=2026-02-03 00:00:25+00:00 | 또 TACO, 애플 상승! 엔비디아는 하락..?ㅣ팔란티어 실적, 진짜 미쳤네요 ㄷㄷㄷㄷㅣ[아침시황&미국마감]
    - Q3YsF8zJwDk | ongoing=False | publishedAt=2026-02-02T03:00:35Z | actualEndTime=None | effective=2026-02-02 03:00:35+00:00 | 테슬라, 스페이스X, xAI 합병은 호재인가? 악재인가?
    - tKUvlbs_fAA | ongoing=False | publishedAt=2026-02-02T00:06:17Z | actualEndTime=2026-02-02T00:00:48Z | effective=2026-02-02 00:00:48+00:00 | 폭락 vs 기회, 두근두근한 월요일이네요ㅣ[아침시황&미국마감] #260202
-   - 3yfhFpewUUU | ongoing=False | publishedAt=2026-02-01T03:00:11Z | actualEndTime=None | effective=2026-02-01 03:00:11+00:00 | 마이클 버리를 보며 느끼는 생각
-   - mPGeMbTMUb0 | ongoing=False | publishedAt=2026-01-31T23:00:56Z | actualEndTime=None | effective=2026-01-31 23:00:56+00:00 | 트럼프의 '약달러' 발언이 코스피에 주는 시사점
-   - 3sMxauiBpz4 | ongoing=False | publishedAt=2026-01-31T08:11:24Z | actualEndTime=None | effective=2026-01-31 08:11:24+00:00 | 📉Silver, 떨어진다고 했제? ➡️ 대응방법도 말 했제?? 😎
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 새로운 연준의장에 대해 우리가 완전히 잘못 알고 있었습니다. (케빈 워시)
-  URL: https://www.youtube.com/watch?v=QThxpPrCYyc
-  publishedAt: 2026-02-01T18:41:44Z
+  제목: 월가에서 코스피 7500을 예상한다??
+  URL: https://www.youtube.com/watch?v=jp3p_57FOIY
+  publishedAt: 2026-02-02T18:17:59Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - jp3p_57FOIY | ongoing=False | publishedAt=2026-02-02T18:17:59Z | actualEndTime=None | effective=2026-02-02 18:17:59+00:00 | 월가에서 코스피 7500을 예상한다??
+   - -BGoU9p0C4o | ongoing=False | publishedAt=2026-02-02T07:02:44Z | actualEndTime=None | effective=2026-02-02 07:02:44+00:00 | 아시아 증시 대폭락 속 코스피만 유독 더 빠진 이유는?
    - QThxpPrCYyc | ongoing=False | publishedAt=2026-02-01T18:41:44Z | actualEndTime=None | effective=2026-02-01 18:41:44+00:00 | 새로운 연준의장에 대해 우리가 완전히 잘못 알고 있었습니다. (케빈 워시)
    - eA4UPCYjiM0 | ongoing=False | publishedAt=2026-02-01T08:16:32Z | actualEndTime=None | effective=2026-02-01 08:16:32+00:00 | 비트코인, 금 대폭락은 금융시장 대폭락의 전조인가? (ft. 케빈 워시)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - ODR7RUdzuTA | ongoing=False | publishedAt=2026-02-02T11:20:02Z | actualEndTime=None | effective=2026-02-02 11:20:02+00:00 | 연준의장 바뀔 때마다 큰 충격? 증시 징크스 이번에도 반복될까
