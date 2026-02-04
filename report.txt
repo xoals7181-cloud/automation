@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-03 14:19 (KST)
-Run: 48 (id=21618091036)
+생성 시각: 2026-02-04 14:12 (KST)
+Run: 49 (id=21659436729)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,68 +8,72 @@ Run: 48 (id=21618091036)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Saudi Arabia Opens Stock Market to Foreign Investors
-  URL: https://www.youtube.com/watch?v=GFTpVqmbCkU
-  publishedAt: 2026-02-03T05:00:29Z
+  제목: Pres. Trump Signs Funding Bills in Oval Office | Balance of Power 02/03/2026
+  URL: https://www.youtube.com/watch?v=6yayEl5BPeg
+  publishedAt: 2026-02-04T01:05:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - GFTpVqmbCkU | ongoing=False | publishedAt=2026-02-03T05:00:29Z | actualEndTime=None | effective=2026-02-03 05:00:29+00:00 | Saudi Arabia Opens Stock Market to Foreign Investors
-   - WN0TSDilyt0 | ongoing=False | publishedAt=2026-02-03T04:26:17Z | actualEndTime=None | effective=2026-02-03 04:26:17+00:00 | Trump Cuts India Tariffs; Asian Stocks, Metals Rebound | The
-   - anlVf25yTJk | ongoing=False | publishedAt=2026-02-03T01:18:44Z | actualEndTime=None | effective=2026-02-03 01:18:44+00:00 | ICE Raids Fight Complicates House Vote | Balance of Power 02
-   - 8RszSpEfweI | ongoing=False | publishedAt=2026-02-03T00:20:04Z | actualEndTime=None | effective=2026-02-03 00:20:04+00:00 | Stocks Climb on Factory Data as Dollar Rises and Metals Drop
-   - UrbHfoXjkgY | ongoing=False | publishedAt=2026-02-02T23:23:29Z | actualEndTime=None | effective=2026-02-02 23:23:29+00:00 | ICE Agents to Use Body Cameras, Will This Help Reopen The Go
-   - AsAQxqZc4V4 | ongoing=False | publishedAt=2026-02-02T23:17:59Z | actualEndTime=None | effective=2026-02-02 23:17:59+00:00 | Democrat Taylor Rehmet on Flipping a Texas Senate District
-   - JneYfDZQtYA | ongoing=False | publishedAt=2026-02-02T22:39:10Z | actualEndTime=None | effective=2026-02-02 22:39:10+00:00 | Stocks Climb to Start February as Gold and Silver Sell Off |
-   - DkQsm7rTGq0 | ongoing=False | publishedAt=2026-02-02T22:37:47Z | actualEndTime=None | effective=2026-02-02 22:37:47+00:00 | Trump Launches 'Project Vault' to Stockpile Rare Earths
-   - ZGmFgdywbVI | ongoing=False | publishedAt=2026-02-02T22:30:16Z | actualEndTime=None | effective=2026-02-02 22:30:16+00:00 | Trump Thinks Deal to End Shutdown Is 'Pretty Close'
-   - GaXMN_FtcUc | ongoing=False | publishedAt=2026-02-02T22:22:44Z | actualEndTime=None | effective=2026-02-02 22:22:44+00:00 | Elon Musk’s SpaceX acquires xAI ahead of planned mega IPO #s
+   - 6yayEl5BPeg | ongoing=False | publishedAt=2026-02-04T01:05:09Z | actualEndTime=None | effective=2026-02-04 01:05:09+00:00 | Pres. Trump Signs Funding Bills in Oval Office | Balance of 
+   - DR23XOFslGA | ongoing=False | publishedAt=2026-02-04T00:33:16Z | actualEndTime=None | effective=2026-02-04 00:33:16+00:00 | US jet shoots down Iranian drone near carrier in Arabian Sea
+   - QFQT8lUg93Q | ongoing=False | publishedAt=2026-02-03T23:35:15Z | actualEndTime=None | effective=2026-02-03 23:35:15+00:00 | U.S. Stocks Fall as Tech Sells Off; Gold Gains | The Close 2
+   - -zI6TQ_ahmk | ongoing=False | publishedAt=2026-02-03T22:46:38Z | actualEndTime=None | effective=2026-02-03 22:46:38+00:00 | Trump Wants $1 Billion From Harvard
+   - cHhP4RBawI8 | ongoing=False | publishedAt=2026-02-03T22:40:55Z | actualEndTime=None | effective=2026-02-03 22:40:55+00:00 | US-India Trade Deal 'A Long Time Coming,' Nisha Biswal Says
+   - ziEeJmb325M | ongoing=False | publishedAt=2026-02-03T22:33:07Z | actualEndTime=None | effective=2026-02-03 22:33:07+00:00 | US Government Fully Reopens, But a New Deadline Looms
+   - 0HliKJ-sf3A | ongoing=False | publishedAt=2026-02-03T22:29:56Z | actualEndTime=None | effective=2026-02-03 22:29:56+00:00 | Trump Signs Funding Package Ending Partial Government Shutdo
+   - Js3kU2PSm0s | ongoing=False | publishedAt=2026-02-03T21:57:29Z | actualEndTime=None | effective=2026-02-03 21:57:29+00:00 | AMD Forecast Disappoints as Investors Seek Bigger AI Payoff
+   - aEzoesv69FE | ongoing=False | publishedAt=2026-02-03T21:53:03Z | actualEndTime=None | effective=2026-02-03 21:53:03+00:00 | Sen. Cornyn: Demasking ICE agents is “ridiculous request” #i
+   - cR1JH1_Pqg8 | ongoing=False | publishedAt=2026-02-03T21:32:41Z | actualEndTime=None | effective=2026-02-03 21:32:41+00:00 | Stocks Fall Ahead of Earnings as Bitcoin Sinks to Post-Elect
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Bubble is Bursting.
-  URL: https://www.youtube.com/watch?v=oZMx77alRwo
-  publishedAt: 2026-02-02T20:08:02Z
+  제목: The Doom Loop Crash JUST Began | The Collapse of OpenAI & SpaceX.
+  URL: https://www.youtube.com/watch?v=_BDIWeX_vuA
+  publishedAt: 2026-02-03T19:27:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - _BDIWeX_vuA | ongoing=False | publishedAt=2026-02-03T19:27:27Z | actualEndTime=None | effective=2026-02-03 19:27:27+00:00 | The Doom Loop Crash JUST Began | The Collapse of OpenAI & Sp
+   - mrY3ll_hzLc | ongoing=False | publishedAt=2026-02-03T16:11:47Z | actualEndTime=2026-02-03T16:08:55Z | effective=2026-02-03 16:08:55+00:00 | Stock Market Selloff
    - oZMx77alRwo | ongoing=False | publishedAt=2026-02-02T20:08:02Z | actualEndTime=None | effective=2026-02-02 20:08:02+00:00 | The Bubble is Bursting.
    - KHXXmxApxrk | ongoing=False | publishedAt=2026-02-02T15:33:56Z | actualEndTime=2026-02-02T15:31:11Z | effective=2026-02-02 15:31:11+00:00 | back from vacation | stocks rocket
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 제조업 부활! 미 증시 반등.. 구글 뚫고 반도체 날았다   -  2026/02/02
-  URL: https://www.youtube.com/watch?v=fIGTVBOaxzA
-  publishedAt: 2026-02-02T23:42:01Z
+  제목: 【미국 증시 오늘의 요약】 "이제 AI가 밥그릇 뺏는다"... 앤트로픽 충격에 소프트웨어 섹터 '초토화'  -  2026/02/03
+  URL: https://www.youtube.com/watch?v=IM2Nfusw1h0
+  publishedAt: 2026-02-03T23:53:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - IM2Nfusw1h0 | ongoing=False | publishedAt=2026-02-03T23:53:34Z | actualEndTime=None | effective=2026-02-03 23:53:34+00:00 | 【미국 증시 오늘의 요약】 "이제 AI가 밥그릇 뺏는다"... 앤트로픽 충격에 소프트웨어 섹터 '초토화'  
+   - 6MGL_M4No00 | ongoing=False | publishedAt=2026-02-03T23:28:57Z | actualEndTime=2026-02-03T23:05:20Z | effective=2026-02-03 23:05:20+00:00 | [26년 02월 03일 화]  스페이스X, xAI와 합병 ｜ 팔란티어·테러다인, 어닝 서프라이즈 ｜ 실적발표
    - fIGTVBOaxzA | ongoing=False | publishedAt=2026-02-02T23:42:01Z | actualEndTime=None | effective=2026-02-02 23:42:01+00:00 | 【미국 증시 오늘의 요약】 제조업 부활! 미 증시 반등.. 구글 뚫고 반도체 날았다   -  2026/02/
    - EXnM2zNv5Ik | ongoing=False | publishedAt=2026-02-02T23:18:22Z | actualEndTime=2026-02-02T22:53:57Z | effective=2026-02-02 22:53:57+00:00 | [26년 02월 02일 월]  미국, 120억 달러 핵심광물 비축 프로젝트 출범｜ 스페이스X, xAI와 합병
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 또 TACO, 애플 상승! 엔비디아는 하락..?ㅣ팔란티어 실적, 진짜 미쳤네요 ㄷㄷㄷㄷㅣ[아침시황&미국마감] #260203
-  URL: https://www.youtube.com/watch?v=vVaU-gmkAsE
-  publishedAt: 2026-02-03T00:07:07Z
-  actualEndTime: 2026-02-03T00:00:25Z
+  제목: 극단적인 폭등폭락, 주식은 대응이다!? 그래서 어쩌라고!!
+  URL: https://www.youtube.com/watch?v=ddi6mkpZ2w8
+  publishedAt: 2026-02-04T03:00:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ddi6mkpZ2w8 | ongoing=False | publishedAt=2026-02-04T03:00:50Z | actualEndTime=None | effective=2026-02-04 03:00:50+00:00 | 극단적인 폭등폭락, 주식은 대응이다!? 그래서 어쩌라고!!
+   - Ewmz8UMiFIw | ongoing=False | publishedAt=2026-02-04T00:13:05Z | actualEndTime=2026-02-04T00:06:57Z | effective=2026-02-04 00:06:57+00:00 | 인텔 : 메모리 28년까지 병목, 우리도 만들겠다ㅣ중국 + 앤트로픽, 나스닥 풀매도 트리거...?ㅣ[아침시황
    - vVaU-gmkAsE | ongoing=False | publishedAt=2026-02-03T00:07:07Z | actualEndTime=2026-02-03T00:00:25Z | effective=2026-02-03 00:00:25+00:00 | 또 TACO, 애플 상승! 엔비디아는 하락..?ㅣ팔란티어 실적, 진짜 미쳤네요 ㄷㄷㄷㄷㅣ[아침시황&미국마감]
-   - Q3YsF8zJwDk | ongoing=False | publishedAt=2026-02-02T03:00:35Z | actualEndTime=None | effective=2026-02-02 03:00:35+00:00 | 테슬라, 스페이스X, xAI 합병은 호재인가? 악재인가?
-   - tKUvlbs_fAA | ongoing=False | publishedAt=2026-02-02T00:06:17Z | actualEndTime=2026-02-02T00:00:48Z | effective=2026-02-02 00:00:48+00:00 | 폭락 vs 기회, 두근두근한 월요일이네요ㅣ[아침시황&미국마감] #260202
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 월가에서 코스피 7500을 예상한다??
-  URL: https://www.youtube.com/watch?v=jp3p_57FOIY
-  publishedAt: 2026-02-02T18:17:59Z
+  제목: 인공지능이 불러온 역대급 매도세 ㄷㄷㄷ
+  URL: https://www.youtube.com/watch?v=mifEITb9BbM
+  publishedAt: 2026-02-03T18:38:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - mifEITb9BbM | ongoing=False | publishedAt=2026-02-03T18:38:35Z | actualEndTime=None | effective=2026-02-03 18:38:35+00:00 | 인공지능이 불러온 역대급 매도세 ㄷㄷㄷ
+   - xBAINbeT60E | ongoing=False | publishedAt=2026-02-03T11:48:01Z | actualEndTime=None | effective=2026-02-03 11:48:01+00:00 | 인류 문명의 역사를 바꿀 합병
    - jp3p_57FOIY | ongoing=False | publishedAt=2026-02-02T18:17:59Z | actualEndTime=None | effective=2026-02-02 18:17:59+00:00 | 월가에서 코스피 7500을 예상한다??
    - -BGoU9p0C4o | ongoing=False | publishedAt=2026-02-02T07:02:44Z | actualEndTime=None | effective=2026-02-02 07:02:44+00:00 | 아시아 증시 대폭락 속 코스피만 유독 더 빠진 이유는?
-   - QThxpPrCYyc | ongoing=False | publishedAt=2026-02-01T18:41:44Z | actualEndTime=None | effective=2026-02-01 18:41:44+00:00 | 새로운 연준의장에 대해 우리가 완전히 잘못 알고 있었습니다. (케빈 워시)
-   - eA4UPCYjiM0 | ongoing=False | publishedAt=2026-02-01T08:16:32Z | actualEndTime=None | effective=2026-02-01 08:16:32+00:00 | 비트코인, 금 대폭락은 금융시장 대폭락의 전조인가? (ft. 케빈 워시)
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - K0LWmWP4aOI | ongoing=False | publishedAt=2026-02-03T10:25:24Z | actualEndTime=None | effective=2026-02-03 10:25:24+00:00 | 앞으로 미국 증시보다 이머징이 대세? 줄줄이 태세전환하는 월가의 보고서들
    - ODR7RUdzuTA | ongoing=False | publishedAt=2026-02-02T11:20:02Z | actualEndTime=None | effective=2026-02-02 11:20:02+00:00 | 연준의장 바뀔 때마다 큰 충격? 증시 징크스 이번에도 반복될까
