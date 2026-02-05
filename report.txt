@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-04 14:12 (KST)
-Run: 49 (id=21659436729)
+생성 시각: 2026-02-05 14:22 (KST)
+Run: 50 (id=21699876827)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,72 +8,72 @@ Run: 49 (id=21659436729)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Pres. Trump Signs Funding Bills in Oval Office | Balance of Power 02/03/2026
-  URL: https://www.youtube.com/watch?v=6yayEl5BPeg
-  publishedAt: 2026-02-04T01:05:09Z
+  제목: Indonesia's finance minister says MSCI warning was a good thing
+  URL: https://www.youtube.com/watch?v=UOkPV7uLBVM
+  publishedAt: 2026-02-05T05:00:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 6yayEl5BPeg | ongoing=False | publishedAt=2026-02-04T01:05:09Z | actualEndTime=None | effective=2026-02-04 01:05:09+00:00 | Pres. Trump Signs Funding Bills in Oval Office | Balance of 
-   - DR23XOFslGA | ongoing=False | publishedAt=2026-02-04T00:33:16Z | actualEndTime=None | effective=2026-02-04 00:33:16+00:00 | US jet shoots down Iranian drone near carrier in Arabian Sea
-   - QFQT8lUg93Q | ongoing=False | publishedAt=2026-02-03T23:35:15Z | actualEndTime=None | effective=2026-02-03 23:35:15+00:00 | U.S. Stocks Fall as Tech Sells Off; Gold Gains | The Close 2
-   - -zI6TQ_ahmk | ongoing=False | publishedAt=2026-02-03T22:46:38Z | actualEndTime=None | effective=2026-02-03 22:46:38+00:00 | Trump Wants $1 Billion From Harvard
-   - cHhP4RBawI8 | ongoing=False | publishedAt=2026-02-03T22:40:55Z | actualEndTime=None | effective=2026-02-03 22:40:55+00:00 | US-India Trade Deal 'A Long Time Coming,' Nisha Biswal Says
-   - ziEeJmb325M | ongoing=False | publishedAt=2026-02-03T22:33:07Z | actualEndTime=None | effective=2026-02-03 22:33:07+00:00 | US Government Fully Reopens, But a New Deadline Looms
-   - 0HliKJ-sf3A | ongoing=False | publishedAt=2026-02-03T22:29:56Z | actualEndTime=None | effective=2026-02-03 22:29:56+00:00 | Trump Signs Funding Package Ending Partial Government Shutdo
-   - Js3kU2PSm0s | ongoing=False | publishedAt=2026-02-03T21:57:29Z | actualEndTime=None | effective=2026-02-03 21:57:29+00:00 | AMD Forecast Disappoints as Investors Seek Bigger AI Payoff
-   - aEzoesv69FE | ongoing=False | publishedAt=2026-02-03T21:53:03Z | actualEndTime=None | effective=2026-02-03 21:53:03+00:00 | Sen. Cornyn: Demasking ICE agents is “ridiculous request” #i
-   - cR1JH1_Pqg8 | ongoing=False | publishedAt=2026-02-03T21:32:41Z | actualEndTime=None | effective=2026-02-03 21:32:41+00:00 | Stocks Fall Ahead of Earnings as Bitcoin Sinks to Post-Elect
+   - UOkPV7uLBVM | ongoing=False | publishedAt=2026-02-05T05:00:35Z | actualEndTime=None | effective=2026-02-05 05:00:35+00:00 | Indonesia's finance minister says MSCI warning was a good th
+   - 6JcAryx2jgA | ongoing=False | publishedAt=2026-02-05T04:38:39Z | actualEndTime=None | effective=2026-02-05 04:38:39+00:00 | Xi's Diplomatic Blitz: Back-to-Back Calls With Putin, Trump 
+   - xwtFhOuNTrQ | ongoing=False | publishedAt=2026-02-05T04:10:54Z | actualEndTime=None | effective=2026-02-05 04:10:54+00:00 | Tech Wipeout Weighs on Asian Stocks | The Asia Trade 2/5/202
+   - b2KZ_opNP_s | ongoing=False | publishedAt=2026-02-05T01:34:13Z | actualEndTime=None | effective=2026-02-05 01:34:13+00:00 | Democratic Lawmakers Press Bessent During Hearing | Balance 
+   - ryX7IhbfZis | ongoing=False | publishedAt=2026-02-05T00:29:32Z | actualEndTime=None | effective=2026-02-05 00:29:32+00:00 | Nasdaq Sinks to Year Low as Software Stocks Weigh | The Clos
+   - 8cH4CyEeeJg | ongoing=False | publishedAt=2026-02-04T23:42:36Z | actualEndTime=None | effective=2026-02-04 23:42:36+00:00 | Stocks Slide as Tech Selloff Persists Ahead of Google Earnin
+   - _KEdvZcC7sM | ongoing=False | publishedAt=2026-02-04T22:44:48Z | actualEndTime=None | effective=2026-02-04 22:44:48+00:00 | Senator Ted Cruz Defends ICE and Supports Self-Driving Cars
+   - wdFc2rJb6h8 | ongoing=False | publishedAt=2026-02-04T21:59:35Z | actualEndTime=None | effective=2026-02-04 21:59:35+00:00 | Things Have to Change at Qualcomm, Goldberg Says
+   - PZySE08_AoY | ongoing=False | publishedAt=2026-02-04T21:48:50Z | actualEndTime=None | effective=2026-02-04 21:48:50+00:00 | Breaking Down Alphabet's Earnings and Spending Plans
+   - 6yxVEI-JSMY | ongoing=False | publishedAt=2026-02-04T21:40:47Z | actualEndTime=None | effective=2026-02-04 21:40:47+00:00 | Novo CEO Says Volumes to Compensate for Price Decreases
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Doom Loop Crash JUST Began | The Collapse of OpenAI & SpaceX.
-  URL: https://www.youtube.com/watch?v=_BDIWeX_vuA
-  publishedAt: 2026-02-03T19:27:27Z
+  제목: The Scam of 2008 is Back | Market Sells Off
+  URL: https://www.youtube.com/watch?v=2ybQSN9DPZA
+  publishedAt: 2026-02-04T20:55:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2ybQSN9DPZA | ongoing=False | publishedAt=2026-02-04T20:55:13Z | actualEndTime=None | effective=2026-02-04 20:55:13+00:00 | The Scam of 2008 is Back | Market Sells Off
+   - CQsWgoQBtZs | ongoing=False | publishedAt=2026-02-04T19:08:05Z | actualEndTime=2026-02-04T19:00:05Z | effective=2026-02-04 19:00:05+00:00 | Stock Market Selloff DEEPENS
    - _BDIWeX_vuA | ongoing=False | publishedAt=2026-02-03T19:27:27Z | actualEndTime=None | effective=2026-02-03 19:27:27+00:00 | The Doom Loop Crash JUST Began | The Collapse of OpenAI & Sp
    - mrY3ll_hzLc | ongoing=False | publishedAt=2026-02-03T16:11:47Z | actualEndTime=2026-02-03T16:08:55Z | effective=2026-02-03 16:08:55+00:00 | Stock Market Selloff
-   - oZMx77alRwo | ongoing=False | publishedAt=2026-02-02T20:08:02Z | actualEndTime=None | effective=2026-02-02 20:08:02+00:00 | The Bubble is Bursting.
-   - KHXXmxApxrk | ongoing=False | publishedAt=2026-02-02T15:33:56Z | actualEndTime=2026-02-02T15:31:11Z | effective=2026-02-02 15:31:11+00:00 | back from vacation | stocks rocket
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 "이제 AI가 밥그릇 뺏는다"... 앤트로픽 충격에 소프트웨어 섹터 '초토화'  -  2026/02/03
-  URL: https://www.youtube.com/watch?v=IM2Nfusw1h0
-  publishedAt: 2026-02-03T23:53:34Z
+  제목: 【미국 증시 오늘의 요약】 기술주 투매 vs 가치주 상승, 뚜렷해진 '손바뀜'?  -  2026/02/04
+  URL: https://www.youtube.com/watch?v=3RgvbS4atlI
+  publishedAt: 2026-02-04T23:45:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 3RgvbS4atlI | ongoing=False | publishedAt=2026-02-04T23:45:00Z | actualEndTime=None | effective=2026-02-04 23:45:00+00:00 | 【미국 증시 오늘의 요약】 기술주 투매 vs 가치주 상승, 뚜렷해진 '손바뀜'?  -  2026/02/04
+   - VChsI0l0as0 | ongoing=False | publishedAt=2026-02-04T23:11:57Z | actualEndTime=2026-02-04T22:47:40Z | effective=2026-02-04 22:47:40+00:00 | [26년 02월 04일 수]  엔비디아 CEO, '소프트웨어, AI 대체론은 비논리적' ｜ 실적: 구글, 퀄
    - IM2Nfusw1h0 | ongoing=False | publishedAt=2026-02-03T23:53:34Z | actualEndTime=None | effective=2026-02-03 23:53:34+00:00 | 【미국 증시 오늘의 요약】 "이제 AI가 밥그릇 뺏는다"... 앤트로픽 충격에 소프트웨어 섹터 '초토화'  
    - 6MGL_M4No00 | ongoing=False | publishedAt=2026-02-03T23:28:57Z | actualEndTime=2026-02-03T23:05:20Z | effective=2026-02-03 23:05:20+00:00 | [26년 02월 03일 화]  스페이스X, xAI와 합병 ｜ 팔란티어·테러다인, 어닝 서프라이즈 ｜ 실적발표
-   - fIGTVBOaxzA | ongoing=False | publishedAt=2026-02-02T23:42:01Z | actualEndTime=None | effective=2026-02-02 23:42:01+00:00 | 【미국 증시 오늘의 요약】 제조업 부활! 미 증시 반등.. 구글 뚫고 반도체 날았다   -  2026/02/
-   - EXnM2zNv5Ik | ongoing=False | publishedAt=2026-02-02T23:18:22Z | actualEndTime=2026-02-02T22:53:57Z | effective=2026-02-02 22:53:57+00:00 | [26년 02월 02일 월]  미국, 120억 달러 핵심광물 비축 프로젝트 출범｜ 스페이스X, xAI와 합병
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 극단적인 폭등폭락, 주식은 대응이다!? 그래서 어쩌라고!!
-  URL: https://www.youtube.com/watch?v=ddi6mkpZ2w8
-  publishedAt: 2026-02-04T03:00:50Z
+  제목: 드디어 구글 실적, 하나하나 뜯어서 분석해봅시다ㅣ[아침시황&미국마감] #260205
+  URL: https://www.youtube.com/watch?v=C0ZhESYJC6k
+  publishedAt: 2026-02-05T00:21:46Z
+  actualEndTime: 2026-02-05T00:05:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - C0ZhESYJC6k | ongoing=False | publishedAt=2026-02-05T00:21:46Z | actualEndTime=2026-02-05T00:05:47Z | effective=2026-02-05 00:05:47+00:00 | 드디어 구글 실적, 하나하나 뜯어서 분석해봅시다ㅣ[아침시황&미국마감] #260205
    - ddi6mkpZ2w8 | ongoing=False | publishedAt=2026-02-04T03:00:50Z | actualEndTime=None | effective=2026-02-04 03:00:50+00:00 | 극단적인 폭등폭락, 주식은 대응이다!? 그래서 어쩌라고!!
    - Ewmz8UMiFIw | ongoing=False | publishedAt=2026-02-04T00:13:05Z | actualEndTime=2026-02-04T00:06:57Z | effective=2026-02-04 00:06:57+00:00 | 인텔 : 메모리 28년까지 병목, 우리도 만들겠다ㅣ중국 + 앤트로픽, 나스닥 풀매도 트리거...?ㅣ[아침시황
-   - vVaU-gmkAsE | ongoing=False | publishedAt=2026-02-03T00:07:07Z | actualEndTime=2026-02-03T00:00:25Z | effective=2026-02-03 00:00:25+00:00 | 또 TACO, 애플 상승! 엔비디아는 하락..?ㅣ팔란티어 실적, 진짜 미쳤네요 ㄷㄷㄷㄷㅣ[아침시황&미국마감]
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 인공지능이 불러온 역대급 매도세 ㄷㄷㄷ
-  URL: https://www.youtube.com/watch?v=mifEITb9BbM
-  publishedAt: 2026-02-03T18:38:35Z
+  제목: 테크 버블 붕괴 시작?
+  URL: https://www.youtube.com/watch?v=SL_UEypr_LI
+  publishedAt: 2026-02-04T19:13:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - SL_UEypr_LI | ongoing=False | publishedAt=2026-02-04T19:13:09Z | actualEndTime=None | effective=2026-02-04 19:13:09+00:00 | 테크 버블 붕괴 시작?
    - mifEITb9BbM | ongoing=False | publishedAt=2026-02-03T18:38:35Z | actualEndTime=None | effective=2026-02-03 18:38:35+00:00 | 인공지능이 불러온 역대급 매도세 ㄷㄷㄷ
    - xBAINbeT60E | ongoing=False | publishedAt=2026-02-03T11:48:01Z | actualEndTime=None | effective=2026-02-03 11:48:01+00:00 | 인류 문명의 역사를 바꿀 합병
-   - jp3p_57FOIY | ongoing=False | publishedAt=2026-02-02T18:17:59Z | actualEndTime=None | effective=2026-02-02 18:17:59+00:00 | 월가에서 코스피 7500을 예상한다??
-   - -BGoU9p0C4o | ongoing=False | publishedAt=2026-02-02T07:02:44Z | actualEndTime=None | effective=2026-02-02 07:02:44+00:00 | 아시아 증시 대폭락 속 코스피만 유독 더 빠진 이유는?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - tTu-7nJ8M_8 | ongoing=False | publishedAt=2026-02-04T11:07:18Z | actualEndTime=None | effective=2026-02-04 11:07:18+00:00 | AI 침투 공포에 폭락한 SW 주식들 vs AI 덕에 대호황 맞은 주식들
    - K0LWmWP4aOI | ongoing=False | publishedAt=2026-02-03T10:25:24Z | actualEndTime=None | effective=2026-02-03 10:25:24+00:00 | 앞으로 미국 증시보다 이머징이 대세? 줄줄이 태세전환하는 월가의 보고서들
-   - ODR7RUdzuTA | ongoing=False | publishedAt=2026-02-02T11:20:02Z | actualEndTime=None | effective=2026-02-02 11:20:02+00:00 | 연준의장 바뀔 때마다 큰 충격? 증시 징크스 이번에도 반복될까
