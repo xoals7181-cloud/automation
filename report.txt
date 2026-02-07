@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-06 12:27 (KST)
-Run: 51 (id=21737571140)
+생성 시각: 2026-02-07 12:19 (KST)
+Run: 52 (id=21773297763)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,73 +8,69 @@ Run: 51 (id=21737571140)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Will Thailand Recriminalize Cannabis?
-  URL: https://www.youtube.com/watch?v=2bnUa8-FiaA
-  publishedAt: 2026-02-06T02:00:03Z
+  제목: US, Iran Hold Indirect Talks to De-Escalate Tensions | Balance of Power 02/06/2026
+  URL: https://www.youtube.com/watch?v=ZVX3VhKQj7Q
+  publishedAt: 2026-02-07T01:10:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 2bnUa8-FiaA | ongoing=False | publishedAt=2026-02-06T02:00:03Z | actualEndTime=None | effective=2026-02-06 02:00:03+00:00 | Will Thailand Recriminalize Cannabis?
-   - ybKcTbDGmz0 | ongoing=False | publishedAt=2026-02-06T01:53:46Z | actualEndTime=2026-02-05T13:42:26Z | effective=2026-02-05 13:42:26+00:00 | BOE Interest-Rate Decision | Special Coverage
-   - iFJJLHdDv6U | ongoing=False | publishedAt=2026-02-06T01:49:27Z | actualEndTime=None | effective=2026-02-06 01:49:27+00:00 | Why a Snap Election Is a Gamble for Japan’s Leader
-   - -BTAS5rJNVo | ongoing=False | publishedAt=2026-02-06T01:26:26Z | actualEndTime=None | effective=2026-02-06 01:26:26+00:00 | US-Iran Talks Scheduled For Friday, Bitcoin's 'Trump Rally' 
-   - _MRIQSnbs6M | ongoing=False | publishedAt=2026-02-06T00:17:41Z | actualEndTime=None | effective=2026-02-06 00:17:41+00:00 | Stocks Slide as Software Selloff Deepens; Bitcoin Falls | Th
-   - m91QPc_T6hs | ongoing=False | publishedAt=2026-02-05T23:39:42Z | actualEndTime=None | effective=2026-02-05 23:39:42+00:00 | Rep. Meeks on urgency of crypto regulations following market
-   - U9L7gYpFMIg | ongoing=False | publishedAt=2026-02-05T22:34:52Z | actualEndTime=None | effective=2026-02-05 22:34:52+00:00 | Trillion-dollar tech  wipeout ensnares  all stocks in AI’s p
-   - EbYaU0Yde5Q | ongoing=False | publishedAt=2026-02-05T22:26:07Z | actualEndTime=None | effective=2026-02-05 22:26:07+00:00 | Tether Co-Founder Weighs In on Bitcoin Selloff
-   - _5hWEQxyRrE | ongoing=False | publishedAt=2026-02-05T22:08:37Z | actualEndTime=None | effective=2026-02-05 22:08:37+00:00 | Ives Says He's Never Seen a Software Selloff Like This
-   - fc24c79ie0s | ongoing=False | publishedAt=2026-02-05T21:49:21Z | actualEndTime=None | effective=2026-02-05 21:49:21+00:00 | GOP Senators Cast Doubt on Powell Probe, Hope to Move Warsh 
+   - ZVX3VhKQj7Q | ongoing=False | publishedAt=2026-02-07T01:10:46Z | actualEndTime=None | effective=2026-02-07 01:10:46+00:00 | US, Iran Hold Indirect Talks to De-Escalate Tensions | Balan
+   - G59yKHW7UIo | ongoing=False | publishedAt=2026-02-07T00:20:15Z | actualEndTime=None | effective=2026-02-07 00:20:15+00:00 | S&P Poised for Biggest Advance Since May | The Close 2/6/202
+   - -F016i6Xtr4 | ongoing=False | publishedAt=2026-02-07T00:18:09Z | actualEndTime=None | effective=2026-02-07 00:18:09+00:00 | Trump Admin. Receiving Mounting Backlash for Racist Post
+   - 9uWFbTqLn9c | ongoing=False | publishedAt=2026-02-07T00:00:10Z | actualEndTime=None | effective=2026-02-07 00:00:10+00:00 | Wall Street Week | Bostic on Inflation, Volatile Gold Prices
+   - 2hNKNzBUwEw | ongoing=False | publishedAt=2026-02-06T23:37:52Z | actualEndTime=None | effective=2026-02-06 23:37:52+00:00 | India Keeps Rates Steady: What It Means for Markets
+   - yotUSKJxhSk | ongoing=False | publishedAt=2026-02-06T23:39:08Z | actualEndTime=None | effective=2026-02-06 23:39:08+00:00 | Have To Be Optimistic: Romania's Foreign Minister on Ukraine
+   - pwR4onbTeKQ | ongoing=False | publishedAt=2026-02-06T23:08:39Z | actualEndTime=None | effective=2026-02-06 23:08:39+00:00 | How is Sen. Shaheen Trying to Assist the US With A Rare Eart
+   - 0KHJbhGKjIY | ongoing=False | publishedAt=2026-02-06T22:44:48Z | actualEndTime=None | effective=2026-02-06 22:44:48+00:00 | Baby Boomer dilemma: How investing in art is risky business#
+   - Vfj-Mgla6Hg | ongoing=False | publishedAt=2026-02-06T22:19:27Z | actualEndTime=None | effective=2026-02-06 22:19:27+00:00 | Inside the potential second “China shock” testing Europe#sho
+   - LOLV1nLtRCI | ongoing=False | publishedAt=2026-02-06T21:41:39Z | actualEndTime=None | effective=2026-02-06 21:41:39+00:00 | S&P Recovers Losses as Bond Yields Move Higher | Closing Bel
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The New World Order & Economic Great Rest JUST Started
-  URL: https://www.youtube.com/watch?v=dvhq5qXu2xo
-  publishedAt: 2026-02-06T02:44:55Z
+  제목: MAJOR Short SQUEEZED *JUST* Hiit
+  URL: https://www.youtube.com/watch?v=rSu5rXxnTfU
+  publishedAt: 2026-02-07T00:33:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - dvhq5qXu2xo | ongoing=False | publishedAt=2026-02-06T02:44:55Z | actualEndTime=None | effective=2026-02-06 02:44:55+00:00 | The New World Order & Economic Great Rest JUST Started
+   - rSu5rXxnTfU | ongoing=False | publishedAt=2026-02-07T00:33:26Z | actualEndTime=None | effective=2026-02-07 00:33:26+00:00 | MAJOR Short SQUEEZED *JUST* Hiit
+   - dvhq5qXu2xo | ongoing=False | publishedAt=2026-02-06T02:44:55Z | actualEndTime=None | effective=2026-02-06 02:44:55+00:00 | COLLAPSE BEGINS: The New World Order is STARTING
    - 1vgqFxHgknU | ongoing=False | publishedAt=2026-02-05T17:12:27Z | actualEndTime=2026-02-05T17:07:30Z | effective=2026-02-05 17:07:30+00:00 | Stock Market Selloff DEEPENS Even More
-   - 2ybQSN9DPZA | ongoing=False | publishedAt=2026-02-04T20:55:13Z | actualEndTime=None | effective=2026-02-04 20:55:13+00:00 | The Scam of 2008 is Back | Market Sells Off
-   - CQsWgoQBtZs | ongoing=False | publishedAt=2026-02-04T19:08:05Z | actualEndTime=2026-02-04T19:00:05Z | effective=2026-02-04 19:00:05+00:00 | Stock Market Selloff DEEPENS
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [특별 방송]  트럼프 대통령, '트럼프RX' 발표｜ - 오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=-4HXZccUYhU
-  publishedAt: 2026-02-06T00:25:35Z
-  actualEndTime: 2026-02-06T00:23:10Z
+  제목: 【미국 증시 오늘의 요약】 앤트로픽 공포? 엔비디아 CEO “AI 인프라, 7년 더 간다”  -  2026/02/06
+  URL: https://www.youtube.com/watch?v=ED3_G9DbDe0
+  publishedAt: 2026-02-06T23:25:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ED3_G9DbDe0 | ongoing=False | publishedAt=2026-02-06T23:25:00Z | actualEndTime=None | effective=2026-02-06 23:25:00+00:00 | 【미국 증시 오늘의 요약】 앤트로픽 공포? 엔비디아 CEO “AI 인프라, 7년 더 간다”  -  2026/
+   - oV53OhnQ0oA | ongoing=False | publishedAt=2026-02-06T22:39:27Z | actualEndTime=2026-02-06T22:17:57Z | effective=2026-02-06 22:17:57+00:00 | [26년 02월 06일 금]  빅테크, 올해 6,500억 달러 지출 예정 ｜ AI 공포에서 진정세로..? ｜
    - -4HXZccUYhU | ongoing=False | publishedAt=2026-02-06T00:25:35Z | actualEndTime=2026-02-06T00:23:10Z | effective=2026-02-06 00:23:10+00:00 | [특별 방송]  트럼프 대통령, '트럼프RX' 발표｜ - 오선의 미국 증시 라이브
    - veLN8UeNVao | ongoing=False | publishedAt=2026-02-06T00:01:06Z | actualEndTime=None | effective=2026-02-06 00:01:06+00:00 | 【미국 증시 오늘의 요약】 AI 매도세 폭풍, 비트코인 반토막…월가 3일 연속 폭락  -  2026/02/0
    - VJAIa4EWzRk | ongoing=False | publishedAt=2026-02-05T23:37:32Z | actualEndTime=2026-02-05T23:14:00Z | effective=2026-02-05 23:14:00+00:00 | [26년 02월 05일 목]  구글, 역대급 설비투자(CAPEX) 발표 ｜ 실적발표: 아마존, 아이렌, 블룸
-   - 3RgvbS4atlI | ongoing=False | publishedAt=2026-02-04T23:45:00Z | actualEndTime=None | effective=2026-02-04 23:45:00+00:00 | 【미국 증시 오늘의 요약】 기술주 투매 vs 가치주 상승, 뚜렷해진 '손바뀜'?  -  2026/02/04
-   - VChsI0l0as0 | ongoing=False | publishedAt=2026-02-04T23:11:57Z | actualEndTime=2026-02-04T22:47:40Z | effective=2026-02-04 22:47:40+00:00 | [26년 02월 04일 수]  엔비디아 CEO, '소프트웨어, AI 대체론은 비논리적' ｜ 실적: 구글, 퀄
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 시즌종료, 인정합니다ㅣ[아침시황&미국마감] #260206
-  URL: https://www.youtube.com/watch?v=05mjKiBqy1g
-  publishedAt: 2026-02-06T00:58:37Z
-  actualEndTime: 2026-02-06T00:50:09Z
+  제목: [미국증시LIVE] 아 제발.............................. 내가 다 잘못했따............ㅣ#260206
+  URL: https://www.youtube.com/watch?v=Z9Z63vRq6sk
+  publishedAt: 2026-02-06T16:33:11Z
+  actualEndTime: 2026-02-06T16:17:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Z9Z63vRq6sk | ongoing=False | publishedAt=2026-02-06T16:33:11Z | actualEndTime=2026-02-06T16:17:43Z | effective=2026-02-06 16:17:43+00:00 | [미국증시LIVE] 아 제발.............................. 내가 다 잘못했따.....
+   - dMaNoN8dqbo | ongoing=False | publishedAt=2026-02-06T09:22:48Z | actualEndTime=None | effective=2026-02-06 09:22:48+00:00 | 비트코인을 둘러싼 죽음의 소용돌이! #.2 토큰 시장의 유동성
    - 05mjKiBqy1g | ongoing=False | publishedAt=2026-02-06T00:58:37Z | actualEndTime=2026-02-06T00:50:09Z | effective=2026-02-06 00:50:09+00:00 | 시즌종료, 인정합니다ㅣ[아침시황&미국마감] #260206
-   - R_LbFHpDcTs | ongoing=False | publishedAt=2026-02-05T17:13:37Z | actualEndTime=2026-02-05T16:54:51Z | effective=2026-02-05 16:54:51+00:00 | [미국주식LIVE] 오늘 떨어지면 최소 2달, 레고... 꺼내...??ㅣ#260205
    - h12QRTjsyQU | ongoing=False | publishedAt=2026-02-05T09:14:42Z | actualEndTime=None | effective=2026-02-05 09:14:42+00:00 | 비트코인을 둘러싼 죽음의 소용돌이! #.1 마이크로스트레티지
-   - C0ZhESYJC6k | ongoing=False | publishedAt=2026-02-05T00:21:46Z | actualEndTime=2026-02-05T00:05:47Z | effective=2026-02-05 00:05:47+00:00 | 드디어 구글 실적, 하나하나 뜯어서 분석해봅시다ㅣ[아침시황&미국마감] #260205
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 비트코인 1억 붕괴. 마이클 버리의 비트코인 사형선고.
-  URL: https://www.youtube.com/watch?v=ZaqcA1mKFr4
-  publishedAt: 2026-02-05T19:29:35Z
+  제목: 비트코인 나스닥 대폭등의 진짜 이유
+  URL: https://www.youtube.com/watch?v=GzRpyTjPx-s
+  publishedAt: 2026-02-06T19:22:54Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - GzRpyTjPx-s | ongoing=False | publishedAt=2026-02-06T19:22:54Z | actualEndTime=None | effective=2026-02-06 19:22:54+00:00 | 비트코인 나스닥 대폭등의 진짜 이유
    - ZaqcA1mKFr4 | ongoing=False | publishedAt=2026-02-05T19:29:35Z | actualEndTime=None | effective=2026-02-05 19:29:35+00:00 | 비트코인 1억 붕괴. 마이클 버리의 비트코인 사형선고.
-   - SL_UEypr_LI | ongoing=False | publishedAt=2026-02-04T19:13:09Z | actualEndTime=None | effective=2026-02-04 19:13:09+00:00 | 테크 버블 붕괴 시작?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - tTu-7nJ8M_8 | ongoing=False | publishedAt=2026-02-04T11:07:18Z | actualEndTime=None | effective=2026-02-04 11:07:18+00:00 | AI 침투 공포에 폭락한 SW 주식들 vs AI 덕에 대호황 맞은 주식들
+  비고: 최근 48시간 검색 결과 없음
