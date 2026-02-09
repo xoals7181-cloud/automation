@@ -1,50 +1,50 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-08 12:50 (KST)
-Run: 53 (id=21791785985)
+생성 시각: 2026-02-09 12:37 (KST)
+Run: 54 (id=21811482794)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Japan Election: PM Sanae Takaichi Wins Landslide Victory
+  URL: https://www.youtube.com/watch?v=m6XrjeJ1MZI
+  publishedAt: 2026-02-09T02:52:09Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - m6XrjeJ1MZI | ongoing=False | publishedAt=2026-02-09T02:52:09Z | actualEndTime=None | effective=2026-02-09 02:52:09+00:00 | Japan Election: PM Sanae Takaichi Wins Landslide Victory
+   - Xx0vmc3dMRU | ongoing=False | publishedAt=2026-02-08T19:48:52Z | actualEndTime=None | effective=2026-02-08 19:48:52+00:00 | Quarterback Jordan Love on His Relationship to Toyotathon
+   - _V8yaIyRkXY | ongoing=False | publishedAt=2026-02-08T19:42:48Z | actualEndTime=None | effective=2026-02-08 19:42:48+00:00 | Michael Irvin on Radio Row at Super Bowl 60
+   - sOosow0V2Ok | ongoing=False | publishedAt=2026-02-08T15:01:32Z | actualEndTime=None | effective=2026-02-08 15:01:32+00:00 | Inside the Risks of Investing in Art
+   - wvFzpolOdug | ongoing=False | publishedAt=2026-02-08T13:01:36Z | actualEndTime=None | effective=2026-02-08 13:01:36+00:00 | Inside the Second China Shock Sweeping Across Europe
+   - szdYuYSQ9L0 | ongoing=False | publishedAt=2026-02-08T05:01:03Z | actualEndTime=None | effective=2026-02-08 05:01:03+00:00 | Super Bowl Is Our ‘Peak Moment,' Says BetMGM CEO
    - PbI6HFU2lCc | ongoing=False | publishedAt=2026-02-07T15:00:41Z | actualEndTime=None | effective=2026-02-07 15:00:41+00:00 | How the Debt Problem is Fueling the Gold Market
    - 3KQA4IDykIE | ongoing=False | publishedAt=2026-02-07T13:00:06Z | actualEndTime=None | effective=2026-02-07 13:00:06+00:00 | Fed’s Bostic Discusses Inflation, Warsh & K-Shaped Economy
    - cVzzZCCoGrI | ongoing=False | publishedAt=2026-02-07T11:15:08Z | actualEndTime=None | effective=2026-02-07 11:15:08+00:00 | Whoever Buys the Seahawks Will Be a ‘Winner,' Says Rashaun W
    - nwSu_tSU3_k | ongoing=False | publishedAt=2026-02-07T05:00:52Z | actualEndTime=None | effective=2026-02-07 05:00:52+00:00 | TV Super Bowl Ads are overpriced, Gary Vaynerchuk Says
-   - ZVX3VhKQj7Q | ongoing=False | publishedAt=2026-02-07T01:10:46Z | actualEndTime=None | effective=2026-02-07 01:10:46+00:00 | US, Iran Hold Indirect Talks to De-Escalate Tensions | Balan
-   - G59yKHW7UIo | ongoing=False | publishedAt=2026-02-07T00:20:15Z | actualEndTime=None | effective=2026-02-07 00:20:15+00:00 | S&P Poised for Biggest Advance Since May | The Close 2/6/202
-   - -F016i6Xtr4 | ongoing=False | publishedAt=2026-02-07T00:18:09Z | actualEndTime=None | effective=2026-02-07 00:18:09+00:00 | Trump Admin. Receiving Mounting Backlash for Racist Post
-   - 9uWFbTqLn9c | ongoing=False | publishedAt=2026-02-07T00:00:10Z | actualEndTime=None | effective=2026-02-07 00:00:10+00:00 | Wall Street Week | Bostic on Inflation, Volatile Gold Prices
-   - 2hNKNzBUwEw | ongoing=False | publishedAt=2026-02-06T23:37:52Z | actualEndTime=None | effective=2026-02-06 23:37:52+00:00 | India Keeps Rates Steady: What It Means for Markets
-   - yotUSKJxhSk | ongoing=False | publishedAt=2026-02-06T23:39:08Z | actualEndTime=None | effective=2026-02-06 23:39:08+00:00 | Have To Be Optimistic: Romania's Foreign Minister on Ukraine
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - rSu5rXxnTfU | ongoing=False | publishedAt=2026-02-07T00:33:26Z | actualEndTime=None | effective=2026-02-07 00:33:26+00:00 | MAJOR Short SQUEEZED *JUST* Hiit
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - ED3_G9DbDe0 | ongoing=False | publishedAt=2026-02-06T23:25:00Z | actualEndTime=None | effective=2026-02-06 23:25:00+00:00 | 【미국 증시 오늘의 요약】 앤트로픽 공포? 엔비디아 CEO “AI 인프라, 7년 더 간다”  -  2026/
-   - oV53OhnQ0oA | ongoing=False | publishedAt=2026-02-06T22:39:27Z | actualEndTime=2026-02-06T22:17:57Z | effective=2026-02-06 22:17:57+00:00 | [26년 02월 06일 금]  빅테크, 올해 6,500억 달러 지출 예정 ｜ AI 공포에서 진정세로..? ｜
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 다음주 아시아 증시 연휴다! 이번주 핵심은 실적+엔화+앱스타인...?ㅣ[아침시황&미국마감] #260209
+  URL: https://www.youtube.com/watch?v=4pM-h0u1NQ0
+  publishedAt: 2026-02-09T00:33:12Z
+  actualEndTime: 2026-02-09T00:24:05Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - dMaNoN8dqbo | ongoing=False | publishedAt=2026-02-06T09:22:48Z | actualEndTime=None | effective=2026-02-06 09:22:48+00:00 | 비트코인을 둘러싼 죽음의 소용돌이! #.2 토큰 시장의 유동성
+   - 4pM-h0u1NQ0 | ongoing=False | publishedAt=2026-02-09T00:33:12Z | actualEndTime=2026-02-09T00:24:05Z | effective=2026-02-09 00:24:05+00:00 | 다음주 아시아 증시 연휴다! 이번주 핵심은 실적+엔화+앱스타인...?ㅣ[아침시황&미국마감] #260209
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - GzRpyTjPx-s | ongoing=False | publishedAt=2026-02-06T19:22:54Z | actualEndTime=None | effective=2026-02-06 19:22:54+00:00 | 비트코인 나스닥 대폭등의 진짜 이유
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
