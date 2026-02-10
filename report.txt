@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-09 12:37 (KST)
-Run: 54 (id=21811482794)
+생성 시각: 2026-02-10 12:46 (KST)
+Run: 55 (id=21850876484)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,44 +8,65 @@ Run: 54 (id=21811482794)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Japan Election: PM Sanae Takaichi Wins Landslide Victory
-  URL: https://www.youtube.com/watch?v=m6XrjeJ1MZI
-  publishedAt: 2026-02-09T02:52:09Z
+  제목: Alphabet Bets Big on 100 Years of Debt
+  URL: https://www.youtube.com/watch?v=Nr15PrARQlo
+  publishedAt: 2026-02-10T03:31:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - m6XrjeJ1MZI | ongoing=False | publishedAt=2026-02-09T02:52:09Z | actualEndTime=None | effective=2026-02-09 02:52:09+00:00 | Japan Election: PM Sanae Takaichi Wins Landslide Victory
-   - Xx0vmc3dMRU | ongoing=False | publishedAt=2026-02-08T19:48:52Z | actualEndTime=None | effective=2026-02-08 19:48:52+00:00 | Quarterback Jordan Love on His Relationship to Toyotathon
-   - _V8yaIyRkXY | ongoing=False | publishedAt=2026-02-08T19:42:48Z | actualEndTime=None | effective=2026-02-08 19:42:48+00:00 | Michael Irvin on Radio Row at Super Bowl 60
-   - sOosow0V2Ok | ongoing=False | publishedAt=2026-02-08T15:01:32Z | actualEndTime=None | effective=2026-02-08 15:01:32+00:00 | Inside the Risks of Investing in Art
-   - wvFzpolOdug | ongoing=False | publishedAt=2026-02-08T13:01:36Z | actualEndTime=None | effective=2026-02-08 13:01:36+00:00 | Inside the Second China Shock Sweeping Across Europe
-   - szdYuYSQ9L0 | ongoing=False | publishedAt=2026-02-08T05:01:03Z | actualEndTime=None | effective=2026-02-08 05:01:03+00:00 | Super Bowl Is Our ‘Peak Moment,' Says BetMGM CEO
-   - PbI6HFU2lCc | ongoing=False | publishedAt=2026-02-07T15:00:41Z | actualEndTime=None | effective=2026-02-07 15:00:41+00:00 | How the Debt Problem is Fueling the Gold Market
-   - 3KQA4IDykIE | ongoing=False | publishedAt=2026-02-07T13:00:06Z | actualEndTime=None | effective=2026-02-07 13:00:06+00:00 | Fed’s Bostic Discusses Inflation, Warsh & K-Shaped Economy
-   - cVzzZCCoGrI | ongoing=False | publishedAt=2026-02-07T11:15:08Z | actualEndTime=None | effective=2026-02-07 11:15:08+00:00 | Whoever Buys the Seahawks Will Be a ‘Winner,' Says Rashaun W
-   - nwSu_tSU3_k | ongoing=False | publishedAt=2026-02-07T05:00:52Z | actualEndTime=None | effective=2026-02-07 05:00:52+00:00 | TV Super Bowl Ads are overpriced, Gary Vaynerchuk Says
+   - Nr15PrARQlo | ongoing=False | publishedAt=2026-02-10T03:31:11Z | actualEndTime=None | effective=2026-02-10 03:31:11+00:00 | Alphabet Bets Big on 100 Years of Debt
+   - U2QmXU0r8bw | ongoing=False | publishedAt=2026-02-10T01:05:59Z | actualEndTime=None | effective=2026-02-10 01:05:59+00:00 | Lawmakers Review Epstein Documents at DOJ | Balance of Power
+   - W3Ik6LKcHHc | ongoing=False | publishedAt=2026-02-09T23:50:52Z | actualEndTime=None | effective=2026-02-09 23:50:52+00:00 | S&P, Nasdaq Rise as Tech Rebounds Ahead of Earnings, Data | 
+   - nQG2MugxMK8 | ongoing=False | publishedAt=2026-02-09T22:25:56Z | actualEndTime=None | effective=2026-02-09 22:25:56+00:00 | Stocks Rise as Investors Eye Earnings, Economic Data | Closi
+   - KnvhN0WTdIk | ongoing=False | publishedAt=2026-02-09T22:26:30Z | actualEndTime=None | effective=2026-02-09 22:26:30+00:00 | Starmer Never Knew Epstein. But He’s Becoming Collateral Dam
+   - xFyOlGwXQrY | ongoing=False | publishedAt=2026-02-09T22:11:27Z | actualEndTime=None | effective=2026-02-09 22:11:27+00:00 | Congress Has Five Days to Avoid Another Government Shutdown
+   - Nlgekkr5Z3E | ongoing=False | publishedAt=2026-02-09T22:11:31Z | actualEndTime=None | effective=2026-02-09 22:11:31+00:00 | Israel's Netanyahu Coming to Washington to Discuss Iran
+   - PW8iwTTpFkA | ongoing=False | publishedAt=2026-02-09T22:01:00Z | actualEndTime=None | effective=2026-02-09 22:01:00+00:00 | Super Bowl Ads cost $10 million for 30 seconds
+   - Yh-C_KGnFxE | ongoing=False | publishedAt=2026-02-09T21:56:21Z | actualEndTime=None | effective=2026-02-09 21:56:21+00:00 | Carlyle's Currie Says There Is No Oil Supply Glut
+   - iohgKElT7Vs | ongoing=False | publishedAt=2026-02-09T21:34:52Z | actualEndTime=None | effective=2026-02-09 21:34:52+00:00 | Markets Are Ripe for Disappointment, Slimmon Says
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: Stocks
+  URL: https://www.youtube.com/watch?v=8iaGOEIXA_E
+  publishedAt: 2026-02-09T16:29:07Z
+  actualEndTime: 2026-02-09T16:24:30Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 8iaGOEIXA_E | ongoing=False | publishedAt=2026-02-09T16:29:07Z | actualEndTime=2026-02-09T16:24:30Z | effective=2026-02-09 16:24:30+00:00 | Stocks
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 AI 투매 진정, 기술주 반등…이번 주 고용·CPI가 갈림길  -  2026/02/09
+  URL: https://www.youtube.com/watch?v=g0sr901RwFA
+  publishedAt: 2026-02-09T23:26:00Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - g0sr901RwFA | ongoing=False | publishedAt=2026-02-09T23:26:00Z | actualEndTime=None | effective=2026-02-09 23:26:00+00:00 | 【미국 증시 오늘의 요약】 AI 투매 진정, 기술주 반등…이번 주 고용·CPI가 갈림길  -  2026/02
+   - msZ81zDYfpY | ongoing=False | publishedAt=2026-02-09T22:42:46Z | actualEndTime=2026-02-09T22:21:56Z | effective=2026-02-09 22:21:56+00:00 | [26년 02월 09일 월]  중국, 은행들에게 미국 국채 줄이라 지시 ｜ 힘스앤허스, 복합 체중 감량 알약
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 다음주 아시아 증시 연휴다! 이번주 핵심은 실적+엔화+앱스타인...?ㅣ[아침시황&미국마감] #260209
-  URL: https://www.youtube.com/watch?v=4pM-h0u1NQ0
-  publishedAt: 2026-02-09T00:33:12Z
-  actualEndTime: 2026-02-09T00:24:05Z
+  제목: [주린이를 위한 기본기] 언제 사야 할까?, 어디서 사면 물릴까??
+  URL: https://www.youtube.com/watch?v=6RCh3gBOuAA
+  publishedAt: 2026-02-10T03:08:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 6RCh3gBOuAA | ongoing=False | publishedAt=2026-02-10T03:08:05Z | actualEndTime=None | effective=2026-02-10 03:08:05+00:00 | [주린이를 위한 기본기] 언제 사야 할까?, 어디서 사면 물릴까??
+   - IPS8nARPUh4 | ongoing=False | publishedAt=2026-02-10T00:10:04Z | actualEndTime=2026-02-10T00:02:54Z | effective=2026-02-10 00:02:54+00:00 | 재미가 없누ㅣ[아침시황&미국마감] #260215
+   - DBWd9aOaTrI | ongoing=False | publishedAt=2026-02-09T05:31:48Z | actualEndTime=None | effective=2026-02-09 05:31:48+00:00 | 아직 늦지 않았다!! 어떤 주식을 사야할까?
    - 4pM-h0u1NQ0 | ongoing=False | publishedAt=2026-02-09T00:33:12Z | actualEndTime=2026-02-09T00:24:05Z | effective=2026-02-09 00:24:05+00:00 | 다음주 아시아 증시 연휴다! 이번주 핵심은 실적+엔화+앱스타인...?ㅣ[아침시황&미국마감] #260209
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 반등했지만 결국 소프트웨어 산업 이렇게 된다.
+  URL: https://www.youtube.com/watch?v=OFmQyPI7234
+  publishedAt: 2026-02-09T19:00:51Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - OFmQyPI7234 | ongoing=False | publishedAt=2026-02-09T19:00:51Z | actualEndTime=None | effective=2026-02-09 19:00:51+00:00 | 반등했지만 결국 소프트웨어 산업 이렇게 된다.
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - pGZo6-Z4Ifs | ongoing=False | publishedAt=2026-02-09T12:15:10Z | actualEndTime=None | effective=2026-02-09 12:15:10+00:00 | 빅테크 무한 치킨게임 시작? 현금 폭격에 대호황 맞은 수혜주들
