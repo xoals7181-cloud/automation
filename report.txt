@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-10 12:46 (KST)
-Run: 55 (id=21850876484)
+생성 시각: 2026-02-11 12:42 (KST)
+Run: 56 (id=21891912282)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,68 @@ Run: 55 (id=21850876484)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Alphabet Bets Big on 100 Years of Debt
-  URL: https://www.youtube.com/watch?v=Nr15PrARQlo
-  publishedAt: 2026-02-10T03:31:11Z
+  제목: Will The Government Shut Down Friday?
+  URL: https://www.youtube.com/watch?v=F5lJn0VmXo4
+  publishedAt: 2026-02-11T02:33:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Nr15PrARQlo | ongoing=False | publishedAt=2026-02-10T03:31:11Z | actualEndTime=None | effective=2026-02-10 03:31:11+00:00 | Alphabet Bets Big on 100 Years of Debt
-   - U2QmXU0r8bw | ongoing=False | publishedAt=2026-02-10T01:05:59Z | actualEndTime=None | effective=2026-02-10 01:05:59+00:00 | Lawmakers Review Epstein Documents at DOJ | Balance of Power
-   - W3Ik6LKcHHc | ongoing=False | publishedAt=2026-02-09T23:50:52Z | actualEndTime=None | effective=2026-02-09 23:50:52+00:00 | S&P, Nasdaq Rise as Tech Rebounds Ahead of Earnings, Data | 
-   - nQG2MugxMK8 | ongoing=False | publishedAt=2026-02-09T22:25:56Z | actualEndTime=None | effective=2026-02-09 22:25:56+00:00 | Stocks Rise as Investors Eye Earnings, Economic Data | Closi
-   - KnvhN0WTdIk | ongoing=False | publishedAt=2026-02-09T22:26:30Z | actualEndTime=None | effective=2026-02-09 22:26:30+00:00 | Starmer Never Knew Epstein. But He’s Becoming Collateral Dam
-   - xFyOlGwXQrY | ongoing=False | publishedAt=2026-02-09T22:11:27Z | actualEndTime=None | effective=2026-02-09 22:11:27+00:00 | Congress Has Five Days to Avoid Another Government Shutdown
-   - Nlgekkr5Z3E | ongoing=False | publishedAt=2026-02-09T22:11:31Z | actualEndTime=None | effective=2026-02-09 22:11:31+00:00 | Israel's Netanyahu Coming to Washington to Discuss Iran
-   - PW8iwTTpFkA | ongoing=False | publishedAt=2026-02-09T22:01:00Z | actualEndTime=None | effective=2026-02-09 22:01:00+00:00 | Super Bowl Ads cost $10 million for 30 seconds
-   - Yh-C_KGnFxE | ongoing=False | publishedAt=2026-02-09T21:56:21Z | actualEndTime=None | effective=2026-02-09 21:56:21+00:00 | Carlyle's Currie Says There Is No Oil Supply Glut
-   - iohgKElT7Vs | ongoing=False | publishedAt=2026-02-09T21:34:52Z | actualEndTime=None | effective=2026-02-09 21:34:52+00:00 | Markets Are Ripe for Disappointment, Slimmon Says
+   - F5lJn0VmXo4 | ongoing=False | publishedAt=2026-02-11T02:33:26Z | actualEndTime=None | effective=2026-02-11 02:33:26+00:00 | Will The Government Shut Down Friday?
+   - R9ETtf8fU1o | ongoing=False | publishedAt=2026-02-11T02:33:07Z | actualEndTime=None | effective=2026-02-11 02:33:07+00:00 | Need to Have Long-Term Bitcoin Belief: David Marcus
+   - O9vy_zdTbwU | ongoing=False | publishedAt=2026-02-11T01:37:55Z | actualEndTime=None | effective=2026-02-11 01:37:55+00:00 | Retail Sales Stall as Dow Sets Record, S&P Falls | The Close
+   - aPzVTVHRW74 | ongoing=False | publishedAt=2026-02-11T01:31:23Z | actualEndTime=None | effective=2026-02-11 01:31:23+00:00 | Dems. Dismiss White House Counter on DHS Funding Deal | Bala
+   - uH8WK1buT00 | ongoing=False | publishedAt=2026-02-11T01:23:34Z | actualEndTime=None | effective=2026-02-11 01:23:34+00:00 | Dow Hits Record as Retail Sales Stall | Closing Bell
+   - KbHpJwdi37U | ongoing=False | publishedAt=2026-02-10T23:01:08Z | actualEndTime=None | effective=2026-02-10 23:01:08+00:00 | Rep. DelBene: DHS funding is "up to Republicans" #shorts #dh
+   - zSAi44E-MPE | ongoing=False | publishedAt=2026-02-10T21:53:33Z | actualEndTime=None | effective=2026-02-10 21:53:33+00:00 | Quest Diagnostics CEO on Using Blood Testing for Alzheimer’s
+   - ogs7BDhrVM0 | ongoing=False | publishedAt=2026-02-10T21:50:45Z | actualEndTime=None | effective=2026-02-10 21:50:45+00:00 | Can Trump's new Fed chair achieve 15% GDP growth?
+   - KFJUA7lOc-4 | ongoing=False | publishedAt=2026-02-10T21:42:03Z | actualEndTime=None | effective=2026-02-10 21:42:03+00:00 | Trump Threatens to Block Opening of Bridge to Canada
+   - SSsyn8Nu2bU | ongoing=False | publishedAt=2026-02-10T21:35:56Z | actualEndTime=None | effective=2026-02-10 21:35:56+00:00 | Stock Rally Stalls as Bonds Climb on Retail Sales | Bloomber
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Stocks
-  URL: https://www.youtube.com/watch?v=8iaGOEIXA_E
-  publishedAt: 2026-02-09T16:29:07Z
-  actualEndTime: 2026-02-09T16:24:30Z
+  제목: The Collapse of Grant Cardone [Bitcoin Margin Calls] Cardone Capital
+  URL: https://www.youtube.com/watch?v=7s_Ug8fFTFU
+  publishedAt: 2026-02-10T17:51:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 7s_Ug8fFTFU | ongoing=False | publishedAt=2026-02-10T17:51:20Z | actualEndTime=None | effective=2026-02-10 17:51:20+00:00 | The Collapse of Grant Cardone [Bitcoin Margin Calls] Cardone
+   - paR-LweMJRw | ongoing=False | publishedAt=2026-02-10T16:30:11Z | actualEndTime=2026-02-10T16:27:12Z | effective=2026-02-10 16:27:12+00:00 | Stocks
    - 8iaGOEIXA_E | ongoing=False | publishedAt=2026-02-09T16:29:07Z | actualEndTime=2026-02-09T16:24:30Z | effective=2026-02-09 16:24:30+00:00 | Stocks
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 AI 투매 진정, 기술주 반등…이번 주 고용·CPI가 갈림길  -  2026/02/09
-  URL: https://www.youtube.com/watch?v=g0sr901RwFA
-  publishedAt: 2026-02-09T23:26:00Z
+  제목: 【미국 증시 오늘의 요약】 소매판매 예상 밖 부진... 연준 "그래도 금리 동결"   -  2026/02/09
+  URL: https://www.youtube.com/watch?v=lRvW2qXPk8A
+  publishedAt: 2026-02-10T23:42:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - lRvW2qXPk8A | ongoing=False | publishedAt=2026-02-10T23:42:01Z | actualEndTime=None | effective=2026-02-10 23:42:01+00:00 | 【미국 증시 오늘의 요약】 소매판매 예상 밖 부진... 연준 "그래도 금리 동결"   -  2026/02/0
+   - wkucd0EDqZI | ongoing=False | publishedAt=2026-02-10T23:02:42Z | actualEndTime=2026-02-10T22:40:50Z | effective=2026-02-10 22:40:50+00:00 | [26년 02월 10일 화]  미국, 차기 반도체 관세에서 빅테크 면제 추진｜ 구글, 영국에서 100년 만기
    - g0sr901RwFA | ongoing=False | publishedAt=2026-02-09T23:26:00Z | actualEndTime=None | effective=2026-02-09 23:26:00+00:00 | 【미국 증시 오늘의 요약】 AI 투매 진정, 기술주 반등…이번 주 고용·CPI가 갈림길  -  2026/02
    - msZ81zDYfpY | ongoing=False | publishedAt=2026-02-09T22:42:46Z | actualEndTime=2026-02-09T22:21:56Z | effective=2026-02-09 22:21:56+00:00 | [26년 02월 09일 월]  중국, 은행들에게 미국 국채 줄이라 지시 ｜ 힘스앤허스, 복합 체중 감량 알약
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [주린이를 위한 기본기] 언제 사야 할까?, 어디서 사면 물릴까??
-  URL: https://www.youtube.com/watch?v=6RCh3gBOuAA
-  publishedAt: 2026-02-10T03:08:05Z
+  제목: 4월까지 횡보할 것 같습니다
+  URL: https://www.youtube.com/watch?v=C6Qd0Bjj9wg
+  publishedAt: 2026-02-11T03:00:12Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - C6Qd0Bjj9wg | ongoing=False | publishedAt=2026-02-11T03:00:12Z | actualEndTime=None | effective=2026-02-11 03:00:12+00:00 | 4월까지 횡보할 것 같습니다
+   - pGkl_adTScE | ongoing=False | publishedAt=2026-02-11T00:06:50Z | actualEndTime=2026-02-11T00:02:19Z | effective=2026-02-11 00:02:19+00:00 | 일단 숏을 잡긴 잡았는데.............ㅣ[아침시황&미국마감] #260211
+   - vWZnaVCoNKE | ongoing=False | publishedAt=2026-02-10T15:14:43Z | actualEndTime=2026-02-10T15:01:02Z | effective=2026-02-10 15:01:02+00:00 | 숏충이 등장!! 7,000pt 과연 뚫을 수 있을까??ㅣ[아침시황&미국마감] #260210
    - 6RCh3gBOuAA | ongoing=False | publishedAt=2026-02-10T03:08:05Z | actualEndTime=None | effective=2026-02-10 03:08:05+00:00 | [주린이를 위한 기본기] 언제 사야 할까?, 어디서 사면 물릴까??
    - IPS8nARPUh4 | ongoing=False | publishedAt=2026-02-10T00:10:04Z | actualEndTime=2026-02-10T00:02:54Z | effective=2026-02-10 00:02:54+00:00 | 재미가 없누ㅣ[아침시황&미국마감] #260215
    - DBWd9aOaTrI | ongoing=False | publishedAt=2026-02-09T05:31:48Z | actualEndTime=None | effective=2026-02-09 05:31:48+00:00 | 아직 늦지 않았다!! 어떤 주식을 사야할까?
-   - 4pM-h0u1NQ0 | ongoing=False | publishedAt=2026-02-09T00:33:12Z | actualEndTime=2026-02-09T00:24:05Z | effective=2026-02-09 00:24:05+00:00 | 다음주 아시아 증시 연휴다! 이번주 핵심은 실적+엔화+앱스타인...?ㅣ[아침시황&미국마감] #260209
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 반등했지만 결국 소프트웨어 산업 이렇게 된다.
-  URL: https://www.youtube.com/watch?v=OFmQyPI7234
-  publishedAt: 2026-02-09T19:00:51Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - OFmQyPI7234 | ongoing=False | publishedAt=2026-02-09T19:00:51Z | actualEndTime=None | effective=2026-02-09 19:00:51+00:00 | 반등했지만 결국 소프트웨어 산업 이렇게 된다.
+   - OFmQyPI7234 | ongoing=False | publishedAt=2026-02-09T19:00:51Z | actualEndTime=None | effective=2026-02-09 19:00:51+00:00 | 소프트웨어 산업 사형선고?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - i32LuItC7-s | ongoing=False | publishedAt=2026-02-10T11:51:15Z | actualEndTime=None | effective=2026-02-10 11:51:15+00:00 | "임기 내 미국증시  2배 올린다", 트럼프 호언장담의 수혜주들
    - pGZo6-Z4Ifs | ongoing=False | publishedAt=2026-02-09T12:15:10Z | actualEndTime=None | effective=2026-02-09 12:15:10+00:00 | 빅테크 무한 치킨게임 시작? 현금 폭격에 대호황 맞은 수혜주들
