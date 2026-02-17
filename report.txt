@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-16 12:35 (KST)
-Run: 61 (id=22049228897)
+생성 시각: 2026-02-17 12:30 (KST)
+Run: 62 (id=22084937725)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,21 +8,21 @@ Run: 61 (id=22049228897)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Japan Posts Anemic Growth as Takaichi Eyes Spending  | The Asia Trade 2/16/2026
-  URL: https://www.youtube.com/watch?v=cUzgc9YxBRw
-  publishedAt: 2026-02-16T03:24:40Z
+  제목: Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $60,000 Level
+  URL: https://www.youtube.com/watch?v=ZRj4PmlPv6Q
+  publishedAt: 2026-02-17T00:06:16Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - cUzgc9YxBRw | ongoing=False | publishedAt=2026-02-16T03:24:40Z | actualEndTime=None | effective=2026-02-16 03:24:40+00:00 | Japan Posts Anemic Growth as Takaichi Eyes Spending  | The A
-   - eWnNIQXsT0k | ongoing=False | publishedAt=2026-02-15T16:00:51Z | actualEndTime=None | effective=2026-02-15 16:00:51+00:00 | US public transit is overpaying for buses #shorts #publictra
-   - m1lU8EXhrqI | ongoing=False | publishedAt=2026-02-15T15:42:15Z | actualEndTime=None | effective=2026-02-15 15:42:15+00:00 | Rubio Says US Wants Europe to Prosper, Alliance Is 'Critical
-   - kQkAVQuibXM | ongoing=False | publishedAt=2026-02-15T15:43:38Z | actualEndTime=None | effective=2026-02-15 15:43:38+00:00 | US Briefly Names Alibaba, Baidu as Firms Aiding China’s Mili
-   - AhQ90ifuh6g | ongoing=False | publishedAt=2026-02-15T15:40:42Z | actualEndTime=None | effective=2026-02-15 15:40:42+00:00 | Rubio Says Trump's Preference Is to Reach Deal With Iran
-   - NGV9OzduSSc | ongoing=False | publishedAt=2026-02-15T15:00:40Z | actualEndTime=None | effective=2026-02-15 15:00:40+00:00 | Who will survive and thrive in the new AI era?
-   - qBUyayNaUBQ | ongoing=False | publishedAt=2026-02-15T13:01:31Z | actualEndTime=None | effective=2026-02-15 13:01:31+00:00 | How America Ended Up Paying So Much for Public Buses
-   - Cy9vM3OREec | ongoing=False | publishedAt=2026-02-14T18:00:16Z | actualEndTime=None | effective=2026-02-14 18:00:16+00:00 | Who will survive in the new AI era? #shorts #ai #machines #w
-   - zu2Yi8aCDZA | ongoing=False | publishedAt=2026-02-14T17:04:35Z | actualEndTime=None | effective=2026-02-14 17:04:35+00:00 | Mona Scott-Young on Her Foray Into Reality TV
-   - CfUNlMYxR0k | ongoing=False | publishedAt=2026-02-14T15:00:17Z | actualEndTime=None | effective=2026-02-14 15:00:17+00:00 | Is Trump’s Manufacturing Comeback Real?
+   - ZRj4PmlPv6Q | ongoing=False | publishedAt=2026-02-17T00:06:16Z | actualEndTime=None | effective=2026-02-17 00:06:16+00:00 | Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $
+   - Wi_WuhkC9vY | ongoing=False | publishedAt=2026-02-16T15:00:55Z | actualEndTime=None | effective=2026-02-16 15:00:55+00:00 | What is the best possible outcome of the new AI era? #shorts
+   - fvLYv4dPmHc | ongoing=False | publishedAt=2026-02-16T13:05:48Z | actualEndTime=None | effective=2026-02-16 13:05:48+00:00 | Rubio Says US, Hungary Are Entering 'Golden Era' of Relation
+   - txOupbbDfPo | ongoing=False | publishedAt=2026-02-16T12:02:41Z | actualEndTime=None | effective=2026-02-16 12:02:41+00:00 | Memory Chip Shortage is Global Crisis in the Making | The Pu
+   - OJhVf4DwfEc | ongoing=False | publishedAt=2026-02-16T11:59:07Z | actualEndTime=None | effective=2026-02-16 11:59:07+00:00 | 'Shared Values' discussed in Munich; RAM Concerns Tech Inves
+   - 9vkB02bWvhE | ongoing=False | publishedAt=2026-02-16T10:19:29Z | actualEndTime=None | effective=2026-02-16 10:19:29+00:00 | Musk, Cook Warn of Memory Chip Crisis as Demand From AI Grow
+   - WFWroaV3bmg | ongoing=False | publishedAt=2026-02-16T09:52:28Z | actualEndTime=None | effective=2026-02-16 09:52:28+00:00 | Bonds Rise on Rate-Cut Bets; Gold Dips Below $5,000 | Horizo
+   - SusaE_Pk5RA | ongoing=False | publishedAt=2026-02-16T08:32:07Z | actualEndTime=None | effective=2026-02-16 08:32:07+00:00 | US Stocks to Lag European Peers on AI
+   - 7sGhAlHyOwc | ongoing=False | publishedAt=2026-02-16T07:56:27Z | actualEndTime=None | effective=2026-02-16 07:56:27+00:00 | Rubio Warns Europe & Warner Bros. Mulls New Paramount Talks 
+   - RpQ0jjEuyRA | ongoing=False | publishedAt=2026-02-16T07:18:38Z | actualEndTime=None | effective=2026-02-16 07:18:38+00:00 | Sweden Warms to Euro on Trump's World Order, Geopolitical Ri
 
 - Meet Kevin
   상태: NO_VIDEO
@@ -33,17 +33,11 @@ Run: 61 (id=22049228897)
   비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 엔비디아 다음은 애플이다...!! AI 열풍, 애플 제품 품귀현상!!ㅣ빅테크, 지금 사도 될까??ㅣ[아침시황&미국마감] #260216
-  URL: https://www.youtube.com/watch?v=tWV0X4_Yv8M
-  publishedAt: 2026-02-16T01:35:59Z
-  actualEndTime: 2026-02-16T01:23:23Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - tWV0X4_Yv8M | ongoing=False | publishedAt=2026-02-16T01:35:59Z | actualEndTime=2026-02-16T01:23:23Z | effective=2026-02-16 01:23:23+00:00 | 엔비디아 다음은 애플이다...!! AI 열풍, 애플 제품 품귀현상!!ㅣ빅테크, 지금 사도 될까??ㅣ[아침시황
    - mYh7tJqqCHg | ongoing=False | publishedAt=2026-02-15T07:00:40Z | actualEndTime=None | effective=2026-02-15 07:00:40+00:00 | 알고리즘 매매가 불러올 시장의 대폭락 위험성
-   - 4YFvKQyxWYs | ongoing=False | publishedAt=2026-02-15T01:00:09Z | actualEndTime=None | effective=2026-02-15 01:00:09+00:00 | AI주가 흔들려도 크게 걱정하지 않는 이유
-   - AR5LLH3QD2U | ongoing=False | publishedAt=2026-02-14T07:00:13Z | actualEndTime=None | effective=2026-02-14 07:00:13+00:00 | 차트 보는 기준에 대해 확실히 정해드립니다
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
@@ -51,4 +45,6 @@ Run: 61 (id=22049228897)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - -TXLDw0c2J8 | ongoing=False | publishedAt=2026-02-16T09:55:32Z | actualEndTime=None | effective=2026-02-16 09:55:32+00:00 | 빠르게 돈 빠져나가는 빅테크와 나스닥, 새롭게 시장이 주목하는 주인공들
