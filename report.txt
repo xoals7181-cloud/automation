@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-17 12:30 (KST)
-Run: 62 (id=22084937725)
+생성 시각: 2026-02-18 12:33 (KST)
+Run: 63 (id=22125393096)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,43 +8,65 @@ Run: 62 (id=22084937725)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $60,000 Level
-  URL: https://www.youtube.com/watch?v=ZRj4PmlPv6Q
-  publishedAt: 2026-02-17T00:06:16Z
+  제목: Partial Shutdown Drags on Over DHS Funding | Balance of Show 02/17/2026
+  URL: https://www.youtube.com/watch?v=w_E6nIx7_MI
+  publishedAt: 2026-02-18T00:57:48Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ZRj4PmlPv6Q | ongoing=False | publishedAt=2026-02-17T00:06:16Z | actualEndTime=None | effective=2026-02-17 00:06:16+00:00 | Bitcoin Bull Bobby Lee Warns Bitcoin Could Break Below Key $
-   - Wi_WuhkC9vY | ongoing=False | publishedAt=2026-02-16T15:00:55Z | actualEndTime=None | effective=2026-02-16 15:00:55+00:00 | What is the best possible outcome of the new AI era? #shorts
-   - fvLYv4dPmHc | ongoing=False | publishedAt=2026-02-16T13:05:48Z | actualEndTime=None | effective=2026-02-16 13:05:48+00:00 | Rubio Says US, Hungary Are Entering 'Golden Era' of Relation
-   - txOupbbDfPo | ongoing=False | publishedAt=2026-02-16T12:02:41Z | actualEndTime=None | effective=2026-02-16 12:02:41+00:00 | Memory Chip Shortage is Global Crisis in the Making | The Pu
-   - OJhVf4DwfEc | ongoing=False | publishedAt=2026-02-16T11:59:07Z | actualEndTime=None | effective=2026-02-16 11:59:07+00:00 | 'Shared Values' discussed in Munich; RAM Concerns Tech Inves
-   - 9vkB02bWvhE | ongoing=False | publishedAt=2026-02-16T10:19:29Z | actualEndTime=None | effective=2026-02-16 10:19:29+00:00 | Musk, Cook Warn of Memory Chip Crisis as Demand From AI Grow
-   - WFWroaV3bmg | ongoing=False | publishedAt=2026-02-16T09:52:28Z | actualEndTime=None | effective=2026-02-16 09:52:28+00:00 | Bonds Rise on Rate-Cut Bets; Gold Dips Below $5,000 | Horizo
-   - SusaE_Pk5RA | ongoing=False | publishedAt=2026-02-16T08:32:07Z | actualEndTime=None | effective=2026-02-16 08:32:07+00:00 | US Stocks to Lag European Peers on AI
-   - 7sGhAlHyOwc | ongoing=False | publishedAt=2026-02-16T07:56:27Z | actualEndTime=None | effective=2026-02-16 07:56:27+00:00 | Rubio Warns Europe & Warner Bros. Mulls New Paramount Talks 
-   - RpQ0jjEuyRA | ongoing=False | publishedAt=2026-02-16T07:18:38Z | actualEndTime=None | effective=2026-02-16 07:18:38+00:00 | Sweden Warms to Euro on Trump's World Order, Geopolitical Ri
+   - w_E6nIx7_MI | ongoing=False | publishedAt=2026-02-18T00:57:48Z | actualEndTime=None | effective=2026-02-18 00:57:48+00:00 | Partial Shutdown Drags on Over DHS Funding | Balance of Show
+   - pR5Ijyd3Zoo | ongoing=False | publishedAt=2026-02-17T23:32:40Z | actualEndTime=None | effective=2026-02-17 23:32:40+00:00 | Stocks Gain as Tech Holds Up; Bonds Steady | The Close 2/17/
+   - Ap1D1DkvPOs | ongoing=False | publishedAt=2026-02-17T23:13:25Z | actualEndTime=None | effective=2026-02-17 23:13:25+00:00 | Palo Alto Networks CEO Says Markets 'Have It Wrong' About Ea
+   - p14iy6EPm_0 | ongoing=False | publishedAt=2026-02-17T22:42:45Z | actualEndTime=None | effective=2026-02-17 22:42:45+00:00 | US, Iran Make Progress in Nuclear Talks After Trump Threats
+   - dYxoSpmX64g | ongoing=False | publishedAt=2026-02-17T22:27:52Z | actualEndTime=None | effective=2026-02-17 22:27:52+00:00 | Blue Origin CEO vows all-in effort to beat SpaceX in moon ra
+   - W73FZvTqBrs | ongoing=False | publishedAt=2026-02-17T22:24:08Z | actualEndTime=None | effective=2026-02-17 22:24:08+00:00 | Are AI Fears Triggering a Stock Market Doom Loop?
+   - TboASa0oCHw | ongoing=False | publishedAt=2026-02-17T21:38:15Z | actualEndTime=None | effective=2026-02-17 21:38:15+00:00 | US Stocks Climb as Gold and Silver Slip | Closing Bell
+   - 5N2JgNg8jRE | ongoing=False | publishedAt=2026-02-17T21:27:48Z | actualEndTime=None | effective=2026-02-17 21:27:48+00:00 | Winklevosses’ Crypto Exchange Gemini Loses Three Top Executi
+   - N6ic5ey7GLo | ongoing=False | publishedAt=2026-02-17T21:22:32Z | actualEndTime=None | effective=2026-02-17 21:22:32+00:00 | Apple Ramps Up Wearables for AI Era | Bloomberg Businessweek
+   - TREOiAIhzTU | ongoing=False | publishedAt=2026-02-17T20:47:20Z | actualEndTime=None | effective=2026-02-17 20:47:20+00:00 | US, Iran Hail Progress in Nuclear Talks | Balance of Power: 
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: Stocks Dump
+  URL: https://www.youtube.com/watch?v=z6cVftZj9Lc
+  publishedAt: 2026-02-17T16:11:03Z
+  actualEndTime: 2026-02-17T16:08:06Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - z6cVftZj9Lc | ongoing=False | publishedAt=2026-02-17T16:11:03Z | actualEndTime=2026-02-17T16:08:06Z | effective=2026-02-17 16:08:06+00:00 | Stocks Dump
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 AI 우려에 롤러코스터 장세… S&P 장중 1% 급락 후 반등   -  2026/02/17
+  URL: https://www.youtube.com/watch?v=gxt3iKQAmzs
+  publishedAt: 2026-02-17T23:40:00Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - gxt3iKQAmzs | ongoing=False | publishedAt=2026-02-17T23:40:00Z | actualEndTime=None | effective=2026-02-17 23:40:00+00:00 | 【미국 증시 오늘의 요약】 AI 우려에 롤러코스터 장세… S&P 장중 1% 급락 후 반등   -  2026/
+   - 01hlb6q5JfU | ongoing=False | publishedAt=2026-02-17T12:58:44Z | actualEndTime=2026-02-17T22:46:26Z | effective=2026-02-17 22:46:26+00:00 | [26년 02월 17일 화]  워너브라더스, 파라마운트와 매각 협상 재개｜ ZIM, 42억 달러에 매각 ｜미
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 13F 공시 분석, 큰 손들이 빅테크를 매도한 이유는?ㅣ구글, 이제는 물타기 해도 될 것 같습니다ㅣ[아침시황&미국마감] #260218
+  URL: https://www.youtube.com/watch?v=5p1p6iBZeHw
+  publishedAt: 2026-02-18T03:07:55Z
+  actualEndTime: 2026-02-18T01:49:08Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - tWV0X4_Yv8M | ongoing=False | publishedAt=2026-02-16T01:35:59Z | actualEndTime=2026-02-16T01:23:23Z | effective=2026-02-16 01:23:23+00:00 | 엔비디아 다음은 애플이다...!! AI 열풍, 애플 제품 품귀현상!!ㅣ빅테크, 지금 사도 될까??ㅣ[아침시황
-   - mYh7tJqqCHg | ongoing=False | publishedAt=2026-02-15T07:00:40Z | actualEndTime=None | effective=2026-02-15 07:00:40+00:00 | 알고리즘 매매가 불러올 시장의 대폭락 위험성
+   - 5p1p6iBZeHw | ongoing=False | publishedAt=2026-02-18T03:07:55Z | actualEndTime=2026-02-18T01:49:08Z | effective=2026-02-18 01:49:08+00:00 | 13F 공시 분석, 큰 손들이 빅테크를 매도한 이유는?ㅣ구글, 이제는 물타기 해도 될 것 같습니다ㅣ[아침시황
+   - wIdV5skoTWc | ongoing=False | publishedAt=2026-02-17T10:09:38Z | actualEndTime=None | effective=2026-02-17 10:09:38+00:00 | 2026년, 미국주식 재미없는 이유 (I'm 테칠천!!)
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 마이클버리 "딥시크 이슈로 빅테크 폭락?"
+  URL: https://www.youtube.com/watch?v=22C6UJqZbqo
+  publishedAt: 2026-02-17T18:14:49Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 22C6UJqZbqo | ongoing=False | publishedAt=2026-02-17T18:14:49Z | actualEndTime=None | effective=2026-02-17 18:14:49+00:00 | 마이클버리 "딥시크 이슈로 빅테크 폭락?"
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - GIiGcbwFhzM | ongoing=False | publishedAt=2026-02-17T11:09:09Z | actualEndTime=None | effective=2026-02-17 11:09:09+00:00 | 폭락한 빅테크, 절호의 기회? 돈냄새 귀신 빌 애크먼의 풀베팅 성공할까
    - -TXLDw0c2J8 | ongoing=False | publishedAt=2026-02-16T09:55:32Z | actualEndTime=None | effective=2026-02-16 09:55:32+00:00 | 빠르게 돈 빠져나가는 빅테크와 나스닥, 새롭게 시장이 주목하는 주인공들
