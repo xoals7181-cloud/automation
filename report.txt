@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-19 12:32 (KST)
-Run: 64 (id=22167390496)
+생성 시각: 2026-02-20 12:27 (KST)
+Run: 65 (id=22210069679)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,69 +8,68 @@ Run: 64 (id=22167390496)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Partial Government Shutdown Drags On As Talks Stall | Balance of Power: Late Edition 2/18/2026
-  URL: https://www.youtube.com/watch?v=R-y2SytQd5o
-  publishedAt: 2026-02-19T00:13:26Z
+  제목: Trump Takes Affordability Message On The Road | Balance of Power: Late Edition 2/19/2026
+  URL: https://www.youtube.com/watch?v=WoIZMGKs-k0
+  publishedAt: 2026-02-20T00:42:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - R-y2SytQd5o | ongoing=False | publishedAt=2026-02-19T00:13:26Z | actualEndTime=None | effective=2026-02-19 00:13:26+00:00 | Partial Government Shutdown Drags On As Talks Stall | Balanc
-   - ELXQdQOynKA | ongoing=False | publishedAt=2026-02-19T00:00:31Z | actualEndTime=None | effective=2026-02-19 00:00:31+00:00 | Stocks Rise as Data Signal Resilient Economy | The Close 2/1
-   - 3kD2rbzl2TI | ongoing=False | publishedAt=2026-02-18T22:37:21Z | actualEndTime=None | effective=2026-02-18 22:37:21+00:00 | Why the NFL Is Changing the Pro Bowl Games Again
-   - gFLBDuM6M60 | ongoing=False | publishedAt=2026-02-18T22:35:13Z | actualEndTime=None | effective=2026-02-18 22:35:13+00:00 | Stocks Rise as Tech Lifts S&P | Closing Bell
-   - SgKxcVC3zY4 | ongoing=False | publishedAt=2026-02-18T22:28:23Z | actualEndTime=None | effective=2026-02-18 22:28:23+00:00 | Fed Has to 'Play Ball' for Markets, Morgan Stanley's Wilson 
-   - 4lzczB_lyD8 | ongoing=False | publishedAt=2026-02-18T22:28:55Z | actualEndTime=None | effective=2026-02-18 22:28:55+00:00 | Morgan Stanley's Wilson Says AI Cycle Just Getting Going
-   - 6Frfq8EQPYg | ongoing=False | publishedAt=2026-02-18T22:25:04Z | actualEndTime=None | effective=2026-02-18 22:25:04+00:00 | Putin Dragging Out Talks In Hopes of Tiring Allies Support f
-   - Er5a8DNjghc | ongoing=False | publishedAt=2026-02-18T22:24:40Z | actualEndTime=None | effective=2026-02-18 22:24:40+00:00 | State of the Economy Is Fragile, Zandi Says
-   - MAicMzBqmhc | ongoing=False | publishedAt=2026-02-18T22:04:34Z | actualEndTime=None | effective=2026-02-18 22:04:34+00:00 | Trump Says He'll Be Indirectly Involved in Talks With Iran
-   - XryrVbRf3KI | ongoing=False | publishedAt=2026-02-18T21:58:00Z | actualEndTime=None | effective=2026-02-18 21:58:00+00:00 | Zuckerberg Arrives to Testify in Trial on Social Media Addic
+   - WoIZMGKs-k0 | ongoing=False | publishedAt=2026-02-20T00:42:50Z | actualEndTime=None | effective=2026-02-20 00:42:50+00:00 | Trump Takes Affordability Message On The Road | Balance of P
+   - jn_Ca-AkgNo | ongoing=False | publishedAt=2026-02-20T00:02:42Z | actualEndTime=None | effective=2026-02-20 00:02:42+00:00 | Stocks Slide as Oil Jumps on Rising US-Iran Tensions | The C
+   - 4HifX-e78vg | ongoing=False | publishedAt=2026-02-19T23:46:13Z | actualEndTime=None | effective=2026-02-19 23:46:13+00:00 | Esper to Trump: “We own the shot clock” on Iran strikes #sho
+   - eqi7pzBR07c | ongoing=False | publishedAt=2026-02-19T22:53:21Z | actualEndTime=None | effective=2026-02-19 22:53:21+00:00 | Trump on Affordability: 'We've Solved It'
+   - b1X4kw0smrE | ongoing=False | publishedAt=2026-02-19T22:21:45Z | actualEndTime=None | effective=2026-02-19 22:21:45+00:00 | Trump Threatens Iran on Talks | Balance of Power: Early Edit
+   - kljtDz4-CRM | ongoing=False | publishedAt=2026-02-19T22:06:16Z | actualEndTime=None | effective=2026-02-19 22:06:16+00:00 | US Runs Annual Trade Deficit Up to $901 Billion, One of Bigg
+   - BFrfbEhGoV4 | ongoing=False | publishedAt=2026-02-19T22:05:11Z | actualEndTime=None | effective=2026-02-19 22:05:11+00:00 | Figma's AI Outlook, Blue Owl Stokes Credit Concerns | Bloomb
+   - BtZPxtW4akY | ongoing=False | publishedAt=2026-02-19T21:46:00Z | actualEndTime=None | effective=2026-02-19 21:46:00+00:00 | Stocks Slide as Oil Spikes on US–Iran Tension | Closing Bell
+   - 6AdkxVfFXF0 | ongoing=False | publishedAt=2026-02-19T21:38:02Z | actualEndTime=None | effective=2026-02-19 21:38:02+00:00 | Wayfair CFO on growing brick-and-mortar business
+   - MnEzvxJqMac | ongoing=False | publishedAt=2026-02-19T21:32:19Z | actualEndTime=None | effective=2026-02-19 21:32:19+00:00 | Figma gains on strong growth outlook that eases AI fears
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Double Trouble: Rate Hikes and MAJOR War are Coming.
-  URL: https://www.youtube.com/watch?v=sCf3L2sKxZM
-  publishedAt: 2026-02-18T20:11:59Z
+  제목: Stocks Mixed on Fed, Iran, and Rates
+  URL: https://www.youtube.com/watch?v=UIazvJSYtqU
+  publishedAt: 2026-02-19T16:24:00Z
+  actualEndTime: 2026-02-19T16:21:19Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UIazvJSYtqU | ongoing=False | publishedAt=2026-02-19T16:24:00Z | actualEndTime=2026-02-19T16:21:19Z | effective=2026-02-19 16:21:19+00:00 | Stocks Mixed on Fed, Iran, and Rates
    - sCf3L2sKxZM | ongoing=False | publishedAt=2026-02-18T20:11:59Z | actualEndTime=None | effective=2026-02-18 20:11:59+00:00 | Double Trouble: Rate Hikes and MAJOR War are Coming.
    - p3NZPp92uuo | ongoing=False | publishedAt=2026-02-18T16:59:00Z | actualEndTime=2026-02-18T16:53:18Z | effective=2026-02-18 16:53:18+00:00 | Stocks REBOUND | Let's a' go!
-   - z6cVftZj9Lc | ongoing=False | publishedAt=2026-02-17T16:11:03Z | actualEndTime=2026-02-17T16:08:06Z | effective=2026-02-17 16:08:06+00:00 | Stocks Dump
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 AI 공포로 눌린 소프트웨어… 개인투자자 대규모 매수   -  2026/02/18
-  URL: https://www.youtube.com/watch?v=c0VLpbyiDjQ
-  publishedAt: 2026-02-18T23:30:15Z
+  제목: 【미국 증시 오늘의 요약】 이란 긴장·사모펀드 환매 중단…증시 하락   -  2026/02/19
+  URL: https://www.youtube.com/watch?v=hLPIMELXl5g
+  publishedAt: 2026-02-19T23:32:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - hLPIMELXl5g | ongoing=False | publishedAt=2026-02-19T23:32:00Z | actualEndTime=None | effective=2026-02-19 23:32:00+00:00 | 【미국 증시 오늘의 요약】 이란 긴장·사모펀드 환매 중단…증시 하락   -  2026/02/19
+   - X6HTR3yUkL8 | ongoing=False | publishedAt=2026-02-19T23:03:29Z | actualEndTime=2026-02-19T22:42:08Z | effective=2026-02-19 22:42:08+00:00 | [26년 02월 19일 목]  오픈AI, $1000억 자금 조달 마무리 중 ｜ 트럼프, '평화위원회' 행사 
    - c0VLpbyiDjQ | ongoing=False | publishedAt=2026-02-18T23:30:15Z | actualEndTime=None | effective=2026-02-18 23:30:15+00:00 | 【미국 증시 오늘의 요약】 AI 공포로 눌린 소프트웨어… 개인투자자 대규모 매수   -  2026/02/18
    - ttw4e4Edeyg | ongoing=False | publishedAt=2026-02-18T22:54:22Z | actualEndTime=2026-02-18T22:32:34Z | effective=2026-02-18 22:32:34+00:00 | [26년 02월 18일 수]  엔비디아·메타, 대규모 칩 공급 계약 체결｜ 웨스턴디지털, 샌디스크 지분 매각
-   - gxt3iKQAmzs | ongoing=False | publishedAt=2026-02-17T23:40:00Z | actualEndTime=None | effective=2026-02-17 23:40:00+00:00 | 【미국 증시 오늘의 요약】 AI 우려에 롤러코스터 장세… S&P 장중 1% 급락 후 반등   -  2026/
-   - 01hlb6q5JfU | ongoing=False | publishedAt=2026-02-17T12:58:44Z | actualEndTime=2026-02-17T22:46:26Z | effective=2026-02-17 22:46:26+00:00 | [26년 02월 17일 화]  워너브라더스, 파라마운트와 매각 협상 재개｜ ZIM, 42억 달러에 매각 ｜미
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 풋옵션이 증가하면 매수 시그널이 맞습니다ㅣ[아침시황&미국마감] #260219
-  URL: https://www.youtube.com/watch?v=qW1QTQkLvOo
-  publishedAt: 2026-02-19T00:18:43Z
-  actualEndTime: 2026-02-19T00:12:13Z
+  제목: 삼성전자 고점에 물리면 50% 박살날 수 밖에 없는 이유
+  URL: https://www.youtube.com/watch?v=q8ukYAqHkc8
+  publishedAt: 2026-02-20T03:01:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - q8ukYAqHkc8 | ongoing=False | publishedAt=2026-02-20T03:01:03Z | actualEndTime=None | effective=2026-02-20 03:01:03+00:00 | 삼성전자 고점에 물리면 50% 박살날 수 밖에 없는 이유
+   - go6QUmwf7XA | ongoing=False | publishedAt=2026-02-20T00:18:16Z | actualEndTime=2026-02-20T00:04:47Z | effective=2026-02-20 00:04:47+00:00 | 미국(이스라엘) vs 러시아(이란)...?? 충돌이냐 협상이냐...??ㅣ마이크론 하락, 샌디스크 상승, 반도
+   - -FoGkLAU3TA | ongoing=False | publishedAt=2026-02-19T17:01:12Z | actualEndTime=2026-02-19T16:30:50Z | effective=2026-02-19 16:30:50+00:00 | [미국주식 LIVE] 단타 드가자잇!! 구글 300달러 풀매수 가능??ㅣ#260219
    - qW1QTQkLvOo | ongoing=False | publishedAt=2026-02-19T00:18:43Z | actualEndTime=2026-02-19T00:12:13Z | effective=2026-02-19 00:12:13+00:00 | 풋옵션이 증가하면 매수 시그널이 맞습니다ㅣ[아침시황&미국마감] #260219
-   - 5p1p6iBZeHw | ongoing=False | publishedAt=2026-02-18T03:07:55Z | actualEndTime=2026-02-18T01:49:08Z | effective=2026-02-18 01:49:08+00:00 | 13F 공시 분석, 큰 손들이 빅테크를 매도한 이유는?ㅣ구글, 이제는 물타기 해도 될 것 같습니다ㅣ[아침시황
-   - wIdV5skoTWc | ongoing=False | publishedAt=2026-02-17T10:09:38Z | actualEndTime=None | effective=2026-02-17 10:09:38+00:00 | 2026년, 미국주식 재미없는 이유 (I'm 테칠천!!)
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 상승분 반납의 진짜 이유
-  URL: https://www.youtube.com/watch?v=d3Baldi1jU0
-  publishedAt: 2026-02-18T20:22:24Z
+  제목: 이 주식을 보고 소름이 돋았습니다 ㄷㄷ
+  URL: https://www.youtube.com/watch?v=VebRcr51qo4
+  publishedAt: 2026-02-19T20:18:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - VebRcr51qo4 | ongoing=False | publishedAt=2026-02-19T20:18:14Z | actualEndTime=None | effective=2026-02-19 20:18:14+00:00 | 이 주식을 보고 소름이 돋았습니다 ㄷㄷ
    - d3Baldi1jU0 | ongoing=False | publishedAt=2026-02-18T20:22:24Z | actualEndTime=None | effective=2026-02-18 20:22:24+00:00 | 상승분 반납의 진짜 이유
-   - 22C6UJqZbqo | ongoing=False | publishedAt=2026-02-17T18:14:49Z | actualEndTime=None | effective=2026-02-17 18:14:49+00:00 | 마이클버리 "딥시크 이슈로 빅테크 폭락?"
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - GIiGcbwFhzM | ongoing=False | publishedAt=2026-02-17T11:09:09Z | actualEndTime=None | effective=2026-02-17 11:09:09+00:00 | 폭락한 빅테크, 절호의 기회? 돈냄새 귀신 빌 애크먼의 풀베팅 성공할까
+  비고: 최근 48시간 검색 결과 없음
