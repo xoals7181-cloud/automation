@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-21 12:16 (KST)
-Run: 66 (id=22249307688)
+생성 시각: 2026-02-22 12:31 (KST)
+Run: 67 (id=22269678128)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,58 +8,47 @@ Run: 66 (id=22249307688)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Has Japan finally broken free from its “lost decades?” #shorts #japan #economy
-  URL: https://www.youtube.com/watch?v=ibHezardJSA
-  publishedAt: 2026-02-21T02:00:42Z
+  제목: Japan “well positioned” for industrial renaissance, says Apollo’s Ueda #shorts #japan #industry #ai
+  URL: https://www.youtube.com/watch?v=UutzlKumVLw
+  publishedAt: 2026-02-22T01:00:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UutzlKumVLw | ongoing=False | publishedAt=2026-02-22T01:00:27Z | actualEndTime=None | effective=2026-02-22 01:00:27+00:00 | Japan “well positioned” for industrial renaissance, says Apo
+   - I35C1qdOGus | ongoing=False | publishedAt=2026-02-21T15:00:34Z | actualEndTime=None | effective=2026-02-21 15:00:34+00:00 | Why Foreign Investors Are Seeing Opportunity in Japan
+   - PeqPG0l9M0o | ongoing=False | publishedAt=2026-02-21T13:00:44Z | actualEndTime=None | effective=2026-02-21 13:00:44+00:00 | Japan’s Comeback: Why the “Lost Decades” May Finally Be Endi
+   - mflXrhfKFG0 | ongoing=False | publishedAt=2026-02-21T05:01:00Z | actualEndTime=None | effective=2026-02-21 05:01:00+00:00 | The Billionaires Behind Japan's Pop Culture Icons
    - ibHezardJSA | ongoing=False | publishedAt=2026-02-21T02:00:42Z | actualEndTime=None | effective=2026-02-21 02:00:42+00:00 | Has Japan finally broken free from its “lost decades?” #shor
    - s3jkNwVzrc8 | ongoing=False | publishedAt=2026-02-21T00:23:40Z | actualEndTime=None | effective=2026-02-21 00:23:40+00:00 | Stocks Gain as Court Blocks Tariffs; Yields Climb | The Clos
    - 1wWKSukkp2w | ongoing=False | publishedAt=2026-02-21T00:21:52Z | actualEndTime=None | effective=2026-02-21 00:21:52+00:00 | Supreme Court Strikes Down Trump's Tariffs | Balance of Powe
    - ydcgs6qNqs4 | ongoing=False | publishedAt=2026-02-21T00:01:11Z | actualEndTime=None | effective=2026-02-21 00:01:11+00:00 | Wall Street Week | Investment Opportunities, Corporate Trans
    - gYTBJOe6qyU | ongoing=False | publishedAt=2026-02-20T23:18:19Z | actualEndTime=None | effective=2026-02-20 23:18:19+00:00 | Supreme Court Axes Trump's Tariffs | Bloomberg Businessweek 
    - gMY1RkTjN6g | ongoing=False | publishedAt=2026-02-20T22:32:26Z | actualEndTime=None | effective=2026-02-20 22:32:26+00:00 | Bruce Blakeman on Tariffs, Hochul, Mamdani, Immigration
-   - ZtmYNmskumQ | ongoing=False | publishedAt=2026-02-20T21:55:43Z | actualEndTime=None | effective=2026-02-20 21:55:43+00:00 | What Role Does Gambling Play in Sports?
-   - XPsMqqimbu8 | ongoing=False | publishedAt=2026-02-20T21:50:39Z | actualEndTime=None | effective=2026-02-20 21:50:39+00:00 | Stocks Rise, Bonds Fall After Tariff Ruling | Closing Bell
-   - GDxK6Yd-53Y | ongoing=False | publishedAt=2026-02-20T21:42:53Z | actualEndTime=None | effective=2026-02-20 21:42:53+00:00 | Trump Tariffs Are a Sales Tax, Krugman Says
-   - 98pStDuwx0U | ongoing=False | publishedAt=2026-02-20T21:29:41Z | actualEndTime=None | effective=2026-02-20 21:29:41+00:00 | Supreme Court Axes Trump Tariffs | Balance of Power: Early E
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: F**K | Trump LASHES OUT
-  URL: https://www.youtube.com/watch?v=TAprAV0J_OE
-  publishedAt: 2026-02-20T22:08:31Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - TAprAV0J_OE | ongoing=False | publishedAt=2026-02-20T22:08:31Z | actualEndTime=None | effective=2026-02-20 22:08:31+00:00 | F**K | Trump LASHES OUT
    - IVZ0-DWxawY | ongoing=False | publishedAt=2026-02-20T15:47:39Z | actualEndTime=None | effective=2026-02-20 15:47:39+00:00 | SUPREME COURT CANCELS TARIFFS | PREPARE NOW!!!
    - acDIE2UyhhM | ongoing=False | publishedAt=2026-02-20T03:38:53Z | actualEndTime=None | effective=2026-02-20 03:38:53+00:00 | WITHDRAWALS FROZEN | MAJOR PROBLEM JUST STARTED
-   - UIazvJSYtqU | ongoing=False | publishedAt=2026-02-19T16:24:00Z | actualEndTime=2026-02-19T16:21:19Z | effective=2026-02-19 16:21:19+00:00 | Stocks Mixed on Fed, Iran, and Rates
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 트럼프 관세 무효, 10% 보편관세 예고  -  2026/02/20
-  URL: https://www.youtube.com/watch?v=Fb11y77tYmM
-  publishedAt: 2026-02-20T23:50:00Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - Fb11y77tYmM | ongoing=False | publishedAt=2026-02-20T23:50:00Z | actualEndTime=None | effective=2026-02-20 23:50:00+00:00 | 【미국 증시 오늘의 요약】 트럼프 관세 무효, 10% 보편관세 예고  -  2026/02/20
    - LzxvX3ObFkU | ongoing=False | publishedAt=2026-02-20T22:52:24Z | actualEndTime=2026-02-20T22:30:21Z | effective=2026-02-20 22:30:21+00:00 | [26년 02월 20일 금]  미 대법원, 이르면 오늘 관세 판결?! ｜ 12월 PCE 가격지수, 4분기 G
-   - hLPIMELXl5g | ongoing=False | publishedAt=2026-02-19T23:32:00Z | actualEndTime=None | effective=2026-02-19 23:32:00+00:00 | 【미국 증시 오늘의 요약】 이란 긴장·사모펀드 환매 중단…증시 하락   -  2026/02/19
-   - X6HTR3yUkL8 | ongoing=False | publishedAt=2026-02-19T23:03:29Z | actualEndTime=2026-02-19T22:42:08Z | effective=2026-02-19 22:42:08+00:00 | [26년 02월 19일 목]  오픈AI, $1000억 자금 조달 마무리 중 ｜ 트럼프, '평화위원회' 행사 
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - q8ukYAqHkc8 | ongoing=False | publishedAt=2026-02-20T03:01:03Z | actualEndTime=None | effective=2026-02-20 03:01:03+00:00 | 삼성전자 고점에 물리면 50% 박살날 수 밖에 없는 이유
-   - go6QUmwf7XA | ongoing=False | publishedAt=2026-02-20T00:18:16Z | actualEndTime=2026-02-20T00:04:47Z | effective=2026-02-20 00:04:47+00:00 | 미국(이스라엘) vs 러시아(이란)...?? 충돌이냐 협상이냐...??ㅣ마이크론 하락, 샌디스크 상승, 반도
+   - MbjaIiNB2ys | ongoing=False | publishedAt=2026-02-21T12:00:29Z | actualEndTime=None | effective=2026-02-21 12:00:29+00:00 | 풋옵션 거래량으로 보는 주식 시장의 역설!
+   - HEVYVce4tpo | ongoing=False | publishedAt=2026-02-21T04:57:31Z | actualEndTime=None | effective=2026-02-21 04:57:31+00:00 | 투자 쉽게 하는 방법!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - VebRcr51qo4 | ongoing=False | publishedAt=2026-02-19T20:18:14Z | actualEndTime=None | effective=2026-02-19 20:18:14+00:00 | 이 주식을 보고 소름이 돋았습니다 ㄷㄷ
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
