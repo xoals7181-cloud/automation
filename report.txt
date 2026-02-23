@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-22 12:31 (KST)
-Run: 67 (id=22269678128)
+생성 시각: 2026-02-23 12:35 (KST)
+Run: 68 (id=22291984543)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,41 +8,39 @@ Run: 67 (id=22269678128)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Japan “well positioned” for industrial renaissance, says Apollo’s Ueda #shorts #japan #industry #ai
-  URL: https://www.youtube.com/watch?v=UutzlKumVLw
-  publishedAt: 2026-02-22T01:00:27Z
+  제목: The private capital boom reshaping Japan #shorts #capital #japan #sony
+  URL: https://www.youtube.com/watch?v=7DBRXe4MR1A
+  publishedAt: 2026-02-23T01:00:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 7DBRXe4MR1A | ongoing=False | publishedAt=2026-02-23T01:00:11Z | actualEndTime=None | effective=2026-02-23 01:00:11+00:00 | The private capital boom reshaping Japan #shorts #capital #j
+   - 6muaDM9mIEc | ongoing=False | publishedAt=2026-02-22T15:00:16Z | actualEndTime=None | effective=2026-02-22 15:00:16+00:00 | How Fast is Japan’s Corporate Culture Changing?
+   - RSMF69VPa1c | ongoing=False | publishedAt=2026-02-22T13:00:46Z | actualEndTime=None | effective=2026-02-22 13:00:46+00:00 | Sony, Panasonic, and the Private Capital Boom Reshaping Japa
    - UutzlKumVLw | ongoing=False | publishedAt=2026-02-22T01:00:27Z | actualEndTime=None | effective=2026-02-22 01:00:27+00:00 | Japan “well positioned” for industrial renaissance, says Apo
    - I35C1qdOGus | ongoing=False | publishedAt=2026-02-21T15:00:34Z | actualEndTime=None | effective=2026-02-21 15:00:34+00:00 | Why Foreign Investors Are Seeing Opportunity in Japan
    - PeqPG0l9M0o | ongoing=False | publishedAt=2026-02-21T13:00:44Z | actualEndTime=None | effective=2026-02-21 13:00:44+00:00 | Japan’s Comeback: Why the “Lost Decades” May Finally Be Endi
    - mflXrhfKFG0 | ongoing=False | publishedAt=2026-02-21T05:01:00Z | actualEndTime=None | effective=2026-02-21 05:01:00+00:00 | The Billionaires Behind Japan's Pop Culture Icons
-   - ibHezardJSA | ongoing=False | publishedAt=2026-02-21T02:00:42Z | actualEndTime=None | effective=2026-02-21 02:00:42+00:00 | Has Japan finally broken free from its “lost decades?” #shor
-   - s3jkNwVzrc8 | ongoing=False | publishedAt=2026-02-21T00:23:40Z | actualEndTime=None | effective=2026-02-21 00:23:40+00:00 | Stocks Gain as Court Blocks Tariffs; Yields Climb | The Clos
-   - 1wWKSukkp2w | ongoing=False | publishedAt=2026-02-21T00:21:52Z | actualEndTime=None | effective=2026-02-21 00:21:52+00:00 | Supreme Court Strikes Down Trump's Tariffs | Balance of Powe
-   - ydcgs6qNqs4 | ongoing=False | publishedAt=2026-02-21T00:01:11Z | actualEndTime=None | effective=2026-02-21 00:01:11+00:00 | Wall Street Week | Investment Opportunities, Corporate Trans
-   - gYTBJOe6qyU | ongoing=False | publishedAt=2026-02-20T23:18:19Z | actualEndTime=None | effective=2026-02-20 23:18:19+00:00 | Supreme Court Axes Trump's Tariffs | Bloomberg Businessweek 
-   - gMY1RkTjN6g | ongoing=False | publishedAt=2026-02-20T22:32:26Z | actualEndTime=None | effective=2026-02-20 22:32:26+00:00 | Bruce Blakeman on Tariffs, Hochul, Mamdani, Immigration
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - TAprAV0J_OE | ongoing=False | publishedAt=2026-02-20T22:08:31Z | actualEndTime=None | effective=2026-02-20 22:08:31+00:00 | F**K | Trump LASHES OUT
-   - IVZ0-DWxawY | ongoing=False | publishedAt=2026-02-20T15:47:39Z | actualEndTime=None | effective=2026-02-20 15:47:39+00:00 | SUPREME COURT CANCELS TARIFFS | PREPARE NOW!!!
-   - acDIE2UyhhM | ongoing=False | publishedAt=2026-02-20T03:38:53Z | actualEndTime=None | effective=2026-02-20 03:38:53+00:00 | WITHDRAWALS FROZEN | MAJOR PROBLEM JUST STARTED
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - Fb11y77tYmM | ongoing=False | publishedAt=2026-02-20T23:50:00Z | actualEndTime=None | effective=2026-02-20 23:50:00+00:00 | 【미국 증시 오늘의 요약】 트럼프 관세 무효, 10% 보편관세 예고  -  2026/02/20
-   - LzxvX3ObFkU | ongoing=False | publishedAt=2026-02-20T22:52:24Z | actualEndTime=2026-02-20T22:30:21Z | effective=2026-02-20 22:30:21+00:00 | [26년 02월 20일 금]  미 대법원, 이르면 오늘 관세 판결?! ｜ 12월 PCE 가격지수, 4분기 G
+   - 01hlb6q5JfU | ongoing=False | publishedAt=2026-02-22T23:19:15Z | actualEndTime=2026-02-17T22:46:26Z | effective=2026-02-17 22:46:26+00:00 | [26년 02월 17일 화]  워너브라더스, 파라마운트와 매각 협상 재개｜ ZIM, 42억 달러에 매각 ｜미
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: “AI는 돈 먹는 괴물?" 쩐의 전쟁 시작됐다
+  URL: https://www.youtube.com/watch?v=rNkSrE1fLJI
+  publishedAt: 2026-02-23T01:01:03Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - rNkSrE1fLJI | ongoing=False | publishedAt=2026-02-23T01:01:03Z | actualEndTime=None | effective=2026-02-23 01:01:03+00:00 | “AI는 돈 먹는 괴물?" 쩐의 전쟁 시작됐다
+   - 1VASLK3d9rE | ongoing=False | publishedAt=2026-02-23T00:46:05Z | actualEndTime=2026-02-23T00:11:58Z | effective=2026-02-23 00:11:58+00:00 | 이번주 주식투자자에게 가장 중요한 3가지 일정은?ㅣ관세판결, 호들갑 떨지 맙시다ㅣ삼성전자, 여기서 50% 더
+   - yeWusX1wk-I | ongoing=False | publishedAt=2026-02-22T06:06:49Z | actualEndTime=None | effective=2026-02-22 06:06:49+00:00 | NVIDIA 실적 전, 시장의 ‘빅 이벤트’ 대기
    - MbjaIiNB2ys | ongoing=False | publishedAt=2026-02-21T12:00:29Z | actualEndTime=None | effective=2026-02-21 12:00:29+00:00 | 풋옵션 거래량으로 보는 주식 시장의 역설!
    - HEVYVce4tpo | ongoing=False | publishedAt=2026-02-21T04:57:31Z | actualEndTime=None | effective=2026-02-21 04:57:31+00:00 | 투자 쉽게 하는 방법!
 
