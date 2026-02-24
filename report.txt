@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-23 12:35 (KST)
-Run: 68 (id=22291984543)
+생성 시각: 2026-02-24 12:31 (KST)
+Run: 69 (id=22335397827)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,46 +8,61 @@ Run: 68 (id=22291984543)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: The private capital boom reshaping Japan #shorts #capital #japan #sony
-  URL: https://www.youtube.com/watch?v=7DBRXe4MR1A
-  publishedAt: 2026-02-23T01:00:11Z
+  제목: US, Iran Pressure Mounts as Trump Pushes for Deal | Balance of Power: Late Edition 2/23/2026
+  URL: https://www.youtube.com/watch?v=_zIZ-NyQpPQ
+  publishedAt: 2026-02-24T00:33:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 7DBRXe4MR1A | ongoing=False | publishedAt=2026-02-23T01:00:11Z | actualEndTime=None | effective=2026-02-23 01:00:11+00:00 | The private capital boom reshaping Japan #shorts #capital #j
-   - 6muaDM9mIEc | ongoing=False | publishedAt=2026-02-22T15:00:16Z | actualEndTime=None | effective=2026-02-22 15:00:16+00:00 | How Fast is Japan’s Corporate Culture Changing?
-   - RSMF69VPa1c | ongoing=False | publishedAt=2026-02-22T13:00:46Z | actualEndTime=None | effective=2026-02-22 13:00:46+00:00 | Sony, Panasonic, and the Private Capital Boom Reshaping Japa
-   - UutzlKumVLw | ongoing=False | publishedAt=2026-02-22T01:00:27Z | actualEndTime=None | effective=2026-02-22 01:00:27+00:00 | Japan “well positioned” for industrial renaissance, says Apo
-   - I35C1qdOGus | ongoing=False | publishedAt=2026-02-21T15:00:34Z | actualEndTime=None | effective=2026-02-21 15:00:34+00:00 | Why Foreign Investors Are Seeing Opportunity in Japan
-   - PeqPG0l9M0o | ongoing=False | publishedAt=2026-02-21T13:00:44Z | actualEndTime=None | effective=2026-02-21 13:00:44+00:00 | Japan’s Comeback: Why the “Lost Decades” May Finally Be Endi
-   - mflXrhfKFG0 | ongoing=False | publishedAt=2026-02-21T05:01:00Z | actualEndTime=None | effective=2026-02-21 05:01:00+00:00 | The Billionaires Behind Japan's Pop Culture Icons
+   - _zIZ-NyQpPQ | ongoing=False | publishedAt=2026-02-24T00:33:04Z | actualEndTime=None | effective=2026-02-24 00:33:04+00:00 | US, Iran Pressure Mounts as Trump Pushes for Deal | Balance 
+   - iA1d5qiukt0 | ongoing=False | publishedAt=2026-02-24T00:28:00Z | actualEndTime=None | effective=2026-02-24 00:28:00+00:00 | Stocks Slip as Software Selloff Sparks AI Concerns | The Clo
+   - FcfnzJCyjio | ongoing=False | publishedAt=2026-02-23T23:50:56Z | actualEndTime=None | effective=2026-02-23 23:50:56+00:00 | Sen. Coons: Could see Iran strike in “next day or two” #shor
+   - DD8lU9AZa9k | ongoing=False | publishedAt=2026-02-23T21:55:29Z | actualEndTime=None | effective=2026-02-23 21:55:29+00:00 | Trump's Playbook To Gut The Department of Education
+   - xx_Wowg3KZ4 | ongoing=False | publishedAt=2026-02-23T21:50:21Z | actualEndTime=None | effective=2026-02-23 21:50:21+00:00 | Blizzard of '26 Shuts Down New York City, Mamdani Says Worst
+   - i_GXnvjzkew | ongoing=False | publishedAt=2026-02-23T21:50:28Z | actualEndTime=None | effective=2026-02-23 21:50:28+00:00 | What to Expect From Trump's State of the Union Address
+   - x2EYaPHRBe0 | ongoing=False | publishedAt=2026-02-23T21:41:41Z | actualEndTime=None | effective=2026-02-23 21:41:41+00:00 | Stocks Fall as Software Weakness, Tariff Risks Weigh | Closi
+   - 7nIVPOwbvjE | ongoing=False | publishedAt=2026-02-23T21:22:28Z | actualEndTime=None | effective=2026-02-23 21:22:28+00:00 | Stocks Slump on AI, Tariff Jitters | Bloomberg Businessweek 
+   - 6Zm7V_9hN1g | ongoing=False | publishedAt=2026-02-23T21:19:24Z | actualEndTime=None | effective=2026-02-23 21:19:24+00:00 | Will Trump Strike Iran?
+   - hBfJDoTLx28 | ongoing=False | publishedAt=2026-02-23T21:15:30Z | actualEndTime=None | effective=2026-02-23 21:15:30+00:00 | Bitcoin Falls on Uncertainty Fears After Tariffs Ruling
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 "AI가 다 대체한다" 10% 실업률 경고에 증시 발칵  -  2026/02/23
+  URL: https://www.youtube.com/watch?v=j5ArtCnE0QA
+  publishedAt: 2026-02-23T23:18:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - j5ArtCnE0QA | ongoing=False | publishedAt=2026-02-23T23:18:01Z | actualEndTime=None | effective=2026-02-23 23:18:01+00:00 | 【미국 증시 오늘의 요약】 "AI가 다 대체한다" 10% 실업률 경고에 증시 발칵  -  2026/02/23
+   - IS6VqRX5v_4 | ongoing=False | publishedAt=2026-02-23T22:56:04Z | actualEndTime=2026-02-23T22:30:34Z | effective=2026-02-23 22:30:34+00:00 | [26년 02월 23일 월]  트럼프, 글로벌 관세 15%로 인상 ｜ 유럽, 미국-EU 무역 합의 승인절차 
    - 01hlb6q5JfU | ongoing=False | publishedAt=2026-02-22T23:19:15Z | actualEndTime=2026-02-17T22:46:26Z | effective=2026-02-17 22:46:26+00:00 | [26년 02월 17일 화]  워너브라더스, 파라마운트와 매각 협상 재개｜ ZIM, 42억 달러에 매각 ｜미
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: “AI는 돈 먹는 괴물?" 쩐의 전쟁 시작됐다
-  URL: https://www.youtube.com/watch?v=rNkSrE1fLJI
-  publishedAt: 2026-02-23T01:01:03Z
+  제목: 기본!
+  URL: https://www.youtube.com/watch?v=DvFiiKD5Vc8
+  publishedAt: 2026-02-24T03:00:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - DvFiiKD5Vc8 | ongoing=False | publishedAt=2026-02-24T03:00:14Z | actualEndTime=None | effective=2026-02-24 03:00:14+00:00 | 기본!
+   - GnBww98x2dQ | ongoing=False | publishedAt=2026-02-24T00:17:40Z | actualEndTime=2026-02-24T00:11:40Z | effective=2026-02-24 00:11:40+00:00 | 시트리니 쇼크, 제대로 알아보자ㅣ머스크vs알트먼, 가슴이 옹졸해지는 싸움ㅣ결론: 반도체는 더 간다ㅣ[아침시황
    - rNkSrE1fLJI | ongoing=False | publishedAt=2026-02-23T01:01:03Z | actualEndTime=None | effective=2026-02-23 01:01:03+00:00 | “AI는 돈 먹는 괴물?" 쩐의 전쟁 시작됐다
    - 1VASLK3d9rE | ongoing=False | publishedAt=2026-02-23T00:46:05Z | actualEndTime=2026-02-23T00:11:58Z | effective=2026-02-23 00:11:58+00:00 | 이번주 주식투자자에게 가장 중요한 3가지 일정은?ㅣ관세판결, 호들갑 떨지 맙시다ㅣ삼성전자, 여기서 50% 더
    - yeWusX1wk-I | ongoing=False | publishedAt=2026-02-22T06:06:49Z | actualEndTime=None | effective=2026-02-22 06:06:49+00:00 | NVIDIA 실적 전, 시장의 ‘빅 이벤트’ 대기
-   - MbjaIiNB2ys | ongoing=False | publishedAt=2026-02-21T12:00:29Z | actualEndTime=None | effective=2026-02-21 12:00:29+00:00 | 풋옵션 거래량으로 보는 주식 시장의 역설!
-   - HEVYVce4tpo | ongoing=False | publishedAt=2026-02-21T04:57:31Z | actualEndTime=None | effective=2026-02-21 04:57:31+00:00 | 투자 쉽게 하는 방법!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 2028년! AI로 금융위기가 터진다?
+  URL: https://www.youtube.com/watch?v=HBz-QgeZ5jY
+  publishedAt: 2026-02-23T19:29:14Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - HBz-QgeZ5jY | ongoing=False | publishedAt=2026-02-23T19:29:14Z | actualEndTime=None | effective=2026-02-23 19:29:14+00:00 | 2028년! AI로 금융위기가 터진다?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - khtj3Ox88M8 | ongoing=False | publishedAt=2026-02-23T11:38:59Z | actualEndTime=None | effective=2026-02-23 11:38:59+00:00 | 관세 혼란과 이란 충돌 위험까지, 아슬아슬 미 증시 혼란의 시기 이어질까
