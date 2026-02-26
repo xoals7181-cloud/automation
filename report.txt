@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-25 12:31 (KST)
-Run: 70 (id=22380939225)
+생성 시각: 2026-02-26 12:28 (KST)
+Run: 71 (id=22426551489)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,61 +8,62 @@ Run: 70 (id=22380939225)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Says Democrats Cut Off All Funding to the Dept. of Homeland Security
-  URL: https://www.youtube.com/watch?v=sehAaA8BtzM
-  publishedAt: 2026-02-25T03:31:29Z
+  제목: Trump Defends His Policies in State of the Union | Balance of Show 02/25/2026
+  URL: https://www.youtube.com/watch?v=M-3-Pt0LFB0
+  publishedAt: 2026-02-26T00:53:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - sehAaA8BtzM | ongoing=False | publishedAt=2026-02-25T03:31:29Z | actualEndTime=None | effective=2026-02-25 03:31:29+00:00 | Trump Says Democrats Cut Off All Funding to the Dept. of Hom
-   - tDjG3tiECpk | ongoing=False | publishedAt=2026-02-25T03:23:30Z | actualEndTime=None | effective=2026-02-25 03:23:30+00:00 | This Is the Golden Age of America, Trump Says
-   - gfhrTFGwLpI | ongoing=False | publishedAt=2026-02-25T03:03:45Z | actualEndTime=None | effective=2026-02-25 03:03:45+00:00 | Trump Calls Supreme Court Tariff Ruling 'Very Unfortunate'
-   - JHqfraYC6qs | ongoing=False | publishedAt=2026-02-25T02:49:40Z | actualEndTime=None | effective=2026-02-25 02:49:40+00:00 | Trump Says US Winning, Introduces Olympic Hockey Team
-   - PqbhUPDm0zI | ongoing=False | publishedAt=2026-02-25T02:45:01Z | actualEndTime=None | effective=2026-02-25 02:45:01+00:00 | Trump Says Stock Market Hit 53 New Highs on His Watch
-   - 07qJvdSSSD8 | ongoing=False | publishedAt=2026-02-25T01:50:27Z | actualEndTime=None | effective=2026-02-25 01:50:27+00:00 | Polymarket, Kalshi Showcase the Power of Prediction Markets
-   - RpEglW1cO8E | ongoing=False | publishedAt=2026-02-25T01:33:43Z | actualEndTime=None | effective=2026-02-25 01:33:43+00:00 | Mandelson Scandal Causes Headache for Starmer
-   - ReUKskecMfk | ongoing=False | publishedAt=2026-02-25T01:21:27Z | actualEndTime=None | effective=2026-02-25 01:21:27+00:00 | Sen. Ricketts Defends Trump's Authority to Authorize Iran St
-   - mMOjli9iNCY | ongoing=False | publishedAt=2026-02-25T00:13:19Z | actualEndTime=None | effective=2026-02-25 00:13:19+00:00 | Trump to Address Affordability in State of the Union | Balan
-   - C3xo3fk5NsM | ongoing=False | publishedAt=2026-02-24T23:59:16Z | actualEndTime=None | effective=2026-02-24 23:59:16+00:00 | Stocks Rebound After AI Selloff; Health Care Slips Before SO
+   - M-3-Pt0LFB0 | ongoing=False | publishedAt=2026-02-26T00:53:38Z | actualEndTime=None | effective=2026-02-26 00:53:38+00:00 | Trump Defends His Policies in State of the Union | Balance o
+   - XPZQxhf5S0k | ongoing=False | publishedAt=2026-02-26T00:22:07Z | actualEndTime=None | effective=2026-02-26 00:22:07+00:00 | Stocks Rise as Nvidia Surges on Earnings Beat | The Close 2/
+   - pZZjjsQnpbc | ongoing=False | publishedAt=2026-02-25T23:25:58Z | actualEndTime=None | effective=2026-02-25 23:25:58+00:00 | Nvidia’s upbeat sales forecast shows AI boom remains strong 
+   - C7qvrvIIJoI | ongoing=False | publishedAt=2026-02-25T22:55:52Z | actualEndTime=None | effective=2026-02-25 22:55:52+00:00 | AI Adviser Zack Kass Says Software May Have Been in a Bubble
+   - 1jVPedhNb1E | ongoing=False | publishedAt=2026-02-25T22:51:22Z | actualEndTime=None | effective=2026-02-25 22:51:22+00:00 | What to Make of Cuba Shooting Four People Dead in US Speedbo
+   - N4ZvFY3mob4 | ongoing=False | publishedAt=2026-02-25T22:29:34Z | actualEndTime=None | effective=2026-02-25 22:29:34+00:00 | Victor Khosla Sees 'Fat' Tail Risk in Credit Markets
+   - 5M6EprKcBQQ | ongoing=False | publishedAt=2026-02-25T22:05:04Z | actualEndTime=None | effective=2026-02-25 22:05:04+00:00 | Nvidia Says Customers Are Racing to Invest in AI Compute
+   - Vka4c-a5efo | ongoing=False | publishedAt=2026-02-25T22:03:34Z | actualEndTime=None | effective=2026-02-25 22:03:34+00:00 | The Key Takeaways From Nvidia's Earnings and Forecast
+   - ve77N9uJbio | ongoing=False | publishedAt=2026-02-25T21:24:22Z | actualEndTime=None | effective=2026-02-25 21:24:22+00:00 | Trump's SOTU Pitch Faces Headwinds | Bloomberg Businessweek 
+   - reBIK2Yypqo | ongoing=False | publishedAt=2026-02-25T21:23:29Z | actualEndTime=None | effective=2026-02-25 21:23:29+00:00 | Wall Street Rallies Ahead of Nvidia Earnings | Closing Bell
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: The *Slow* AI Meltdown is Worsening.
+  URL: https://www.youtube.com/watch?v=ZhL002qy2lo
+  publishedAt: 2026-02-25T22:49:34Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - ZhL002qy2lo | ongoing=False | publishedAt=2026-02-25T22:49:34Z | actualEndTime=None | effective=2026-02-25 22:49:34+00:00 | The *Slow* AI Meltdown is Worsening.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 앤트로픽 파트너십 소식에 소프트웨어주 일제히 환호!  -  2026/02/24
-  URL: https://www.youtube.com/watch?v=1vqdufXjeV4
-  publishedAt: 2026-02-24T22:57:00Z
+  제목: 【미국 증시 오늘의 요약】 엔비디아 또 해냈다! 컨센서스 압도한 실적… AI 공포 씻고 급등한 나스닥   -  2026/02/25
+  URL: https://www.youtube.com/watch?v=swz6jwEkCt8
+  publishedAt: 2026-02-26T00:20:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - HdgXarBkXB0 | ongoing=True | publishedAt=2026-02-25T01:53:05Z | actualEndTime=None | effective=2026-02-25 01:53:05+00:00 | [생방송] 트럼프 대통령 '국정 연설' ｜ - 오선의 미국 증시 라이브
+   - swz6jwEkCt8 | ongoing=False | publishedAt=2026-02-26T00:20:11Z | actualEndTime=None | effective=2026-02-26 00:20:11+00:00 | 【미국 증시 오늘의 요약】 엔비디아 또 해냈다! 컨센서스 압도한 실적… AI 공포 씻고 급등한 나스닥   -
+   - R2IZcYVJ5uQ | ongoing=False | publishedAt=2026-02-25T23:40:51Z | actualEndTime=2026-02-25T23:14:40Z | effective=2026-02-25 23:14:40+00:00 | [26년 02월 25일 수]  실적: 엔비디아, 세일즈포스｜ 파라마운트, 워너브라더스 주당 $31 제시 ｜ 
+   - HdgXarBkXB0 | ongoing=False | publishedAt=2026-02-25T04:08:38Z | actualEndTime=2026-02-25T04:01:50Z | effective=2026-02-25 04:01:50+00:00 | [26년 02월 25일 수]  트럼프 대통령 '국정 연설'
    - 1vqdufXjeV4 | ongoing=False | publishedAt=2026-02-24T22:57:00Z | actualEndTime=None | effective=2026-02-24 22:57:00+00:00 | 【미국 증시 오늘의 요약】 앤트로픽 파트너십 소식에 소프트웨어주 일제히 환호!  -  2026/02/24
    - PSRnUvnekkg | ongoing=False | publishedAt=2026-02-24T22:33:34Z | actualEndTime=2026-02-24T22:13:05Z | effective=2026-02-24 22:13:05+00:00 | [26년 02월 24일 화]  트럼프, 새로운 국가안보 관세 검토 메타·AMD, 초대형 계약 체결｜ 딥시크,
-   - j5ArtCnE0QA | ongoing=False | publishedAt=2026-02-23T23:18:01Z | actualEndTime=None | effective=2026-02-23 23:18:01+00:00 | 【미국 증시 오늘의 요약】 "AI가 다 대체한다" 10% 실업률 경고에 증시 발칵  -  2026/02/23
-   - IS6VqRX5v_4 | ongoing=False | publishedAt=2026-02-23T22:56:04Z | actualEndTime=2026-02-23T22:30:34Z | effective=2026-02-23 22:30:34+00:00 | [26년 02월 23일 월]  트럼프, 글로벌 관세 15%로 인상 ｜ 유럽, 미국-EU 무역 합의 승인절차 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: AMD의 최후의 선택 : AMD는 왜 메타(+OpenAI)에 지분 20%를 넘겨줄까?
-  URL: https://www.youtube.com/watch?v=njxBk5gXABE
-  publishedAt: 2026-02-25T03:00:52Z
+  제목: 엔비디아 매도가격을 계산해봤습니다
+  URL: https://www.youtube.com/watch?v=wBk2GPlPUJ0
+  publishedAt: 2026-02-26T03:01:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - wBk2GPlPUJ0 | ongoing=False | publishedAt=2026-02-26T03:01:04Z | actualEndTime=None | effective=2026-02-26 03:01:04+00:00 | 엔비디아 매도가격을 계산해봤습니다
+   - kxqq7Hqb6ys | ongoing=False | publishedAt=2026-02-26T00:46:59Z | actualEndTime=2026-02-26T00:11:53Z | effective=2026-02-26 00:11:53+00:00 | [엔비디아 실적분석] 생각이 많아지네요ㅣ[아침시황&미국마감] #260226
    - njxBk5gXABE | ongoing=False | publishedAt=2026-02-25T03:00:52Z | actualEndTime=None | effective=2026-02-25 03:00:52+00:00 | AMD의 최후의 선택 : AMD는 왜 메타(+OpenAI)에 지분 20%를 넘겨줄까?
    - 0jWPrkiI46M | ongoing=False | publishedAt=2026-02-25T00:04:44Z | actualEndTime=2026-02-25T00:00:58Z | effective=2026-02-25 00:00:58+00:00 | 월스트리트의 '반도체 공격'이 시작되었습니다ㅣ[아침시황&미국마감] #260225
-   - kxVHg56PAIA | ongoing=False | publishedAt=2026-02-24T21:32:19Z | actualEndTime=2026-02-24T16:17:29Z | effective=2026-02-24 16:17:29+00:00 | [미국주식 LIVE] 반도체 가즈아!! AI 투자는 계속된다구!!!!ㅣ#260224
-   - DvFiiKD5Vc8 | ongoing=False | publishedAt=2026-02-24T03:00:14Z | actualEndTime=None | effective=2026-02-24 03:00:14+00:00 | 기본!
-   - GnBww98x2dQ | ongoing=False | publishedAt=2026-02-24T00:17:40Z | actualEndTime=2026-02-24T00:11:40Z | effective=2026-02-24 00:11:40+00:00 | 시트리니 쇼크, 제대로 알아보자ㅣ머스크vs알트먼, 가슴이 옹졸해지는 싸움ㅣ결론: 반도체는 더 간다ㅣ[아침시황
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - HBz-QgeZ5jY | ongoing=False | publishedAt=2026-02-23T19:29:14Z | actualEndTime=None | effective=2026-02-23 19:29:14+00:00 | 2028년! AI로 금융위기가 터진다?
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - ScSBDbZKPdo | ongoing=False | publishedAt=2026-02-24T12:31:50Z | actualEndTime=None | effective=2026-02-24 12:31:50+00:00 | 월가 초고수들이 새롭게 베팅하는 곳, 거대의 돈의 흐름 변화 시작일까
-   - khtj3Ox88M8 | ongoing=False | publishedAt=2026-02-23T11:38:59Z | actualEndTime=None | effective=2026-02-23 11:38:59+00:00 | 관세 혼란과 이란 충돌 위험까지, 아슬아슬 미 증시 혼란의 시기 이어질까
