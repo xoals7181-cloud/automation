@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-02-28 12:06 (KST)
-Run: 73 (id=22512033911)
+생성 시각: 2026-03-01 12:37 (KST)
+Run: 74 (id=22535164163)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,50 @@ Run: 73 (id=22512033911)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: New Zealand Ex-PM Jacinda Ardern Joins Kiwi Exodus to Australia
-  URL: https://www.youtube.com/watch?v=9MJhCdP3IvQ
-  publishedAt: 2026-02-28T02:00:10Z
+  제목: Bloomberg This Weekend 2/28/2026
+  URL: https://www.youtube.com/watch?v=Jcd6i7DKWyY
+  publishedAt: 2026-02-28T19:00:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 9MJhCdP3IvQ | ongoing=False | publishedAt=2026-02-28T02:00:10Z | actualEndTime=None | effective=2026-02-28 02:00:10+00:00 | New Zealand Ex-PM Jacinda Ardern Joins Kiwi Exodus to Austra
-   - 6Pvjo9rFmlQ | ongoing=False | publishedAt=2026-02-28T01:18:39Z | actualEndTime=None | effective=2026-02-28 01:18:39+00:00 | Pentagon Declares Anthropic A Supply-Chain Risk | Balance of
-   - djE4gcALvzg | ongoing=False | publishedAt=2026-02-28T00:27:29Z | actualEndTime=None | effective=2026-02-28 00:27:29+00:00 | Stocks Slide as Credit Stress, War and AI Fears Weigh | The 
-   - 8Aj1Kra0y_w | ongoing=False | publishedAt=2026-02-28T00:00:08Z | actualEndTime=None | effective=2026-02-28 00:00:08+00:00 | President Trump’s Economy: Boom, Bust, or Business as Usual?
-   - T_2DIm7_GyI | ongoing=False | publishedAt=2026-02-28T00:00:40Z | actualEndTime=None | effective=2026-02-28 00:00:40+00:00 | Wall Street Week | Examining Trump’s Economy, Takeaways from
-   - hnf8UAf0cpQ | ongoing=False | publishedAt=2026-02-27T23:50:16Z | actualEndTime=None | effective=2026-02-27 23:50:16+00:00 | Anthropic designated supply-chain risk, loses US work in AI 
-   - pyJyoxfjH9E | ongoing=False | publishedAt=2026-02-27T23:26:36Z | actualEndTime=None | effective=2026-02-27 23:26:36+00:00 | Does Bill Clinton's Testimony Set a Precedent?
-   - ziQJswsIKp8 | ongoing=False | publishedAt=2026-02-27T23:17:55Z | actualEndTime=None | effective=2026-02-27 23:17:55+00:00 | California AG on Paramount–Warner Bros., Tariff Lawsuits
-   - V0ChsQTvOzA | ongoing=False | publishedAt=2026-02-27T23:02:34Z | actualEndTime=None | effective=2026-02-27 23:02:34+00:00 | Stocks Slide as Wholesale Inflation Heats Up | Closing Bell
-   - _8Aauz_Z15A | ongoing=False | publishedAt=2026-02-27T22:42:48Z | actualEndTime=None | effective=2026-02-27 22:42:48+00:00 | Al Gore on his commitment to fighting climate change #shorts
+   - Jcd6i7DKWyY | ongoing=False | publishedAt=2026-02-28T19:00:39Z | actualEndTime=None | effective=2026-02-28 19:00:39+00:00 | Bloomberg This Weekend 2/28/2026
+   - Lr-5EWgPV10 | ongoing=False | publishedAt=2026-02-28T18:39:09Z | actualEndTime=None | effective=2026-02-28 18:39:09+00:00 | Dubai Prepares for the Worst as Iran Launches Drones and Mis
+   - -x7YTzrkGMg | ongoing=False | publishedAt=2026-02-28T18:16:18Z | actualEndTime=None | effective=2026-02-28 18:16:18+00:00 | What Iran Attack Means For Oil
+   - -z3gw_TKy7Q | ongoing=False | publishedAt=2026-02-28T18:10:58Z | actualEndTime=None | effective=2026-02-28 18:10:58+00:00 | UK’s Starmer Urges Return to Diplomatic Process for US, Iran
+   - UFOv75qUsIQ | ongoing=False | publishedAt=2026-02-28T18:10:42Z | actualEndTime=None | effective=2026-02-28 18:10:42+00:00 | What It Takes for Regime Change in Iran: John Bolton
+   - wkibAjarIGY | ongoing=False | publishedAt=2026-02-28T18:10:17Z | actualEndTime=None | effective=2026-02-28 18:10:17+00:00 | Missile Strikes Dubai Hotel After Us-Israeli Attack on Iran
+   - S_ZHhQvD6Vg | ongoing=False | publishedAt=2026-02-28T17:50:33Z | actualEndTime=None | effective=2026-02-28 17:50:33+00:00 | US Strike Is 'Nightmare Scenario' For Middle East
+   - xk1rEPyBH8E | ongoing=False | publishedAt=2026-02-28T17:39:00Z | actualEndTime=None | effective=2026-02-28 17:39:00+00:00 | US Applications For UK Citizenship Hit An All-Time High
+   - 2F_M7qAbVT8 | ongoing=False | publishedAt=2026-02-28T17:36:22Z | actualEndTime=None | effective=2026-02-28 17:36:22+00:00 | Trump Urges Iran Uprising After Launching Massive Strikes
+   - Jf0ueTNKjbA | ongoing=False | publishedAt=2026-02-28T17:36:36Z | actualEndTime=None | effective=2026-02-28 17:36:36+00:00 | How The "Power Game" Is Reshaping Venezuela
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: The Next Shoe in the Great Reset is Collapsing | SoGen Warning.
-  URL: https://www.youtube.com/watch?v=iRz4DJV1fRA
-  publishedAt: 2026-02-27T17:28:42Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - iRz4DJV1fRA | ongoing=False | publishedAt=2026-02-27T17:28:42Z | actualEndTime=None | effective=2026-02-27 17:28:42+00:00 | The Next Shoe in the Great Reset is Collapsing | SoGen Warni
-   - 9MV5dmS1wWM | ongoing=False | publishedAt=2026-02-26T17:34:13Z | actualEndTime=None | effective=2026-02-26 17:34:13+00:00 | The Collapse JUST Went GLOBAL: -$2.7 Billion JUST DIED
-   - IoRwZIkXz2g | ongoing=False | publishedAt=2026-02-26T04:01:28Z | actualEndTime=None | effective=2026-02-26 04:01:28+00:00 | BREAKING: OpenAI Backers OUT OF MONEY
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 사모신용 쇼크·AI 경계…엔비디아 또 하락   -  2026/02/27
-  URL: https://www.youtube.com/watch?v=2QrZsqTdMps
-  publishedAt: 2026-02-27T23:37:27Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - -SIJjYMWI3k | ongoing=False | publishedAt=2026-02-28T14:42:59Z | actualEndTime=2026-02-28T14:27:50Z | effective=2026-02-28 14:27:50+00:00 | [특별 방송] 미국, 이란 군사 작전 시작 ｜ - 오선의 미국 증시 라이브
    - 2QrZsqTdMps | ongoing=False | publishedAt=2026-02-27T23:37:27Z | actualEndTime=None | effective=2026-02-27 23:37:27+00:00 | 【미국 증시 오늘의 요약】 사모신용 쇼크·AI 경계…엔비디아 또 하락   -  2026/02/27
    - rx2NidiiiyM | ongoing=False | publishedAt=2026-02-27T22:47:59Z | actualEndTime=2026-02-27T22:25:50Z | effective=2026-02-27 22:25:50+00:00 | [26년 02월 27일 금]  넷플릭스, 워너브라더스 인수 포기｜ 미국, 이스라엘 주재 비필수 직원 출국 지
-   - hnmLju-rwks | ongoing=False | publishedAt=2026-02-26T23:45:06Z | actualEndTime=None | effective=2026-02-26 23:45:06+00:00 | 【미국 증시 오늘의 요약】 엔비디아 실적도 못 살렸다… AI 기대, 이제 ‘검증 구간’ 진입?   -  20
-   - CFk5fxjJ9zI | ongoing=False | publishedAt=2026-02-26T23:21:32Z | actualEndTime=2026-02-26T22:58:19Z | effective=2026-02-26 22:58:19+00:00 | [26년 02월 26일 목]  엔비디아, 어닝 서프라이즈!?｜ 샌디스크, 'NAND 시장, 단순한 사이클 아
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: [미국주식 LIVE] 자나깨나 불조심, 근데 나스닥에 불이났네...?ㅣ#260227
-  URL: https://www.youtube.com/watch?v=CDewSix_KlQ
-  publishedAt: 2026-02-27T16:37:31Z
-  actualEndTime: 2026-02-27T16:10:19Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - GlotRZQxGAI | ongoing=False | publishedAt=2026-02-28T06:02:00Z | actualEndTime=None | effective=2026-02-28 06:02:00+00:00 | 코어위브 & 메타로 보는 엔비디아 하락의 이유
    - CDewSix_KlQ | ongoing=False | publishedAt=2026-02-27T16:37:31Z | actualEndTime=2026-02-27T16:10:19Z | effective=2026-02-27 16:10:19+00:00 | [미국주식 LIVE] 자나깨나 불조심, 근데 나스닥에 불이났네...?ㅣ#260227
    - m4IoZQcKi2A | ongoing=False | publishedAt=2026-02-27T10:23:43Z | actualEndTime=None | effective=2026-02-27 10:23:43+00:00 | 목표 주가로 보는 엔비디아 하락의 이유
-   - qDmRMXvYuUg | ongoing=False | publishedAt=2026-02-27T03:01:03Z | actualEndTime=None | effective=2026-02-27 03:01:03+00:00 | 20만전자? 지금 숫자만 보면...... 크흠......
-   - Hlq4Wg9YkKE | ongoing=False | publishedAt=2026-02-27T00:41:50Z | actualEndTime=2026-02-27T00:23:21Z | effective=2026-02-27 00:23:21+00:00 | 이건 진짜 너무한거 아니냐고.... ㅅㅂ....ㅣ[아침시황&미국마감] #260227
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 2026년 증시의 가장 큰 위험은?
-  URL: https://www.youtube.com/watch?v=JWxlD5puT34
-  publishedAt: 2026-02-27T18:47:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - uzUItYTklSU | ongoing=False | publishedAt=2026-02-28T12:15:49Z | actualEndTime=None | effective=2026-02-28 12:15:49+00:00 | 이란 전쟁 시작. 최악의 시나리오는?
    - JWxlD5puT34 | ongoing=False | publishedAt=2026-02-27T18:47:01Z | actualEndTime=None | effective=2026-02-27 18:47:01+00:00 | 2026년 증시의 가장 큰 위험은?
-   - hC54yB5oxcs | ongoing=False | publishedAt=2026-02-26T18:59:25Z | actualEndTime=None | effective=2026-02-26 18:59:25+00:00 | 엔비디아가 폭락한 진짜 이유 (ft. 마이클 버리)
 
 - 소수몽키
   상태: NO_VIDEO
