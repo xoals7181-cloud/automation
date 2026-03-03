@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-02 12:26 (KST)
-Run: 75 (id=22560115933)
+생성 시각: 2026-03-03 12:29 (KST)
+Run: 76 (id=22606952491)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,54 +8,66 @@ Run: 75 (id=22560115933)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US, Israel Conflict With Iran | Balance of Show 3/1/2026
-  URL: https://www.youtube.com/watch?v=x3U8Gh6JDuY
-  publishedAt: 2026-03-02T01:30:30Z
+  제목: Stocks Bounce from Session Lows Despite Iran War | The Close 3/2/2026
+  URL: https://www.youtube.com/watch?v=8A4OOH6U5Xs
+  publishedAt: 2026-03-03T03:04:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - x3U8Gh6JDuY | ongoing=False | publishedAt=2026-03-02T01:30:30Z | actualEndTime=None | effective=2026-03-02 01:30:30+00:00 | US, Israel Conflict With Iran | Balance of Show 3/1/2026
-   - -p_QqPfwsms | ongoing=False | publishedAt=2026-03-01T18:39:08Z | actualEndTime=None | effective=2026-03-01 18:39:08+00:00 | Bloomberg This Weekend 3/1/2026
-   - EKCK0UrA564 | ongoing=False | publishedAt=2026-03-01T18:00:31Z | actualEndTime=None | effective=2026-03-01 18:00:31+00:00 | Can Sweden’s factory homes rescue US homeownership? #shorts 
-   - CFUVQm1me8c | ongoing=False | publishedAt=2026-03-01T16:11:33Z | actualEndTime=None | effective=2026-03-01 16:11:33+00:00 | Iran Planning Had Several Options for Attack, Says Sen. Warn
-   - l4sn0sLFNMQ | ongoing=False | publishedAt=2026-03-01T15:45:19Z | actualEndTime=None | effective=2026-03-01 15:45:19+00:00 | Senator Warner Says Iran Wasn't an Imminent Threat
-   - HsvSNDvU9YE | ongoing=False | publishedAt=2026-03-01T15:22:54Z | actualEndTime=None | effective=2026-03-01 15:22:54+00:00 | Iran Confirms Supreme Leader's Death
-   - 7dasGWJ_RBs | ongoing=False | publishedAt=2026-03-01T15:19:24Z | actualEndTime=None | effective=2026-03-01 15:19:24+00:00 | Gulf Region Under Unprecedented Wave of Attacks From Iran
-   - BhC9m61Uhic | ongoing=False | publishedAt=2026-03-01T15:02:23Z | actualEndTime=None | effective=2026-03-01 15:02:23+00:00 | What the Iran Attacks Mean for Oil, Gold Prices
-   - zNqWX_tWkw4 | ongoing=False | publishedAt=2026-03-01T14:45:04Z | actualEndTime=None | effective=2026-03-01 14:45:04+00:00 | Iranian People Can Take Back Their Country, Says Rep. McCaul
-   - FkQLhwiptJw | ongoing=False | publishedAt=2026-03-01T14:41:03Z | actualEndTime=None | effective=2026-03-01 14:41:03+00:00 | LIVE: Bloomberg Invest Starting March 3
+   - 8A4OOH6U5Xs | ongoing=False | publishedAt=2026-03-03T03:04:31Z | actualEndTime=None | effective=2026-03-03 03:04:31+00:00 | Stocks Bounce from Session Lows Despite Iran War | The Close
+   - hMpC0hGkVA4 | ongoing=False | publishedAt=2026-03-03T01:03:02Z | actualEndTime=None | effective=2026-03-03 01:03:02+00:00 | War Powers Debate Escalates After US Strike on Iran | Balanc
+   - 4KWQUNMnfhI | ongoing=False | publishedAt=2026-03-02T22:59:47Z | actualEndTime=None | effective=2026-03-02 22:59:47+00:00 | Who Rules Iran If the Regime Falls? Trita Parsi & Fereidun F
+   - mxDunEU2XCk | ongoing=False | publishedAt=2026-03-02T21:59:01Z | actualEndTime=None | effective=2026-03-02 21:59:01+00:00 | Did Trump Have the Right to Attack Iran Without Asking Congr
+   - R2zA7S9V8bc | ongoing=False | publishedAt=2026-03-02T21:57:42Z | actualEndTime=None | effective=2026-03-02 21:57:42+00:00 | Oil and Gasoline Prices Spike as War Disrupts Shipments
+   - q2aCU-oS_OQ | ongoing=False | publishedAt=2026-03-02T21:56:00Z | actualEndTime=None | effective=2026-03-02 21:56:00+00:00 | Dimon Says JPMorgan Has 'No Problem' With Stablecoin
+   - 9tPBlfBdrcU | ongoing=False | publishedAt=2026-03-02T21:40:50Z | actualEndTime=None | effective=2026-03-02 21:40:50+00:00 | The Iran War Is Practically Over, Yardeni Says
+   - zTze4G89YvI | ongoing=False | publishedAt=2026-03-02T21:37:06Z | actualEndTime=None | effective=2026-03-02 21:37:06+00:00 | Could 2026 Be the Year of Soybeans? | Presented by CME Group
+   - 5pMp1bwUnNY | ongoing=False | publishedAt=2026-03-02T21:34:17Z | actualEndTime=None | effective=2026-03-02 21:34:17+00:00 | Dimon: AI could create a four-day work week #shorts #jamiedi
+   - BbwFx3VSf20 | ongoing=False | publishedAt=2026-03-02T21:26:52Z | actualEndTime=None | effective=2026-03-02 21:26:52+00:00 | Energy Shares Surge Alongside Oil Futures | Closing Bell
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: On Trump's Bombing of Iran & the Stock Market.
+  URL: https://www.youtube.com/watch?v=dINESAIwO0w
+  publishedAt: 2026-03-02T17:50:10Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - dINESAIwO0w | ongoing=False | publishedAt=2026-03-02T17:50:10Z | actualEndTime=None | effective=2026-03-02 17:50:10+00:00 | On Trump's Bombing of Iran & the Stock Market.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 이란 공습 충격… 유가 급등에도 증시 버텼다   -  2026/03/02
+  URL: https://www.youtube.com/watch?v=vf5T6JblB-g
+  publishedAt: 2026-03-02T23:28:12Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - -SIJjYMWI3k | ongoing=False | publishedAt=2026-02-28T14:42:59Z | actualEndTime=2026-02-28T14:27:50Z | effective=2026-02-28 14:27:50+00:00 | [특별 방송] 미국, 이란 군사 작전 시작 ｜ - 오선의 미국 증시 라이브
+   - vf5T6JblB-g | ongoing=False | publishedAt=2026-03-02T23:28:12Z | actualEndTime=None | effective=2026-03-02 23:28:12+00:00 | 【미국 증시 오늘의 요약】 이란 공습 충격… 유가 급등에도 증시 버텼다   -  2026/03/02
+   - U4bSw_52vn8 | ongoing=False | publishedAt=2026-03-02T23:00:37Z | actualEndTime=2026-03-02T22:39:09Z | effective=2026-03-02 22:39:09+00:00 | [26년 03월 02일 월]  미국-이란 사태로 증시 급락.. ｜ 트럼프, 이란 전쟁 기간 '4주 정도'｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 이란 전쟁, 국제유가 급등, 매수 기회인가? 도망칠 타이밍인가?ㅣ[아침시황&미국마감] #260302
-  URL: https://www.youtube.com/watch?v=_TmxFe_LHbE
-  publishedAt: 2026-03-02T00:24:41Z
-  actualEndTime: 2026-03-02T00:03:01Z
+  제목: 원화만 보유하고 있어서 불안하다? 방법이 있습니다
+  URL: https://www.youtube.com/watch?v=CbZkii6yQbc
+  publishedAt: 2026-03-03T03:13:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - CbZkii6yQbc | ongoing=False | publishedAt=2026-03-03T03:13:37Z | actualEndTime=None | effective=2026-03-03 03:13:37+00:00 | 원화만 보유하고 있어서 불안하다? 방법이 있습니다
+   - gb2i9oIFONk | ongoing=False | publishedAt=2026-03-03T00:19:27Z | actualEndTime=2026-03-03T00:08:28Z | effective=2026-03-03 00:08:28+00:00 | 코스피, SK하이닉스 매도 보고서 분석해봅시다ㅣ[아침시황&미국마감] #260303
+   - bGXz16ivkkA | ongoing=False | publishedAt=2026-03-02T15:40:40Z | actualEndTime=2026-03-02T15:10:08Z | effective=2026-03-02 15:10:08+00:00 | [미국주식LIVE] 와... 이걸 팔아? 버텨??ㅣ#260302
    - _TmxFe_LHbE | ongoing=False | publishedAt=2026-03-02T00:24:41Z | actualEndTime=2026-03-02T00:03:01Z | effective=2026-03-02 00:03:01+00:00 | 이란 전쟁, 국제유가 급등, 매수 기회인가? 도망칠 타이밍인가?ㅣ[아침시황&미국마감] #260302
    - D_GfwJXEpGU | ongoing=False | publishedAt=2026-03-01T04:03:47Z | actualEndTime=None | effective=2026-03-01 04:03:47+00:00 | 미국에서 사는 한국 주식! EWY가 만드는 갭과 착시
-   - GlotRZQxGAI | ongoing=False | publishedAt=2026-02-28T06:02:00Z | actualEndTime=None | effective=2026-02-28 06:02:00+00:00 | 코어위브 & 메타로 보는 엔비디아 하락의 이유
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 호르무즈 해협 봉쇄로 유가 100달러?
-  URL: https://www.youtube.com/watch?v=ZR5uP4hdpmk
-  publishedAt: 2026-03-01T17:36:19Z
+  제목: 왜 국장만 더 힘든 것인가??
+  URL: https://www.youtube.com/watch?v=DCOqduUQ-OU
+  publishedAt: 2026-03-02T19:01:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - DCOqduUQ-OU | ongoing=False | publishedAt=2026-03-02T19:01:06Z | actualEndTime=None | effective=2026-03-02 19:01:06+00:00 | 왜 국장만 더 힘든 것인가??
    - ZR5uP4hdpmk | ongoing=False | publishedAt=2026-03-01T17:36:19Z | actualEndTime=None | effective=2026-03-01 17:36:19+00:00 | 호르무즈 해협 봉쇄로 유가 100달러?
-   - uzUItYTklSU | ongoing=False | publishedAt=2026-02-28T12:15:49Z | actualEndTime=None | effective=2026-02-28 12:15:49+00:00 | 이란 전쟁 시작. 최악의 시나리오는?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - eIzeJlH-zpQ | ongoing=False | publishedAt=2026-03-02T09:53:46Z | actualEndTime=None | effective=2026-03-02 09:53:46+00:00 | 트럼프와 이란 끝까지 간다? 보복전 시작, 증시 혼란 계속될까
