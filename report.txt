@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-04 12:21 (KST)
-Run: 77 (id=22653577295)
+생성 시각: 2026-03-05 12:24 (KST)
+Run: 78 (id=22700765211)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,69 +8,65 @@ Run: 77 (id=22653577295)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Worries About Future Iran Leaders | Balance of Show 03/03/2026
-  URL: https://www.youtube.com/watch?v=iq0Hu2TDSzs
-  publishedAt: 2026-03-04T01:11:45Z
+  제목: War Powers Resolution Fails Vote in Senate | Balance of Show 03/04/2026
+  URL: https://www.youtube.com/watch?v=6XCxLJ4C86Q
+  publishedAt: 2026-03-05T00:58:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - iq0Hu2TDSzs | ongoing=False | publishedAt=2026-03-04T01:11:45Z | actualEndTime=None | effective=2026-03-04 01:11:45+00:00 | Trump Worries About Future Iran Leaders | Balance of Show 03
-   - GFuDFywoKDg | ongoing=False | publishedAt=2026-03-03T23:41:07Z | actualEndTime=None | effective=2026-03-03 23:41:07+00:00 | What to Watch for at China's 2026 NPC
-   - CP6LDEebDRk | ongoing=False | publishedAt=2026-03-03T23:21:15Z | actualEndTime=None | effective=2026-03-03 23:21:15+00:00 | Markets Continue to Seesaw in Wake of Mideast Conflict | The
-   - Gsyar46PYEE | ongoing=False | publishedAt=2026-03-03T22:03:32Z | actualEndTime=None | effective=2026-03-03 22:03:32+00:00 | How the Investing World Is Reacting to Iran War
-   - _Edn-b9ErLY | ongoing=False | publishedAt=2026-03-03T21:55:29Z | actualEndTime=None | effective=2026-03-03 21:55:29+00:00 | Shipping Caught in the Crosshairs of Iran War
-   - 8PR8rXO8IO8 | ongoing=False | publishedAt=2026-03-03T21:55:33Z | actualEndTime=None | effective=2026-03-03 21:55:33+00:00 | Iran War Enters Fourth Day, Trump says latest attack was 'pr
-   - LpE3VmD3XN8 | ongoing=False | publishedAt=2026-03-03T21:50:21Z | actualEndTime=None | effective=2026-03-03 21:50:21+00:00 | Trump Worried an Even Worse Leader Could Take Over Iran
-   - FkQLhwiptJw | ongoing=False | publishedAt=2026-03-03T21:35:25Z | actualEndTime=2026-03-03T21:12:44Z | effective=2026-03-03 21:12:44+00:00 | LIVE: Bloomberg Invest Day 1
-   - lTbEjaJfx2o | ongoing=False | publishedAt=2026-03-03T21:30:18Z | actualEndTime=None | effective=2026-03-03 21:30:18+00:00 | Texas Primary Races Take Center Stage with Cornyn and Crocke
-   - Z0lRmL8IKvE | ongoing=False | publishedAt=2026-03-03T21:21:42Z | actualEndTime=None | effective=2026-03-03 21:21:42+00:00 | Businessweek Live at Bloomberg Invest | Bloomberg Businesswe
+   - 6XCxLJ4C86Q | ongoing=False | publishedAt=2026-03-05T00:58:35Z | actualEndTime=None | effective=2026-03-05 00:58:35+00:00 | War Powers Resolution Fails Vote in Senate | Balance of Show
+   - ELgQFQaxm-E | ongoing=False | publishedAt=2026-03-05T00:28:58Z | actualEndTime=None | effective=2026-03-05 00:28:58+00:00 | Goldman's Solomon on Iran, AI and Private Credit
+   - j7uGhzfIqwo | ongoing=False | publishedAt=2026-03-05T00:09:30Z | actualEndTime=None | effective=2026-03-05 00:09:30+00:00 | Cuba Is the 'Mothership of Evil,' Rep. Salazar Says
+   - gxexgBV0ZB8 | ongoing=False | publishedAt=2026-03-05T00:05:01Z | actualEndTime=None | effective=2026-03-05 00:05:01+00:00 | Goldman’s Solomon says markets trying to figure out Iran end
+   - h1llfWQnyGw | ongoing=False | publishedAt=2026-03-04T22:13:55Z | actualEndTime=None | effective=2026-03-04 22:13:55+00:00 | Oil Swings as Iran Denies Report of US Outreach to End War
+   - gudlhh1ueCM | ongoing=False | publishedAt=2026-03-04T22:04:58Z | actualEndTime=None | effective=2026-03-04 22:04:58+00:00 | Stocks Rise as Iran War Clouds Growth Outlook
+   - aUkEFkdAVBM | ongoing=False | publishedAt=2026-03-04T21:34:17Z | actualEndTime=None | effective=2026-03-04 21:34:17+00:00 | Markets Rebound Following Yesterday's Dip | Closing Bell
+   - 3meaheLBNuY | ongoing=False | publishedAt=2026-03-04T21:22:57Z | actualEndTime=None | effective=2026-03-04 21:22:57+00:00 | Apple Unveils the $599 MacBook Neo
+   - cyFsEl1tboc | ongoing=False | publishedAt=2026-03-04T21:08:33Z | actualEndTime=None | effective=2026-03-04 21:08:33+00:00 | Stocks Higher on ISM, Apple's Cheaper MacBook | Bloomberg Bu
+   - FfBp6Tpiy1M | ongoing=False | publishedAt=2026-03-04T21:00:00Z | actualEndTime=None | effective=2026-03-04 21:00:00+00:00 | What Is the End Game for Trump in Iran War?
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Confronting Ross Gerber | Recession, Market Turmoil, & Iran.
-  URL: https://www.youtube.com/watch?v=C0t3stWWLZI
-  publishedAt: 2026-03-03T23:25:12Z
-  actualEndTime: 2026-03-03T23:20:36Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - C0t3stWWLZI | ongoing=False | publishedAt=2026-03-03T23:25:12Z | actualEndTime=2026-03-03T23:20:36Z | effective=2026-03-03 23:20:36+00:00 | Confronting Ross Gerber | Recession, Market Turmoil, & Iran.
-   - pn7-UwGbScs | ongoing=False | publishedAt=2026-03-03T16:28:19Z | actualEndTime=2026-03-03T16:24:28Z | effective=2026-03-03 16:24:28+00:00 | Stocks TANK
-   - dINESAIwO0w | ongoing=False | publishedAt=2026-03-02T17:50:10Z | actualEndTime=None | effective=2026-03-02 17:50:10+00:00 | On Trump's Bombing of Iran & the Stock Market.
-
-- 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 중동 리스크에 짓눌린 증시, 트럼프 발언이 낙폭 줄였다   -  2026/03/03
-  URL: https://www.youtube.com/watch?v=FkpuYfOHgcc
-  publishedAt: 2026-03-03T23:25:00Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - FkpuYfOHgcc | ongoing=False | publishedAt=2026-03-03T23:25:00Z | actualEndTime=None | effective=2026-03-03 23:25:00+00:00 | 【미국 증시 오늘의 요약】 중동 리스크에 짓눌린 증시, 트럼프 발언이 낙폭 줄였다   -  2026/03/0
-   - BlTc2ABT-qI | ongoing=False | publishedAt=2026-03-03T22:57:14Z | actualEndTime=2026-03-03T22:36:59Z | effective=2026-03-03 22:36:59+00:00 | [26년 03월 03일 화]  미국-독일 정상회담 ｜ 이란, 리야드 주재 미국 대사관 드론 공격｜ 유가 급등
-   - vf5T6JblB-g | ongoing=False | publishedAt=2026-03-02T23:28:12Z | actualEndTime=None | effective=2026-03-02 23:28:12+00:00 | 【미국 증시 오늘의 요약】 이란 공습 충격… 유가 급등에도 증시 버텼다   -  2026/03/02
-   - U4bSw_52vn8 | ongoing=False | publishedAt=2026-03-02T23:00:37Z | actualEndTime=2026-03-02T22:39:09Z | effective=2026-03-02 22:39:09+00:00 | [26년 03월 02일 월]  미국-이란 사태로 증시 급락.. ｜ 트럼프, 이란 전쟁 기간 '4주 정도'｜ 
-
-- 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 예상외의 반격, 당황한 트럼프, 핵심은 호르무즈ㅣ반도체, 대규모 매도 시그널이 발견되고 있다ㅣ[아침시황&미국마감] #260304
-  URL: https://www.youtube.com/watch?v=R_QkhHWr-Mo
-  publishedAt: 2026-03-04T00:18:21Z
-  actualEndTime: 2026-03-04T00:13:10Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - R_QkhHWr-Mo | ongoing=False | publishedAt=2026-03-04T00:18:21Z | actualEndTime=2026-03-04T00:13:10Z | effective=2026-03-04 00:13:10+00:00 | 예상외의 반격, 당황한 트럼프, 핵심은 호르무즈ㅣ반도체, 대규모 매도 시그널이 발견되고 있다ㅣ[아침시황&미국
-   - 4Yd6nQLtnp8 | ongoing=False | publishedAt=2026-03-03T17:19:46Z | actualEndTime=2026-03-03T16:16:52Z | effective=2026-03-03 16:16:52+00:00 | [미국주식 LIVE] 조졌네 이거......... #260303
-   - CbZkii6yQbc | ongoing=False | publishedAt=2026-03-03T03:13:37Z | actualEndTime=None | effective=2026-03-03 03:13:37+00:00 | 원화만 보유하고 있어서 불안하다? 방법이 있습니다
-   - gb2i9oIFONk | ongoing=False | publishedAt=2026-03-03T00:19:27Z | actualEndTime=2026-03-03T00:08:28Z | effective=2026-03-03 00:08:28+00:00 | 코스피, SK하이닉스 매도 보고서 분석해봅시다ㅣ[아침시황&미국마감] #260303
-   - bGXz16ivkkA | ongoing=False | publishedAt=2026-03-02T15:40:40Z | actualEndTime=2026-03-02T15:10:08Z | effective=2026-03-02 15:10:08+00:00 | [미국주식LIVE] 와... 이걸 팔아? 버텨??ㅣ#260302
-
-- 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - DCOqduUQ-OU | ongoing=False | publishedAt=2026-03-02T19:01:06Z | actualEndTime=None | effective=2026-03-02 19:01:06+00:00 | 왜 국장만 더 힘든 것인가??
+   - C0t3stWWLZI | ongoing=False | publishedAt=2026-03-03T23:25:12Z | actualEndTime=2026-03-03T23:20:36Z | effective=2026-03-03 23:20:36+00:00 | Confronting Ross Gerber | Recession, Market Turmoil, & Iran.
+   - pn7-UwGbScs | ongoing=False | publishedAt=2026-03-03T16:28:19Z | actualEndTime=2026-03-03T16:24:28Z | effective=2026-03-03 16:24:28+00:00 | Stocks TANK
+
+- 오선의 미국 증시
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 이란 휴전설·고용 호조에 안도 랠리… 마이크론·브로드컴 등 기술주 강세   -  2026/03/04
+  URL: https://www.youtube.com/watch?v=vDNuqW72qAQ
+  publishedAt: 2026-03-04T23:41:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - vDNuqW72qAQ | ongoing=False | publishedAt=2026-03-04T23:41:01Z | actualEndTime=None | effective=2026-03-04 23:41:01+00:00 | 【미국 증시 오늘의 요약】 이란 휴전설·고용 호조에 안도 랠리… 마이크론·브로드컴 등 기술주 강세   -  
+   - e0FEp7RMViQ | ongoing=False | publishedAt=2026-03-04T23:17:37Z | actualEndTime=2026-03-04T22:55:08Z | effective=2026-03-04 22:55:08+00:00 | [26년 03월 04일 수]  백악관 언론 브리핑 ｜ 이란, 비밀리 휴전 협상 타진.. 미국은 회의적 ｜ 엔
+   - FkpuYfOHgcc | ongoing=False | publishedAt=2026-03-03T23:25:00Z | actualEndTime=None | effective=2026-03-03 23:25:00+00:00 | 【미국 증시 오늘의 요약】 중동 리스크에 짓눌린 증시, 트럼프 발언이 낙폭 줄였다   -  2026/03/0
+   - BlTc2ABT-qI | ongoing=False | publishedAt=2026-03-03T22:57:14Z | actualEndTime=2026-03-03T22:36:59Z | effective=2026-03-03 22:36:59+00:00 | [26년 03월 03일 화]  미국-독일 정상회담 ｜ 이란, 리야드 주재 미국 대사관 드론 공격｜ 유가 급등
+
+- 설명왕 테이버
+  상태: NO_TRANSCRIPT
+  제목: 코스피, 갭상승은 확정적! 하지만 물타기는 절대금지...!?ㅣ[아침시황&미국마감] #260305
+  URL: https://www.youtube.com/watch?v=jFHR36y_fVk
+  publishedAt: 2026-03-05T00:15:16Z
+  actualEndTime: 2026-03-05T00:10:42Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - jFHR36y_fVk | ongoing=False | publishedAt=2026-03-05T00:15:16Z | actualEndTime=2026-03-05T00:10:42Z | effective=2026-03-05 00:10:42+00:00 | 코스피, 갭상승은 확정적! 하지만 물타기는 절대금지...!?ㅣ[아침시황&미국마감] #260305
+   - IdYFJJ741mo | ongoing=False | publishedAt=2026-03-04T16:48:08Z | actualEndTime=2026-03-04T16:02:23Z | effective=2026-03-04 16:02:23+00:00 | [미국증시LIVE] 이정도면 반등할 때도 됬잖.......... 국제유가는 왜 더 오르냐?? #260304
+   - R_QkhHWr-Mo | ongoing=False | publishedAt=2026-03-04T00:18:21Z | actualEndTime=2026-03-04T00:13:10Z | effective=2026-03-04 00:13:10+00:00 | 예상외의 반격, 당황한 트럼프, 핵심은 호르무즈ㅣ반도체, 대규모 매도 시그널이 발견되고 있다ㅣ[아침시황&미국
+
+- 내일은 투자왕 - 김단테
+  상태: NO_TRANSCRIPT
+  제목: 코스피 반등 시작하는 이유!
+  URL: https://www.youtube.com/watch?v=AQVP6lpP9Vo
+  publishedAt: 2026-03-04T18:19:20Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - AQVP6lpP9Vo | ongoing=False | publishedAt=2026-03-04T18:19:20Z | actualEndTime=None | effective=2026-03-04 18:19:20+00:00 | 코스피 반등 시작하는 이유!
+   - p6i3lfnpUno | ongoing=False | publishedAt=2026-03-04T06:21:18Z | actualEndTime=None | effective=2026-03-04 06:21:18+00:00 | 코스피 최악의 날입니다. 저는 어떻게 생각하냐면..
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - UKIp0eBJBiY | ongoing=False | publishedAt=2026-03-03T11:12:19Z | actualEndTime=None | effective=2026-03-03 11:12:19+00:00 | 충격적인 AI 디스토피아 보고서 등장, 경제 대공황 우려 현실될까
-   - eIzeJlH-zpQ | ongoing=False | publishedAt=2026-03-02T09:53:46Z | actualEndTime=None | effective=2026-03-02 09:53:46+00:00 | 트럼프와 이란 끝까지 간다? 보복전 시작, 증시 혼란 계속될까
