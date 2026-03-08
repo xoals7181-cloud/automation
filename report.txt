@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-07 12:10 (KST)
-Run: 80 (id=22790815056)
+생성 시각: 2026-03-08 12:26 (KST)
+Run: 81 (id=22812970889)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,61 +8,46 @@ Run: 80 (id=22790815056)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Wants Unconditional Iran Surrender | Balance of Show 03/06/2026
-  URL: https://www.youtube.com/watch?v=4GrWD3oMZW8
-  publishedAt: 2026-03-07T01:21:01Z
+  제목: How Gen Z is Fueling Coach's Next Chapter
+  URL: https://www.youtube.com/watch?v=l3hPwBv1EVQ
+  publishedAt: 2026-03-07T21:03:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 4GrWD3oMZW8 | ongoing=False | publishedAt=2026-03-07T01:21:01Z | actualEndTime=None | effective=2026-03-07 01:21:01+00:00 | Trump Wants Unconditional Iran Surrender | Balance of Show 0
-   - vx2Vr3Ox9sc | ongoing=False | publishedAt=2026-03-07T00:01:06Z | actualEndTime=None | effective=2026-03-07 00:01:06+00:00 | Wall Street Week | Lloyd Blankfein, Ukraine’s Tech, Big Toba
-   - JRRdd5ezVsA | ongoing=False | publishedAt=2026-03-06T23:45:41Z | actualEndTime=None | effective=2026-03-06 23:45:41+00:00 | Petraeus Says Iran Objectives ‘Very Achievable’ From the Air
-   - iRKNDUFsK6E | ongoing=False | publishedAt=2026-03-06T23:32:12Z | actualEndTime=None | effective=2026-03-06 23:32:12+00:00 | Will Support Supplemental Funding: Rep. Wasserman Schultz
-   - VBveLt9916o | ongoing=False | publishedAt=2026-03-06T23:24:02Z | actualEndTime=None | effective=2026-03-06 23:24:02+00:00 | Stocks Sink on Jobs, War, Credit Woes | The Close 3/6/2026
-   - Rd6Cg3GbYbc | ongoing=False | publishedAt=2026-03-06T21:56:44Z | actualEndTime=None | effective=2026-03-06 21:56:44+00:00 | Ives on the Tech Trade, Anthropic-Pentagon Spat
-   - lKI66sDv0RE | ongoing=False | publishedAt=2026-03-06T21:42:02Z | actualEndTime=None | effective=2026-03-06 21:42:02+00:00 | Trump Demands Iran Surrender as War Upends Global Markets
-   - OKwT7OCIFcA | ongoing=False | publishedAt=2026-03-06T21:28:25Z | actualEndTime=None | effective=2026-03-06 21:28:25+00:00 | Wall Street Rattled by Weak Jobs Report | Closing Bell
-   - akKo9943RKE | ongoing=False | publishedAt=2026-03-06T21:23:25Z | actualEndTime=None | effective=2026-03-06 21:23:25+00:00 | Fed's Hammack Sees Two-Sided Risks to Interest Rates
-   - n9-W31wlcOs | ongoing=False | publishedAt=2026-03-06T21:05:13Z | actualEndTime=None | effective=2026-03-06 21:05:13+00:00 | Fed’s Hammack Expects Rates to Be On Hold for Some Time
+   - l3hPwBv1EVQ | ongoing=False | publishedAt=2026-03-07T21:03:41Z | actualEndTime=None | effective=2026-03-07 21:03:41+00:00 | How Gen Z is Fueling Coach's Next Chapter
+   - dtQoztrXOfw | ongoing=False | publishedAt=2026-03-07T19:00:40Z | actualEndTime=None | effective=2026-03-07 19:00:40+00:00 | AI’s Hidden Housing Boom
+   - GSYVn5xBQhA | ongoing=False | publishedAt=2026-03-07T17:47:02Z | actualEndTime=None | effective=2026-03-07 17:47:02+00:00 | This Weekend | Trump on Iran, Oil Price Outlook, Mullin Repl
+   - tK4w4aX6xp4 | ongoing=False | publishedAt=2026-03-07T15:57:18Z | actualEndTime=None | effective=2026-03-07 15:57:18+00:00 | Fed Policymakers Cautious Over Rising Gas Price Concerns
+   - JJVKUE1Ujh4 | ongoing=False | publishedAt=2026-03-07T15:33:33Z | actualEndTime=None | effective=2026-03-07 15:33:33+00:00 | At 'Shield of the Americas' Trump Addresses Military Actions
+   - bkppMTGS0TY | ongoing=False | publishedAt=2026-03-07T15:00:59Z | actualEndTime=None | effective=2026-03-07 15:00:59+00:00 | How Ukraine Digitized Government in the Middle of War
+   - KcXh6L_5FO0 | ongoing=False | publishedAt=2026-03-07T14:52:23Z | actualEndTime=None | effective=2026-03-07 14:52:23+00:00 | Mixed US Messaging Raises Questions on Strategy
+   - dOz2C-piXfI | ongoing=False | publishedAt=2026-03-07T13:56:09Z | actualEndTime=None | effective=2026-03-07 13:56:09+00:00 | The Escalating War in Iran
+   - sqvW3T29xGQ | ongoing=False | publishedAt=2026-03-07T13:40:17Z | actualEndTime=None | effective=2026-03-07 13:40:17+00:00 | Iran War is Fracturing the MAGA Base
+   - a8r_gK3j92E | ongoing=False | publishedAt=2026-03-07T13:23:52Z | actualEndTime=None | effective=2026-03-07 13:23:52+00:00 | Oil Surges Above $90 Amid Iran Conflict
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - VIEkkgVuNf8 | ongoing=False | publishedAt=2026-03-06T15:01:37Z | actualEndTime=2026-03-06T14:58:44Z | effective=2026-03-06 14:58:44+00:00 | Jobs Market COLLAPSES. *Negative 92,000 Jobs*!!!
-   - dSux8oyJSKo | ongoing=False | publishedAt=2026-03-05T18:35:11Z | actualEndTime=None | effective=2026-03-05 18:35:11+00:00 | A Warning to All Investors.
-   - 1csVQSDvz9E | ongoing=False | publishedAt=2026-03-05T16:11:08Z | actualEndTime=2026-03-05T16:07:18Z | effective=2026-03-05 16:07:18+00:00 | Stocks
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 고용 쇼크에 유가 90불 돌파! 스태그플레이션 공포?    -  2026/03/06
-  URL: https://www.youtube.com/watch?v=xFfFGcgLKuA
-  publishedAt: 2026-03-06T23:43:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - xFfFGcgLKuA | ongoing=False | publishedAt=2026-03-06T23:43:01Z | actualEndTime=None | effective=2026-03-06 23:43:01+00:00 | 【미국 증시 오늘의 요약】 고용 쇼크에 유가 90불 돌파! 스태그플레이션 공포?    -  2026/03/0
    - cmA-hzjCHz0 | ongoing=False | publishedAt=2026-03-06T23:08:41Z | actualEndTime=2026-03-06T22:47:55Z | effective=2026-03-06 22:47:55+00:00 | [26년 03월 06일 금] 유가, 85달러 돌파 ｜ 비농업 취업자수, 실업률 ｜ 카타르, "전쟁 계속되면 
    - 6060CFLNkDs | ongoing=False | publishedAt=2026-03-06T04:16:27Z | actualEndTime=2026-03-05T22:46:11Z | effective=2026-03-05 22:46:11+00:00 | [26년 03월 05일 목]  미국-이란 전쟁 6일차.. ｜ 미국, 우크라이나산 드론 도입 검토｜ 브로드컴,
-   - I-Xp2SLPpv8 | ongoing=False | publishedAt=2026-03-05T23:30:10Z | actualEndTime=None | effective=2026-03-05 23:30:10+00:00 | 【미국 증시 오늘의 요약】 유가 2년 최고치 돌파에 증시 하락   -  2026/03/05
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: [미국증시 LIVE] 와... 오늘 나스닥은 진짜 무서운데요??ㅣ#260306
-  URL: https://www.youtube.com/watch?v=GjKY-p-Mze8
-  publishedAt: 2026-03-06T16:30:37Z
-  actualEndTime: 2026-03-06T16:11:31Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - GjKY-p-Mze8 | ongoing=False | publishedAt=2026-03-06T16:30:37Z | actualEndTime=2026-03-06T16:11:31Z | effective=2026-03-06 16:11:31+00:00 | [미국증시 LIVE] 와... 오늘 나스닥은 진짜 무서운데요??ㅣ#260306
-   - 0dOn4f__V5M | ongoing=False | publishedAt=2026-03-06T00:16:39Z | actualEndTime=2026-03-06T00:10:10Z | effective=2026-03-06 00:10:10+00:00 | 유가가 계속 오르네......ㅣ[아침시황&미국마감] #260306
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - v2hX_pxyNh8 | ongoing=False | publishedAt=2026-03-05T18:38:44Z | actualEndTime=None | effective=2026-03-05 18:38:44+00:00 | 코스피 진짜 큰일났다 ㄷㄷㄷ
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - L-CTApuWzIg | ongoing=False | publishedAt=2026-03-05T11:37:39Z | actualEndTime=None | effective=2026-03-05 11:37:39+00:00 | 월가의 '돈 버는 기계' 드러켄밀러의 새로운 베팅, 이번에도 적중할까
+  비고: 최근 48시간 검색 결과 없음
