@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-08 12:26 (KST)
-Run: 81 (id=22812970889)
+생성 시각: 2026-03-09 12:29 (KST)
+Run: 82 (id=22837131023)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,41 +8,44 @@ Run: 81 (id=22812970889)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How Gen Z is Fueling Coach's Next Chapter
-  URL: https://www.youtube.com/watch?v=l3hPwBv1EVQ
-  publishedAt: 2026-03-07T21:03:41Z
+  제목: Trump Speaks on Iran, Energy Market Uncertainty, Middle East Conflict Enters Day 9 | This Weekend
+  URL: https://www.youtube.com/watch?v=j1u46EAQvOg
+  publishedAt: 2026-03-08T17:19:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - l3hPwBv1EVQ | ongoing=False | publishedAt=2026-03-07T21:03:41Z | actualEndTime=None | effective=2026-03-07 21:03:41+00:00 | How Gen Z is Fueling Coach's Next Chapter
-   - dtQoztrXOfw | ongoing=False | publishedAt=2026-03-07T19:00:40Z | actualEndTime=None | effective=2026-03-07 19:00:40+00:00 | AI’s Hidden Housing Boom
-   - GSYVn5xBQhA | ongoing=False | publishedAt=2026-03-07T17:47:02Z | actualEndTime=None | effective=2026-03-07 17:47:02+00:00 | This Weekend | Trump on Iran, Oil Price Outlook, Mullin Repl
-   - tK4w4aX6xp4 | ongoing=False | publishedAt=2026-03-07T15:57:18Z | actualEndTime=None | effective=2026-03-07 15:57:18+00:00 | Fed Policymakers Cautious Over Rising Gas Price Concerns
-   - JJVKUE1Ujh4 | ongoing=False | publishedAt=2026-03-07T15:33:33Z | actualEndTime=None | effective=2026-03-07 15:33:33+00:00 | At 'Shield of the Americas' Trump Addresses Military Actions
-   - bkppMTGS0TY | ongoing=False | publishedAt=2026-03-07T15:00:59Z | actualEndTime=None | effective=2026-03-07 15:00:59+00:00 | How Ukraine Digitized Government in the Middle of War
-   - KcXh6L_5FO0 | ongoing=False | publishedAt=2026-03-07T14:52:23Z | actualEndTime=None | effective=2026-03-07 14:52:23+00:00 | Mixed US Messaging Raises Questions on Strategy
-   - dOz2C-piXfI | ongoing=False | publishedAt=2026-03-07T13:56:09Z | actualEndTime=None | effective=2026-03-07 13:56:09+00:00 | The Escalating War in Iran
-   - sqvW3T29xGQ | ongoing=False | publishedAt=2026-03-07T13:40:17Z | actualEndTime=None | effective=2026-03-07 13:40:17+00:00 | Iran War is Fracturing the MAGA Base
-   - a8r_gK3j92E | ongoing=False | publishedAt=2026-03-07T13:23:52Z | actualEndTime=None | effective=2026-03-07 13:23:52+00:00 | Oil Surges Above $90 Amid Iran Conflict
+   - j1u46EAQvOg | ongoing=False | publishedAt=2026-03-08T17:19:43Z | actualEndTime=None | effective=2026-03-08 17:19:43+00:00 | Trump Speaks on Iran, Energy Market Uncertainty, Middle East
+   - nMcp1LP7vZE | ongoing=False | publishedAt=2026-03-08T16:30:54Z | actualEndTime=None | effective=2026-03-08 16:30:54+00:00 | Trump on Iran War | Air Force One Comments In Full
+   - q90NCQkqP4c | ongoing=False | publishedAt=2026-03-08T14:54:09Z | actualEndTime=None | effective=2026-03-08 14:54:09+00:00 | Pointed: The News Quiz for Risk Takers | Markets, Caribbean,
+   - lmH-ZIEjvm8 | ongoing=False | publishedAt=2026-03-08T14:17:08Z | actualEndTime=None | effective=2026-03-08 14:17:08+00:00 | Exploring Trump's Stance on Potential Military Action in Ira
+   - -he6KgoQNQs | ongoing=False | publishedAt=2026-03-08T14:14:48Z | actualEndTime=None | effective=2026-03-08 14:14:48+00:00 | Sen. Rounds on US Actions in Iran Conflict
+   - x5gUbFhsXWs | ongoing=False | publishedAt=2026-03-08T14:03:15Z | actualEndTime=None | effective=2026-03-08 14:03:15+00:00 | Senator Rounds Discusses Investigation into Iran School Bomb
+   - dILPnV20JFA | ongoing=False | publishedAt=2026-03-08T14:01:02Z | actualEndTime=None | effective=2026-03-08 14:01:02+00:00 | Why Data Centers Are Creating a Blue-Collar Gold Rush
+   - H-9irrJ5PJQ | ongoing=False | publishedAt=2026-03-08T13:39:02Z | actualEndTime=None | effective=2026-03-08 13:39:02+00:00 | The Forecast Newsletter: The ‘70s Global Crises and Today
+   - YrpW_1oWZdM | ongoing=False | publishedAt=2026-03-08T13:02:20Z | actualEndTime=None | effective=2026-03-08 13:02:20+00:00 | Israel’s Strategic Objectives Amid Ongoing Conflict in the M
+   - MpSbPTZLljc | ongoing=False | publishedAt=2026-03-08T12:50:43Z | actualEndTime=None | effective=2026-03-08 12:50:43+00:00 | Amid Prolonged Conflict Energy Markets Face Uncertainty
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: The Iran War JUST got Worse | Futures are Crashing.
+  URL: https://www.youtube.com/watch?v=3Qzyy_l9nls
+  publishedAt: 2026-03-09T01:41:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - VIEkkgVuNf8 | ongoing=False | publishedAt=2026-03-06T15:01:37Z | actualEndTime=2026-03-06T14:58:44Z | effective=2026-03-06 14:58:44+00:00 | Jobs Market COLLAPSES. *Negative 92,000 Jobs*!!!
+   - 3Qzyy_l9nls | ongoing=False | publishedAt=2026-03-09T01:41:01Z | actualEndTime=None | effective=2026-03-09 01:41:01+00:00 | The Iran War JUST got Worse | Futures are Crashing.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - xFfFGcgLKuA | ongoing=False | publishedAt=2026-03-06T23:43:01Z | actualEndTime=None | effective=2026-03-06 23:43:01+00:00 | 【미국 증시 오늘의 요약】 고용 쇼크에 유가 90불 돌파! 스태그플레이션 공포?    -  2026/03/0
-   - cmA-hzjCHz0 | ongoing=False | publishedAt=2026-03-06T23:08:41Z | actualEndTime=2026-03-06T22:47:55Z | effective=2026-03-06 22:47:55+00:00 | [26년 03월 06일 금] 유가, 85달러 돌파 ｜ 비농업 취업자수, 실업률 ｜ 카타르, "전쟁 계속되면 
-   - 6060CFLNkDs | ongoing=False | publishedAt=2026-03-06T04:16:27Z | actualEndTime=2026-03-05T22:46:11Z | effective=2026-03-05 22:46:11+00:00 | [26년 03월 05일 목]  미국-이란 전쟁 6일차.. ｜ 미국, 우크라이나산 드론 도입 검토｜ 브로드컴,
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 국제유가 110달러 돌파........ 돔황챠......................ㅣ[아침시황&미국마감] #260309
+  URL: https://www.youtube.com/watch?v=-liF7i8LJ7M
+  publishedAt: 2026-03-08T23:59:42Z
+  actualEndTime: 2026-03-08T23:53:17Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - GjKY-p-Mze8 | ongoing=False | publishedAt=2026-03-06T16:30:37Z | actualEndTime=2026-03-06T16:11:31Z | effective=2026-03-06 16:11:31+00:00 | [미국증시 LIVE] 와... 오늘 나스닥은 진짜 무서운데요??ㅣ#260306
+   - -liF7i8LJ7M | ongoing=False | publishedAt=2026-03-08T23:59:42Z | actualEndTime=2026-03-08T23:53:17Z | effective=2026-03-08 23:53:17+00:00 | 국제유가 110달러 돌파........ 돔황챠......................ㅣ[아침시황&미국마감] 
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
