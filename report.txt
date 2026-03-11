@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-10 12:22 (KST)
-Run: 83 (id=22885564957)
+생성 시각: 2026-03-11 12:21 (KST)
+Run: 84 (id=22935129733)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,61 +8,63 @@ Run: 83 (id=22885564957)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump: Waiving Some Oil-Related Sanctions | Balance of Show 03/09/2026
-  URL: https://www.youtube.com/watch?v=bDEn08NEyJQ
-  publishedAt: 2026-03-10T00:38:02Z
+  제목: Social media and the rise of Nepal’s Balendra Shah #shorts #nepal #nepalelection2026 #balendrashah
+  URL: https://www.youtube.com/watch?v=sNYWnID7WYo
+  publishedAt: 2026-03-11T02:00:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - bDEn08NEyJQ | ongoing=False | publishedAt=2026-03-10T00:38:02Z | actualEndTime=None | effective=2026-03-10 00:38:02+00:00 | Trump: Waiving Some Oil-Related Sanctions | Balance of Show 
-   - 6cVEY2SMHkE | ongoing=False | publishedAt=2026-03-09T22:50:01Z | actualEndTime=None | effective=2026-03-09 22:50:01+00:00 | Trump Says US Waiving Certain Oil-Related Sanctions
-   - Fw17rkzY7fI | ongoing=False | publishedAt=2026-03-09T22:19:12Z | actualEndTime=None | effective=2026-03-09 22:19:12+00:00 | Oil Falls After Trump Iran Remarks | The Close 3/9/2026
-   - 1nPTY2XvnCM | ongoing=False | publishedAt=2026-03-09T22:08:58Z | actualEndTime=None | effective=2026-03-09 22:08:58+00:00 | Stocks, Commodities Waver as Iran Conflict Continues | Bloom
-   - Ts3wCXomosE | ongoing=False | publishedAt=2026-03-09T21:10:14Z | actualEndTime=None | effective=2026-03-09 21:10:14+00:00 | Ricaurte Vásquez Morales: The US does not control the Panama
-   - HtmEgoDKb5U | ongoing=False | publishedAt=2026-03-09T20:48:26Z | actualEndTime=None | effective=2026-03-09 20:48:26+00:00 | How Will New Tariff Rates Impact the US Economy? | Presented
-   - 1tMNDjv5kXc | ongoing=False | publishedAt=2026-03-09T20:35:58Z | actualEndTime=None | effective=2026-03-09 20:35:58+00:00 | Investors Rotate from Mag 7 to HALO | Presented by CME Group
-   - V5h2L3hhKNw | ongoing=False | publishedAt=2026-03-09T20:27:47Z | actualEndTime=None | effective=2026-03-09 20:27:47+00:00 | Stocks Mount Comeback After Trump Remarks | Closing Bell
-   - _FOO8Rqhp8Y | ongoing=False | publishedAt=2026-03-09T20:04:34Z | actualEndTime=None | effective=2026-03-09 20:04:34+00:00 | Iran War Pushes Oil Past $100 as Saudi Arabia Announces Prod
-   - exDlqDXyjvQ | ongoing=False | publishedAt=2026-03-09T20:04:17Z | actualEndTime=None | effective=2026-03-09 20:04:17+00:00 | Trump Says War With Iran Is 'Very Complete'
+   - sNYWnID7WYo | ongoing=False | publishedAt=2026-03-11T02:00:56Z | actualEndTime=None | effective=2026-03-11 02:00:56+00:00 | Social media and the rise of Nepal’s Balendra Shah #shorts #
+   - 2TjcWOhK5BM | ongoing=False | publishedAt=2026-03-10T23:50:17Z | actualEndTime=None | effective=2026-03-10 23:50:17+00:00 | Trump Warns Against Iran Putting Mines Around Strait of Horm
+   - ulSchfsMWDE | ongoing=False | publishedAt=2026-03-10T22:53:56Z | actualEndTime=None | effective=2026-03-10 22:53:56+00:00 | What are Iran’s mine capabilities? #shorts #iran #mines #pol
+   - _nsLbpfAHfQ | ongoing=False | publishedAt=2026-03-10T22:22:01Z | actualEndTime=None | effective=2026-03-10 22:22:01+00:00 | Markets Still Grappling with Conflict in Iran | The Close 3/
+   - p9NvZV0N9mI | ongoing=False | publishedAt=2026-03-10T21:34:03Z | actualEndTime=None | effective=2026-03-10 21:34:03+00:00 | We're Getting Closer to How Banks Operate: Kraken Co-CEO
+   - qo8KVtnYTUM | ongoing=False | publishedAt=2026-03-10T21:32:27Z | actualEndTime=None | effective=2026-03-10 21:32:27+00:00 | Markets Increasingly Dollar-Denominated, Says ICE Chairman a
+   - L1Ao3mAuwSc | ongoing=False | publishedAt=2026-03-10T21:31:04Z | actualEndTime=None | effective=2026-03-10 21:31:04+00:00 | Apple Increases iPhone Production in India by 53%
+   - vqDgKXM0AGU | ongoing=False | publishedAt=2026-03-10T20:48:38Z | actualEndTime=None | effective=2026-03-10 20:48:38+00:00 | The Key Takeaways From Oracle's Earnings Beat
+   - u44-_VIKRxc | ongoing=False | publishedAt=2026-03-10T20:31:19Z | actualEndTime=None | effective=2026-03-10 20:31:19+00:00 | Oracle Earnings Beat Leads to After-Hours Surge | Closing Be
+   - ukRSGnXTQkQ | ongoing=False | publishedAt=2026-03-10T20:23:26Z | actualEndTime=None | effective=2026-03-10 20:23:26+00:00 | Admin Denies Hormuz Escort, Stocks Whipsawed | Bloomberg Bus
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: TRUMP JUST U-TURNED - HUGE
-  URL: https://www.youtube.com/watch?v=x4YoYGoc-XI
-  publishedAt: 2026-03-09T20:03:30Z
+  제목: The Iran War, Oil, and Stock Market FLIP [March 10]
+  URL: https://www.youtube.com/watch?v=AKG_8TmwhsU
+  publishedAt: 2026-03-10T15:22:22Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - AKG_8TmwhsU | ongoing=False | publishedAt=2026-03-10T15:22:22Z | actualEndTime=None | effective=2026-03-10 15:22:22+00:00 | The Iran War, Oil, and Stock Market FLIP [March 10]
    - x4YoYGoc-XI | ongoing=False | publishedAt=2026-03-09T20:03:30Z | actualEndTime=None | effective=2026-03-09 20:03:30+00:00 | TRUMP JUST U-TURNED - HUGE
    - xbVr5VBUIFE | ongoing=False | publishedAt=2026-03-09T15:34:33Z | actualEndTime=None | effective=2026-03-09 15:34:33+00:00 | Major Oil Bailout | BULLISH as Iran U-Turns!
-   - 3Qzyy_l9nls | ongoing=False | publishedAt=2026-03-09T01:41:01Z | actualEndTime=None | effective=2026-03-09 01:41:01+00:00 | The Iran War JUST got Worse | Futures are Crashing.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 트럼프 "전쟁 곧 끝났다" 한마디에…급락장이 순식간에 뒤집혔다    -  2026/03/09
-  URL: https://www.youtube.com/watch?v=PTcs1yxbZhw
-  publishedAt: 2026-03-09T23:18:01Z
+  제목: 【미국 증시 오늘의 요약】 상승분 다 토해낸 미 증시, 엇갈린 호르무즈 보도에 '혼돈'     -  2026/03/09
+  URL: https://www.youtube.com/watch?v=l6Oung-sshc
+  publishedAt: 2026-03-10T22:45:07Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - l6Oung-sshc | ongoing=False | publishedAt=2026-03-10T22:45:07Z | actualEndTime=None | effective=2026-03-10 22:45:07+00:00 | 【미국 증시 오늘의 요약】 상승분 다 토해낸 미 증시, 엇갈린 호르무즈 보도에 '혼돈'     -  2026
+   - 3Gr6gPj3KcY | ongoing=False | publishedAt=2026-03-10T22:11:30Z | actualEndTime=2026-03-10T21:48:38Z | effective=2026-03-10 21:48:38+00:00 | [26년 03월 10일 화]  이란, 전쟁 완화 기대감 ↑｜  오라클, 실적 발표  ｜ 사우디·UAE·이라크
    - PTcs1yxbZhw | ongoing=False | publishedAt=2026-03-09T23:18:01Z | actualEndTime=None | effective=2026-03-09 23:18:01+00:00 | 【미국 증시 오늘의 요약】 트럼프 "전쟁 곧 끝났다" 한마디에…급락장이 순식간에 뒤집혔다    -  2026
    - IExprsndWSg | ongoing=False | publishedAt=2026-03-09T23:08:59Z | actualEndTime=2026-03-09T22:35:08Z | effective=2026-03-09 22:35:08+00:00 | [26년 03월 09일 월]   유가, 배럴당 100 달러 돌파 ｜ 트럼프, '이란 전쟁 곧 끝난다' ｜ 노
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: TACO KING 트럼프!! 그래서 호르무즈는 언제 열려요??ㅣ[아침시황&미국마감] #260310
-  URL: https://www.youtube.com/watch?v=DDb3YgAZ9BM
-  publishedAt: 2026-03-10T00:41:58Z
-  actualEndTime: 2026-03-10T00:07:21Z
+  제목: 세상은 요지경!! 이상한 미국장관! 기뢰 준비한 이란? 그걸 막아낸 트럼픜ㅋㅋㅣ혼돈의 카오스, 그래도 반도체는 달린다ㅣ[아침시황&미국마감] #260311
+  URL: https://www.youtube.com/watch?v=Uy-REh4tDb4
+  publishedAt: 2026-03-10T23:50:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Uy-REh4tDb4 | ongoing=False | publishedAt=2026-03-10T23:50:52Z | actualEndTime=None | effective=2026-03-10 23:50:52+00:00 | 세상은 요지경!! 이상한 미국장관! 기뢰 준비한 이란? 그걸 막아낸 트럼픜ㅋㅋㅣ혼돈의 카오스, 그래도 반도체
    - DDb3YgAZ9BM | ongoing=False | publishedAt=2026-03-10T00:41:58Z | actualEndTime=2026-03-10T00:07:21Z | effective=2026-03-10 00:07:21+00:00 | TACO KING 트럼프!! 그래서 호르무즈는 언제 열려요??ㅣ[아침시황&미국마감] #260310
-   - -liF7i8LJ7M | ongoing=False | publishedAt=2026-03-08T23:59:42Z | actualEndTime=2026-03-08T23:53:17Z | effective=2026-03-08 23:53:17+00:00 | 국제유가 110달러 돌파........ 돔황챠......................ㅣ[아침시황&미국마감] 
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 미친 폭락장 대응 어떻게 하나?
-  URL: https://www.youtube.com/watch?v=OtHDlL8LSXw
-  publishedAt: 2026-03-09T18:49:38Z
+  제목: 전쟁 장기화는 어려운 진짜 이유
+  URL: https://www.youtube.com/watch?v=4ULOCjWC44g
+  publishedAt: 2026-03-10T19:39:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 4ULOCjWC44g | ongoing=False | publishedAt=2026-03-10T19:39:30Z | actualEndTime=None | effective=2026-03-10 19:39:30+00:00 | 전쟁 장기화는 어려운 진짜 이유
    - OtHDlL8LSXw | ongoing=False | publishedAt=2026-03-09T18:49:38Z | actualEndTime=None | effective=2026-03-09 18:49:38+00:00 | 미친 폭락장 대응 어떻게 하나?
    - PjtakXaEbps | ongoing=False | publishedAt=2026-03-09T05:53:41Z | actualEndTime=None | effective=2026-03-09 05:53:41+00:00 | 유가 $110 돌파! 3차 오일쇼크 시작인가?
 
@@ -70,4 +72,5 @@ Run: 83 (id=22885564957)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - F59aNkRNywQ | ongoing=False | publishedAt=2026-03-10T12:26:24Z | actualEndTime=None | effective=2026-03-10 12:26:24+00:00 | 폭락한 우량주 매수하기 시작한 내부자들, 분위기 반전 신호일까
    - 6ehbTsPhmYg | ongoing=False | publishedAt=2026-03-09T13:05:04Z | actualEndTime=None | effective=2026-03-09 13:05:04+00:00 | 도 넘은 유가 폭등, 미국-이란 전쟁에 증시 혼란 길어질까
