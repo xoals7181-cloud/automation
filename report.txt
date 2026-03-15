@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-14 12:22 (KST)
-Run: 87 (id=23079308930)
+생성 시각: 2026-03-15 12:46 (KST)
+Run: 88 (id=23102757984)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,62 +8,55 @@ Run: 87 (id=23079308930)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Judge Blocks Subpoenas Against Fed Chair Powell | Balance of Show 03/13/2026
-  URL: https://www.youtube.com/watch?v=ViNCoPPKG5I
-  publishedAt: 2026-03-13T23:31:57Z
+  제목: Warships Sent to MidEast, US Embassy in Baghdad Struck |This Weekend
+  URL: https://www.youtube.com/watch?v=3zjah4WRnBM
+  publishedAt: 2026-03-14T19:17:45Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ViNCoPPKG5I | ongoing=False | publishedAt=2026-03-13T23:31:57Z | actualEndTime=None | effective=2026-03-13 23:31:57+00:00 | Judge Blocks Subpoenas Against Fed Chair Powell | Balance of
-   - 4jXQxk9HLKY | ongoing=False | publishedAt=2026-03-13T23:00:12Z | actualEndTime=None | effective=2026-03-13 23:00:12+00:00 | Wall Street Week | Soft US Jobs, Swedish Defense Spending, P
-   - OCel7ZBZDbM | ongoing=False | publishedAt=2026-03-13T22:38:16Z | actualEndTime=None | effective=2026-03-13 22:38:16+00:00 | US officials have discussed trading oil futures, Burgum says
-   - RD3NOTWbC5Y | ongoing=False | publishedAt=2026-03-13T22:31:11Z | actualEndTime=None | effective=2026-03-13 22:31:11+00:00 | Volatility Grips Wall Street, Judge Rejects Subpoenas of Fed
-   - 9F1-YcXpuGw | ongoing=False | publishedAt=2026-03-13T22:17:40Z | actualEndTime=None | effective=2026-03-13 22:17:40+00:00 | McNally: Oil Disruption From Hormuz Could Last Weeks
-   - PlMkqNRQmWY | ongoing=False | publishedAt=2026-03-13T22:06:53Z | actualEndTime=None | effective=2026-03-13 22:06:53+00:00 | Esper: Drones, Mines Complicate Strait Escort Mission
-   - LDLAX04AXfQ | ongoing=False | publishedAt=2026-03-13T22:05:27Z | actualEndTime=None | effective=2026-03-13 22:05:27+00:00 | Iran Holding World Economy Hostage, Interior Secretary Burgu
-   - BR0K6XjBWWo | ongoing=False | publishedAt=2026-03-13T21:43:11Z | actualEndTime=None | effective=2026-03-13 21:43:11+00:00 | Public markets are affected by “private credit problem” #sho
-   - K1cicoSJWPA | ongoing=False | publishedAt=2026-03-13T21:36:01Z | actualEndTime=None | effective=2026-03-13 21:36:01+00:00 | Amos Hochstein: “We're not in the Russia situation here”
-   - -yUGsvL0qoE | ongoing=False | publishedAt=2026-03-13T20:36:31Z | actualEndTime=None | effective=2026-03-13 20:36:31+00:00 | Trump Warns of New Strikes on Iran as War Hits Two-Week Mark
+   - 3zjah4WRnBM | ongoing=False | publishedAt=2026-03-14T19:17:45Z | actualEndTime=None | effective=2026-03-14 19:17:45+00:00 | Warships Sent to MidEast, US Embassy in Baghdad Struck |This
+   - oOygpLUDF4I | ongoing=False | publishedAt=2026-03-14T17:37:20Z | actualEndTime=None | effective=2026-03-14 17:37:20+00:00 | Gas Prices & Airfare Spike as Iran War Drags On
+   - oMJNT1tPu5o | ongoing=False | publishedAt=2026-03-14T17:09:44Z | actualEndTime=None | effective=2026-03-14 17:09:44+00:00 | US Faces Tough Choices in Next Steps in Iran
+   - RFEMENWVZaI | ongoing=False | publishedAt=2026-03-14T16:33:32Z | actualEndTime=None | effective=2026-03-14 16:33:32+00:00 | Pointed News Quiz | Oil, Asia Politics, Hollywood
+   - BdJ65D_Dovk | ongoing=False | publishedAt=2026-03-14T16:33:26Z | actualEndTime=None | effective=2026-03-14 16:33:26+00:00 | C-Suite Saturdays with Trane CEO on "Bloomberg This Weekend"
+   - OKCRqkH4Zk0 | ongoing=False | publishedAt=2026-03-14T16:15:36Z | actualEndTime=None | effective=2026-03-14 16:15:36+00:00 | Former Energy Secretary Weighs In on Iran War
+   - pz6UAhthalQ | ongoing=False | publishedAt=2026-03-14T16:07:45Z | actualEndTime=None | effective=2026-03-14 16:07:45+00:00 | Volatile & Dangerous Game': Trump Balancing Iran Military Ca
+   - oJ-ln4z_-WQ | ongoing=False | publishedAt=2026-03-14T16:02:38Z | actualEndTime=None | effective=2026-03-14 16:02:38+00:00 | The Risk to Oil Tankers and Ships in Strait of Hormuz
+   - EvLyEKz166E | ongoing=False | publishedAt=2026-03-14T15:48:11Z | actualEndTime=None | effective=2026-03-14 15:48:11+00:00 | Former State Dept. Official Talks Iran War Strategy
+   - 2Fpnv9aLy4I | ongoing=False | publishedAt=2026-03-14T15:36:49Z | actualEndTime=None | effective=2026-03-14 15:36:49+00:00 | The Latest Details on the War in Iran
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Powell JUST Beat Trump! *Major Case*
-  URL: https://www.youtube.com/watch?v=To5-ViIQkeY
-  publishedAt: 2026-03-13T21:00:02Z
+  제목: WRONG: All-In Podcast Just made BIG Mistakes on Iran & AI.
+  URL: https://www.youtube.com/watch?v=_BhwdvCTEgA
+  publishedAt: 2026-03-14T22:15:08Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - _BhwdvCTEgA | ongoing=False | publishedAt=2026-03-14T22:15:08Z | actualEndTime=None | effective=2026-03-14 22:15:08+00:00 | WRONG: All-In Podcast Just made BIG Mistakes on Iran & AI.
    - To5-ViIQkeY | ongoing=False | publishedAt=2026-03-13T21:00:02Z | actualEndTime=None | effective=2026-03-13 21:00:02+00:00 | Powell JUST Beat Trump! *Major Case*
    - uX7XroLdhXI | ongoing=False | publishedAt=2026-03-13T15:34:16Z | actualEndTime=None | effective=2026-03-13 15:34:16+00:00 | Amphibious Assault *Troops* ENROUTE to Iran | CRAP
-   - BVZjHzZKxxg | ongoing=False | publishedAt=2026-03-12T15:31:01Z | actualEndTime=None | effective=2026-03-12 15:31:01+00:00 | Ground Troops to Iran SOON | WTF
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 이란 전쟁 장기화 우려… 유가 상승에 S&P500 상승분 반납   -  2026/03/13
-  URL: https://www.youtube.com/watch?v=Ks_x7NoXSII
-  publishedAt: 2026-03-13T22:30:08Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - Ks_x7NoXSII | ongoing=False | publishedAt=2026-03-13T22:30:08Z | actualEndTime=None | effective=2026-03-13 22:30:08+00:00 | 【미국 증시 오늘의 요약】 이란 전쟁 장기화 우려… 유가 상승에 S&P500 상승분 반납   -  2026/
-   - zxSQKzntQ5s | ongoing=False | publishedAt=2026-03-13T21:41:23Z | actualEndTime=2026-03-13T21:18:58Z | effective=2026-03-13 21:18:58+00:00 | [26년 03월 13일 금]  트럼프, 향후 일주일 동안 이란 강하게 공격할 것' ｜ PCE가격지수, JOL
-   - 1iujZhgOoRw | ongoing=False | publishedAt=2026-03-12T22:50:00Z | actualEndTime=None | effective=2026-03-12 22:50:00+00:00 | 【미국 증시 오늘의 요약】 이란발 유가 폭등에 사모신용 '환매 중단'까지 덮친 월가..     -  2026
-   - I4AADSZQV4w | ongoing=False | publishedAt=2026-03-12T21:52:16Z | actualEndTime=2026-03-12T21:28:33Z | effective=2026-03-12 21:28:33+00:00 | [26년 03월 12일 목]  이란 전쟁 확산…이라크 해상 유조선 피격｜ 미국, 무역법 '301조' 조사 착
-
-- 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: [미국증시LIVE] 프랑스, 이탈리아 = 이란과 협상 시작!ㅣ트럼프, 호르무즈 호위 검토 중ㅣ유가잡기 총력전! 그럼 나스닥은??ㅣ#260313
-  URL: https://www.youtube.com/watch?v=wbAtMymdi2A
-  publishedAt: 2026-03-13T16:02:48Z
-  actualEndTime: 2026-03-13T15:54:16Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - wbAtMymdi2A | ongoing=False | publishedAt=2026-03-13T16:02:48Z | actualEndTime=2026-03-13T15:54:16Z | effective=2026-03-13 15:54:16+00:00 | [미국증시LIVE] 프랑스, 이탈리아 = 이란과 협상 시작!ㅣ트럼프, 호르무즈 호위 검토 중ㅣ유가잡기 총력전
-   - neji70ntIes | ongoing=False | publishedAt=2026-03-13T03:00:52Z | actualEndTime=None | effective=2026-03-13 03:00:52+00:00 | 우리에겐 '연준'이 있습니다
-   - U1Uihm0AJ60 | ongoing=False | publishedAt=2026-03-13T00:29:17Z | actualEndTime=2026-03-13T00:22:01Z | effective=2026-03-13 00:22:01+00:00 | 이란전쟁, 오늘의 말말말ㅣ개빡친 베센트 : 똥을 쌌으면 빨리 치워라!!ㅣEWY -7%, 원-달러 1,490원
-
-- 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - IIjfVLLWFmM | ongoing=False | publishedAt=2026-03-12T18:31:24Z | actualEndTime=None | effective=2026-03-12 18:31:24+00:00 | 증시의 쌍끌이 악재
+   - Ks_x7NoXSII | ongoing=False | publishedAt=2026-03-13T22:30:08Z | actualEndTime=None | effective=2026-03-13 22:30:08+00:00 | 【미국 증시 오늘의 요약】 이란 전쟁 장기화 우려… 유가 상승에 S&P500 상승분 반납   -  2026/
+   - zxSQKzntQ5s | ongoing=False | publishedAt=2026-03-13T21:41:23Z | actualEndTime=2026-03-13T21:18:58Z | effective=2026-03-13 21:18:58+00:00 | [26년 03월 13일 금]  트럼프, 향후 일주일 동안 이란 강하게 공격할 것' ｜ PCE가격지수, JOL
+
+- 설명왕 테이버
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - BbRiDMdYkIw | ongoing=False | publishedAt=2026-03-14T11:55:39Z | actualEndTime=None | effective=2026-03-14 11:55:39+00:00 | 화제의 '그 섹터' 정유주에 대하여
+   - wbAtMymdi2A | ongoing=False | publishedAt=2026-03-13T16:02:48Z | actualEndTime=2026-03-13T15:54:16Z | effective=2026-03-13 15:54:16+00:00 | [미국증시LIVE] 프랑스, 이탈리아 = 이란과 협상 시작!ㅣ트럼프, 호르무즈 호위 검토 중ㅣ유가잡기 총력전
+
+- 내일은 투자왕 - 김단테
+  상태: NO_TRANSCRIPT
+  제목: 트럼프의 마지막 카드
+  URL: https://www.youtube.com/watch?v=MpQdEvIiLw4
+  publishedAt: 2026-03-14T18:03:44Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - MpQdEvIiLw4 | ongoing=False | publishedAt=2026-03-14T18:03:44Z | actualEndTime=None | effective=2026-03-14 18:03:44+00:00 | 트럼프의 마지막 카드
 
 - 소수몽키
   상태: NO_VIDEO
