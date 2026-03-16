@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-15 12:46 (KST)
-Run: 88 (id=23102757984)
+생성 시각: 2026-03-16 12:50 (KST)
+Run: 89 (id=23127136853)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,53 +8,46 @@ Run: 88 (id=23102757984)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Warships Sent to MidEast, US Embassy in Baghdad Struck |This Weekend
-  URL: https://www.youtube.com/watch?v=3zjah4WRnBM
-  publishedAt: 2026-03-14T19:17:45Z
+  제목: Trump Demands Other Nations' Help on Hormuz | The Asia Trade 3/16/2026
+  URL: https://www.youtube.com/watch?v=TwNoxJLGC5w
+  publishedAt: 2026-03-16T03:15:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 3zjah4WRnBM | ongoing=False | publishedAt=2026-03-14T19:17:45Z | actualEndTime=None | effective=2026-03-14 19:17:45+00:00 | Warships Sent to MidEast, US Embassy in Baghdad Struck |This
-   - oOygpLUDF4I | ongoing=False | publishedAt=2026-03-14T17:37:20Z | actualEndTime=None | effective=2026-03-14 17:37:20+00:00 | Gas Prices & Airfare Spike as Iran War Drags On
-   - oMJNT1tPu5o | ongoing=False | publishedAt=2026-03-14T17:09:44Z | actualEndTime=None | effective=2026-03-14 17:09:44+00:00 | US Faces Tough Choices in Next Steps in Iran
-   - RFEMENWVZaI | ongoing=False | publishedAt=2026-03-14T16:33:32Z | actualEndTime=None | effective=2026-03-14 16:33:32+00:00 | Pointed News Quiz | Oil, Asia Politics, Hollywood
-   - BdJ65D_Dovk | ongoing=False | publishedAt=2026-03-14T16:33:26Z | actualEndTime=None | effective=2026-03-14 16:33:26+00:00 | C-Suite Saturdays with Trane CEO on "Bloomberg This Weekend"
-   - OKCRqkH4Zk0 | ongoing=False | publishedAt=2026-03-14T16:15:36Z | actualEndTime=None | effective=2026-03-14 16:15:36+00:00 | Former Energy Secretary Weighs In on Iran War
-   - pz6UAhthalQ | ongoing=False | publishedAt=2026-03-14T16:07:45Z | actualEndTime=None | effective=2026-03-14 16:07:45+00:00 | Volatile & Dangerous Game': Trump Balancing Iran Military Ca
-   - oJ-ln4z_-WQ | ongoing=False | publishedAt=2026-03-14T16:02:38Z | actualEndTime=None | effective=2026-03-14 16:02:38+00:00 | The Risk to Oil Tankers and Ships in Strait of Hormuz
-   - EvLyEKz166E | ongoing=False | publishedAt=2026-03-14T15:48:11Z | actualEndTime=None | effective=2026-03-14 15:48:11+00:00 | Former State Dept. Official Talks Iran War Strategy
-   - 2Fpnv9aLy4I | ongoing=False | publishedAt=2026-03-14T15:36:49Z | actualEndTime=None | effective=2026-03-14 15:36:49+00:00 | The Latest Details on the War in Iran
+   - TwNoxJLGC5w | ongoing=False | publishedAt=2026-03-16T03:15:29Z | actualEndTime=None | effective=2026-03-16 03:15:29+00:00 | Trump Demands Other Nations' Help on Hormuz | The Asia Trade
+   - D_fuVWYMhSo | ongoing=False | publishedAt=2026-03-15T16:54:11Z | actualEndTime=None | effective=2026-03-15 16:54:11+00:00 | This Weekend | Trump Not Ready for Iran Deal, Iran's Uncerta
+   - DO6PPSscFYo | ongoing=False | publishedAt=2026-03-15T16:18:54Z | actualEndTime=None | effective=2026-03-15 16:18:54+00:00 | Democrats' Hope Is 'Not a Strategy,' Says Rep. Lawler
+   - wj8NDtEGE7M | ongoing=False | publishedAt=2026-03-15T14:03:01Z | actualEndTime=None | effective=2026-03-15 14:03:01+00:00 | Rep. Smith Says Trump's Iran Plans Are 'Cavalier and Unserio
+   - vBJfZXinKNw | ongoing=False | publishedAt=2026-03-15T14:01:23Z | actualEndTime=None | effective=2026-03-15 14:01:23+00:00 | What the Millennial Prime Minister of Nepal Teaches Us About
+   - oNKO59KYfxc | ongoing=False | publishedAt=2026-03-15T14:01:20Z | actualEndTime=None | effective=2026-03-15 14:01:20+00:00 | The private credit crunch raises new questions about risk #p
+   - 2Vkgq8OMdeI | ongoing=False | publishedAt=2026-03-15T13:20:50Z | actualEndTime=None | effective=2026-03-15 13:20:50+00:00 | Tonight's Academy Awards and What to Expect
+   - 9qWqe-RMq_c | ongoing=False | publishedAt=2026-03-15T12:38:23Z | actualEndTime=None | effective=2026-03-15 12:38:23+00:00 | Asia Should Buy More Oil From the US, Says Zeldin
+   - NHMEjYSNA9A | ongoing=False | publishedAt=2026-03-15T12:31:29Z | actualEndTime=None | effective=2026-03-15 12:31:29+00:00 | New Strikes In Iran As War Enters Day 16
+   - NO9quqQg8JA | ongoing=False | publishedAt=2026-03-15T12:20:46Z | actualEndTime=None | effective=2026-03-15 12:20:46+00:00 | Trump Ignoring Lessons From Past: Sir Lawrence Freedman
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: WRONG: All-In Podcast Just made BIG Mistakes on Iran & AI.
-  URL: https://www.youtube.com/watch?v=_BhwdvCTEgA
-  publishedAt: 2026-03-14T22:15:08Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - _BhwdvCTEgA | ongoing=False | publishedAt=2026-03-14T22:15:08Z | actualEndTime=None | effective=2026-03-14 22:15:08+00:00 | WRONG: All-In Podcast Just made BIG Mistakes on Iran & AI.
-   - To5-ViIQkeY | ongoing=False | publishedAt=2026-03-13T21:00:02Z | actualEndTime=None | effective=2026-03-13 21:00:02+00:00 | Powell JUST Beat Trump! *Major Case*
-   - uX7XroLdhXI | ongoing=False | publishedAt=2026-03-13T15:34:16Z | actualEndTime=None | effective=2026-03-13 15:34:16+00:00 | Amphibious Assault *Troops* ENROUTE to Iran | CRAP
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Ks_x7NoXSII | ongoing=False | publishedAt=2026-03-13T22:30:08Z | actualEndTime=None | effective=2026-03-13 22:30:08+00:00 | 【미국 증시 오늘의 요약】 이란 전쟁 장기화 우려… 유가 상승에 S&P500 상승분 반납   -  2026/
-   - zxSQKzntQ5s | ongoing=False | publishedAt=2026-03-13T21:41:23Z | actualEndTime=2026-03-13T21:18:58Z | effective=2026-03-13 21:18:58+00:00 | [26년 03월 13일 금]  트럼프, 향후 일주일 동안 이란 강하게 공격할 것' ｜ PCE가격지수, JOL
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 트럼프, 호르무즈 한국이 와서 막아라!!ㅣGTC2026, 마이크론 실적발표, 이번주 코스피는 오른다!?ㅣ[아침뉴스&미국시황] #260316
+  URL: https://www.youtube.com/watch?v=KDjnJzafHoY
+  publishedAt: 2026-03-16T00:00:44Z
+  actualEndTime: 2026-03-15T23:56:06Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - KDjnJzafHoY | ongoing=False | publishedAt=2026-03-16T00:00:44Z | actualEndTime=2026-03-15T23:56:06Z | effective=2026-03-15 23:56:06+00:00 | 트럼프, 호르무즈 한국이 와서 막아라!!ㅣGTC2026, 마이크론 실적발표, 이번주 코스피는 오른다!?ㅣ[아
    - BbRiDMdYkIw | ongoing=False | publishedAt=2026-03-14T11:55:39Z | actualEndTime=None | effective=2026-03-14 11:55:39+00:00 | 화제의 '그 섹터' 정유주에 대하여
-   - wbAtMymdi2A | ongoing=False | publishedAt=2026-03-13T16:02:48Z | actualEndTime=2026-03-13T15:54:16Z | effective=2026-03-13 15:54:16+00:00 | [미국증시LIVE] 프랑스, 이탈리아 = 이란과 협상 시작!ㅣ트럼프, 호르무즈 호위 검토 중ㅣ유가잡기 총력전
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 트럼프의 마지막 카드
-  URL: https://www.youtube.com/watch?v=MpQdEvIiLw4
-  publishedAt: 2026-03-14T18:03:44Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - MpQdEvIiLw4 | ongoing=False | publishedAt=2026-03-14T18:03:44Z | actualEndTime=None | effective=2026-03-14 18:03:44+00:00 | 트럼프의 마지막 카드
 
