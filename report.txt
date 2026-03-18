@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-17 12:28 (KST)
-Run: 90 (id=23177033399)
+생성 시각: 2026-03-18 12:35 (KST)
+Run: 91 (id=23227878455)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,64 +8,72 @@ Run: 90 (id=23177033399)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump: US Requests Delay of Xi Summit Amid War | Balance of Power 03/16/2026
-  URL: https://www.youtube.com/watch?v=LRX9eAHRBaI
-  publishedAt: 2026-03-16T23:40:38Z
+  제목: Nvidia Says Company Firing Up H200 Production for China
+  URL: https://www.youtube.com/watch?v=aBAI4V9DWNM
+  publishedAt: 2026-03-18T02:43:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - LRX9eAHRBaI | ongoing=False | publishedAt=2026-03-16T23:40:38Z | actualEndTime=None | effective=2026-03-16 23:40:38+00:00 | Trump: US Requests Delay of Xi Summit Amid War | Balance of 
-   - WwdLP2aRs94 | ongoing=False | publishedAt=2026-03-16T22:28:12Z | actualEndTime=None | effective=2026-03-16 22:28:12+00:00 | Oil Declines, Major Averages Hold onto Gains | The Close 3/1
-   - MzASg4BxONQ | ongoing=False | publishedAt=2026-03-16T21:26:08Z | actualEndTime=None | effective=2026-03-16 21:26:08+00:00 | Finland’s Stubb cautions NATO allies to heed Trump’s Hormuz 
-   - w2I5OBMA_hQ | ongoing=False | publishedAt=2026-03-16T21:23:07Z | actualEndTime=None | effective=2026-03-16 21:23:07+00:00 | Trump Says Iran War Will End Soon, Not This Week
-   - 7UPMf8Be0HU | ongoing=False | publishedAt=2026-03-16T21:05:31Z | actualEndTime=None | effective=2026-03-16 21:05:31+00:00 | Finland's Stubb Says NATO Should Take Trump Seriously
-   - _umzV3ggOFM | ongoing=False | publishedAt=2026-03-16T20:52:43Z | actualEndTime=None | effective=2026-03-16 20:52:43+00:00 | Long Airport Security Lines Become Flashpoint in DHS Shutdow
-   - 2Hhh_KnIqwc | ongoing=False | publishedAt=2026-03-16T20:48:04Z | actualEndTime=None | effective=2026-03-16 20:48:04+00:00 | Trump doesn't know if Iran's Supreme Leader Is Dead or Alive
-   - SCmfIYIga-g | ongoing=False | publishedAt=2026-03-16T20:35:12Z | actualEndTime=None | effective=2026-03-16 20:35:12+00:00 | How ego stops leaders from leaving when they should
-   - XtK1F1oxp6A | ongoing=False | publishedAt=2026-03-16T20:34:12Z | actualEndTime=None | effective=2026-03-16 20:34:12+00:00 | Humanoid CTO: Demand is off the charts
-   - 6nO70DwkXW8 | ongoing=False | publishedAt=2026-03-16T20:33:02Z | actualEndTime=None | effective=2026-03-16 20:33:02+00:00 | Blackstone's Gray on UK Policies, Private Credit, Impact of 
+   - aBAI4V9DWNM | ongoing=False | publishedAt=2026-03-18T02:43:29Z | actualEndTime=None | effective=2026-03-18 02:43:29+00:00 | Nvidia Says Company Firing Up H200 Production for China
+   - kXfPJwJ4tYg | ongoing=False | publishedAt=2026-03-18T01:01:51Z | actualEndTime=None | effective=2026-03-18 01:01:51+00:00 | Blank Street Wants To Be Starbucks For Gen Z
+   - ge4lX4IeKjQ | ongoing=False | publishedAt=2026-03-18T00:44:33Z | actualEndTime=None | effective=2026-03-18 00:44:33+00:00 | Counterterrorism Center Director Resigns Over Iran War | Bal
+   - 054WVxWvS-o | ongoing=False | publishedAt=2026-03-18T00:12:39Z | actualEndTime=None | effective=2026-03-18 00:12:39+00:00 | Oaktree's Marks Weighs In on Big Tech Debt Sales
+   - LetNVz_1fXI | ongoing=False | publishedAt=2026-03-18T00:13:13Z | actualEndTime=None | effective=2026-03-18 00:13:13+00:00 | AI Impact Is Underestimated, Oaktree's Marks Cautions
+   - KcBYM12VKJQ | ongoing=False | publishedAt=2026-03-17T22:48:28Z | actualEndTime=None | effective=2026-03-17 22:48:28+00:00 | Top takeaways from the Nvidia GTC conference #shorts #nvidia
+   - Z3yUP4MWKZ4 | ongoing=False | publishedAt=2026-03-17T22:21:37Z | actualEndTime=None | effective=2026-03-17 22:21:37+00:00 | Oil Volatility Calms, Airline Stocks Soar | The Close 3/17/2
+   - VSppEM41tVY | ongoing=False | publishedAt=2026-03-17T21:18:17Z | actualEndTime=None | effective=2026-03-17 21:18:17+00:00 | Property Brothers on US housing crisis
+   - ttMjYtvqDkQ | ongoing=False | publishedAt=2026-03-17T20:33:22Z | actualEndTime=None | effective=2026-03-17 20:33:22+00:00 | NATO Is Making a Foolish Mistake Says Trump (Full Q&A)
+   - HfFMw2vd6pA | ongoing=False | publishedAt=2026-03-17T20:31:48Z | actualEndTime=None | effective=2026-03-17 20:31:48+00:00 | TC Energy Could Invest Billions More in US, CEO Says
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: WARNING: This Recession Will be WORSE than 2008.
-  URL: https://www.youtube.com/watch?v=QRyXkJCbQgk
-  publishedAt: 2026-03-16T19:01:52Z
+  제목: **Critical Fed FOMC Press Conference & Market Open** [Coupon Expires 3-18-26]
+  URL: https://www.youtube.com/watch?v=GGsJSujN7dA
+  publishedAt: 2026-03-17T21:29:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - GGsJSujN7dA | ongoing=False | publishedAt=2026-03-17T21:29:20Z | actualEndTime=None | effective=2026-03-17 21:29:20+00:00 | **Critical Fed FOMC Press Conference & Market Open** [Coupon
+   - z-EhNfOfLJg | ongoing=False | publishedAt=2026-03-17T16:27:50Z | actualEndTime=None | effective=2026-03-17 16:27:50+00:00 | Prepare for the Fed's Rate HIKES.
    - QRyXkJCbQgk | ongoing=False | publishedAt=2026-03-16T19:01:52Z | actualEndTime=None | effective=2026-03-16 19:01:52+00:00 | WARNING: This Recession Will be WORSE than 2008.
    - FKdVySZXq2U | ongoing=False | publishedAt=2026-03-16T15:25:02Z | actualEndTime=2026-03-16T15:19:58Z | effective=2026-03-16 15:19:58+00:00 | Stocks Skyrocket as Oil Drops
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 엔비디아 GTC 호재에 유가 하락까지 겹쳤다!    -  2026/03/16
-  URL: https://www.youtube.com/watch?v=gbe4k9Ngio0
-  publishedAt: 2026-03-16T22:46:06Z
+  제목: 【미국 증시 오늘의 요약】 이란 전쟁 속 이틀 연속 상승…연준 금리 결정 앞두고 시장 촉각    -  2026/03/17
+  URL: https://www.youtube.com/watch?v=iYXK7-93eZc
+  publishedAt: 2026-03-17T22:15:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - iYXK7-93eZc | ongoing=False | publishedAt=2026-03-17T22:15:03Z | actualEndTime=None | effective=2026-03-17 22:15:03+00:00 | 【미국 증시 오늘의 요약】 이란 전쟁 속 이틀 연속 상승…연준 금리 결정 앞두고 시장 촉각    -  202
+   - FZYdxtjYEh4 | ongoing=False | publishedAt=2026-03-17T21:45:34Z | actualEndTime=2026-03-17T21:25:29Z | effective=2026-03-17 21:25:29+00:00 | [26년 03월 17일 화]  엔비디아 애널리스트 Q&A｜ 백악관, '필요하다면 비축유 방출 더 확대' ｜ 
    - gbe4k9Ngio0 | ongoing=False | publishedAt=2026-03-16T22:46:06Z | actualEndTime=None | effective=2026-03-16 22:46:06+00:00 | 【미국 증시 오늘의 요약】 엔비디아 GTC 호재에 유가 하락까지 겹쳤다!    -  2026/03/16
    - 4i68fNON4xs | ongoing=False | publishedAt=2026-03-16T22:08:35Z | actualEndTime=2026-03-16T21:45:20Z | effective=2026-03-16 21:45:20+00:00 | [26년 03월 16일 월]  엔비디아 GTC 2026 ｜ 트럼프, 동맹국에 호르무즈 군사 지원 압박 ｜ 미
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 삼성전자? 엔비디아? 지금은 엔비디아가 더 매력적인 이유
-  URL: https://www.youtube.com/watch?v=YvklCvakNZA
-  publishedAt: 2026-03-17T03:00:37Z
+  제목: 세가지만 알고 투자합시다
+  URL: https://www.youtube.com/watch?v=dfWLhgFacPs
+  publishedAt: 2026-03-18T03:00:45Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - dfWLhgFacPs | ongoing=False | publishedAt=2026-03-18T03:00:45Z | actualEndTime=None | effective=2026-03-18 03:00:45+00:00 | 세가지만 알고 투자합시다
+   - P2G58Or-zmM | ongoing=False | publishedAt=2026-03-18T00:12:23Z | actualEndTime=2026-03-18T00:08:33Z | effective=2026-03-18 00:08:33+00:00 | 마이크론 신고가!! 반도체 기대감 MAX!!ㅣ엔비디아, 1년 기다려야 하는 이유ㅣ삐진 트럼프, 공격받는 UA
+   - IFEsGBpTpAA | ongoing=False | publishedAt=2026-03-17T16:01:17Z | actualEndTime=2026-03-17T15:53:09Z | effective=2026-03-17 15:53:09+00:00 | [미국증시LIVE] 시장은 전쟁의 끝을 바라보고 있다ㅣ#260317
    - YvklCvakNZA | ongoing=False | publishedAt=2026-03-17T03:00:37Z | actualEndTime=None | effective=2026-03-17 03:00:37+00:00 | 삼성전자? 엔비디아? 지금은 엔비디아가 더 매력적인 이유
    - Ecb4I3_LX4A | ongoing=False | publishedAt=2026-03-17T00:09:34Z | actualEndTime=2026-03-17T00:00:51Z | effective=2026-03-17 00:00:51+00:00 | 트럼프 vs 전세계, 전쟁의 끝을 기대하는 주식시장ㅣ젠슨황, 1500조 매출 대기중ㅣEWY 폭등! 삼성전자,
-   - KDjnJzafHoY | ongoing=False | publishedAt=2026-03-16T00:00:44Z | actualEndTime=2026-03-15T23:56:06Z | effective=2026-03-15 23:56:06+00:00 | 트럼프, 호르무즈 한국이 와서 막아라!!ㅣGTC2026, 마이크론 실적발표, 이번주 코스피는 오른다!?ㅣ[아
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 이란 전쟁. 한줄기 빛이 보이기 시작했습니다.
-  URL: https://www.youtube.com/watch?v=eMk8hNKSqKU
-  publishedAt: 2026-03-16T19:21:41Z
+  제목: AI 버블 논란이 무의미한 진짜 이유
+  URL: https://www.youtube.com/watch?v=VD_iaxM5vSc
+  publishedAt: 2026-03-17T19:39:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - VD_iaxM5vSc | ongoing=False | publishedAt=2026-03-17T19:39:26Z | actualEndTime=None | effective=2026-03-17 19:39:26+00:00 | AI 버블 논란이 무의미한 진짜 이유
    - eMk8hNKSqKU | ongoing=False | publishedAt=2026-03-16T19:21:41Z | actualEndTime=None | effective=2026-03-16 19:21:41+00:00 | 이란 전쟁. 한줄기 빛이 보이기 시작했습니다.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 8NWdGpym8Ws | ongoing=False | publishedAt=2026-03-17T09:54:39Z | actualEndTime=None | effective=2026-03-17 09:54:39+00:00 | AI투자 → 대량 해고 쓰나미 시작? 최악의 시나리오 현실화될까
    - NseuX7PjrI8 | ongoing=False | publishedAt=2026-03-16T11:51:02Z | actualEndTime=None | effective=2026-03-16 11:51:02+00:00 | 트럼프의 강력 힌트, 벼랑 끝에 선 미 증시 살려낼까
