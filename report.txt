@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-19 12:35 (KST)
-Run: 92 (id=23278601556)
+생성 시각: 2026-03-20 12:26 (KST)
+Run: 93 (id=23327756718)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,71 +8,68 @@ Run: 92 (id=23278601556)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: HSBC Weighs Job Cuts From Multiyear AI-Fueled Overhaul
-  URL: https://www.youtube.com/watch?v=jIpItpVM9-0
-  publishedAt: 2026-03-19T03:15:43Z
+  제목: Investors turn to AI to find an edge in Iran war fallout #bloomberg
+  URL: https://www.youtube.com/watch?v=v1CPGWrqf4s
+  publishedAt: 2026-03-20T01:20:54Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - jIpItpVM9-0 | ongoing=False | publishedAt=2026-03-19T03:15:43Z | actualEndTime=None | effective=2026-03-19 03:15:43+00:00 | HSBC Weighs Job Cuts From Multiyear AI-Fueled Overhaul
-   - 4dJpcX0fjgY | ongoing=False | publishedAt=2026-03-19T00:26:22Z | actualEndTime=None | effective=2026-03-19 00:26:22+00:00 | Fed Holds Rates Steady, Projects One Rate Cut in 2026 | Bala
-   - vfNoqHw8Om4 | ongoing=False | publishedAt=2026-03-18T22:11:26Z | actualEndTime=None | effective=2026-03-18 22:11:26+00:00 | Stocks, Bonds Fall on Powell Inflation Worries | The Close 3
-   - 9RQWQ8pgDNg | ongoing=False | publishedAt=2026-03-18T22:02:54Z | actualEndTime=2026-03-18T20:47:51Z | effective=2026-03-18 20:47:51+00:00 | LIVE: Fed Leaves Rates Unchanged | Chair Powell Speaks
-   - SsYNwBk2rXE | ongoing=False | publishedAt=2026-03-18T21:43:04Z | actualEndTime=None | effective=2026-03-18 21:43:04+00:00 | The Math Behind Drake’s Lucky Spins
-   - 8rJ29oDfxXQ | ongoing=False | publishedAt=2026-03-18T21:29:30Z | actualEndTime=None | effective=2026-03-18 21:29:30+00:00 | Bloomberg Surveillance: The Fed Decides 3/18/2026
-   - R56N0TG6f-Q | ongoing=False | publishedAt=2026-03-18T20:59:40Z | actualEndTime=None | effective=2026-03-18 20:59:40+00:00 | Micron to Spend Heavily to Meet Demand
-   - dTfgZ9ajK-w | ongoing=False | publishedAt=2026-03-18T20:20:45Z | actualEndTime=None | effective=2026-03-18 20:20:45+00:00 | Fed Holds Rates, Micron Reports Results | Closing Bell
-   - JaWU6T_ExPY | ongoing=False | publishedAt=2026-03-18T20:06:49Z | actualEndTime=None | effective=2026-03-18 20:06:49+00:00 | Powell: Too soon to know impact of higher energy prices #sho
-   - hPiB22TKiHA | ongoing=False | publishedAt=2026-03-18T19:52:26Z | actualEndTime=None | effective=2026-03-18 19:52:26+00:00 | What are options markets signaling ahead of Fed meeting? | P
+   - v1CPGWrqf4s | ongoing=False | publishedAt=2026-03-20T01:20:54Z | actualEndTime=None | effective=2026-03-20 01:20:54+00:00 | Investors turn to AI to find an edge in Iran war fallout #bl
+   - uGq-ChtI8QQ | ongoing=False | publishedAt=2026-03-20T00:30:40Z | actualEndTime=None | effective=2026-03-20 00:30:40+00:00 | Pentagon Seeks $200B From Congress For Iran Conflict | Balan
+   - E9mFJVXLXJQ | ongoing=False | publishedAt=2026-03-19T23:05:40Z | actualEndTime=None | effective=2026-03-19 23:05:40+00:00 | The Debrief with Mario Parker: Japan Prime Minister, Rising 
+   - d1W0sHJCKvo | ongoing=False | publishedAt=2026-03-19T22:39:47Z | actualEndTime=None | effective=2026-03-19 22:39:47+00:00 | Panetta on War Costs, Hormuz Strategy, US Role
+   - bIc-fIxPTFY | ongoing=False | publishedAt=2026-03-19T22:24:45Z | actualEndTime=None | effective=2026-03-19 22:24:45+00:00 | Sen. Peters on War Funding, DHS Standoff, Mullin Nomination
+   - BVceAzO-Uo8 | ongoing=False | publishedAt=2026-03-19T22:21:30Z | actualEndTime=None | effective=2026-03-19 22:21:30+00:00 | Energy, Financial Markets Rattled by Iran Strikes | The Clos
+   - r4svMQVBnhw | ongoing=False | publishedAt=2026-03-19T22:04:52Z | actualEndTime=None | effective=2026-03-19 22:04:52+00:00 | Cuba will fiercely resist US threats, says envoy #shorts #cu
+   - OQXNgKkZ36I | ongoing=False | publishedAt=2026-03-19T21:32:31Z | actualEndTime=None | effective=2026-03-19 21:32:31+00:00 | Cuba Won't Remove Its President to Appease Trump, Says UN En
+   - puKIHnhTxEo | ongoing=False | publishedAt=2026-03-19T21:05:31Z | actualEndTime=None | effective=2026-03-19 21:05:31+00:00 | Pipelines Need to Bypass Hormuz, Says Israel's Netanyahu
+   - u6aXVFMN9nY | ongoing=False | publishedAt=2026-03-19T20:26:26Z | actualEndTime=None | effective=2026-03-19 20:26:26+00:00 | Oil Falls on Hormuz Hopes | Closing Bell
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: f**k
-  URL: https://www.youtube.com/watch?v=feF188bmW54
-  publishedAt: 2026-03-19T02:27:12Z
+  제목: Stock Market Open
+  URL: https://www.youtube.com/watch?v=92xFPA1ONUY
+  publishedAt: 2026-03-19T17:08:35Z
+  actualEndTime: 2026-03-19T16:33:33Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 92xFPA1ONUY | ongoing=False | publishedAt=2026-03-19T17:08:35Z | actualEndTime=2026-03-19T16:33:33Z | effective=2026-03-19 16:33:33+00:00 | Stock Market Open
+   - RM3hAgTG_OE | ongoing=False | publishedAt=2026-03-19T15:54:00Z | actualEndTime=None | effective=2026-03-19 15:54:00+00:00 | Reasons to be Bullish.
    - feF188bmW54 | ongoing=False | publishedAt=2026-03-19T02:27:12Z | actualEndTime=None | effective=2026-03-19 02:27:12+00:00 | f**k
    - h6GqKRxCbAA | ongoing=False | publishedAt=2026-03-18T19:44:52Z | actualEndTime=None | effective=2026-03-18 19:44:52+00:00 | Powell JUST issued a MAJOR Threat | Fed FOMC Meeting
    - j0JyViRqLJ0 | ongoing=False | publishedAt=2026-03-18T19:43:24Z | actualEndTime=2026-03-18T19:37:56Z | effective=2026-03-18 19:37:56+00:00 | **Fed Announcement** FOMC & Powell LIVE (Coupon Expires Toda
    - GGsJSujN7dA | ongoing=False | publishedAt=2026-03-18T17:22:25Z | actualEndTime=2026-03-18T17:13:21Z | effective=2026-03-18 17:13:21+00:00 | FOMC Powell Prep & Stock Market Open [Critical Day!] (Coupon
    - JEybuS-uOH0 | ongoing=False | publishedAt=2026-03-18T17:15:45Z | actualEndTime=None | effective=2026-03-18 17:15:45+00:00 | Buy Now, Pay Later may DIE | Consumer is F**K'd
    - i70xImgQDkw | ongoing=False | publishedAt=2026-03-18T16:06:38Z | actualEndTime=None | effective=2026-03-18 16:06:38+00:00 | Iran is getting WORSE. CRAP
-   - z-EhNfOfLJg | ongoing=False | publishedAt=2026-03-17T16:27:50Z | actualEndTime=None | effective=2026-03-17 16:27:50+00:00 | Prepare for the Fed's Rate HIKES.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 유가 폭등에 금리 동결까지... 파월 "진전 없으면 금리 인하 없다"     -  2026/03/18
-  URL: https://www.youtube.com/watch?v=sydqv3nKScw
-  publishedAt: 2026-03-18T22:48:00Z
+  제목: 【미국 증시 오늘의 요약】 이스라엘 "조기 종전" 시사에 유가 진정… 증시는 '세 마녀의 날' 경계감     -  2026/03/19
+  URL: https://www.youtube.com/watch?v=JhHA5HiaAZc
+  publishedAt: 2026-03-19T22:13:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - JhHA5HiaAZc | ongoing=False | publishedAt=2026-03-19T22:13:00Z | actualEndTime=None | effective=2026-03-19 22:13:00+00:00 | 【미국 증시 오늘의 요약】 이스라엘 "조기 종전" 시사에 유가 진정… 증시는 '세 마녀의 날' 경계감    
+   - JN487egxXx4 | ongoing=False | publishedAt=2026-03-19T21:37:39Z | actualEndTime=2026-03-19T21:18:46Z | effective=2026-03-19 21:18:46+00:00 | [26년 03월 19일 목]  마이크론, 역대 최고 실적에도 하락세 ｜미·일 정상회담 ｜이란, 호르무즈 해협
    - sydqv3nKScw | ongoing=False | publishedAt=2026-03-18T22:48:00Z | actualEndTime=None | effective=2026-03-18 22:48:00+00:00 | 【미국 증시 오늘의 요약】 유가 폭등에 금리 동결까지... 파월 "진전 없으면 금리 인하 없다"     - 
    - CNFdcTlp17I | ongoing=False | publishedAt=2026-03-18T22:09:39Z | actualEndTime=2026-03-18T21:48:43Z | effective=2026-03-18 21:48:43+00:00 | [26년 03월 18일 수]  미국 기준금리 결정, 파월 의장 기자회견 ｜마이크론, 실적발표 ｜삼성-AMD 
-   - iYXK7-93eZc | ongoing=False | publishedAt=2026-03-17T22:15:03Z | actualEndTime=None | effective=2026-03-17 22:15:03+00:00 | 【미국 증시 오늘의 요약】 이란 전쟁 속 이틀 연속 상승…연준 금리 결정 앞두고 시장 촉각    -  202
-   - FZYdxtjYEh4 | ongoing=False | publishedAt=2026-03-17T21:45:34Z | actualEndTime=2026-03-17T21:25:29Z | effective=2026-03-17 21:25:29+00:00 | [26년 03월 17일 화]  엔비디아 애널리스트 Q&A｜ 백악관, '필요하다면 비축유 방출 더 확대' ｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 3개월마다 돈이 복사가 되는 주식 투자 치트키
-  URL: https://www.youtube.com/watch?v=sZSzf0yNx_k
-  publishedAt: 2026-03-19T03:01:04Z
+  제목: 저는 감시당하고 있습니다
+  URL: https://www.youtube.com/watch?v=L9uK46TfXd8
+  publishedAt: 2026-03-20T03:00:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - L9uK46TfXd8 | ongoing=False | publishedAt=2026-03-20T03:00:32Z | actualEndTime=None | effective=2026-03-20 03:00:32+00:00 | 저는 감시당하고 있습니다
+   - sfPiMF2Wp4g | ongoing=False | publishedAt=2026-03-20T00:25:25Z | actualEndTime=2026-03-20T00:17:28Z | effective=2026-03-20 00:17:28+00:00 | 마이크론 목표주가 675...? 그럼 삼성전자, 하이닉스는!?ㅣ이스라엘, 전쟁 빨리 끝날 것! (트럼프한테 
+   - EkrIgO-TTpo | ongoing=False | publishedAt=2026-03-19T07:00:19Z | actualEndTime=None | effective=2026-03-19 07:00:19+00:00 | 유가 상승의 진짜 문제, 바닥 가격이 달라졌다
    - sZSzf0yNx_k | ongoing=False | publishedAt=2026-03-19T03:01:04Z | actualEndTime=None | effective=2026-03-19 03:01:04+00:00 | 3개월마다 돈이 복사가 되는 주식 투자 치트키
    - 80r-H1Vy6S4 | ongoing=False | publishedAt=2026-03-19T00:23:13Z | actualEndTime=2026-03-19T00:11:10Z | effective=2026-03-19 00:11:10+00:00 | 마이크론, 미친 실적! 엄청난 가이던스!! 그런데 왜빠져!!!ㅣ이스라엘, 미국 허락받고 이란 가스설비 때림!
-   - 2aPHXfAVnGg | ongoing=False | publishedAt=2026-03-18T16:04:29Z | actualEndTime=2026-03-18T15:36:12Z | effective=2026-03-18 15:36:12+00:00 | [미국증시LIVE] 이란 가스전 공격, 트럼프는 무슨 생각인가?ㅣPPI 충격, FOMC가 갑자기 두려운 이유
-   - dfWLhgFacPs | ongoing=False | publishedAt=2026-03-18T03:00:45Z | actualEndTime=None | effective=2026-03-18 03:00:45+00:00 | 세가지만 알고 투자합시다
-   - P2G58Or-zmM | ongoing=False | publishedAt=2026-03-18T00:12:23Z | actualEndTime=2026-03-18T00:08:33Z | effective=2026-03-18 00:08:33+00:00 | 마이크론 신고가!! 반도체 기대감 MAX!!ㅣ엔비디아, 1년 기다려야 하는 이유ㅣ삐진 트럼프, 공격받는 UA
-   - rrt6DIj8ViE | ongoing=False | publishedAt=2026-03-17T07:00:49Z | actualEndTime=None | effective=2026-03-17 07:00:49+00:00 | 제발 부탁입니다, 레버리지 좀 하지마!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - VD_iaxM5vSc | ongoing=False | publishedAt=2026-03-17T19:39:26Z | actualEndTime=None | effective=2026-03-17 19:39:26+00:00 | AI 버블 논란이 무의미한 진짜 이유
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 8NWdGpym8Ws | ongoing=False | publishedAt=2026-03-17T09:54:39Z | actualEndTime=None | effective=2026-03-17 09:54:39+00:00 | AI투자 → 대량 해고 쓰나미 시작? 최악의 시나리오 현실화될까
+  비고: 최근 48시간 검색 결과 없음
