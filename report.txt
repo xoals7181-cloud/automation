@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-22 12:34 (KST)
-Run: 95 (id=23394893832)
+생성 시각: 2026-03-23 12:39 (KST)
+Run: 96 (id=23420382731)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,51 +8,50 @@ Run: 95 (id=23394893832)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: New York Knicks Legend John Starks on March Madness, Knicks Playoff Push
-  URL: https://www.youtube.com/watch?v=TwRrS919yyk
-  publishedAt: 2026-03-21T21:02:13Z
+  제목: This Weekend | Strait of Hormuz Ultimatum, ICE Agents at Airports, More on Iran
+  URL: https://www.youtube.com/watch?v=5TBEVzuuJPk
+  publishedAt: 2026-03-22T16:13:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - TwRrS919yyk | ongoing=False | publishedAt=2026-03-21T21:02:13Z | actualEndTime=None | effective=2026-03-21 21:02:13+00:00 | New York Knicks Legend John Starks on March Madness, Knicks 
-   - VIrq14B1Rhg | ongoing=False | publishedAt=2026-03-21T17:00:42Z | actualEndTime=None | effective=2026-03-21 17:00:42+00:00 | Is AI actually coming for your job? #shorts #ai #jobs
-   - 8wB9Opiobu4 | ongoing=False | publishedAt=2026-03-21T16:28:36Z | actualEndTime=None | effective=2026-03-21 16:28:36+00:00 | This Weekend | Trump Considers “Winding Down War”, US Pauses
-   - 6-rT6GR1hO4 | ongoing=False | publishedAt=2026-03-21T14:23:21Z | actualEndTime=None | effective=2026-03-21 14:23:21+00:00 | Pointed News Quiz | Diplomacy, Bankruptcies, Oscars
-   - mR_Nlm04yJE | ongoing=False | publishedAt=2026-03-21T14:12:33Z | actualEndTime=None | effective=2026-03-21 14:12:33+00:00 | DHS Shutdown Leads to Travel Chaos at US Airports
-   - ngkGwl9W0Kk | ongoing=False | publishedAt=2026-03-21T14:01:36Z | actualEndTime=None | effective=2026-03-21 14:01:36+00:00 | Will a "Gucci" Strategy Help Trump Win in Iran
-   - EGskcTRnLJ0 | ongoing=False | publishedAt=2026-03-21T14:00:20Z | actualEndTime=None | effective=2026-03-21 14:00:20+00:00 | Why AI Might Not Replace Your Job After All
-   - 5fFZ36EhtpU | ongoing=False | publishedAt=2026-03-21T14:00:08Z | actualEndTime=None | effective=2026-03-21 14:00:08+00:00 | Fed contends with Iran War uncertainty #shorts #fed #politic
-   - Q-grQJVbGfM | ongoing=False | publishedAt=2026-03-21T13:57:19Z | actualEndTime=None | effective=2026-03-21 13:57:19+00:00 | The Best Retirement Is No Retirement at All
-   - kz8QsUEH31M | ongoing=False | publishedAt=2026-03-21T13:54:53Z | actualEndTime=None | effective=2026-03-21 13:54:53+00:00 | Weeks of War Are Reshaping Global Gas Markets
+   - 5TBEVzuuJPk | ongoing=False | publishedAt=2026-03-22T16:13:41Z | actualEndTime=None | effective=2026-03-22 16:13:41+00:00 | This Weekend | Strait of Hormuz Ultimatum, ICE Agents at Air
+   - sQyl518uR_Q | ongoing=False | publishedAt=2026-03-22T14:09:39Z | actualEndTime=None | effective=2026-03-22 14:09:39+00:00 | Ian Bremmer says Iran War's Not "Priced into the Markets" Ye
+   - 78EficVYXaw | ongoing=False | publishedAt=2026-03-22T14:00:08Z | actualEndTime=None | effective=2026-03-22 14:00:08+00:00 | Why Australia’s Social Media Restrictions are Dividing Opini
+   - XIEYc2RJtdY | ongoing=False | publishedAt=2026-03-22T14:00:51Z | actualEndTime=None | effective=2026-03-22 14:00:51+00:00 | How Trump’s tariffs are changing the US-Canada relationship 
+   - lxUD9F3pdDs | ongoing=False | publishedAt=2026-03-22T13:54:25Z | actualEndTime=None | effective=2026-03-22 13:54:25+00:00 | Rep. Greg Steube Says: I Don't Want to See Our Troops on the
+   - Ld2POEr2lsE | ongoing=False | publishedAt=2026-03-22T13:38:00Z | actualEndTime=None | effective=2026-03-22 13:38:00+00:00 | How AI's Revolution Could Mirror the Industrial Revolution
+   - oL3hiqzUg4U | ongoing=False | publishedAt=2026-03-22T13:34:39Z | actualEndTime=None | effective=2026-03-22 13:34:39+00:00 | Poilievre says Oil is Canada's "Leverage" to Sway Trump
+   - Mh7HkgfOjXo | ongoing=False | publishedAt=2026-03-22T13:33:33Z | actualEndTime=None | effective=2026-03-22 13:33:33+00:00 | Rep. Ivey Says: Let's Have a War Powers Act Debate
+   - rLioOZzwuho | ongoing=False | publishedAt=2026-03-22T13:13:54Z | actualEndTime=None | effective=2026-03-22 13:13:54+00:00 | Israeli Amb. Leiter Says: We Want Peace With Lebanon
+   - jrhd7af1BsQ | ongoing=False | publishedAt=2026-03-22T13:06:52Z | actualEndTime=None | effective=2026-03-22 13:06:52+00:00 | Alex Rodriguez: "Right Now" Time to Invest in Baseball
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: CRAP: 24 Hours LEFT.
+  URL: https://www.youtube.com/watch?v=EGNXDq55z5k
+  publishedAt: 2026-03-22T18:57:08Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 1l8v2ldLseo | ongoing=False | publishedAt=2026-03-21T00:47:14Z | actualEndTime=None | effective=2026-03-21 00:47:14+00:00 | Trump FLIP FLOPS on Iran
-   - eloNPwFz8io | ongoing=False | publishedAt=2026-03-20T15:34:26Z | actualEndTime=None | effective=2026-03-20 15:34:26+00:00 | DOUBLE Fed Rate Hikes as Trump sends MORE TROOPS!
-   - bKQMBNGaFiM | ongoing=False | publishedAt=2026-03-20T15:31:33Z | actualEndTime=2026-03-20T15:26:43Z | effective=2026-03-20 15:26:43+00:00 | Stock Market Falls
+   - EGNXDq55z5k | ongoing=False | publishedAt=2026-03-22T18:57:08Z | actualEndTime=None | effective=2026-03-22 18:57:08+00:00 | CRAP: 24 Hours LEFT.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - CyBagX-c0A0 | ongoing=False | publishedAt=2026-03-20T22:20:00Z | actualEndTime=None | effective=2026-03-20 22:20:00+00:00 | 【미국 증시 오늘의 요약】 전쟁 공포로 하락한 시장… 그런데 마지막에 바뀌었다?    -  2026/03/2
-   - MlkwKl6L-hc | ongoing=False | publishedAt=2026-03-20T21:51:28Z | actualEndTime=2026-03-20T21:31:11Z | effective=2026-03-20 21:31:11+00:00 | [26년 03월 20일 금]  슈퍼마이크로 임직원, 수출 통제 위반으로 기소 ｜ 약 5.7억 달러 옵션 만기
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 48시간 데드라인 통보한 트럼프 vs 때리면 돌려주겠다는 이란ㅣ머스크, 삼성전자와 같은 반도체 회사 만들 것ㅣ[아침뉴스&미국시황] #260323
+  URL: https://www.youtube.com/watch?v=pQyTnUr-dyI
+  publishedAt: 2026-03-23T00:13:38Z
+  actualEndTime: 2026-03-23T00:05:43Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - pQyTnUr-dyI | ongoing=False | publishedAt=2026-03-23T00:13:38Z | actualEndTime=2026-03-23T00:05:43Z | effective=2026-03-23 00:05:43+00:00 | 48시간 데드라인 통보한 트럼프 vs 때리면 돌려주겠다는 이란ㅣ머스크, 삼성전자와 같은 반도체 회사 만들 것
+   - al9wo1tWXgA | ongoing=False | publishedAt=2026-03-22T07:00:01Z | actualEndTime=None | effective=2026-03-22 07:00:01+00:00 | 삼전/하닉의 배당 미스터리! 순이익은 늘었는데 내 몫은 그대로?
    - qaC9MW9wTWM | ongoing=False | publishedAt=2026-03-21T07:00:49Z | actualEndTime=None | effective=2026-03-21 07:00:49+00:00 | 끝나가는 GPU 시대, LPU 시대의 투자 포인트는?
-   - RKg4hfFFfUk | ongoing=False | publishedAt=2026-03-21T03:00:34Z | actualEndTime=None | effective=2026-03-21 03:00:34+00:00 | 이것만 설정해도 투자 성공률이 올라갑니다
-   - HSHubhF63_k | ongoing=False | publishedAt=2026-03-20T16:30:34Z | actualEndTime=2026-03-20T16:22:45Z | effective=2026-03-20 16:22:45+00:00 | [미국증시 LIVE] 세마녀의 날, 다음주 박살나니??ㅣ#260320
-   - u6AcSBg1N7U | ongoing=False | publishedAt=2026-03-20T07:00:47Z | actualEndTime=None | effective=2026-03-20 07:00:47+00:00 | 월요일만 되면 벌어지는 갭상승/갭하락의 비밀!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - I4UN2EumcgE | ongoing=False | publishedAt=2026-03-20T17:17:02Z | actualEndTime=None | effective=2026-03-20 17:17:02+00:00 | 전쟁 격화로 유가 상승, 나스닥 침몰
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
