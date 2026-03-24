@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-23 12:39 (KST)
-Run: 96 (id=23420382731)
+생성 시각: 2026-03-24 12:30 (KST)
+Run: 97 (id=23471718905)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,51 +8,67 @@ Run: 96 (id=23420382731)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: This Weekend | Strait of Hormuz Ultimatum, ICE Agents at Airports, More on Iran
-  URL: https://www.youtube.com/watch?v=5TBEVzuuJPk
-  publishedAt: 2026-03-22T16:13:41Z
+  제목: US, Iran at Odds Over Whether Truce Talks Are Happening | Balance of Power 03/23/26
+  URL: https://www.youtube.com/watch?v=kNDO0Eu4Zh4
+  publishedAt: 2026-03-23T23:51:15Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 5TBEVzuuJPk | ongoing=False | publishedAt=2026-03-22T16:13:41Z | actualEndTime=None | effective=2026-03-22 16:13:41+00:00 | This Weekend | Strait of Hormuz Ultimatum, ICE Agents at Air
-   - sQyl518uR_Q | ongoing=False | publishedAt=2026-03-22T14:09:39Z | actualEndTime=None | effective=2026-03-22 14:09:39+00:00 | Ian Bremmer says Iran War's Not "Priced into the Markets" Ye
-   - 78EficVYXaw | ongoing=False | publishedAt=2026-03-22T14:00:08Z | actualEndTime=None | effective=2026-03-22 14:00:08+00:00 | Why Australia’s Social Media Restrictions are Dividing Opini
-   - XIEYc2RJtdY | ongoing=False | publishedAt=2026-03-22T14:00:51Z | actualEndTime=None | effective=2026-03-22 14:00:51+00:00 | How Trump’s tariffs are changing the US-Canada relationship 
-   - lxUD9F3pdDs | ongoing=False | publishedAt=2026-03-22T13:54:25Z | actualEndTime=None | effective=2026-03-22 13:54:25+00:00 | Rep. Greg Steube Says: I Don't Want to See Our Troops on the
-   - Ld2POEr2lsE | ongoing=False | publishedAt=2026-03-22T13:38:00Z | actualEndTime=None | effective=2026-03-22 13:38:00+00:00 | How AI's Revolution Could Mirror the Industrial Revolution
-   - oL3hiqzUg4U | ongoing=False | publishedAt=2026-03-22T13:34:39Z | actualEndTime=None | effective=2026-03-22 13:34:39+00:00 | Poilievre says Oil is Canada's "Leverage" to Sway Trump
-   - Mh7HkgfOjXo | ongoing=False | publishedAt=2026-03-22T13:33:33Z | actualEndTime=None | effective=2026-03-22 13:33:33+00:00 | Rep. Ivey Says: Let's Have a War Powers Act Debate
-   - rLioOZzwuho | ongoing=False | publishedAt=2026-03-22T13:13:54Z | actualEndTime=None | effective=2026-03-22 13:13:54+00:00 | Israeli Amb. Leiter Says: We Want Peace With Lebanon
-   - jrhd7af1BsQ | ongoing=False | publishedAt=2026-03-22T13:06:52Z | actualEndTime=None | effective=2026-03-22 13:06:52+00:00 | Alex Rodriguez: "Right Now" Time to Invest in Baseball
+   - kNDO0Eu4Zh4 | ongoing=False | publishedAt=2026-03-23T23:51:15Z | actualEndTime=None | effective=2026-03-23 23:51:15+00:00 | US, Iran at Odds Over Whether Truce Talks Are Happening | Ba
+   - iTZtEmTlMsg | ongoing=False | publishedAt=2026-03-23T22:44:36Z | actualEndTime=None | effective=2026-03-23 22:44:36+00:00 | Chevron CEO: Oil markets are "uncertain, volatile" #shorts #
+   - vQYmBx66974 | ongoing=False | publishedAt=2026-03-23T22:29:50Z | actualEndTime=None | effective=2026-03-23 22:29:50+00:00 | NextEra CEO John Ketchum on Energy Demand, AI Power Needs at
+   - 15-MwAxLce8 | ongoing=False | publishedAt=2026-03-23T22:19:41Z | actualEndTime=None | effective=2026-03-23 22:19:41+00:00 | Stocks Rise, Oil Falls as Trump Eases Iran Threats | The Clo
+   - 3qt651z_XJU | ongoing=False | publishedAt=2026-03-23T21:33:44Z | actualEndTime=None | effective=2026-03-23 21:33:44+00:00 | Financial Anxiety Hits Markets | ETF IQ 3/23/2026
+   - F96ow-rytek | ongoing=False | publishedAt=2026-03-23T20:49:13Z | actualEndTime=None | effective=2026-03-23 20:49:13+00:00 | The Architect Behind Some of the World’s Boldest Buildings
+   - FDY2qtLq2Yg | ongoing=False | publishedAt=2026-03-23T20:40:57Z | actualEndTime=None | effective=2026-03-23 20:40:57+00:00 | US Ambassador to the EU: Europe should get involved in the I
+   - TDq_pQXKPgE | ongoing=False | publishedAt=2026-03-23T20:26:44Z | actualEndTime=None | effective=2026-03-23 20:26:44+00:00 | Greece Energy Minister on country’s first offshore drilling 
+   - 56ODeVkEwQ0 | ongoing=False | publishedAt=2026-03-23T20:23:32Z | actualEndTime=None | effective=2026-03-23 20:23:32+00:00 | Major Averages Cool Off Ahead of Close, Hold Gains | Closing
+   - lHeKP5ysNrg | ongoing=False | publishedAt=2026-03-23T20:20:15Z | actualEndTime=None | effective=2026-03-23 20:20:15+00:00 | Stocks Higher as Trump Backs Off Iran Threats | Bloomberg Bu
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: CRAP: 24 Hours LEFT.
-  URL: https://www.youtube.com/watch?v=EGNXDq55z5k
-  publishedAt: 2026-03-22T18:57:08Z
+  제목: Ground Troops & World War 3: BAD Iran News & More JOINING
+  URL: https://www.youtube.com/watch?v=80DvbccRlWg
+  publishedAt: 2026-03-24T02:45:48Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 80DvbccRlWg | ongoing=False | publishedAt=2026-03-24T02:45:48Z | actualEndTime=None | effective=2026-03-24 02:45:48+00:00 | Ground Troops & World War 3: BAD Iran News & More JOINING
+   - H7OVf_niJaU | ongoing=False | publishedAt=2026-03-23T20:37:41Z | actualEndTime=None | effective=2026-03-23 20:37:41+00:00 | Deadly Plane Crash vs Firetruck Laguardia Airport | Air Cana
+   - t2JG6YypI8o | ongoing=False | publishedAt=2026-03-23T12:59:06Z | actualEndTime=None | effective=2026-03-23 12:59:06+00:00 | HOLY TACO!!! Trump TACOs on Iran!!
    - EGNXDq55z5k | ongoing=False | publishedAt=2026-03-22T18:57:08Z | actualEndTime=None | effective=2026-03-22 18:57:08+00:00 | CRAP: 24 Hours LEFT.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 트럼프 "이란과 대화" vs 이란 "사실무근"… 진실공방 속 미 증시 일제히 반등    -  2026/03/23
+  URL: https://www.youtube.com/watch?v=GYWEf9D4VFs
+  publishedAt: 2026-03-23T22:00:17Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - GYWEf9D4VFs | ongoing=False | publishedAt=2026-03-23T22:00:17Z | actualEndTime=None | effective=2026-03-23 22:00:17+00:00 | 【미국 증시 오늘의 요약】 트럼프 "이란과 대화" vs 이란 "사실무근"… 진실공방 속 미 증시 일제히 반등
+   - rtHZC2VNDzE | ongoing=False | publishedAt=2026-03-23T21:20:41Z | actualEndTime=2026-03-23T21:01:20Z | effective=2026-03-23 21:01:20+00:00 | [26년 03월 23일 월]  트럼프, "미국-이란 협상 진전.. 이란 군사 타격 5일 유예" ｜ 페니메이·
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 48시간 데드라인 통보한 트럼프 vs 때리면 돌려주겠다는 이란ㅣ머스크, 삼성전자와 같은 반도체 회사 만들 것ㅣ[아침뉴스&미국시황] #260323
-  URL: https://www.youtube.com/watch?v=pQyTnUr-dyI
-  publishedAt: 2026-03-23T00:13:38Z
-  actualEndTime: 2026-03-23T00:05:43Z
+  제목: SK하이닉스 ADR, 이정도면 쪽팔린게 맞습니다
+  URL: https://www.youtube.com/watch?v=1QXjm0jTUM4
+  publishedAt: 2026-03-24T03:00:02Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 1QXjm0jTUM4 | ongoing=False | publishedAt=2026-03-24T03:00:02Z | actualEndTime=None | effective=2026-03-24 03:00:02+00:00 | SK하이닉스 ADR, 이정도면 쪽팔린게 맞습니다
+   - fOv3SrqAtyc | ongoing=False | publishedAt=2026-03-24T00:34:44Z | actualEndTime=2026-03-24T00:27:02Z | effective=2026-03-24 00:27:02+00:00 | TACO가 떴는데 마이크론은 왜 오르질 못하니...!!!ㅣ[아침뉴스&미국시황] #260324
    - pQyTnUr-dyI | ongoing=False | publishedAt=2026-03-23T00:13:38Z | actualEndTime=2026-03-23T00:05:43Z | effective=2026-03-23 00:05:43+00:00 | 48시간 데드라인 통보한 트럼프 vs 때리면 돌려주겠다는 이란ㅣ머스크, 삼성전자와 같은 반도체 회사 만들 것
    - al9wo1tWXgA | ongoing=False | publishedAt=2026-03-22T07:00:01Z | actualEndTime=None | effective=2026-03-22 07:00:01+00:00 | 삼전/하닉의 배당 미스터리! 순이익은 늘었는데 내 몫은 그대로?
-   - qaC9MW9wTWM | ongoing=False | publishedAt=2026-03-21T07:00:49Z | actualEndTime=None | effective=2026-03-21 07:00:49+00:00 | 끝나가는 GPU 시대, LPU 시대의 투자 포인트는?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 증시의 진짜 문제는 트럼프가 아닙니다.
+  URL: https://www.youtube.com/watch?v=627dneYdUlc
+  publishedAt: 2026-03-23T16:36:39Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 627dneYdUlc | ongoing=False | publishedAt=2026-03-23T16:36:39Z | actualEndTime=None | effective=2026-03-23 16:36:39+00:00 | 증시의 진짜 문제는 트럼프가 아닙니다.
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - vCr2XRcOo7Y | ongoing=False | publishedAt=2026-03-23T11:08:41Z | actualEndTime=None | effective=2026-03-23 11:08:41+00:00 | 환율 1500원 돌파는 전조 신호? 전쟁 충격, 실물 경제 위기까지 번질까
