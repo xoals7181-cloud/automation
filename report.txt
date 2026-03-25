@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-24 12:30 (KST)
-Run: 97 (id=23471718905)
+생성 시각: 2026-03-25 12:33 (KST)
+Run: 98 (id=23523591462)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,73 @@ Run: 97 (id=23471718905)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US, Iran at Odds Over Whether Truce Talks Are Happening | Balance of Power 03/23/26
-  URL: https://www.youtube.com/watch?v=kNDO0Eu4Zh4
-  publishedAt: 2026-03-23T23:51:15Z
+  제목: US Sent Iran Plan to End Conflict: Reports  | Balance of Power 03/24/26
+  URL: https://www.youtube.com/watch?v=oZWNOW2sbLY
+  publishedAt: 2026-03-25T00:19:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - kNDO0Eu4Zh4 | ongoing=False | publishedAt=2026-03-23T23:51:15Z | actualEndTime=None | effective=2026-03-23 23:51:15+00:00 | US, Iran at Odds Over Whether Truce Talks Are Happening | Ba
-   - iTZtEmTlMsg | ongoing=False | publishedAt=2026-03-23T22:44:36Z | actualEndTime=None | effective=2026-03-23 22:44:36+00:00 | Chevron CEO: Oil markets are "uncertain, volatile" #shorts #
-   - vQYmBx66974 | ongoing=False | publishedAt=2026-03-23T22:29:50Z | actualEndTime=None | effective=2026-03-23 22:29:50+00:00 | NextEra CEO John Ketchum on Energy Demand, AI Power Needs at
-   - 15-MwAxLce8 | ongoing=False | publishedAt=2026-03-23T22:19:41Z | actualEndTime=None | effective=2026-03-23 22:19:41+00:00 | Stocks Rise, Oil Falls as Trump Eases Iran Threats | The Clo
-   - 3qt651z_XJU | ongoing=False | publishedAt=2026-03-23T21:33:44Z | actualEndTime=None | effective=2026-03-23 21:33:44+00:00 | Financial Anxiety Hits Markets | ETF IQ 3/23/2026
-   - F96ow-rytek | ongoing=False | publishedAt=2026-03-23T20:49:13Z | actualEndTime=None | effective=2026-03-23 20:49:13+00:00 | The Architect Behind Some of the World’s Boldest Buildings
-   - FDY2qtLq2Yg | ongoing=False | publishedAt=2026-03-23T20:40:57Z | actualEndTime=None | effective=2026-03-23 20:40:57+00:00 | US Ambassador to the EU: Europe should get involved in the I
-   - TDq_pQXKPgE | ongoing=False | publishedAt=2026-03-23T20:26:44Z | actualEndTime=None | effective=2026-03-23 20:26:44+00:00 | Greece Energy Minister on country’s first offshore drilling 
-   - 56ODeVkEwQ0 | ongoing=False | publishedAt=2026-03-23T20:23:32Z | actualEndTime=None | effective=2026-03-23 20:23:32+00:00 | Major Averages Cool Off Ahead of Close, Hold Gains | Closing
-   - lHeKP5ysNrg | ongoing=False | publishedAt=2026-03-23T20:20:15Z | actualEndTime=None | effective=2026-03-23 20:20:15+00:00 | Stocks Higher as Trump Backs Off Iran Threats | Bloomberg Bu
+   - oZWNOW2sbLY | ongoing=False | publishedAt=2026-03-25T00:19:18Z | actualEndTime=None | effective=2026-03-25 00:19:18+00:00 | US Sent Iran Plan to End Conflict: Reports  | Balance of Pow
+   - PG8vyX58WeM | ongoing=False | publishedAt=2026-03-24T23:04:15Z | actualEndTime=None | effective=2026-03-24 23:04:15+00:00 | NASA’s Isaacman says agency confident it has funds for moon 
+   - LdLptddQTvg | ongoing=False | publishedAt=2026-03-24T22:42:29Z | actualEndTime=None | effective=2026-03-24 22:42:29+00:00 | Enbridge CEO says he’s open to new Canadian west coast oil p
+   - m0yoI1Chqq4 | ongoing=False | publishedAt=2026-03-24T22:26:08Z | actualEndTime=None | effective=2026-03-24 22:26:08+00:00 | Stocks Bounce From Lows on Hopes for US-Iran Talks | The Clo
+   - wvIPKJAgiI0 | ongoing=False | publishedAt=2026-03-24T21:04:30Z | actualEndTime=None | effective=2026-03-24 21:04:30+00:00 | Anduril begins making uncrewed fighters in Ohio factory #and
+   - lhJ8qfBCD6M | ongoing=False | publishedAt=2026-03-24T20:47:12Z | actualEndTime=None | effective=2026-03-24 20:47:12+00:00 | Iran Gave the US a 'Present,' Trump Says
+   - uq625GPUVqg | ongoing=False | publishedAt=2026-03-24T20:48:15Z | actualEndTime=None | effective=2026-03-24 20:48:15+00:00 | Palantir CTO sees Iran War as first major AI-driven conflict
+   - -Z_InNRfrcU | ongoing=False | publishedAt=2026-03-24T20:36:13Z | actualEndTime=None | effective=2026-03-24 20:36:13+00:00 | Microsoft President: AI guardrails are needed to protect kid
+   - rhNPaph1T1A | ongoing=False | publishedAt=2026-03-24T20:27:46Z | actualEndTime=None | effective=2026-03-24 20:27:46+00:00 | Stocks Bounce From Lows on Hopes for US-Iran Talks | Bloombe
+   - M-TYB-IYb-U | ongoing=False | publishedAt=2026-03-24T20:26:14Z | actualEndTime=None | effective=2026-03-24 20:26:14+00:00 | S&P Closes Below 200-Day Moving Average | Closing Bell
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Ground Troops & World War 3: BAD Iran News & More JOINING
-  URL: https://www.youtube.com/watch?v=80DvbccRlWg
-  publishedAt: 2026-03-24T02:45:48Z
+  제목: What Trump JUST Said about Iran! YIKES
+  URL: https://www.youtube.com/watch?v=686zSFqjfgI
+  publishedAt: 2026-03-24T19:23:15Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 686zSFqjfgI | ongoing=False | publishedAt=2026-03-24T19:23:15Z | actualEndTime=None | effective=2026-03-24 19:23:15+00:00 | What Trump JUST Said about Iran! YIKES
    - 80DvbccRlWg | ongoing=False | publishedAt=2026-03-24T02:45:48Z | actualEndTime=None | effective=2026-03-24 02:45:48+00:00 | Ground Troops & World War 3: BAD Iran News & More JOINING
    - H7OVf_niJaU | ongoing=False | publishedAt=2026-03-23T20:37:41Z | actualEndTime=None | effective=2026-03-23 20:37:41+00:00 | Deadly Plane Crash vs Firetruck Laguardia Airport | Air Cana
    - t2JG6YypI8o | ongoing=False | publishedAt=2026-03-23T12:59:06Z | actualEndTime=None | effective=2026-03-23 12:59:06+00:00 | HOLY TACO!!! Trump TACOs on Iran!!
-   - EGNXDq55z5k | ongoing=False | publishedAt=2026-03-22T18:57:08Z | actualEndTime=None | effective=2026-03-22 18:57:08+00:00 | CRAP: 24 Hours LEFT.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 트럼프 "이란과 대화" vs 이란 "사실무근"… 진실공방 속 미 증시 일제히 반등    -  2026/03/23
-  URL: https://www.youtube.com/watch?v=GYWEf9D4VFs
-  publishedAt: 2026-03-23T22:00:17Z
+  제목: 【미국 증시 오늘의 요약】 이란 휴전 협상 급물살? 트럼프 "이란이 선물 제안"    -  2026/03/24
+  URL: https://www.youtube.com/watch?v=2c2chFwrKY4
+  publishedAt: 2026-03-24T22:30:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2c2chFwrKY4 | ongoing=False | publishedAt=2026-03-24T22:30:00Z | actualEndTime=None | effective=2026-03-24 22:30:00+00:00 | 【미국 증시 오늘의 요약】 이란 휴전 협상 급물살? 트럼프 "이란이 선물 제안"    -  2026/03/2
+   - CMd0iBfY42M | ongoing=False | publishedAt=2026-03-24T22:05:00Z | actualEndTime=2026-03-24T21:45:22Z | effective=2026-03-24 21:45:22+00:00 | [26년 03월 24일 화]  트럼프 발표에도 중동 리스크 지속... ｜ 아폴로, 환매 요청 급증에 환매 제
    - GYWEf9D4VFs | ongoing=False | publishedAt=2026-03-23T22:00:17Z | actualEndTime=None | effective=2026-03-23 22:00:17+00:00 | 【미국 증시 오늘의 요약】 트럼프 "이란과 대화" vs 이란 "사실무근"… 진실공방 속 미 증시 일제히 반등
    - rtHZC2VNDzE | ongoing=False | publishedAt=2026-03-23T21:20:41Z | actualEndTime=2026-03-23T21:01:20Z | effective=2026-03-23 21:01:20+00:00 | [26년 03월 23일 월]  트럼프, "미국-이란 협상 진전.. 이란 군사 타격 5일 유예" ｜ 페니메이·
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: SK하이닉스 ADR, 이정도면 쪽팔린게 맞습니다
-  URL: https://www.youtube.com/watch?v=1QXjm0jTUM4
-  publishedAt: 2026-03-24T03:00:02Z
+  제목: 연 이자 17.5%, Chat-GPT 이대로 괜찮을까??
+  URL: https://www.youtube.com/watch?v=3xBuxDKPuqo
+  publishedAt: 2026-03-25T03:00:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 3xBuxDKPuqo | ongoing=False | publishedAt=2026-03-25T03:00:06Z | actualEndTime=None | effective=2026-03-25 03:00:06+00:00 | 연 이자 17.5%, Chat-GPT 이대로 괜찮을까??
+   - aE6RTlBhsLc | ongoing=False | publishedAt=2026-03-25T00:37:20Z | actualEndTime=2026-03-25T00:25:45Z | effective=2026-03-25 00:25:45+00:00 | 핵포기, 군사력제한 = 1달휴전, 제재해제ㅣ네타냐후: ?????????????ㅣOpenAI와 The Info
+   - 5Q2YjzQSQP4 | ongoing=False | publishedAt=2026-03-24T16:09:11Z | actualEndTime=2026-03-24T15:50:41Z | effective=2026-03-24 15:50:41+00:00 | [미국증시 LIVE] 전쟁 안한다며? 전쟁 안한다며!!!ㅣ#260324
+   - 3Nd5xfhTZpk | ongoing=False | publishedAt=2026-03-24T07:00:03Z | actualEndTime=None | effective=2026-03-24 07:00:03+00:00 | 시장을 움직이는 만기일의 비밀
    - 1QXjm0jTUM4 | ongoing=False | publishedAt=2026-03-24T03:00:02Z | actualEndTime=None | effective=2026-03-24 03:00:02+00:00 | SK하이닉스 ADR, 이정도면 쪽팔린게 맞습니다
    - fOv3SrqAtyc | ongoing=False | publishedAt=2026-03-24T00:34:44Z | actualEndTime=2026-03-24T00:27:02Z | effective=2026-03-24 00:27:02+00:00 | TACO가 떴는데 마이크론은 왜 오르질 못하니...!!!ㅣ[아침뉴스&미국시황] #260324
-   - pQyTnUr-dyI | ongoing=False | publishedAt=2026-03-23T00:13:38Z | actualEndTime=2026-03-23T00:05:43Z | effective=2026-03-23 00:05:43+00:00 | 48시간 데드라인 통보한 트럼프 vs 때리면 돌려주겠다는 이란ㅣ머스크, 삼성전자와 같은 반도체 회사 만들 것
-   - al9wo1tWXgA | ongoing=False | publishedAt=2026-03-22T07:00:01Z | actualEndTime=None | effective=2026-03-22 07:00:01+00:00 | 삼전/하닉의 배당 미스터리! 순이익은 늘었는데 내 몫은 그대로?
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 증시의 진짜 문제는 트럼프가 아닙니다.
-  URL: https://www.youtube.com/watch?v=627dneYdUlc
-  publishedAt: 2026-03-23T16:36:39Z
+  제목: 미군 지상군 3000명 투입 초읽기 ㄷㄷㄷ
+  URL: https://www.youtube.com/watch?v=Ie1ti2Ln2hk
+  publishedAt: 2026-03-24T18:18:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Ie1ti2Ln2hk | ongoing=False | publishedAt=2026-03-24T18:18:13Z | actualEndTime=None | effective=2026-03-24 18:18:13+00:00 | 미군 지상군 3000명 투입 초읽기 ㄷㄷㄷ
    - 627dneYdUlc | ongoing=False | publishedAt=2026-03-23T16:36:39Z | actualEndTime=None | effective=2026-03-23 16:36:39+00:00 | 증시의 진짜 문제는 트럼프가 아닙니다.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - Mj9BKoYoTmo | ongoing=False | publishedAt=2026-03-24T09:29:55Z | actualEndTime=None | effective=2026-03-24 09:29:55+00:00 | 알아서 돈 벌어오는 AI에이전트 시대 개막, 젠슨황 충격 전망의 수혜주들
    - vCr2XRcOo7Y | ongoing=False | publishedAt=2026-03-23T11:08:41Z | actualEndTime=None | effective=2026-03-23 11:08:41+00:00 | 환율 1500원 돌파는 전조 신호? 전쟁 충격, 실물 경제 위기까지 번질까
