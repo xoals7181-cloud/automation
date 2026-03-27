@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-26 12:43 (KST)
-Run: 99 (id=23576409879)
+생성 시각: 2026-03-27 12:45 (KST)
+Run: 100 (id=23630116555)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,69 @@ Run: 99 (id=23576409879)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Faces Fresh Iran Demands in Bid to Jump-Start Talks | Balance of Power 03/25/026
-  URL: https://www.youtube.com/watch?v=598OLd82KB4
-  publishedAt: 2026-03-25T23:50:42Z
+  제목: Stock Selloff Extends As Iran Conflict Drags On | The Asia Trade 3/27/2026
+  URL: https://www.youtube.com/watch?v=1BbpFLKspAM
+  publishedAt: 2026-03-27T03:34:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 598OLd82KB4 | ongoing=False | publishedAt=2026-03-25T23:50:42Z | actualEndTime=None | effective=2026-03-25 23:50:42+00:00 | Trump Faces Fresh Iran Demands in Bid to Jump-Start Talks | 
-   - LcCaqelrzoc | ongoing=False | publishedAt=2026-03-25T23:39:47Z | actualEndTime=None | effective=2026-03-25 23:39:47+00:00 | Iran still has fighting capabilites, says expert #shorts #ir
-   - QELmSn0s4qc | ongoing=False | publishedAt=2026-03-25T23:06:28Z | actualEndTime=None | effective=2026-03-25 23:06:28+00:00 | Lloyd Blankfein on Private Equity, Trump, and Next Global Re
-   - Db97uHdVKWQ | ongoing=False | publishedAt=2026-03-25T23:00:14Z | actualEndTime=None | effective=2026-03-25 23:00:14+00:00 | Iran War Risks Jet Fuel Shortage in Philippines, Threatens F
-   - kLM_Ja8-onw | ongoing=False | publishedAt=2026-03-25T22:15:42Z | actualEndTime=None | effective=2026-03-25 22:15:42+00:00 | Truce Prospects Lift Stocks | The Close 3/25/2026
-   - i6YzDQTlEJ4 | ongoing=False | publishedAt=2026-03-25T21:41:19Z | actualEndTime=None | effective=2026-03-25 21:41:19+00:00 | BlackRock's Rieder Renews Call for Rate Cuts
-   - BOZmrj5z1bI | ongoing=False | publishedAt=2026-03-25T20:54:06Z | actualEndTime=None | effective=2026-03-25 20:54:06+00:00 | Pimco’s Clarida Says ‘Bar Is High’ for a Fed Rate Hike
-   - ku-05Lrn9PE | ongoing=False | publishedAt=2026-03-25T20:49:21Z | actualEndTime=None | effective=2026-03-25 20:49:21+00:00 | Meta, Google Found Liable in Social Media Addiction Case
-   - CuuJofkEqcA | ongoing=False | publishedAt=2026-03-25T20:50:55Z | actualEndTime=None | effective=2026-03-25 20:50:55+00:00 | Stocks Rise, Oil Falls as Truce Prospects Weighed
-   - s6pKfrTRx74 | ongoing=False | publishedAt=2026-03-25T20:48:54Z | actualEndTime=None | effective=2026-03-25 20:48:54+00:00 | White House Insists Talks Are Ongoing With Iran
+   - 1BbpFLKspAM | ongoing=False | publishedAt=2026-03-27T03:34:28Z | actualEndTime=None | effective=2026-03-27 03:34:28+00:00 | Stock Selloff Extends As Iran Conflict Drags On | The Asia T
+   - P0MRrLw1qv0 | ongoing=False | publishedAt=2026-03-27T00:00:21Z | actualEndTime=None | effective=2026-03-27 00:00:21+00:00 | Senate Vote Remains Open Amid DHS Negotiations | Balance of 
+   - D9WlnJh_JKs | ongoing=False | publishedAt=2026-03-26T23:02:17Z | actualEndTime=None | effective=2026-03-26 23:02:17+00:00 | Trump Extends Energy-Attack Ceasefire, Market Volatility, He
+   - xECtVr6qxmM | ongoing=False | publishedAt=2026-03-26T23:01:09Z | actualEndTime=None | effective=2026-03-26 23:01:09+00:00 | Why Philippines Is More Exposed to Oil Shocks in SEA
+   - WWHHhBJfsuA | ongoing=False | publishedAt=2026-03-26T22:03:47Z | actualEndTime=None | effective=2026-03-26 22:03:47+00:00 | Trump extends energy-attack ceasefire, claiming Iran request
+   - myby-_Lqi7Y | ongoing=False | publishedAt=2026-03-26T21:24:01Z | actualEndTime=None | effective=2026-03-26 21:24:01+00:00 | Stocks Selloff Amid Iran Ceasefire Doubts | The Closing Bell
+   - K7irWuB656Y | ongoing=False | publishedAt=2026-03-26T20:44:22Z | actualEndTime=None | effective=2026-03-26 20:44:22+00:00 | Trump Extends Deadline to Reach Deal With Iran
+   - HAM_vu1EG0s | ongoing=False | publishedAt=2026-03-26T20:26:08Z | actualEndTime=None | effective=2026-03-26 20:26:08+00:00 | The Prosecutor Who Fought to Indict Epstein
+   - n0AF7QsJx1w | ongoing=False | publishedAt=2026-03-26T20:25:34Z | actualEndTime=None | effective=2026-03-26 20:25:34+00:00 | Is Big Tech Facing Its Big Tobacco Moment?
+   - AIqA7ap0ozE | ongoing=False | publishedAt=2026-03-26T20:16:37Z | actualEndTime=None | effective=2026-03-26 20:16:37+00:00 | Alberta's Bid to Secede From Canada Poised to Hit October Ba
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Trump is about to "CRUSH" Iran | Major Escalation
+  URL: https://www.youtube.com/watch?v=TwVVmjkxs2Q
+  publishedAt: 2026-03-26T17:03:57Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - TwVVmjkxs2Q | ongoing=False | publishedAt=2026-03-26T17:03:57Z | actualEndTime=None | effective=2026-03-26 17:03:57+00:00 | Trump is about to "CRUSH" Iran | Major Escalation
    - R29d4scahwU | ongoing=False | publishedAt=2026-03-25T14:54:41Z | actualEndTime=2026-03-25T14:51:36Z | effective=2026-03-25 14:51:36+00:00 | Stock Market & Iran Response
-   - 686zSFqjfgI | ongoing=False | publishedAt=2026-03-24T19:23:15Z | actualEndTime=None | effective=2026-03-24 19:23:15+00:00 | What Trump JUST Said about Iran! YIKES
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 휴전 협상 진실공방 속 유가 하락·주가 상승    -  2026/03/25
-  URL: https://www.youtube.com/watch?v=YqHcMwC53wk
-  publishedAt: 2026-03-25T22:10:00Z
+  제목: 【미국 증시 오늘의 요약】 트럼프-이란 휴전 불발 우려에 증시 와르르… 유가 급등·국채금리 껑충    -  2026/03/26
+  URL: https://www.youtube.com/watch?v=fpXYIsXp_sg
+  publishedAt: 2026-03-26T23:10:51Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - fpXYIsXp_sg | ongoing=False | publishedAt=2026-03-26T23:10:51Z | actualEndTime=None | effective=2026-03-26 23:10:51+00:00 | 【미국 증시 오늘의 요약】 트럼프-이란 휴전 불발 우려에 증시 와르르… 유가 급등·국채금리 껑충    -  
+   - CGcVtUMRm8M | ongoing=False | publishedAt=2026-03-26T22:18:27Z | actualEndTime=2026-03-26T21:54:53Z | effective=2026-03-26 21:54:53+00:00 | [26년 03월 26일 목]  트럼프, '이란, 너무 늦기 전에 진지하게 임해라' ｜ 구글 '메모리 압축' 
    - YqHcMwC53wk | ongoing=False | publishedAt=2026-03-25T22:10:00Z | actualEndTime=None | effective=2026-03-25 22:10:00+00:00 | 【미국 증시 오늘의 요약】 휴전 협상 진실공방 속 유가 하락·주가 상승    -  2026/03/25
    - NoosV4noggo | ongoing=False | publishedAt=2026-03-25T21:43:16Z | actualEndTime=2026-03-25T21:23:40Z | effective=2026-03-25 21:23:40+00:00 | [26년 03월 25일 수]  미국 이란에 종전안 전달 vs 이란 "협상은 없다" ｜ 스페이스X, IPO 신
-   - 2c2chFwrKY4 | ongoing=False | publishedAt=2026-03-24T22:30:00Z | actualEndTime=None | effective=2026-03-24 22:30:00+00:00 | 【미국 증시 오늘의 요약】 이란 휴전 협상 급물살? 트럼프 "이란이 선물 제안"    -  2026/03/2
-   - CMd0iBfY42M | ongoing=False | publishedAt=2026-03-24T22:05:00Z | actualEndTime=2026-03-24T21:45:22Z | effective=2026-03-24 21:45:22+00:00 | [26년 03월 24일 화]  트럼프 발표에도 중동 리스크 지속... ｜ 아폴로, 환매 요청 급증에 환매 제
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [30분 특강] 채권과 금리, 그리고 트럼프에 대해서 이해하기
-  URL: https://www.youtube.com/watch?v=MqA8eNDygSA
-  publishedAt: 2026-03-26T03:00:15Z
+  제목: 고마해라... 이제 진짜 힘들다......ㅣ소송+감원 = 떡락중인 메타, 저는 슬슬 사볼까 합니다ㅣ[아침뉴스&미국시황] #260327
+  URL: https://www.youtube.com/watch?v=qu091K7bUWk
+  publishedAt: 2026-03-27T00:24:08Z
+  actualEndTime: 2026-03-27T00:11:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - qu091K7bUWk | ongoing=False | publishedAt=2026-03-27T00:24:08Z | actualEndTime=2026-03-27T00:11:11Z | effective=2026-03-27 00:11:11+00:00 | 고마해라... 이제 진짜 힘들다......ㅣ소송+감원 = 떡락중인 메타, 저는 슬슬 사볼까 합니다ㅣ[아침뉴스
+   - WIO72bV0_EE | ongoing=False | publishedAt=2026-03-26T15:57:03Z | actualEndTime=2026-03-26T15:49:39Z | effective=2026-03-26 15:49:39+00:00 | [미국증시 LIVE] 주말이 두렵습니까? 그럼 분할매수를 해봅시다ㅣ#260326
    - MqA8eNDygSA | ongoing=False | publishedAt=2026-03-26T03:00:15Z | actualEndTime=None | effective=2026-03-26 03:00:15+00:00 | [30분 특강] 채권과 금리, 그리고 트럼프에 대해서 이해하기
    - HdevFEwAf44 | ongoing=False | publishedAt=2026-03-26T00:22:31Z | actualEndTime=2026-03-26T00:09:28Z | effective=2026-03-26 00:09:28+00:00 | 시장은 TACO를 믿고 있다!!ㅣ마이크론 하락, 억까인가? 고점인가?? (feat. 삼성전자, SK하이닉스)
-   - 3xBuxDKPuqo | ongoing=False | publishedAt=2026-03-25T03:00:06Z | actualEndTime=None | effective=2026-03-25 03:00:06+00:00 | 연 이자 17.5%, Chat-GPT 이대로 괜찮을까??
-   - aE6RTlBhsLc | ongoing=False | publishedAt=2026-03-25T00:37:20Z | actualEndTime=2026-03-25T00:25:45Z | effective=2026-03-25 00:25:45+00:00 | 핵포기, 군사력제한 = 1달휴전, 제재해제ㅣ네타냐후: ?????????????ㅣOpenAI와 The Info
-   - 3Nd5xfhTZpk | ongoing=False | publishedAt=2026-03-24T07:00:03Z | actualEndTime=None | effective=2026-03-24 07:00:03+00:00 | 시장을 움직이는 만기일의 비밀
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 제2의 딥시크? 메모리 주식 이제 끝인가?
-  URL: https://www.youtube.com/watch?v=tesqpu9DtDs
-  publishedAt: 2026-03-25T22:02:43Z
+  제목: 최후의 일격 준비하는 트럼프.
+  URL: https://www.youtube.com/watch?v=SFeP-8zD-lk
+  publishedAt: 2026-03-26T21:44:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - SFeP-8zD-lk | ongoing=False | publishedAt=2026-03-26T21:44:47Z | actualEndTime=None | effective=2026-03-26 21:44:47+00:00 | 최후의 일격 준비하는 트럼프.
    - tesqpu9DtDs | ongoing=False | publishedAt=2026-03-25T22:02:43Z | actualEndTime=None | effective=2026-03-25 22:02:43+00:00 | 제2의 딥시크? 메모리 주식 이제 끝인가?
-   - Ie1ti2Ln2hk | ongoing=False | publishedAt=2026-03-24T18:18:13Z | actualEndTime=None | effective=2026-03-24 18:18:13+00:00 | 미군 지상군 3000명 투입 초읽기 ㄷㄷㄷ
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - aiv2Grvc6d4 | ongoing=False | publishedAt=2026-03-25T10:26:05Z | actualEndTime=None | effective=2026-03-25 10:26:05+00:00 | 머스크 우주 반도체 올인 선언의 최대 수혜주들
-   - Mj9BKoYoTmo | ongoing=False | publishedAt=2026-03-24T09:29:55Z | actualEndTime=None | effective=2026-03-24 09:29:55+00:00 | 알아서 돈 벌어오는 AI에이전트 시대 개막, 젠슨황 충격 전망의 수혜주들
