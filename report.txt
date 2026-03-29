@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-28 12:31 (KST)
-Run: 101 (id=23676532433)
+생성 시각: 2026-03-29 12:51 (KST)
+Run: 102 (id=23700801124)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,60 +8,46 @@ Run: 101 (id=23676532433)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: House GOP Plans Vote on 8-Week Stopgap on DHS Funding | Balance of Power 03/27/2026
-  URL: https://www.youtube.com/watch?v=AUdbnSfi9PQ
-  publishedAt: 2026-03-28T00:09:33Z
+  제목: Can tapping into your 401(k) fix the housing crisis? #shorts #housingcrisis #singapore
+  URL: https://www.youtube.com/watch?v=A0OvSEySjeo
+  publishedAt: 2026-03-28T17:00:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - AUdbnSfi9PQ | ongoing=False | publishedAt=2026-03-28T00:09:33Z | actualEndTime=None | effective=2026-03-28 00:09:33+00:00 | House GOP Plans Vote on 8-Week Stopgap on DHS Funding | Bala
-   - Ph40KyOh8Ns | ongoing=False | publishedAt=2026-03-28T00:00:00Z | actualEndTime=None | effective=2026-03-28 00:00:00+00:00 | More than fuel: How the Iran War is driving up fertilizer co
-   - JeM7YjHONIo | ongoing=False | publishedAt=2026-03-27T23:00:00Z | actualEndTime=None | effective=2026-03-27 23:00:00+00:00 | China's Neighbors Won't Come to Assistance in a Global Crisi
-   - JTNtSJWswCE | ongoing=False | publishedAt=2026-03-27T23:00:00Z | actualEndTime=None | effective=2026-03-27 23:00:00+00:00 | Wall Street Week | China’s Role in Iran War, Global Fertiliz
-   - CaZRPUE58zk | ongoing=False | publishedAt=2026-03-27T22:51:55Z | actualEndTime=None | effective=2026-03-27 22:51:55+00:00 | Expert: 'Cannot Imagine' Iran Would Concede Nuclear Program 
-   - 42JpCA3FeP8 | ongoing=False | publishedAt=2026-03-27T22:48:10Z | actualEndTime=None | effective=2026-03-27 22:48:10+00:00 | Nasdaq 100 and Dow Enter a Correction | The Close 3/27/2026
-   - gopvnll9_yA | ongoing=False | publishedAt=2026-03-27T22:19:11Z | actualEndTime=None | effective=2026-03-27 22:19:11+00:00 | Markets May Be 'Tiptoeing' Into Valuation Shock, Morgan Stan
-   - z4RHIwShqic | ongoing=False | publishedAt=2026-03-27T22:18:46Z | actualEndTime=None | effective=2026-03-27 22:18:46+00:00 | Market Priced for Risk, Not Disruption: Fmr. WH Advisor
-   - sDUvE9JTBOI | ongoing=False | publishedAt=2026-03-27T22:15:13Z | actualEndTime=None | effective=2026-03-27 22:15:13+00:00 | Rep. Casten Says DHS Stopgap Likely to Reach Floor, Lacks Se
-   - pak6Q5NA2Dg | ongoing=False | publishedAt=2026-03-27T22:12:46Z | actualEndTime=None | effective=2026-03-27 22:12:46+00:00 | Trump Repeats Call to Fully Open Strait of Hormuz
+   - A0OvSEySjeo | ongoing=False | publishedAt=2026-03-28T17:00:00Z | actualEndTime=None | effective=2026-03-28 17:00:00+00:00 | Can tapping into your 401(k) fix the housing crisis? #shorts
+   - A11PKSn2KUo | ongoing=False | publishedAt=2026-03-28T16:03:36Z | actualEndTime=None | effective=2026-03-28 16:03:36+00:00 | This Weekend | Houthis Enter Middle East Conflict, DHS Fundi
+   - J7X7sBtamlY | ongoing=False | publishedAt=2026-03-28T15:20:10Z | actualEndTime=None | effective=2026-03-28 15:20:10+00:00 | Trump Administration Signals No Immediate Plans for Invasion
+   - T5VZM30es7w | ongoing=False | publishedAt=2026-03-28T15:04:28Z | actualEndTime=None | effective=2026-03-28 15:04:28+00:00 | TSA Union Rep Voices Concerns Over Privatization
+   - PkNWSogQzAM | ongoing=False | publishedAt=2026-03-28T14:25:52Z | actualEndTime=None | effective=2026-03-28 14:25:52+00:00 | American Farmer: "We Need a Farm Bill"
+   - I6jKKvvIe0Q | ongoing=False | publishedAt=2026-03-28T14:20:18Z | actualEndTime=None | effective=2026-03-28 14:20:18+00:00 | Ammunition, Hoarding, Trade | Pointed News Quiz
+   - OIgH6dpmKHE | ongoing=False | publishedAt=2026-03-28T14:14:13Z | actualEndTime=None | effective=2026-03-28 14:14:13+00:00 | SpaceX, Anthropic Eye Prospective IPOs
+   - 74CClvzITmA | ongoing=False | publishedAt=2026-03-28T14:00:00Z | actualEndTime=None | effective=2026-03-28 14:00:00+00:00 | Iran War Sends Shockwaves From Energy Markets to Global Food
+   - _A8M1sn4-ws | ongoing=False | publishedAt=2026-03-28T14:00:00Z | actualEndTime=None | effective=2026-03-28 14:00:00+00:00 | Can Australia’s government help the housing crisis? #shorts 
+   - eXKT0mtwi2U | ongoing=False | publishedAt=2026-03-28T13:55:00Z | actualEndTime=None | effective=2026-03-28 13:55:00+00:00 | Rubio Downplays Need for Ground Troops in Iran
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: sh9t show
-  URL: https://www.youtube.com/watch?v=vaLmG00iUYo
-  publishedAt: 2026-03-27T15:33:22Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - vaLmG00iUYo | ongoing=False | publishedAt=2026-03-27T15:33:22Z | actualEndTime=None | effective=2026-03-27 15:33:22+00:00 | sh9t show
-   - TwVVmjkxs2Q | ongoing=False | publishedAt=2026-03-26T17:03:57Z | actualEndTime=None | effective=2026-03-26 17:03:57+00:00 | Trump is about to "CRUSH" Iran | Major Escalation
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 이란, 호르무즈 봉쇄 선언! 유가 폭등에 증시 7개월 최저    -  2026/03/27
-  URL: https://www.youtube.com/watch?v=bZp8yotGZfo
-  publishedAt: 2026-03-27T23:30:00Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - bZp8yotGZfo | ongoing=False | publishedAt=2026-03-27T23:30:00Z | actualEndTime=None | effective=2026-03-27 23:30:00+00:00 | 【미국 증시 오늘의 요약】 이란, 호르무즈 봉쇄 선언! 유가 폭등에 증시 7개월 최저    -  2026/0
    - 1C4pXosA4oA | ongoing=False | publishedAt=2026-03-27T23:17:44Z | actualEndTime=2026-03-27T22:54:51Z | effective=2026-03-27 22:54:51+00:00 | [26년 03월 27일 금]  트럼프, 이란의 요청에 따라 에너지 시설 공습 유예 ｜ 중국, 미국 대상 보복
-   - fpXYIsXp_sg | ongoing=False | publishedAt=2026-03-26T23:10:51Z | actualEndTime=None | effective=2026-03-26 23:10:51+00:00 | 【미국 증시 오늘의 요약】 트럼프-이란 휴전 불발 우려에 증시 와르르… 유가 급등·국채금리 껑충    -  
-   - CGcVtUMRm8M | ongoing=False | publishedAt=2026-03-26T22:18:27Z | actualEndTime=2026-03-26T21:54:53Z | effective=2026-03-26 21:54:53+00:00 | [26년 03월 26일 목]  트럼프, '이란, 너무 늦기 전에 진지하게 임해라' ｜ 구글 '메모리 압축' 
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - qu091K7bUWk | ongoing=False | publishedAt=2026-03-27T00:24:08Z | actualEndTime=2026-03-27T00:11:11Z | effective=2026-03-27 00:11:11+00:00 | 고마해라... 이제 진짜 힘들다......ㅣ소송+감원 = 떡락중인 메타, 저는 슬슬 사볼까 합니다ㅣ[아침뉴스
-   - WIO72bV0_EE | ongoing=False | publishedAt=2026-03-26T15:57:03Z | actualEndTime=2026-03-26T15:49:39Z | effective=2026-03-26 15:49:39+00:00 | [미국증시 LIVE] 주말이 두렵습니까? 그럼 분할매수를 해봅시다ㅣ#260326
+   - 7mzMNVOC9iM | ongoing=False | publishedAt=2026-03-28T13:27:56Z | actualEndTime=None | effective=2026-03-28 13:27:56+00:00 | 지금 이순간 채권에 투자하려는 당신에게
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 각자도생. 아비규환.
-  URL: https://www.youtube.com/watch?v=oYdvWz0Nnrk
-  publishedAt: 2026-03-27T23:01:58Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - oYdvWz0Nnrk | ongoing=False | publishedAt=2026-03-27T23:01:58Z | actualEndTime=None | effective=2026-03-27 23:01:58+00:00 | 각자도생. 아비규환.
-   - SFeP-8zD-lk | ongoing=False | publishedAt=2026-03-26T21:44:47Z | actualEndTime=None | effective=2026-03-26 21:44:47+00:00 | 최후의 일격 준비하는 트럼프.
 
 - 소수몽키
   상태: NO_VIDEO
