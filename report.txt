@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-29 12:51 (KST)
-Run: 102 (id=23700801124)
+생성 시각: 2026-03-30 12:55 (KST)
+Run: 103 (id=23727202061)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,47 +8,47 @@ Run: 102 (id=23700801124)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Can tapping into your 401(k) fix the housing crisis? #shorts #housingcrisis #singapore
-  URL: https://www.youtube.com/watch?v=A0OvSEySjeo
-  publishedAt: 2026-03-28T17:00:00Z
+  제목: How Gen Z Is Bringing Back The Mall
+  URL: https://www.youtube.com/watch?v=yDGW8hgBMAg
+  publishedAt: 2026-03-29T20:00:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - A0OvSEySjeo | ongoing=False | publishedAt=2026-03-28T17:00:00Z | actualEndTime=None | effective=2026-03-28 17:00:00+00:00 | Can tapping into your 401(k) fix the housing crisis? #shorts
-   - A11PKSn2KUo | ongoing=False | publishedAt=2026-03-28T16:03:36Z | actualEndTime=None | effective=2026-03-28 16:03:36+00:00 | This Weekend | Houthis Enter Middle East Conflict, DHS Fundi
-   - J7X7sBtamlY | ongoing=False | publishedAt=2026-03-28T15:20:10Z | actualEndTime=None | effective=2026-03-28 15:20:10+00:00 | Trump Administration Signals No Immediate Plans for Invasion
-   - T5VZM30es7w | ongoing=False | publishedAt=2026-03-28T15:04:28Z | actualEndTime=None | effective=2026-03-28 15:04:28+00:00 | TSA Union Rep Voices Concerns Over Privatization
-   - PkNWSogQzAM | ongoing=False | publishedAt=2026-03-28T14:25:52Z | actualEndTime=None | effective=2026-03-28 14:25:52+00:00 | American Farmer: "We Need a Farm Bill"
-   - I6jKKvvIe0Q | ongoing=False | publishedAt=2026-03-28T14:20:18Z | actualEndTime=None | effective=2026-03-28 14:20:18+00:00 | Ammunition, Hoarding, Trade | Pointed News Quiz
-   - OIgH6dpmKHE | ongoing=False | publishedAt=2026-03-28T14:14:13Z | actualEndTime=None | effective=2026-03-28 14:14:13+00:00 | SpaceX, Anthropic Eye Prospective IPOs
-   - 74CClvzITmA | ongoing=False | publishedAt=2026-03-28T14:00:00Z | actualEndTime=None | effective=2026-03-28 14:00:00+00:00 | Iran War Sends Shockwaves From Energy Markets to Global Food
-   - _A8M1sn4-ws | ongoing=False | publishedAt=2026-03-28T14:00:00Z | actualEndTime=None | effective=2026-03-28 14:00:00+00:00 | Can Australia’s government help the housing crisis? #shorts 
-   - eXKT0mtwi2U | ongoing=False | publishedAt=2026-03-28T13:55:00Z | actualEndTime=None | effective=2026-03-28 13:55:00+00:00 | Rubio Downplays Need for Ground Troops in Iran
+   - yDGW8hgBMAg | ongoing=False | publishedAt=2026-03-29T20:00:00Z | actualEndTime=None | effective=2026-03-29 20:00:00+00:00 | How Gen Z Is Bringing Back The Mall
+   - Wmr_Q3_NMaM | ongoing=False | publishedAt=2026-03-29T17:00:00Z | actualEndTime=None | effective=2026-03-29 17:00:00+00:00 | Meadow Lane and the viral food dilemma #shorts #meadowlane #
+   - DKv8Lex_c88 | ongoing=False | publishedAt=2026-03-29T15:40:44Z | actualEndTime=None | effective=2026-03-29 15:40:44+00:00 | This Weekend | Soldiers Arrive in Middle East, Crowds at No 
+   - 85QVQMREvvI | ongoing=False | publishedAt=2026-03-29T15:27:07Z | actualEndTime=None | effective=2026-03-29 15:27:07+00:00 | New Democrat Florida State Rep talks "staying disciplined on
+   - WV5tC1FRsII | ongoing=False | publishedAt=2026-03-29T15:22:21Z | actualEndTime=None | effective=2026-03-29 15:22:21+00:00 | Young, Slotkin: "Our hope is that it will restore trust in t
+   - QdLu7aA8UnI | ongoing=False | publishedAt=2026-03-29T14:51:03Z | actualEndTime=None | effective=2026-03-29 14:51:03+00:00 | NASA Prepares for Artemis II for Moon Flyby Mission
+   - Kka9jyRvCEY | ongoing=False | publishedAt=2026-03-29T14:43:55Z | actualEndTime=None | effective=2026-03-29 14:43:55+00:00 | Conflict Overshadows CPAC 2026
+   - 71_SDA5x2v8 | ongoing=False | publishedAt=2026-03-29T14:33:40Z | actualEndTime=None | effective=2026-03-29 14:33:40+00:00 | The 90s Internet Boom and The AI Revolution of Today
+   - 3SgUWoXPPBY | ongoing=False | publishedAt=2026-03-29T14:16:37Z | actualEndTime=None | effective=2026-03-29 14:16:37+00:00 | New Investment Opportunities in Venezuela
+   - TOS7bJ14nUI | ongoing=False | publishedAt=2026-03-29T14:07:24Z | actualEndTime=None | effective=2026-03-29 14:07:24+00:00 | Middle East Conflict Risks Escalate Infrastructure Disruptio
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - vaLmG00iUYo | ongoing=False | publishedAt=2026-03-27T15:33:22Z | actualEndTime=None | effective=2026-03-27 15:33:22+00:00 | sh9t show
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - bZp8yotGZfo | ongoing=False | publishedAt=2026-03-27T23:30:00Z | actualEndTime=None | effective=2026-03-27 23:30:00+00:00 | 【미국 증시 오늘의 요약】 이란, 호르무즈 봉쇄 선언! 유가 폭등에 증시 7개월 최저    -  2026/0
-   - 1C4pXosA4oA | ongoing=False | publishedAt=2026-03-27T23:17:44Z | actualEndTime=2026-03-27T22:54:51Z | effective=2026-03-27 22:54:51+00:00 | [26년 03월 27일 금]  트럼프, 이란의 요청에 따라 에너지 시설 공습 유예 ｜ 중국, 미국 대상 보복
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 아몰랑, 그냥 매수하고 버틸래요ㅣ[아침뉴스&미국시황] #260330
+  URL: https://www.youtube.com/watch?v=xXBQwY_XG6A
+  publishedAt: 2026-03-30T00:41:57Z
+  actualEndTime: 2026-03-30T00:19:05Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - xXBQwY_XG6A | ongoing=False | publishedAt=2026-03-30T00:41:57Z | actualEndTime=2026-03-30T00:19:05Z | effective=2026-03-30 00:19:05+00:00 | 아몰랑, 그냥 매수하고 버틸래요ㅣ[아침뉴스&미국시황] #260330
    - 7mzMNVOC9iM | ongoing=False | publishedAt=2026-03-28T13:27:56Z | actualEndTime=None | effective=2026-03-28 13:27:56+00:00 | 지금 이순간 채권에 투자하려는 당신에게
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - oYdvWz0Nnrk | ongoing=False | publishedAt=2026-03-27T23:01:58Z | actualEndTime=None | effective=2026-03-27 23:01:58+00:00 | 각자도생. 아비규환.
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - -BR8-eKjeRo | ongoing=False | publishedAt=2026-03-29T11:02:03Z | actualEndTime=2026-03-29T11:00:24Z | effective=2026-03-29 11:00:24+00:00 | 전쟁 새 국면, 초유의 추가 봉쇄 사태에 패닉셀 올까/4월 확정된 쇼크가 온다? 실물위기 대비해야할까
