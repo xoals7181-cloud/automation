@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-03-30 12:55 (KST)
-Run: 103 (id=23727202061)
+생성 시각: 2026-03-31 12:46 (KST)
+Run: 104 (id=23779449007)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,40 +8,54 @@ Run: 103 (id=23727202061)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How Gen Z Is Bringing Back The Mall
-  URL: https://www.youtube.com/watch?v=yDGW8hgBMAg
-  publishedAt: 2026-03-29T20:00:00Z
+  제목: White House Urges Congress to Cancel Recess | Balance of Power 03/30/2026
+  URL: https://www.youtube.com/watch?v=v0pyleqAQ4k
+  publishedAt: 2026-03-30T23:42:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - yDGW8hgBMAg | ongoing=False | publishedAt=2026-03-29T20:00:00Z | actualEndTime=None | effective=2026-03-29 20:00:00+00:00 | How Gen Z Is Bringing Back The Mall
-   - Wmr_Q3_NMaM | ongoing=False | publishedAt=2026-03-29T17:00:00Z | actualEndTime=None | effective=2026-03-29 17:00:00+00:00 | Meadow Lane and the viral food dilemma #shorts #meadowlane #
-   - DKv8Lex_c88 | ongoing=False | publishedAt=2026-03-29T15:40:44Z | actualEndTime=None | effective=2026-03-29 15:40:44+00:00 | This Weekend | Soldiers Arrive in Middle East, Crowds at No 
-   - 85QVQMREvvI | ongoing=False | publishedAt=2026-03-29T15:27:07Z | actualEndTime=None | effective=2026-03-29 15:27:07+00:00 | New Democrat Florida State Rep talks "staying disciplined on
-   - WV5tC1FRsII | ongoing=False | publishedAt=2026-03-29T15:22:21Z | actualEndTime=None | effective=2026-03-29 15:22:21+00:00 | Young, Slotkin: "Our hope is that it will restore trust in t
-   - QdLu7aA8UnI | ongoing=False | publishedAt=2026-03-29T14:51:03Z | actualEndTime=None | effective=2026-03-29 14:51:03+00:00 | NASA Prepares for Artemis II for Moon Flyby Mission
-   - Kka9jyRvCEY | ongoing=False | publishedAt=2026-03-29T14:43:55Z | actualEndTime=None | effective=2026-03-29 14:43:55+00:00 | Conflict Overshadows CPAC 2026
-   - 71_SDA5x2v8 | ongoing=False | publishedAt=2026-03-29T14:33:40Z | actualEndTime=None | effective=2026-03-29 14:33:40+00:00 | The 90s Internet Boom and The AI Revolution of Today
-   - 3SgUWoXPPBY | ongoing=False | publishedAt=2026-03-29T14:16:37Z | actualEndTime=None | effective=2026-03-29 14:16:37+00:00 | New Investment Opportunities in Venezuela
-   - TOS7bJ14nUI | ongoing=False | publishedAt=2026-03-29T14:07:24Z | actualEndTime=None | effective=2026-03-29 14:07:24+00:00 | Middle East Conflict Risks Escalate Infrastructure Disruptio
+   - v0pyleqAQ4k | ongoing=False | publishedAt=2026-03-30T23:42:32Z | actualEndTime=None | effective=2026-03-30 23:42:32+00:00 | White House Urges Congress to Cancel Recess | Balance of Pow
+   - 1MwJZS6lJp8 | ongoing=False | publishedAt=2026-03-30T22:24:42Z | actualEndTime=None | effective=2026-03-30 22:24:42+00:00 | Taking Kharg Island Would Be Difficult, Dangerous, Says Sen.
+   - A4hOe-6BEbI | ongoing=False | publishedAt=2026-03-30T22:05:47Z | actualEndTime=None | effective=2026-03-30 22:05:47+00:00 | Dip Buyers Disappear | The Close 3/30/2026
+   - 91WY15x7_0I | ongoing=False | publishedAt=2026-03-30T21:58:00Z | actualEndTime=None | effective=2026-03-30 21:58:00+00:00 | Hormuz Oil Shock Spreads West as Strait Remains Closed
+   - meZ1DULGba8 | ongoing=False | publishedAt=2026-03-30T21:55:27Z | actualEndTime=None | effective=2026-03-30 21:55:27+00:00 | How Houthi Militants in Yemen Could Push Up Oil Prices
+   - KomLCSzcCec | ongoing=False | publishedAt=2026-03-30T21:56:25Z | actualEndTime=None | effective=2026-03-30 21:56:25+00:00 | Trump Threatens Key Iran Energy Sites While Praising Peace T
+   - AuzRx2pFutY | ongoing=False | publishedAt=2026-03-30T21:34:53Z | actualEndTime=None | effective=2026-03-30 21:34:53+00:00 | Meta Had a Very Messy March
+   - RdlSgTqP1Mw | ongoing=False | publishedAt=2026-03-30T20:38:53Z | actualEndTime=None | effective=2026-03-30 20:38:53+00:00 | Oil Supply Shock Roils Global Economy as US Expands Threat |
+   - RYGWcr8gOTw | ongoing=False | publishedAt=2026-03-30T20:33:32Z | actualEndTime=None | effective=2026-03-30 20:33:32+00:00 | Semiconductor Sector Extends Losing Streak | Closing Bell
+   - rwDwVZAFuec | ongoing=False | publishedAt=2026-03-30T20:19:24Z | actualEndTime=None | effective=2026-03-30 20:19:24+00:00 | Lifespan of Liquidity ETFs Shortening, Israel ETFS During Wa
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: Exposing the SpaceX IPO.
+  URL: https://www.youtube.com/watch?v=LlvuAMHK4CM
+  publishedAt: 2026-03-30T23:55:24Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - LlvuAMHK4CM | ongoing=False | publishedAt=2026-03-30T23:55:24Z | actualEndTime=None | effective=2026-03-30 23:55:24+00:00 | Exposing the SpaceX IPO.
+   - UhmucjexD1c | ongoing=False | publishedAt=2026-03-30T16:04:54Z | actualEndTime=None | effective=2026-03-30 16:04:54+00:00 | Trump & Jerome Powell *JUST* Said THIS about Iran WAR & TROO
+   - YmHh46plXbM | ongoing=False | publishedAt=2026-03-30T15:57:44Z | actualEndTime=2026-03-30T15:53:21Z | effective=2026-03-30 15:53:21+00:00 | Jerome Powell Speaks LIVE at Harvard
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 파월의 안도감 vs 이란 확전 공포... 유가 급등 속 반도체 하락    -  2026/03/30
+  URL: https://www.youtube.com/watch?v=DxIepwlQ5dM
+  publishedAt: 2026-03-30T22:36:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - DxIepwlQ5dM | ongoing=False | publishedAt=2026-03-30T22:36:01Z | actualEndTime=None | effective=2026-03-30 22:36:01+00:00 | 【미국 증시 오늘의 요약】 파월의 안도감 vs 이란 확전 공포... 유가 급등 속 반도체 하락    -  2
+   - mwqCbb_C1Os | ongoing=False | publishedAt=2026-03-30T21:55:44Z | actualEndTime=2026-03-30T21:37:59Z | effective=2026-03-30 21:37:59+00:00 | [26년 03월 30일 월]  트럼프, 이란과 협상 긍정적 진행 중 ｜ 파월 의장 - 연설 예정 ｜ 이란, 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 아몰랑, 그냥 매수하고 버틸래요ㅣ[아침뉴스&미국시황] #260330
-  URL: https://www.youtube.com/watch?v=xXBQwY_XG6A
-  publishedAt: 2026-03-30T00:41:57Z
-  actualEndTime: 2026-03-30T00:19:05Z
+  제목: WTI, 브렌트, 두바이유? 국제 유가 종류별 차이
+  URL: https://www.youtube.com/watch?v=sC8-AJ0n_4U
+  publishedAt: 2026-03-31T03:00:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - sC8-AJ0n_4U | ongoing=False | publishedAt=2026-03-31T03:00:41Z | actualEndTime=None | effective=2026-03-31 03:00:41+00:00 | WTI, 브렌트, 두바이유? 국제 유가 종류별 차이
+   - 30vGsCQv5yw | ongoing=False | publishedAt=2026-03-31T00:20:33Z | actualEndTime=2026-03-31T00:12:55Z | effective=2026-03-31 00:12:55+00:00 | 지상군 투입, 오히려 반등의 기회다?ㅣ파월: 금리인상 무서워하지마라ㅣ반도체: 리밸런싱인가? 떡락의 시작인가?
+   - j6EFYDdV-J8 | ongoing=False | publishedAt=2026-03-30T08:31:34Z | actualEndTime=None | effective=2026-03-30 08:31:34+00:00 | 터보퀀트 쇼크의 치명적 착각
    - xXBQwY_XG6A | ongoing=False | publishedAt=2026-03-30T00:41:57Z | actualEndTime=2026-03-30T00:19:05Z | effective=2026-03-30 00:19:05+00:00 | 아몰랑, 그냥 매수하고 버틸래요ㅣ[아침뉴스&미국시황] #260330
-   - 7mzMNVOC9iM | ongoing=False | publishedAt=2026-03-28T13:27:56Z | actualEndTime=None | effective=2026-03-28 13:27:56+00:00 | 지금 이순간 채권에 투자하려는 당신에게
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
@@ -51,4 +65,5 @@ Run: 103 (id=23727202061)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - W6m1JmvDPpk | ongoing=False | publishedAt=2026-03-30T10:12:58Z | actualEndTime=None | effective=2026-03-30 10:12:58+00:00 | 트럼프도 예상 못했다? 홍해 봉쇄 우려, 미 증시에 더 큰 혼란 줄까
    - -BR8-eKjeRo | ongoing=False | publishedAt=2026-03-29T11:02:03Z | actualEndTime=2026-03-29T11:00:24Z | effective=2026-03-29 11:00:24+00:00 | 전쟁 새 국면, 초유의 추가 봉쇄 사태에 패닉셀 올까/4월 확정된 쇼크가 온다? 실물위기 대비해야할까
