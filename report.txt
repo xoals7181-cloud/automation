@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-01 12:57 (KST)
-Run: 105 (id=23831186256)
+생성 시각: 2026-04-02 12:39 (KST)
+Run: 106 (id=23882572142)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,66 +8,71 @@ Run: 105 (id=23831186256)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: SpaceX Eyes Record-Breaking IPO
-  URL: https://www.youtube.com/watch?v=M10Fv9AMo9s
-  publishedAt: 2026-04-01T02:46:01Z
+  제목: Artemis II to return to moon in big bet on NASA’s future #shorts #artemis #nasa #artemisii
+  URL: https://www.youtube.com/watch?v=YwRfZMX-bZ0
+  publishedAt: 2026-04-02T02:09:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - M10Fv9AMo9s | ongoing=False | publishedAt=2026-04-01T02:46:01Z | actualEndTime=None | effective=2026-04-01 02:46:01+00:00 | SpaceX Eyes Record-Breaking IPO
-   - kZGh7ApEETA | ongoing=False | publishedAt=2026-04-01T02:42:41Z | actualEndTime=None | effective=2026-04-01 02:42:41+00:00 | The Mishal Husain Show: Israel Will End Iran Strikes When Tr
-   - wh7nMY5JZIw | ongoing=False | publishedAt=2026-03-31T23:26:26Z | actualEndTime=None | effective=2026-03-31 23:26:26+00:00 | Iran President Reiterates Readiness to End War |  Balance of
-   - qjpL7v_ef3E | ongoing=False | publishedAt=2026-03-31T23:21:34Z | actualEndTime=None | effective=2026-03-31 23:21:34+00:00 | Can tapping into your 401(k) fix the housing crisis? #shorts
-   - YXW_5rGdRjA | ongoing=False | publishedAt=2026-03-31T22:34:54Z | actualEndTime=None | effective=2026-03-31 22:34:54+00:00 | Trump Says US Will Leave Iran Within Two to Three Weeks
-   - CERGAi2_ws0 | ongoing=False | publishedAt=2026-03-31T22:21:11Z | actualEndTime=None | effective=2026-03-31 22:21:11+00:00 | Trump’s curbing of mail-in ballots is “Jim Crow 2.0," says M
-   - m5sPsK5Jiww | ongoing=False | publishedAt=2026-03-31T22:13:20Z | actualEndTime=None | effective=2026-03-31 22:13:20+00:00 | Talk of War Resolution Fuels Market Rally | The Close 3/31/2
-   - c3YtmTrr5kY | ongoing=False | publishedAt=2026-03-31T21:02:09Z | actualEndTime=None | effective=2026-03-31 21:02:09+00:00 | OpenAI Completes Deal to Raise $122 Billion
-   - AlfWOT0bSbs | ongoing=False | publishedAt=2026-03-31T20:46:44Z | actualEndTime=None | effective=2026-03-31 20:46:44+00:00 | Carson Block Warns About AI, Talks ETFs and Credit Spreads
-   - 4i6a0gELd18 | ongoing=False | publishedAt=2026-03-31T20:23:52Z | actualEndTime=None | effective=2026-03-31 20:23:52+00:00 | Markets Surge to Close Ugly Month | Closing Bell
+   - YwRfZMX-bZ0 | ongoing=False | publishedAt=2026-04-02T02:09:04Z | actualEndTime=None | effective=2026-04-02 02:09:04+00:00 | Artemis II to return to moon in big bet on NASA’s future #sh
+   - bb5OFyXMhZg | ongoing=False | publishedAt=2026-04-01T23:42:32Z | actualEndTime=None | effective=2026-04-01 23:42:32+00:00 | Trump to Address Nation on Iran War | Balance of Power 04/01
+   - IsAAdFtcUk4 | ongoing=False | publishedAt=2026-04-01T23:29:16Z | actualEndTime=None | effective=2026-04-01 23:29:16+00:00 | US will feel effects of Iran for "a very long time"
+   - yG0RmcOW2E8 | ongoing=False | publishedAt=2026-04-01T23:21:25Z | actualEndTime=None | effective=2026-04-01 23:21:25+00:00 | NASA's Artemis II Lifts Off in Landmark Moon Mission
+   - agPZYvVPL0A | ongoing=False | publishedAt=2026-04-01T22:24:49Z | actualEndTime=None | effective=2026-04-01 22:24:49+00:00 | Stocks Extend Rally on War-End Optimism | The Close 4/1/2026
+   - WyxV88gn7M8 | ongoing=False | publishedAt=2026-04-01T22:10:16Z | actualEndTime=None | effective=2026-04-01 22:10:16+00:00 | US will feel effects of Iran for “a very long time” #shorts 
+   - gAmEeEc4Ghs | ongoing=False | publishedAt=2026-04-01T21:14:05Z | actualEndTime=None | effective=2026-04-01 21:14:05+00:00 | Novo VP Weighs In on Approval of Lilly’s Obesity Pill
+   - PMW_8zO9Q48 | ongoing=False | publishedAt=2026-04-01T20:51:48Z | actualEndTime=None | effective=2026-04-01 20:51:48+00:00 | Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Say
+   - yNRhe7KlgWM | ongoing=False | publishedAt=2026-04-01T20:51:54Z | actualEndTime=None | effective=2026-04-01 20:51:54+00:00 | Price of Brent Should Be Higher to Reflect Situation in Iran
+   - KUVCnW9wjOc | ongoing=False | publishedAt=2026-04-01T20:51:45Z | actualEndTime=None | effective=2026-04-01 20:51:45+00:00 | NASA's Artemis II to Return to Moon in Bet on Agency's Futur
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Iranian President FLIPS | WHAT THIS CHANGES
-  URL: https://www.youtube.com/watch?v=G-YVslqYXIc
-  publishedAt: 2026-03-31T18:39:06Z
+  제목: Trump MASSIVELY ESCALATES | THIS IS BAD
+  URL: https://www.youtube.com/watch?v=fS3FBTg2utM
+  publishedAt: 2026-04-02T01:42:17Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - fS3FBTg2utM | ongoing=False | publishedAt=2026-04-02T01:42:17Z | actualEndTime=None | effective=2026-04-02 01:42:17+00:00 | Trump MASSIVELY ESCALATES | THIS IS BAD
+   - LHga_O6aNtw | ongoing=False | publishedAt=2026-04-02T01:38:47Z | actualEndTime=2026-04-02T01:35:00Z | effective=2026-04-02 01:35:00+00:00 | Trump's *CRITICAL* LIVE Iran Address to the Nation
+   - ww5B5v4Nmdg | ongoing=False | publishedAt=2026-04-01T17:50:00Z | actualEndTime=None | effective=2026-04-01 17:50:00+00:00 | We're being F**KING LIED TO!!!
+   - GyYcya_lNuk | ongoing=False | publishedAt=2026-04-01T05:45:02Z | actualEndTime=None | effective=2026-04-01 05:45:02+00:00 | **PREPARE FOR TRUMP'S ANNOUNCEMENT**
    - G-YVslqYXIc | ongoing=False | publishedAt=2026-03-31T18:39:06Z | actualEndTime=None | effective=2026-03-31 18:39:06+00:00 | Iranian President FLIPS | WHAT THIS CHANGES
    - Pcz3EV4PVHQ | ongoing=False | publishedAt=2026-03-31T14:46:24Z | actualEndTime=None | effective=2026-03-31 14:46:24+00:00 | TOTAL FLIP
-   - LlvuAMHK4CM | ongoing=False | publishedAt=2026-03-30T23:55:24Z | actualEndTime=None | effective=2026-03-30 23:55:24+00:00 | Exposing the SpaceX IPO.
-   - UhmucjexD1c | ongoing=False | publishedAt=2026-03-30T16:04:54Z | actualEndTime=None | effective=2026-03-30 16:04:54+00:00 | Trump & Jerome Powell *JUST* Said THIS about Iran WAR & TROO
-   - YmHh46plXbM | ongoing=False | publishedAt=2026-03-30T15:57:44Z | actualEndTime=2026-03-30T15:53:21Z | effective=2026-03-30 15:53:21+00:00 | Jerome Powell Speaks LIVE at Harvard
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 미·이란 전쟁 끝난다?! 트럼프 종전 시사에 억눌렸던 미 증시 대폭발!    -  2026/03/31
-  URL: https://www.youtube.com/watch?v=S_3C-FryRZI
-  publishedAt: 2026-03-31T22:55:00Z
+  제목: [특별 방송] 트럼프 대통령, '이란' 군사 작전 대국민 연설  ｜ -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=i1ZVwfPMWQo
+  publishedAt: 2026-04-02T01:34:26Z
+  actualEndTime: 2026-04-02T01:30:57Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - i1ZVwfPMWQo | ongoing=False | publishedAt=2026-04-02T01:34:26Z | actualEndTime=2026-04-02T01:30:57Z | effective=2026-04-02 01:30:57+00:00 | [특별 방송] 트럼프 대통령, '이란' 군사 작전 대국민 연설  ｜ -  오선의 미국 증시 라이브
+   - 83yccSVfN_s | ongoing=False | publishedAt=2026-04-01T22:05:00Z | actualEndTime=None | effective=2026-04-01 22:05:00+00:00 | 【미국 증시 오늘의 요약】 전쟁 종료 기대에 증시 상승… 하지만 시장은 아직 불안하다   -  2026/04
+   - BSHv_xrmrIY | ongoing=False | publishedAt=2026-04-01T21:21:59Z | actualEndTime=2026-04-01T21:02:57Z | effective=2026-04-01 21:02:57+00:00 | [26년 04월 01일 수]  트럼프, '2~3주 내 이란 철수'｜ 트럼프, '나토 탈퇴 강력히 검토 중 ｜
    - S_3C-FryRZI | ongoing=False | publishedAt=2026-03-31T22:55:00Z | actualEndTime=None | effective=2026-03-31 22:55:00+00:00 | 【미국 증시 오늘의 요약】 미·이란 전쟁 끝난다?! 트럼프 종전 시사에 억눌렸던 미 증시 대폭발!    - 
    - lbspUHi1haI | ongoing=False | publishedAt=2026-03-31T22:24:30Z | actualEndTime=2026-03-31T22:21:29Z | effective=2026-03-31 22:21:29+00:00 | [26년 03월 31일 화]  트럼프,  "이란 작전은 아마 2~3주 안에 마무리될 것이다"｜ - 오선의 미
    - p2oE6CyY1DY | ongoing=False | publishedAt=2026-03-31T21:41:31Z | actualEndTime=2026-03-31T21:22:33Z | effective=2026-03-31 21:22:33+00:00 | [26년 03월 31일 화]  트럼프, 호르무즈 재개 없이 전쟁 종료 의향 밝혀..｜ 미국 내 휘발유 가격 
-   - DxIepwlQ5dM | ongoing=False | publishedAt=2026-03-30T22:36:01Z | actualEndTime=None | effective=2026-03-30 22:36:01+00:00 | 【미국 증시 오늘의 요약】 파월의 안도감 vs 이란 확전 공포... 유가 급등 속 반도체 하락    -  2
-   - mwqCbb_C1Os | ongoing=False | publishedAt=2026-03-30T21:55:44Z | actualEndTime=2026-03-30T21:37:59Z | effective=2026-03-30 21:37:59+00:00 | [26년 03월 30일 월]  트럼프, 이란과 협상 긍정적 진행 중 ｜ 파월 의장 - 연설 예정 ｜ 이란, 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [15분 특강] 성장주 투자할 때 '목표주가' 계산하는 방법
-  URL: https://www.youtube.com/watch?v=1dWsmNww3nc
-  publishedAt: 2026-04-01T03:00:04Z
+  제목: 이란 전쟁, 주식투자자가 꼭 알아야할 5가지
+  URL: https://www.youtube.com/watch?v=Fqo-Y3cxzXk
+  publishedAt: 2026-04-02T03:34:55Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Fqo-Y3cxzXk | ongoing=False | publishedAt=2026-04-02T03:34:55Z | actualEndTime=None | effective=2026-04-02 03:34:55+00:00 | 이란 전쟁, 주식투자자가 꼭 알아야할 5가지
+   - HPw4m-Vauvs | ongoing=False | publishedAt=2026-04-02T00:12:22Z | actualEndTime=2026-04-02T00:03:32Z | effective=2026-04-02 00:03:32+00:00 | 트럼프: 이란이 먼저 휴전요청!ㅣ종전하면 반도체가 가장 많이 오른다!! 그래서 지금 사요??ㅣ[아침뉴스&미국
    - 1dWsmNww3nc | ongoing=False | publishedAt=2026-04-01T03:00:04Z | actualEndTime=None | effective=2026-04-01 03:00:04+00:00 | [15분 특강] 성장주 투자할 때 '목표주가' 계산하는 방법
    - 37_V4ZuOYKU | ongoing=False | publishedAt=2026-04-01T00:05:24Z | actualEndTime=2026-04-01T00:00:19Z | effective=2026-04-01 00:00:19+00:00 | 전쟁끝난다 vs 기술적반등, 무엇을 얼마나 사야할까??ㅣ[아침뉴스&미국시황] #260401
-   - 30vGsCQv5yw | ongoing=False | publishedAt=2026-03-31T00:20:33Z | actualEndTime=2026-03-31T00:12:55Z | effective=2026-03-31 00:12:55+00:00 | 지상군 투입, 오히려 반등의 기회다?ㅣ파월: 금리인상 무서워하지마라ㅣ반도체: 리밸런싱인가? 떡락의 시작인가?
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 오늘 상승이 훼이크인 진짜 이유
-  URL: https://www.youtube.com/watch?v=hnpfNAw1cI4
-  publishedAt: 2026-03-31T20:32:36Z
+  제목: 580조 굴리는 켄 피셔의 폭락장에 대한 생각
+  URL: https://www.youtube.com/watch?v=732nwDUy1f4
+  publishedAt: 2026-04-01T18:15:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 732nwDUy1f4 | ongoing=False | publishedAt=2026-04-01T18:15:13Z | actualEndTime=None | effective=2026-04-01 18:15:13+00:00 | 580조 굴리는 켄 피셔의 폭락장에 대한 생각
    - hnpfNAw1cI4 | ongoing=False | publishedAt=2026-03-31T20:32:36Z | actualEndTime=None | effective=2026-03-31 20:32:36+00:00 | 오늘 상승이 훼이크인 진짜 이유
 
 - 소수몽키
@@ -75,4 +80,3 @@ Run: 105 (id=23831186256)
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 8vVehZZrA8w | ongoing=False | publishedAt=2026-03-31T10:03:02Z | actualEndTime=None | effective=2026-03-31 10:03:02+00:00 | 4월 물가 폭등 도미노 쇼크 임박? 월가의 충격 경고 현실될까
-   - W6m1JmvDPpk | ongoing=False | publishedAt=2026-03-30T10:12:58Z | actualEndTime=None | effective=2026-03-30 10:12:58+00:00 | 트럼프도 예상 못했다? 홍해 봉쇄 우려, 미 증시에 더 큰 혼란 줄까
