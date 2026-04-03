@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-02 12:39 (KST)
-Run: 106 (id=23882572142)
+생성 시각: 2026-04-03 12:41 (KST)
+Run: 107 (id=23932694110)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,75 +8,67 @@ Run: 106 (id=23882572142)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Artemis II to return to moon in big bet on NASA’s future #shorts #artemis #nasa #artemisii
-  URL: https://www.youtube.com/watch?v=YwRfZMX-bZ0
-  publishedAt: 2026-04-02T02:09:04Z
+  제목: Trump Removes Bondi After Chaotic DOJ Tenure | Balance of Power 04/02/2026
+  URL: https://www.youtube.com/watch?v=N08HTKhH02Q
+  publishedAt: 2026-04-02T23:39:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - YwRfZMX-bZ0 | ongoing=False | publishedAt=2026-04-02T02:09:04Z | actualEndTime=None | effective=2026-04-02 02:09:04+00:00 | Artemis II to return to moon in big bet on NASA’s future #sh
-   - bb5OFyXMhZg | ongoing=False | publishedAt=2026-04-01T23:42:32Z | actualEndTime=None | effective=2026-04-01 23:42:32+00:00 | Trump to Address Nation on Iran War | Balance of Power 04/01
-   - IsAAdFtcUk4 | ongoing=False | publishedAt=2026-04-01T23:29:16Z | actualEndTime=None | effective=2026-04-01 23:29:16+00:00 | US will feel effects of Iran for "a very long time"
-   - yG0RmcOW2E8 | ongoing=False | publishedAt=2026-04-01T23:21:25Z | actualEndTime=None | effective=2026-04-01 23:21:25+00:00 | NASA's Artemis II Lifts Off in Landmark Moon Mission
-   - agPZYvVPL0A | ongoing=False | publishedAt=2026-04-01T22:24:49Z | actualEndTime=None | effective=2026-04-01 22:24:49+00:00 | Stocks Extend Rally on War-End Optimism | The Close 4/1/2026
-   - WyxV88gn7M8 | ongoing=False | publishedAt=2026-04-01T22:10:16Z | actualEndTime=None | effective=2026-04-01 22:10:16+00:00 | US will feel effects of Iran for “a very long time” #shorts 
-   - gAmEeEc4Ghs | ongoing=False | publishedAt=2026-04-01T21:14:05Z | actualEndTime=None | effective=2026-04-01 21:14:05+00:00 | Novo VP Weighs In on Approval of Lilly’s Obesity Pill
-   - PMW_8zO9Q48 | ongoing=False | publishedAt=2026-04-01T20:51:48Z | actualEndTime=None | effective=2026-04-01 20:51:48+00:00 | Food Industry is 'Crazy and Wild' as Costs, Prices Rise, Say
-   - yNRhe7KlgWM | ongoing=False | publishedAt=2026-04-01T20:51:54Z | actualEndTime=None | effective=2026-04-01 20:51:54+00:00 | Price of Brent Should Be Higher to Reflect Situation in Iran
-   - KUVCnW9wjOc | ongoing=False | publishedAt=2026-04-01T20:51:45Z | actualEndTime=None | effective=2026-04-01 20:51:45+00:00 | NASA's Artemis II to Return to Moon in Bet on Agency's Futur
+   - N08HTKhH02Q | ongoing=False | publishedAt=2026-04-02T23:39:11Z | actualEndTime=None | effective=2026-04-02 23:39:11+00:00 | Trump Removes Bondi After Chaotic DOJ Tenure | Balance of Po
+   - J4kB82ie1dc | ongoing=False | publishedAt=2026-04-02T22:14:44Z | actualEndTime=None | effective=2026-04-02 22:14:44+00:00 | Stock Rally Hits Wall as Oil Holds Gains | The Close 4/2/202
+   - 74JotitlUeI | ongoing=False | publishedAt=2026-04-02T20:37:23Z | actualEndTime=None | effective=2026-04-02 20:37:23+00:00 | Oil Selloff Stalls, Trump Ousts Bondi | Bloomberg Businesswe
+   - 6aTXsVosVKI | ongoing=False | publishedAt=2026-04-02T20:33:46Z | actualEndTime=None | effective=2026-04-02 20:33:46+00:00 | Stocks Cut Losses on Hormuz Report, Oil Holds Gains | Closin
+   - vNRL5as1Crw | ongoing=False | publishedAt=2026-04-02T20:10:31Z | actualEndTime=None | effective=2026-04-02 20:10:31+00:00 | Oil Selloff Stalls, Trump Ousts Bondi | Bloomberg Businesswe
+   - EwqDsdt6gqc | ongoing=False | publishedAt=2026-04-02T19:59:33Z | actualEndTime=None | effective=2026-04-02 19:59:33+00:00 | The Cost of the Middle East Conflict
+   - MrnzQsD60r8 | ongoing=False | publishedAt=2026-04-02T19:47:22Z | actualEndTime=None | effective=2026-04-02 19:47:22+00:00 | Chime CEO: Consumers’ fuel spending rise 25% amid Iran War
+   - a0ecSpGkCZg | ongoing=False | publishedAt=2026-04-02T19:08:34Z | actualEndTime=None | effective=2026-04-02 19:08:34+00:00 | Trump Removes Bondi as Attorney General
+   - pTbkjzaHvfc | ongoing=False | publishedAt=2026-04-02T19:06:17Z | actualEndTime=None | effective=2026-04-02 19:06:17+00:00 | Trump Ousts Bondi As Attorney General | Balance of Power: Ea
+   - s9TuVlj9WyI | ongoing=False | publishedAt=2026-04-02T17:34:40Z | actualEndTime=None | effective=2026-04-02 17:34:40+00:00 | Private Credit Faces Redemption Pressure | Open Interest 4/2
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Trump MASSIVELY ESCALATES | THIS IS BAD
-  URL: https://www.youtube.com/watch?v=fS3FBTg2utM
-  publishedAt: 2026-04-02T01:42:17Z
+  제목: The UNTHINKABLE is about to happen to Stocks (Get READY!)
+  URL: https://www.youtube.com/watch?v=ZHwuFBp9IoA
+  publishedAt: 2026-04-02T17:29:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ZHwuFBp9IoA | ongoing=False | publishedAt=2026-04-02T17:29:20Z | actualEndTime=None | effective=2026-04-02 17:29:20+00:00 | The UNTHINKABLE is about to happen to Stocks (Get READY!)
+   - XUvKUI8L9WI | ongoing=False | publishedAt=2026-04-02T04:43:14Z | actualEndTime=None | effective=2026-04-02 04:43:14+00:00 | Warning: The Collapse of OpenAI & Memory.
    - fS3FBTg2utM | ongoing=False | publishedAt=2026-04-02T01:42:17Z | actualEndTime=None | effective=2026-04-02 01:42:17+00:00 | Trump MASSIVELY ESCALATES | THIS IS BAD
    - LHga_O6aNtw | ongoing=False | publishedAt=2026-04-02T01:38:47Z | actualEndTime=2026-04-02T01:35:00Z | effective=2026-04-02 01:35:00+00:00 | Trump's *CRITICAL* LIVE Iran Address to the Nation
    - ww5B5v4Nmdg | ongoing=False | publishedAt=2026-04-01T17:50:00Z | actualEndTime=None | effective=2026-04-01 17:50:00+00:00 | We're being F**KING LIED TO!!!
    - GyYcya_lNuk | ongoing=False | publishedAt=2026-04-01T05:45:02Z | actualEndTime=None | effective=2026-04-01 05:45:02+00:00 | **PREPARE FOR TRUMP'S ANNOUNCEMENT**
-   - G-YVslqYXIc | ongoing=False | publishedAt=2026-03-31T18:39:06Z | actualEndTime=None | effective=2026-03-31 18:39:06+00:00 | Iranian President FLIPS | WHAT THIS CHANGES
-   - Pcz3EV4PVHQ | ongoing=False | publishedAt=2026-03-31T14:46:24Z | actualEndTime=None | effective=2026-03-31 14:46:24+00:00 | TOTAL FLIP
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [특별 방송] 트럼프 대통령, '이란' 군사 작전 대국민 연설  ｜ -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=i1ZVwfPMWQo
-  publishedAt: 2026-04-02T01:34:26Z
-  actualEndTime: 2026-04-02T01:30:57Z
+  제목: 【미국 증시 오늘의 요약】  이란 리스크 확대에도 혼조 마감… 시장은 ‘해협 재개’에 베팅  -  2026/04/02
+  URL: https://www.youtube.com/watch?v=2VEiWgvmGoY
+  publishedAt: 2026-04-02T22:15:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2VEiWgvmGoY | ongoing=False | publishedAt=2026-04-02T22:15:00Z | actualEndTime=None | effective=2026-04-02 22:15:00+00:00 | 【미국 증시 오늘의 요약】  이란 리스크 확대에도 혼조 마감… 시장은 ‘해협 재개’에 베팅  -  2026/
+   - 9P1JjsOj9o0 | ongoing=False | publishedAt=2026-04-02T21:33:31Z | actualEndTime=2026-04-02T21:12:17Z | effective=2026-04-02 21:12:17+00:00 | [26년 04월 02일 목]  트럼프, '2~3주 내 이란 추가 공격 계획 '｜ 이란, 호르무즈 해협 사실상
    - i1ZVwfPMWQo | ongoing=False | publishedAt=2026-04-02T01:34:26Z | actualEndTime=2026-04-02T01:30:57Z | effective=2026-04-02 01:30:57+00:00 | [특별 방송] 트럼프 대통령, '이란' 군사 작전 대국민 연설  ｜ -  오선의 미국 증시 라이브
    - 83yccSVfN_s | ongoing=False | publishedAt=2026-04-01T22:05:00Z | actualEndTime=None | effective=2026-04-01 22:05:00+00:00 | 【미국 증시 오늘의 요약】 전쟁 종료 기대에 증시 상승… 하지만 시장은 아직 불안하다   -  2026/04
    - BSHv_xrmrIY | ongoing=False | publishedAt=2026-04-01T21:21:59Z | actualEndTime=2026-04-01T21:02:57Z | effective=2026-04-01 21:02:57+00:00 | [26년 04월 01일 수]  트럼프, '2~3주 내 이란 철수'｜ 트럼프, '나토 탈퇴 강력히 검토 중 ｜
-   - S_3C-FryRZI | ongoing=False | publishedAt=2026-03-31T22:55:00Z | actualEndTime=None | effective=2026-03-31 22:55:00+00:00 | 【미국 증시 오늘의 요약】 미·이란 전쟁 끝난다?! 트럼프 종전 시사에 억눌렸던 미 증시 대폭발!    - 
-   - lbspUHi1haI | ongoing=False | publishedAt=2026-03-31T22:24:30Z | actualEndTime=2026-03-31T22:21:29Z | effective=2026-03-31 22:21:29+00:00 | [26년 03월 31일 화]  트럼프,  "이란 작전은 아마 2~3주 안에 마무리될 것이다"｜ - 오선의 미
-   - p2oE6CyY1DY | ongoing=False | publishedAt=2026-03-31T21:41:31Z | actualEndTime=2026-03-31T21:22:33Z | effective=2026-03-31 21:22:33+00:00 | [26년 03월 31일 화]  트럼프, 호르무즈 재개 없이 전쟁 종료 의향 밝혀..｜ 미국 내 휘발유 가격 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 이란 전쟁, 주식투자자가 꼭 알아야할 5가지
-  URL: https://www.youtube.com/watch?v=Fqo-Y3cxzXk
-  publishedAt: 2026-04-02T03:34:55Z
+  제목: 지금, 지수를 사요? 아니면 개별 종목을 사요?
+  URL: https://www.youtube.com/watch?v=BP9sSqgi03Q
+  publishedAt: 2026-04-03T03:00:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - BP9sSqgi03Q | ongoing=False | publishedAt=2026-04-03T03:00:11Z | actualEndTime=None | effective=2026-04-03 03:00:11+00:00 | 지금, 지수를 사요? 아니면 개별 종목을 사요?
+   - iDrCA6sKEJA | ongoing=False | publishedAt=2026-04-03T00:19:31Z | actualEndTime=2026-04-03T00:10:24Z | effective=2026-04-03 00:10:24+00:00 | 테슬라, 저는 300달러 봅니다ㅣ시장은 트럼프를 믿고 있다ㅣ이란-오만 호르무즈 통행료 공식화 = 호재..??
    - Fqo-Y3cxzXk | ongoing=False | publishedAt=2026-04-02T03:34:55Z | actualEndTime=None | effective=2026-04-02 03:34:55+00:00 | 이란 전쟁, 주식투자자가 꼭 알아야할 5가지
    - HPw4m-Vauvs | ongoing=False | publishedAt=2026-04-02T00:12:22Z | actualEndTime=2026-04-02T00:03:32Z | effective=2026-04-02 00:03:32+00:00 | 트럼프: 이란이 먼저 휴전요청!ㅣ종전하면 반도체가 가장 많이 오른다!! 그래서 지금 사요??ㅣ[아침뉴스&미국
-   - 1dWsmNww3nc | ongoing=False | publishedAt=2026-04-01T03:00:04Z | actualEndTime=None | effective=2026-04-01 03:00:04+00:00 | [15분 특강] 성장주 투자할 때 '목표주가' 계산하는 방법
-   - 37_V4ZuOYKU | ongoing=False | publishedAt=2026-04-01T00:05:24Z | actualEndTime=2026-04-01T00:00:19Z | effective=2026-04-01 00:00:19+00:00 | 전쟁끝난다 vs 기술적반등, 무엇을 얼마나 사야할까??ㅣ[아침뉴스&미국시황] #260401
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 580조 굴리는 켄 피셔의 폭락장에 대한 생각
-  URL: https://www.youtube.com/watch?v=732nwDUy1f4
-  publishedAt: 2026-04-01T18:15:13Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - 732nwDUy1f4 | ongoing=False | publishedAt=2026-04-01T18:15:13Z | actualEndTime=None | effective=2026-04-01 18:15:13+00:00 | 580조 굴리는 켄 피셔의 폭락장에 대한 생각
-   - hnpfNAw1cI4 | ongoing=False | publishedAt=2026-03-31T20:32:36Z | actualEndTime=None | effective=2026-03-31 20:32:36+00:00 | 오늘 상승이 훼이크인 진짜 이유
-
-- 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 8vVehZZrA8w | ongoing=False | publishedAt=2026-03-31T10:03:02Z | actualEndTime=None | effective=2026-03-31 10:03:02+00:00 | 4월 물가 폭등 도미노 쇼크 임박? 월가의 충격 경고 현실될까
+   - 732nwDUy1f4 | ongoing=False | publishedAt=2026-04-01T18:15:13Z | actualEndTime=None | effective=2026-04-01 18:15:13+00:00 | 580조 굴리는 켄 피셔의 폭락장에 대한 생각
+
+- 소수몽키
+  상태: NO_VIDEO
+  비고: 최근 48시간 검색 결과 없음
