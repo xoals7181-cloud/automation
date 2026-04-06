@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-05 12:50 (KST)
-Run: 109 (id=23993700590)
+생성 시각: 2026-04-06 12:54 (KST)
+Run: 110 (id=24017966882)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,21 +8,21 @@ Run: 109 (id=23993700590)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bloomberg This Weekend | US Airman Missing in Iran, March Jobs Report, Easter Candy Sales Down
-  URL: https://www.youtube.com/watch?v=35cuOvlzAJ4
-  publishedAt: 2026-04-04T16:56:44Z
+  제목: Bloomberg This Weekend | Daring Rescue Mission, OPEC Meeting on Energy Crisis, TMZ Goes to DC
+  URL: https://www.youtube.com/watch?v=BLYiCKc7GY0
+  publishedAt: 2026-04-05T15:55:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 35cuOvlzAJ4 | ongoing=False | publishedAt=2026-04-04T16:56:44Z | actualEndTime=None | effective=2026-04-04 16:56:44+00:00 | Bloomberg This Weekend | US Airman Missing in Iran, March Jo
-   - 3IKkKVyvC80 | ongoing=False | publishedAt=2026-04-04T16:25:51Z | actualEndTime=None | effective=2026-04-04 16:25:51+00:00 | NATO's Secretary General Rutte to Meet With Trump Next Week
-   - _CEP8sonQos | ongoing=False | publishedAt=2026-04-04T16:16:16Z | actualEndTime=None | effective=2026-04-04 16:16:16+00:00 | Resignations, Wearable, Food | Pointed News Quiz
-   - 8g4Q1BcPk34 | ongoing=False | publishedAt=2026-04-04T16:08:20Z | actualEndTime=None | effective=2026-04-04 16:08:20+00:00 | Artemis II Passes Halfway Point to Moon
-   - BJZkxSxbXiQ | ongoing=False | publishedAt=2026-04-04T16:03:15Z | actualEndTime=None | effective=2026-04-04 16:03:15+00:00 | DNC Chair Ken Martin: "We Don't Need to Out-Raise the Republ
-   - 47JG7ar0Hxw | ongoing=False | publishedAt=2026-04-04T15:53:13Z | actualEndTime=None | effective=2026-04-04 15:53:13+00:00 | Tech Sectors Threatened by Global Helium Shortage
-   - xhK2Ch2DI0Y | ongoing=False | publishedAt=2026-04-04T15:44:35Z | actualEndTime=None | effective=2026-04-04 15:44:35+00:00 | Napster in the AI Era
-   - pOAvWWVEwbc | ongoing=False | publishedAt=2026-04-04T12:32:39Z | actualEndTime=None | effective=2026-04-04 12:32:39+00:00 | Easter Candy Sales Decline
-   - BbK2j0glIBc | ongoing=False | publishedAt=2026-04-04T12:21:31Z | actualEndTime=None | effective=2026-04-04 12:21:31+00:00 | Searching for the Missing US Airman in Iran
-   - ALul-U_wpf4 | ongoing=False | publishedAt=2026-04-04T05:00:00Z | actualEndTime=None | effective=2026-04-04 05:00:00+00:00 | Fixing Johannesburg Water Crisis Is Top Priority for Mayoral
+   - BLYiCKc7GY0 | ongoing=False | publishedAt=2026-04-05T15:55:25Z | actualEndTime=None | effective=2026-04-05 15:55:25+00:00 | Bloomberg This Weekend | Daring Rescue Mission, OPEC Meeting
+   - gnpphdwWSX8 | ongoing=False | publishedAt=2026-04-05T15:04:34Z | actualEndTime=None | effective=2026-04-05 15:04:34+00:00 | By The Way | Headlines You Should See
+   - 7OEgliQTNXY | ongoing=False | publishedAt=2026-04-05T14:56:48Z | actualEndTime=None | effective=2026-04-05 14:56:48+00:00 | Humanitarian Crisis Escalates in Lebanon
+   - D6j5FKKpjR8 | ongoing=False | publishedAt=2026-04-05T14:51:03Z | actualEndTime=None | effective=2026-04-05 14:51:03+00:00 | TMZ Heads to Washington DC
+   - LAgwwnR43NQ | ongoing=False | publishedAt=2026-04-05T14:44:26Z | actualEndTime=None | effective=2026-04-05 14:44:26+00:00 | Trump Gives Ultimatum to Reopen Strait in 48-Hours
+   - paLkwEiYVKs | ongoing=False | publishedAt=2026-04-05T14:12:24Z | actualEndTime=None | effective=2026-04-05 14:12:24+00:00 | AI FOMO and Why You Should Ignore It
+   - GJaHTD5TGnk | ongoing=False | publishedAt=2026-04-05T13:56:55Z | actualEndTime=None | effective=2026-04-05 13:56:55+00:00 | OPEC+ Plans Symbolic Oil Quota Hike for May
+   - nGIeeamE7hA | ongoing=False | publishedAt=2026-04-05T13:21:12Z | actualEndTime=None | effective=2026-04-05 13:21:12+00:00 | IBM and the Masters use AI to Bring the Fairway to Every Fan
+   - LCFUloSwtdo | ongoing=False | publishedAt=2026-04-05T13:01:59Z | actualEndTime=None | effective=2026-04-05 13:01:59+00:00 | Economic Impact of Ending Birthright Citizenship
+   - apyaiJ0Z2M8 | ongoing=False | publishedAt=2026-04-05T12:44:59Z | actualEndTime=None | effective=2026-04-05 12:44:59+00:00 | US Successfully Rescues Second Airman from Iran
 
 - Meet Kevin
   상태: NO_VIDEO
@@ -30,19 +30,19 @@ Run: 109 (id=23993700590)
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - WdARCaLoBD8 | ongoing=False | publishedAt=2026-04-03T14:05:30Z | actualEndTime=2026-04-03T13:59:39Z | effective=2026-04-03 13:59:39+00:00 | [26년 04월 03일 금]  굿 프라이데이 휴장｜ 경제지표: 비농업 취업자수, 실업률 ｜ 트럼프 "인프라 
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 장 초반, 마감 30분이 제일 중요한 이유!
-  URL: https://www.youtube.com/watch?v=g-5ea-wpPo0
-  publishedAt: 2026-04-05T00:00:40Z
+  제목: 화요일, 이란 인프라 공격 시작할 것 vs 해협은 우리가 통제한다ㅣ출구없는 전쟁, 시장은 버틸 수 있을까?ㅣ[아침뉴스&미국시황] #260406
+  URL: https://www.youtube.com/watch?v=8n2kbiuGHdI
+  publishedAt: 2026-04-06T00:02:38Z
+  actualEndTime: 2026-04-05T23:55:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 8n2kbiuGHdI | ongoing=False | publishedAt=2026-04-06T00:02:38Z | actualEndTime=2026-04-05T23:55:00Z | effective=2026-04-05 23:55:00+00:00 | 화요일, 이란 인프라 공격 시작할 것 vs 해협은 우리가 통제한다ㅣ출구없는 전쟁, 시장은 버틸 수 있을까?ㅣ
+   - jbv1rLW_0FQ | ongoing=False | publishedAt=2026-04-05T08:54:10Z | actualEndTime=2026-04-05T08:22:41Z | effective=2026-04-05 08:22:41+00:00 | [미국주식 TOP10] 이란 전쟁 끝나면 오를 주식을 찾아보자ㅣ#260405
    - g-5ea-wpPo0 | ongoing=False | publishedAt=2026-04-05T00:00:40Z | actualEndTime=None | effective=2026-04-05 00:00:40+00:00 | 장 초반, 마감 30분이 제일 중요한 이유!
-   - bhC9RSUmNx0 | ongoing=False | publishedAt=2026-04-04T00:00:43Z | actualEndTime=None | effective=2026-04-04 00:00:43+00:00 | ETF에 투자하고 싶은 당신에게 바칩니다
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
@@ -50,6 +50,4 @@ Run: 109 (id=23993700590)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 7BM1C-5h-pg | ongoing=False | publishedAt=2026-04-03T10:05:39Z | actualEndTime=None | effective=2026-04-03 10:05:39+00:00 | 미중 전략 경쟁으로 오히려 한국은 절호의 기회? 장기로 주목 받을 주식들┃최영진 한화자산운용 부사장
+  비고: 최근 48시간 검색 결과 없음
