@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-06 12:54 (KST)
-Run: 110 (id=24017966882)
+생성 시각: 2026-04-07 12:45 (KST)
+Run: 111 (id=24063202533)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,46 +8,63 @@ Run: 110 (id=24017966882)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bloomberg This Weekend | Daring Rescue Mission, OPEC Meeting on Energy Crisis, TMZ Goes to DC
-  URL: https://www.youtube.com/watch?v=BLYiCKc7GY0
-  publishedAt: 2026-04-05T15:55:25Z
+  제목: Trump Reiterates Tuesday Night Deadline For Iran | Balance of Power 04/06/2026
+  URL: https://www.youtube.com/watch?v=1MAvhrKgGhk
+  publishedAt: 2026-04-06T23:58:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - BLYiCKc7GY0 | ongoing=False | publishedAt=2026-04-05T15:55:25Z | actualEndTime=None | effective=2026-04-05 15:55:25+00:00 | Bloomberg This Weekend | Daring Rescue Mission, OPEC Meeting
-   - gnpphdwWSX8 | ongoing=False | publishedAt=2026-04-05T15:04:34Z | actualEndTime=None | effective=2026-04-05 15:04:34+00:00 | By The Way | Headlines You Should See
-   - 7OEgliQTNXY | ongoing=False | publishedAt=2026-04-05T14:56:48Z | actualEndTime=None | effective=2026-04-05 14:56:48+00:00 | Humanitarian Crisis Escalates in Lebanon
-   - D6j5FKKpjR8 | ongoing=False | publishedAt=2026-04-05T14:51:03Z | actualEndTime=None | effective=2026-04-05 14:51:03+00:00 | TMZ Heads to Washington DC
-   - LAgwwnR43NQ | ongoing=False | publishedAt=2026-04-05T14:44:26Z | actualEndTime=None | effective=2026-04-05 14:44:26+00:00 | Trump Gives Ultimatum to Reopen Strait in 48-Hours
-   - paLkwEiYVKs | ongoing=False | publishedAt=2026-04-05T14:12:24Z | actualEndTime=None | effective=2026-04-05 14:12:24+00:00 | AI FOMO and Why You Should Ignore It
-   - GJaHTD5TGnk | ongoing=False | publishedAt=2026-04-05T13:56:55Z | actualEndTime=None | effective=2026-04-05 13:56:55+00:00 | OPEC+ Plans Symbolic Oil Quota Hike for May
-   - nGIeeamE7hA | ongoing=False | publishedAt=2026-04-05T13:21:12Z | actualEndTime=None | effective=2026-04-05 13:21:12+00:00 | IBM and the Masters use AI to Bring the Fairway to Every Fan
-   - LCFUloSwtdo | ongoing=False | publishedAt=2026-04-05T13:01:59Z | actualEndTime=None | effective=2026-04-05 13:01:59+00:00 | Economic Impact of Ending Birthright Citizenship
-   - apyaiJ0Z2M8 | ongoing=False | publishedAt=2026-04-05T12:44:59Z | actualEndTime=None | effective=2026-04-05 12:44:59+00:00 | US Successfully Rescues Second Airman from Iran
+   - 1MAvhrKgGhk | ongoing=False | publishedAt=2026-04-06T23:58:14Z | actualEndTime=None | effective=2026-04-06 23:58:14+00:00 | Trump Reiterates Tuesday Night Deadline For Iran | Balance o
+   - 6Wua_toUiQw | ongoing=False | publishedAt=2026-04-06T22:21:51Z | actualEndTime=None | effective=2026-04-06 22:21:51+00:00 | Trump Amps Up Threats as Market Hits Standstill | The Close 
+   - le8nnpghKYo | ongoing=False | publishedAt=2026-04-06T21:05:45Z | actualEndTime=None | effective=2026-04-06 21:05:45+00:00 | Medicare Finalizes 2.48% Rate Hike
+   - --SKIKmekvc | ongoing=False | publishedAt=2026-04-06T20:42:35Z | actualEndTime=None | effective=2026-04-06 20:42:35+00:00 | NYC families need over $125,000 in income to live in any bor
+   - hzH0IrzHSCk | ongoing=False | publishedAt=2026-04-06T20:27:54Z | actualEndTime=None | effective=2026-04-06 20:27:54+00:00 | Market Rally Stalls Amid Trump Iran's Threats | Closing Bell
+   - dxtACY6WOoY | ongoing=False | publishedAt=2026-04-06T20:21:18Z | actualEndTime=None | effective=2026-04-06 20:21:18+00:00 | Trump Insists on Hormuz Opening | Bloomberg Businessweek Dai
+   - A0saL9GRt2c | ongoing=False | publishedAt=2026-04-06T19:59:57Z | actualEndTime=None | effective=2026-04-06 19:59:57+00:00 | OpenAI’s Chris Lehane:Countries race to boost AI literacy
+   - gb5By-ajbME | ongoing=False | publishedAt=2026-04-06T19:56:31Z | actualEndTime=None | effective=2026-04-06 19:56:31+00:00 | Spring Housing Market Presents Challenges for Buyers | Prese
+   - cDJSf5R3Eng | ongoing=False | publishedAt=2026-04-06T19:46:54Z | actualEndTime=None | effective=2026-04-06 19:46:54+00:00 | Trump’s Iran Deadline Looms | Balance of Power: Early Editio
+   - WaEBc2prSPE | ongoing=False | publishedAt=2026-04-06T19:30:45Z | actualEndTime=None | effective=2026-04-06 19:30:45+00:00 | Next Gen Bitcoin ETFs, Refiners Outperform Broader Market | 
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: They're BLATANTLY LYING | WARNING.
+  URL: https://www.youtube.com/watch?v=xbBMX6KoEvQ
+  publishedAt: 2026-04-07T00:39:24Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - xbBMX6KoEvQ | ongoing=False | publishedAt=2026-04-07T00:39:24Z | actualEndTime=None | effective=2026-04-07 00:39:24+00:00 | They're BLATANTLY LYING | WARNING.
+   - -PXzN3s3uKU | ongoing=False | publishedAt=2026-04-06T18:57:10Z | actualEndTime=None | effective=2026-04-06 18:57:10+00:00 | holy smokes Trump FLIPS AGAIN!!!!! {BREAKING NEWS}
+   - xV84iAEwHRM | ongoing=False | publishedAt=2026-04-06T15:05:29Z | actualEndTime=None | effective=2026-04-06 15:05:29+00:00 | F**K: Iran *JUST* Rejected Trump's Ceasefire
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  폭격이냐 휴전이냐! 운명의 화요일 앞두고 롤러코스터 장세  -  2026/04/06
+  URL: https://www.youtube.com/watch?v=KjyGJFDxjVw
+  publishedAt: 2026-04-06T22:15:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - KjyGJFDxjVw | ongoing=False | publishedAt=2026-04-06T22:15:01Z | actualEndTime=None | effective=2026-04-06 22:15:01+00:00 | 【미국 증시 오늘의 요약】  폭격이냐 휴전이냐! 운명의 화요일 앞두고 롤러코스터 장세  -  2026/04/
+   - HoOhtPO4YQg | ongoing=False | publishedAt=2026-04-06T21:37:40Z | actualEndTime=2026-04-06T21:19:26Z | effective=2026-04-06 21:19:26+00:00 | [26년 04월 06일 월]  미국·이란 45일 휴전 논의 중｜ 트럼프 대통령 '기자 회견' 예정｜ 이란, 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 화요일, 이란 인프라 공격 시작할 것 vs 해협은 우리가 통제한다ㅣ출구없는 전쟁, 시장은 버틸 수 있을까?ㅣ[아침뉴스&미국시황] #260406
-  URL: https://www.youtube.com/watch?v=8n2kbiuGHdI
-  publishedAt: 2026-04-06T00:02:38Z
-  actualEndTime: 2026-04-05T23:55:00Z
+  제목: 8개월만에 개인투자자에게 물량 던지고 상장폐지되는 주식이 있다...??
+  URL: https://www.youtube.com/watch?v=2J8wm66MfaA
+  publishedAt: 2026-04-07T03:00:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2J8wm66MfaA | ongoing=False | publishedAt=2026-04-07T03:00:04Z | actualEndTime=None | effective=2026-04-07 03:00:04+00:00 | 8개월만에 개인투자자에게 물량 던지고 상장폐지되는 주식이 있다...??
+   - bhcqadevY8w | ongoing=False | publishedAt=2026-04-07T01:03:47Z | actualEndTime=2026-04-07T00:15:57Z | effective=2026-04-07 00:15:57+00:00 | 호르무즈 통행료, 이란vs미국...? 이게 맞나??ㅣ모건 스탠리, 반도체 'HBM 슈퍼 사이클' 이제 시작이
    - 8n2kbiuGHdI | ongoing=False | publishedAt=2026-04-06T00:02:38Z | actualEndTime=2026-04-05T23:55:00Z | effective=2026-04-05 23:55:00+00:00 | 화요일, 이란 인프라 공격 시작할 것 vs 해협은 우리가 통제한다ㅣ출구없는 전쟁, 시장은 버틸 수 있을까?ㅣ
    - jbv1rLW_0FQ | ongoing=False | publishedAt=2026-04-05T08:54:10Z | actualEndTime=2026-04-05T08:22:41Z | effective=2026-04-05 08:22:41+00:00 | [미국주식 TOP10] 이란 전쟁 끝나면 오를 주식을 찾아보자ㅣ#260405
-   - g-5ea-wpPo0 | ongoing=False | publishedAt=2026-04-05T00:00:40Z | actualEndTime=None | effective=2026-04-05 00:00:40+00:00 | 장 초반, 마감 30분이 제일 중요한 이유!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - kIOcbD92tDU | ongoing=False | publishedAt=2026-04-06T13:56:19Z | actualEndTime=None | effective=2026-04-06 13:56:19+00:00 | 호르무즈 현장 취재 결과는 한국을 팔아라?? (시트리니)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - vKt199nBU6Q | ongoing=False | publishedAt=2026-04-06T08:08:06Z | actualEndTime=None | effective=2026-04-06 08:08:06+00:00 | 끝을 향해 달리는 전쟁 공포? 월가 큰손들의 저점 베팅 맞을까
