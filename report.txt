@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-09 12:42 (KST)
-Run: 113 (id=24171157788)
+생성 시각: 2026-04-10 12:55 (KST)
+Run: 114 (id=24225530738)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,71 +8,63 @@ Run: 113 (id=24171157788)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Ceasefire Uncertainty Dampens Mood in Asia | The Asia Trade 4/9/2026
-  URL: https://www.youtube.com/watch?v=78ZHk5jvsNg
-  publishedAt: 2026-04-09T03:33:09Z
+  제목: Asian Stocks Rise Before Iran Talks | The Asia Trade 4/10/2026
+  URL: https://www.youtube.com/watch?v=LfnI_OjlNC0
+  publishedAt: 2026-04-10T03:38:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 78ZHk5jvsNg | ongoing=False | publishedAt=2026-04-09T03:33:09Z | actualEndTime=None | effective=2026-04-09 03:33:09+00:00 | Ceasefire Uncertainty Dampens Mood in Asia | The Asia Trade 
-   - 3tX17fupw6c | ongoing=False | publishedAt=2026-04-09T00:06:48Z | actualEndTime=None | effective=2026-04-09 00:06:48+00:00 | Trump's Conflicting Statements Sow Confusion on Ceasefire | 
-   - yAOnAKfzJqM | ongoing=False | publishedAt=2026-04-08T22:11:03Z | actualEndTime=None | effective=2026-04-08 22:11:03+00:00 | Wave of Optimism Sweeps Through Global Markets | The Close 4
-   - 0mgZQngjK1g | ongoing=False | publishedAt=2026-04-08T20:22:44Z | actualEndTime=None | effective=2026-04-08 20:22:44+00:00 | Stocks Rally, Oil Falls on Iran Truce | Closing Bell
-   - SqvI4kj6Sl0 | ongoing=False | publishedAt=2026-04-08T20:06:35Z | actualEndTime=None | effective=2026-04-08 20:06:35+00:00 | Fed Officials Saw Two-Sided Risks From Iran War | Bloomberg 
-   - FbsFnAsRI24 | ongoing=False | publishedAt=2026-04-08T19:01:29Z | actualEndTime=None | effective=2026-04-08 19:01:29+00:00 | US, Iran Agree to Two-Week Ceasefire | Balance of Power: Ear
-   - HQDor_VuZLE | ongoing=False | publishedAt=2026-04-08T18:33:20Z | actualEndTime=None | effective=2026-04-08 18:33:20+00:00 | Ecuador’s Noboa Open to Broader US Role on Security
-   - oVYEmAcJBWo | ongoing=False | publishedAt=2026-04-08T18:34:16Z | actualEndTime=None | effective=2026-04-08 18:34:16+00:00 | Madison Air Seeks $2.23B in IPO, Activist Investing Picks Up
-   - 5UJCmTQKZgw | ongoing=False | publishedAt=2026-04-08T18:26:47Z | actualEndTime=None | effective=2026-04-08 18:26:47+00:00 | Minutes Show Fed Officials See Differing Risks From Iran War
-   - Ae2ALR1yJvU | ongoing=False | publishedAt=2026-04-08T17:59:38Z | actualEndTime=None | effective=2026-04-08 17:59:38+00:00 | Oil Drops After Iran Ceasefire | Open Interest 4/8/2026
+   - LfnI_OjlNC0 | ongoing=False | publishedAt=2026-04-10T03:38:01Z | actualEndTime=None | effective=2026-04-10 03:38:01+00:00 | Asian Stocks Rise Before Iran Talks | The Asia Trade 4/10/20
+   - YNESFMj6--w | ongoing=False | publishedAt=2026-04-10T02:45:56Z | actualEndTime=None | effective=2026-04-10 02:45:56+00:00 | What to Watch for in the Strait of Hormuz
+   - wk-P83iU6y4 | ongoing=False | publishedAt=2026-04-10T00:28:01Z | actualEndTime=None | effective=2026-04-10 00:28:01+00:00 | Trump’s H-1B chaos fuels Indian startup dreams
+   - ZqazRGutW-M | ongoing=False | publishedAt=2026-04-09T23:50:07Z | actualEndTime=None | effective=2026-04-09 23:50:07+00:00 | US, Iran Prepare for Talks Amid Fragile Ceasefire | Balance 
+   - DVy1vWfLZtc | ongoing=False | publishedAt=2026-04-09T22:26:19Z | actualEndTime=None | effective=2026-04-09 22:26:19+00:00 | Stocks Rebound on Cautious Ceasefire Hopes | The Close 4/9/2
+   - XtCK9Lz-YNs | ongoing=False | publishedAt=2026-04-09T21:45:44Z | actualEndTime=None | effective=2026-04-09 21:45:44+00:00 | Shaquille O'Neal invests in tm:rw, a retail innovation hub
+   - DbSSRO0UAVE | ongoing=False | publishedAt=2026-04-09T21:31:57Z | actualEndTime=None | effective=2026-04-09 21:31:57+00:00 | Stocks Rebound on Hopes Ceasefire Deal Holds on | Closing Be
+   - _dtnbEUyVG8 | ongoing=False | publishedAt=2026-04-09T20:05:20Z | actualEndTime=None | effective=2026-04-09 20:05:20+00:00 | Ceasefire Doubts Boost Oil as Iran Keeps Economic Pressure |
+   - XG5ySNslmiU | ongoing=False | publishedAt=2026-04-09T19:31:53Z | actualEndTime=None | effective=2026-04-09 19:31:53+00:00 | A 2% inflation target is a myth, says JPMorgan’s Bob Michele
+   - cFxBIZj4USY | ongoing=False | publishedAt=2026-04-09T19:06:13Z | actualEndTime=None | effective=2026-04-09 19:06:13+00:00 | US, Iran Prepare for Talks | Balance of Power: Early Edition
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - hnMgBIepPSg | ongoing=False | publishedAt=2026-04-09T15:33:48Z | actualEndTime=None | effective=2026-04-09 15:33:48+00:00 | TOTAL SH*T SHOW
    - 8yXJ0c1UdqY | ongoing=False | publishedAt=2026-04-08T15:30:09Z | actualEndTime=None | effective=2026-04-08 15:30:09+00:00 | CEASEFIRE COLLAPSING
-   - jEQtixAGw6I | ongoing=False | publishedAt=2026-04-08T00:59:37Z | actualEndTime=None | effective=2026-04-08 00:59:37+00:00 | LET'S F**KING GOOOOOOOOOOOOO
-   - lcqzC4Zndok | ongoing=False | publishedAt=2026-04-07T21:25:53Z | actualEndTime=None | effective=2026-04-07 21:25:53+00:00 | TRUMP: HERE IT COMES | Iran Update
-   - 63LqVOY9CZw | ongoing=False | publishedAt=2026-04-07T15:12:49Z | actualEndTime=None | effective=2026-04-07 15:12:49+00:00 | Trump is LOSING IT | Mad Dog on Iran!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 트럼프 휴전 합의 vs 이란 호르무즈 봉쇄… 혼돈 속 날아간 S&P 500   -  2026/04/07
-  URL: https://www.youtube.com/watch?v=os3LAZa0w3Q
-  publishedAt: 2026-04-08T22:40:00Z
+  제목: 【미국 증시 오늘의 요약】  이스라엘, “레바논에 휴전 없다”…그런데 협상은 시작됐다?  -  2026/04/09
+  URL: https://www.youtube.com/watch?v=LHeGEqxIjGU
+  publishedAt: 2026-04-09T22:52:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - LHeGEqxIjGU | ongoing=False | publishedAt=2026-04-09T22:52:01Z | actualEndTime=None | effective=2026-04-09 22:52:01+00:00 | 【미국 증시 오늘의 요약】  이스라엘, “레바논에 휴전 없다”…그런데 협상은 시작됐다?  -  2026/04
+   - Ko6ah0vqCXo | ongoing=False | publishedAt=2026-04-09T22:04:13Z | actualEndTime=2026-04-09T21:43:01Z | effective=2026-04-09 21:43:01+00:00 | [26년 04월 09일 목]  미국, 호르무즈 잔류·토요일 협상 예정 ｜ 테슬라, 소형·저가 차량 개발중 ｜
    - os3LAZa0w3Q | ongoing=False | publishedAt=2026-04-08T22:40:00Z | actualEndTime=None | effective=2026-04-08 22:40:00+00:00 | 【미국 증시 오늘의 요약】 트럼프 휴전 합의 vs 이란 호르무즈 봉쇄… 혼돈 속 날아간 S&P 500   -
    - jQ8aysqMwqw | ongoing=False | publishedAt=2026-04-08T21:57:42Z | actualEndTime=2026-04-08T21:38:27Z | effective=2026-04-08 21:38:27+00:00 | [26년 04월 08일 수]  미국·이란, 2주간 휴전 합의 ｜ 트럼프, '이란과 15개 합의 사항 상당수 
-   - p81FUjT6VI4 | ongoing=False | publishedAt=2026-04-07T23:38:00Z | actualEndTime=None | effective=2026-04-07 23:38:00+00:00 | 【미국 증시 오늘의 요약】 트럼프, 이란과 2주 극적 휴전   -  2026/04/07
-   - 8qWrLNTBSeE | ongoing=False | publishedAt=2026-04-07T23:15:47Z | actualEndTime=2026-04-07T22:54:17Z | effective=2026-04-07 22:54:17+00:00 | [26년 04월 07일 화]  운명의 화요일... 미군 하르그섬 공격 ｜ 브로드컴, 구글과 AI 전용 칩 개
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 협상은 내일부터!! 어떤 주식이 많이 올라갈까??ㅣ[아침뉴스&미국시황] #260409
-  URL: https://www.youtube.com/watch?v=QAiyCjXtrOE
-  publishedAt: 2026-04-09T00:09:56Z
-  actualEndTime: 2026-04-09T00:05:04Z
+  제목: 빅테크 '빚잔치' 성장 전략의 불편한 진실
+  URL: https://www.youtube.com/watch?v=-AydT_Lm98Q
+  publishedAt: 2026-04-10T01:00:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -AydT_Lm98Q | ongoing=False | publishedAt=2026-04-10T01:00:52Z | actualEndTime=None | effective=2026-04-10 01:00:52+00:00 | 빅테크 '빚잔치' 성장 전략의 불편한 진실
+   - _cJ2OaJHrt0 | ongoing=False | publishedAt=2026-04-09T23:43:43Z | actualEndTime=2026-04-09T23:39:48Z | effective=2026-04-09 23:39:48+00:00 | 지금 시장은 어디에 베팅하고 있을까?ㅣ대장주 차트 싹 분석해봅시다ㅣ[아침뉴스&미국시황] #260410
+   - Ky-gwTfJjYE | ongoing=False | publishedAt=2026-04-09T10:24:46Z | actualEndTime=None | effective=2026-04-09 10:24:46+00:00 | 안전 자산이란 무엇을 말하는가?
    - QAiyCjXtrOE | ongoing=False | publishedAt=2026-04-09T00:09:56Z | actualEndTime=2026-04-09T00:05:04Z | effective=2026-04-09 00:05:04+00:00 | 협상은 내일부터!! 어떤 주식이 많이 올라갈까??ㅣ[아침뉴스&미국시황] #260409
    - 1y6YQT3Vn0o | ongoing=False | publishedAt=2026-04-08T15:32:59Z | actualEndTime=2026-04-08T14:32:57Z | effective=2026-04-08 14:32:57+00:00 | 계좌도 살아나고 테이버도 살아있다!!!
-   - FosgTJdJXbo | ongoing=False | publishedAt=2026-04-08T03:00:13Z | actualEndTime=None | effective=2026-04-08 03:00:13+00:00 | 한 달 만에 '반대매매', 세금 없이 550억 꿀꺽?!ㅣ#휴림로봇
-   - Sj6HaekqThA | ongoing=False | publishedAt=2026-04-08T00:04:53Z | actualEndTime=2026-04-07T23:57:15Z | effective=2026-04-07 23:57:15+00:00 | 자! 드가자!!!!ㅣ[아침뉴스&미국시황] #260408
-   - yC3dJmL5J9s | ongoing=False | publishedAt=2026-04-07T04:25:53Z | actualEndTime=None | effective=2026-04-07 04:25:53+00:00 | 역대급 실적의 삼전, 주주환원이 지금 정말 중요한 이유!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 이란 휴전 하루만에 없던 일 되나?
-  URL: https://www.youtube.com/watch?v=MfxH9hj_ty0
-  publishedAt: 2026-04-08T18:14:52Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - MfxH9hj_ty0 | ongoing=False | publishedAt=2026-04-08T18:14:52Z | actualEndTime=None | effective=2026-04-08 18:14:52+00:00 | 이란 휴전 하루만에 없던 일 되나?
    - 6xnbpgpF95E | ongoing=False | publishedAt=2026-04-08T06:40:58Z | actualEndTime=None | effective=2026-04-08 06:40:58+00:00 | 이란 2주 휴전 협상. 함정이 있습니다.
-   - IPyYlcH9ZtY | ongoing=False | publishedAt=2026-04-07T19:54:00Z | actualEndTime=None | effective=2026-04-07 19:54:00+00:00 | 레이달리오 - 이미 세계대전 시작됐다
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - itbDDU5g8GA | ongoing=False | publishedAt=2026-04-08T10:57:15Z | actualEndTime=None | effective=2026-04-08 10:57:15+00:00 | 앤트로픽&오픈AI 기업가치 폭등, 지금 전세계 돈 빨아들이는 AI 수혜주들
-   - UA-OwenEkSo | ongoing=False | publishedAt=2026-04-07T12:09:37Z | actualEndTime=None | effective=2026-04-07 12:09:37+00:00 | 스페이스X 상장 임박, 전세계 돈 빨아들일 대표 수혜주들
