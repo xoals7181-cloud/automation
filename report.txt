@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-11 12:32 (KST)
-Run: 115 (id=24273701401)
+생성 시각: 2026-04-12 12:58 (KST)
+Run: 116 (id=24298187778)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,52 +8,55 @@ Run: 115 (id=24273701401)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Panetta: Iran’s Grip on Hormuz Puts Pressure on US Economy
-  URL: https://www.youtube.com/watch?v=9laiaBEkg10
-  publishedAt: 2026-04-11T01:30:08Z
+  제목: Bloomberg This Weekend 4/11/2026 | Artemis Splashdown, Vance in Pakistan, Happy in a Digital Age
+  URL: https://www.youtube.com/watch?v=pwa4Mcrc-Pg
+  publishedAt: 2026-04-11T16:35:10Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 9laiaBEkg10 | ongoing=False | publishedAt=2026-04-11T01:30:08Z | actualEndTime=None | effective=2026-04-11 01:30:08+00:00 | Panetta: Iran’s Grip on Hormuz Puts Pressure on US Economy
-   - SpjPWiu-xyU | ongoing=False | publishedAt=2026-04-11T00:39:38Z | actualEndTime=None | effective=2026-04-11 00:39:38+00:00 | Private Credit Reality Check
-   - 2Eqk8CNPggg | ongoing=False | publishedAt=2026-04-11T00:32:52Z | actualEndTime=None | effective=2026-04-11 00:32:52+00:00 | Artemis II Safely Returns to Earth After Historic Moon Missi
-   - wjnZa-AfSbE | ongoing=False | publishedAt=2026-04-11T00:25:09Z | actualEndTime=None | effective=2026-04-11 00:25:09+00:00 | Hormuz, Lebanon Central to US, Iran Peace Talks
-   - zhBHvw7dATw | ongoing=False | publishedAt=2026-04-11T00:24:54Z | actualEndTime=None | effective=2026-04-11 00:24:54+00:00 | Virts: Artemis II Return a ‘Bright Spot’ for Humanity
-   - ZD-rAnHNX0Y | ongoing=False | publishedAt=2026-04-11T00:24:15Z | actualEndTime=None | effective=2026-04-11 00:24:15+00:00 | Why Officials Are Worried About Mythos, Anthropic’s New AI
-   - c8gm7AI7Ffw | ongoing=False | publishedAt=2026-04-11T00:22:23Z | actualEndTime=None | effective=2026-04-11 00:22:23+00:00 | Trump Ratchets Up Pressure on Iran Ahead of Talks | Balance 
-   - 7OFv86ze6K4 | ongoing=False | publishedAt=2026-04-11T00:20:15Z | actualEndTime=None | effective=2026-04-11 00:20:15+00:00 | US Doesn't Need Backup Plan in Iran Negotiations, Says Trump
-   - 2sCezX6xqmk | ongoing=False | publishedAt=2026-04-10T23:00:04Z | actualEndTime=None | effective=2026-04-10 23:00:04+00:00 | Haass: Iran Has Far More Leverage Than Before War
-   - dhLUNv1zaTA | ongoing=False | publishedAt=2026-04-10T23:00:44Z | actualEndTime=None | effective=2026-04-10 23:00:44+00:00 | Wall Street Week | Haass on Iran, Oil Fallout, IMF Meeting A
+   - pwa4Mcrc-Pg | ongoing=False | publishedAt=2026-04-11T16:35:10Z | actualEndTime=None | effective=2026-04-11 16:35:10+00:00 | Bloomberg This Weekend 4/11/2026 | Artemis Splashdown, Vance
+   - AeOm6eA9UPY | ongoing=False | publishedAt=2026-04-11T16:04:30Z | actualEndTime=None | effective=2026-04-11 16:04:30+00:00 | US, Iran and Pakistan Hold Ceasefire Talks in Islamabad
+   - 8T_yGGhQWUM | ongoing=False | publishedAt=2026-04-11T15:01:08Z | actualEndTime=None | effective=2026-04-11 15:01:08+00:00 | AI, Super Mario, Retail | Pointed News Quiz
+   - IaFkJvee8Bw | ongoing=False | publishedAt=2026-04-11T14:54:18Z | actualEndTime=None | effective=2026-04-11 14:54:18+00:00 | New Era For Space Dawns, As Artemis II Returns
+   - Z6e4r2sA73M | ongoing=False | publishedAt=2026-04-11T14:48:07Z | actualEndTime=None | effective=2026-04-11 14:48:07+00:00 | How to be Happy In The Digital Era
+   - yfjmiOC-eiE | ongoing=False | publishedAt=2026-04-11T14:10:58Z | actualEndTime=None | effective=2026-04-11 14:10:58+00:00 | Latest on the Islamabad Peace Talks
+   - FGqpRg52YE4 | ongoing=False | publishedAt=2026-04-11T14:04:12Z | actualEndTime=None | effective=2026-04-11 14:04:12+00:00 | Summer Travel Costs Likely to be Impacted by War in Iran
+   - xVaTIMgecno | ongoing=False | publishedAt=2026-04-11T14:01:36Z | actualEndTime=None | effective=2026-04-11 14:01:36+00:00 | The IMF Meetings Were Supposed to Be About Trade. Then Came 
+   - mkwsubU_wvE | ongoing=False | publishedAt=2026-04-11T13:52:34Z | actualEndTime=None | effective=2026-04-11 13:52:34+00:00 | Walking the Intl. NYC Auto Show with a Gearhead
+   - OSGbfiW_ROs | ongoing=False | publishedAt=2026-04-11T13:41:37Z | actualEndTime=None | effective=2026-04-11 13:41:37+00:00 | Vance, Witkoff, and Kushner Meet With Pakistani PM Today
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: CRAP | THIS IS IT
-  URL: https://www.youtube.com/watch?v=EBB3FQtGgXQ
-  publishedAt: 2026-04-10T18:09:12Z
+  제목: *SH*T* IRAN TALKS JUST COLLAPSED
+  URL: https://www.youtube.com/watch?v=VQq2XIluhGQ
+  publishedAt: 2026-04-12T02:25:49Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - VQq2XIluhGQ | ongoing=False | publishedAt=2026-04-12T02:25:49Z | actualEndTime=None | effective=2026-04-12 02:25:49+00:00 | *SH*T* IRAN TALKS JUST COLLAPSED
    - EBB3FQtGgXQ | ongoing=False | publishedAt=2026-04-10T18:09:12Z | actualEndTime=None | effective=2026-04-10 18:09:12+00:00 | CRAP | THIS IS IT
-   - hnMgBIepPSg | ongoing=False | publishedAt=2026-04-09T15:33:48Z | actualEndTime=None | effective=2026-04-09 15:33:48+00:00 | TOTAL SH*T SHOW
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  폭풍전야 미 증시… 주말 '운명의 미·이란 회담' 앞두고 짙어진 관망세  -  2026/04/10
-  URL: https://www.youtube.com/watch?v=zXc7RRxlPBQ
-  publishedAt: 2026-04-10T22:20:00Z
+  제목: [특별 방송]  밴스 부통령 '미국-이란' 협상 기자회견  ｜ -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=ROvj9ZvVsNo
+  publishedAt: 2026-04-12T01:56:47Z
+  actualEndTime: 2026-04-12T01:52:54Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ROvj9ZvVsNo | ongoing=False | publishedAt=2026-04-12T01:56:47Z | actualEndTime=2026-04-12T01:52:54Z | effective=2026-04-12 01:52:54+00:00 | [특별 방송]  밴스 부통령 '미국-이란' 협상 기자회견  ｜ -  오선의 미국 증시 라이브
+   - nKGisM7LFtQ | ongoing=False | publishedAt=2026-04-11T16:45:19Z | actualEndTime=2026-04-11T16:29:27Z | effective=2026-04-11 16:29:27+00:00 | [특별 방송]  미국-이란 협상 결과 대기중....  ｜ -  오선의 미국 증시 라이브
    - zXc7RRxlPBQ | ongoing=False | publishedAt=2026-04-10T22:20:00Z | actualEndTime=None | effective=2026-04-10 22:20:00+00:00 | 【미국 증시 오늘의 요약】  폭풍전야 미 증시… 주말 '운명의 미·이란 회담' 앞두고 짙어진 관망세  -  
    - BXwTP8luYd4 | ongoing=False | publishedAt=2026-04-10T21:58:00Z | actualEndTime=2026-04-10T21:38:35Z | effective=2026-04-10 21:38:35+00:00 | [26년 04월 10일 금]  미국·이란, 파키스탄 협정 D-1 ｜ 3월 소비자 물가지수 (CPI) ｜ 우크
-   - LHeGEqxIjGU | ongoing=False | publishedAt=2026-04-09T22:52:01Z | actualEndTime=None | effective=2026-04-09 22:52:01+00:00 | 【미국 증시 오늘의 요약】  이스라엘, “레바논에 휴전 없다”…그런데 협상은 시작됐다?  -  2026/04
-   - Ko6ah0vqCXo | ongoing=False | publishedAt=2026-04-09T22:04:13Z | actualEndTime=2026-04-09T21:43:01Z | effective=2026-04-09 21:43:01+00:00 | [26년 04월 09일 목]  미국, 호르무즈 잔류·토요일 협상 예정 ｜ 테슬라, 소형·저가 차량 개발중 ｜
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 어떤 투자를 할지 고민되는 당신에게
+  URL: https://www.youtube.com/watch?v=5FaXnXpnCik
+  publishedAt: 2026-04-12T03:00:14Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 5FaXnXpnCik | ongoing=False | publishedAt=2026-04-12T03:00:14Z | actualEndTime=None | effective=2026-04-12 03:00:14+00:00 | 어떤 투자를 할지 고민되는 당신에게
+   - Vl_ydJjFTQM | ongoing=False | publishedAt=2026-04-11T07:00:34Z | actualEndTime=None | effective=2026-04-11 07:00:34+00:00 | 시장 반등의 진짜 주인공?
    - _Ty4Boay-s0 | ongoing=False | publishedAt=2026-04-10T09:00:49Z | actualEndTime=None | effective=2026-04-10 09:00:49+00:00 | K-주식의 현실, "깜깜이 배당"
-   - -AydT_Lm98Q | ongoing=False | publishedAt=2026-04-10T01:00:52Z | actualEndTime=None | effective=2026-04-10 01:00:52+00:00 | 빅테크 '빚잔치' 성장 전략의 불편한 진실
-   - _cJ2OaJHrt0 | ongoing=False | publishedAt=2026-04-09T23:43:43Z | actualEndTime=2026-04-09T23:39:48Z | effective=2026-04-09 23:39:48+00:00 | 지금 시장은 어디에 베팅하고 있을까?ㅣ대장주 차트 싹 분석해봅시다ㅣ[아침뉴스&미국시황] #260410
-   - Ky-gwTfJjYE | ongoing=False | publishedAt=2026-04-09T10:24:46Z | actualEndTime=None | effective=2026-04-09 10:24:46+00:00 | 안전 자산이란 무엇을 말하는가?
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
