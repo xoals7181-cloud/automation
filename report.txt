@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-14 12:57 (KST)
-Run: 118 (id=24380153799)
+생성 시각: 2026-04-15 12:55 (KST)
+Run: 119 (id=24435552714)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,63 +8,69 @@ Run: 118 (id=24380153799)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: HSBC CEO warns Mideast conflict is denting global confidence #shorts #iran #trump #politics
-  URL: https://www.youtube.com/watch?v=bOLXWiZ0uLk
-  publishedAt: 2026-04-14T01:52:43Z
+  제목: Risk Rally Builds as Markets Fade Iran Risks | The Asia Trade 4/15/2026
+  URL: https://www.youtube.com/watch?v=RE7u7GajSkc
+  publishedAt: 2026-04-15T03:29:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - bOLXWiZ0uLk | ongoing=False | publishedAt=2026-04-14T01:52:43Z | actualEndTime=None | effective=2026-04-14 01:52:43+00:00 | HSBC CEO warns Mideast conflict is denting global confidence
-   - rsCNmBEoc3o | ongoing=False | publishedAt=2026-04-14T00:02:22Z | actualEndTime=None | effective=2026-04-14 00:02:22+00:00 | Rep. Swalwell Plans to Resign From Congress | Balance of Pow
-   - Lnf6LHWJ9qk | ongoing=False | publishedAt=2026-04-13T23:14:07Z | actualEndTime=None | effective=2026-04-13 23:14:07+00:00 | Democrat Swalwell to quit Congress after sexual assault clai
-   - vvA8Fp2smgk | ongoing=False | publishedAt=2026-04-13T22:22:44Z | actualEndTime=None | effective=2026-04-13 22:22:44+00:00 | Stocks Extend Gains on Trump Comments | The Close 4/13/2026
-   - vgoEpovW1-U | ongoing=False | publishedAt=2026-04-13T22:00:58Z | actualEndTime=None | effective=2026-04-13 22:00:58+00:00 | How AI Is Making Asia’s Richest Families Even Richer
-   - jxG5OQAqR80 | ongoing=False | publishedAt=2026-04-13T21:56:14Z | actualEndTime=None | effective=2026-04-13 21:56:14+00:00 | Swalwell Resigns From Congress After Assault Claims
-   - wOwTxo1BTdA | ongoing=False | publishedAt=2026-04-13T21:01:04Z | actualEndTime=None | effective=2026-04-13 21:01:04+00:00 | Uniqlo Is Coming For Middle America
-   - CWx9436zHKQ | ongoing=False | publishedAt=2026-04-13T20:53:16Z | actualEndTime=None | effective=2026-04-13 20:53:16+00:00 | LIVE: ECB President Lagarde Speaks Exclusively to Bloomberg
-   - NVDdBPPHzRo | ongoing=False | publishedAt=2026-04-13T20:47:07Z | actualEndTime=None | effective=2026-04-13 20:47:07+00:00 | S&P Erases Losses Since Iran War Began | Closing Bell
-   - ezOb-ZKjQ-0 | ongoing=False | publishedAt=2026-04-13T20:45:43Z | actualEndTime=None | effective=2026-04-13 20:45:43+00:00 | US Won't Leave Without Iran's Highly Enriched Uranium, Bass 
+   - RE7u7GajSkc | ongoing=False | publishedAt=2026-04-15T03:29:05Z | actualEndTime=None | effective=2026-04-15 03:29:05+00:00 | Risk Rally Builds as Markets Fade Iran Risks | The Asia Trad
+   - CWx9436zHKQ | ongoing=False | publishedAt=2026-04-15T02:26:35Z | actualEndTime=2026-04-14T14:20:52Z | effective=2026-04-14 14:20:52+00:00 | Exclusive: ECB President Lagarde Speaks to Bloomberg
+   - w7xiaThUkM4 | ongoing=False | publishedAt=2026-04-14T23:51:26Z | actualEndTime=None | effective=2026-04-14 23:51:26+00:00 | US And Iran Weigh Second Round of Truce Talks | Balance of P
+   - jjtzVua0BVI | ongoing=False | publishedAt=2026-04-14T22:21:59Z | actualEndTime=None | effective=2026-04-14 22:21:59+00:00 | Fmr. Israel Ambassador Oren on Israel-Lebanon Talks
+   - PcpmWsJO5hc | ongoing=False | publishedAt=2026-04-14T22:11:53Z | actualEndTime=None | effective=2026-04-14 22:11:53+00:00 | Stocks Continue Climb on Iran Peace Push | The Close 4/14/20
+   - aAjr5h1U65U | ongoing=False | publishedAt=2026-04-14T20:39:49Z | actualEndTime=None | effective=2026-04-14 20:39:49+00:00 | Will We Ever Know Who Satoshi Nakamoto, the founder of Bitco
+   - 2ZeDKRt2n8k | ongoing=False | publishedAt=2026-04-14T20:30:19Z | actualEndTime=None | effective=2026-04-14 20:30:19+00:00 | S&P Nears Record on Peace Push | Bloomberg Businessweek Dail
+   - 0zVGMKSz5hw | ongoing=False | publishedAt=2026-04-14T20:28:36Z | actualEndTime=None | effective=2026-04-14 20:28:36+00:00 | S&P Nears Fresh Record on Iran Peace Push | Closing Bell
+   - 7Pumek_-7jo | ongoing=False | publishedAt=2026-04-14T20:28:04Z | actualEndTime=None | effective=2026-04-14 20:28:04+00:00 | Gold: No Longer a Safe Haven? | Presented by CME Group
+   - cxhmNnaC9SM | ongoing=False | publishedAt=2026-04-14T20:28:48Z | actualEndTime=None | effective=2026-04-14 20:28:48+00:00 | Commerzbank CEO: The growth outlook for Europe has weakened
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Crap: The Real Danger NOW
-  URL: https://www.youtube.com/watch?v=rIpWnO96e5w
-  publishedAt: 2026-04-13T22:46:58Z
+  제목: Important.
+  URL: https://www.youtube.com/watch?v=ot_VchNFdx8
+  publishedAt: 2026-04-14T23:24:16Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ot_VchNFdx8 | ongoing=False | publishedAt=2026-04-14T23:24:16Z | actualEndTime=None | effective=2026-04-14 23:24:16+00:00 | Important.
    - rIpWnO96e5w | ongoing=False | publishedAt=2026-04-13T22:46:58Z | actualEndTime=None | effective=2026-04-13 22:46:58+00:00 | Crap: The Real Danger NOW
-   - IqX-2XwBeqU | ongoing=False | publishedAt=2026-04-12T17:08:02Z | actualEndTime=None | effective=2026-04-12 17:08:02+00:00 | Ah F**K
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  트럼프 한마디에 시장 반등! S&P500 연중 플러스 전환  -  2026/04/13
-  URL: https://www.youtube.com/watch?v=3VD73eYLfQQ
-  publishedAt: 2026-04-13T22:06:13Z
+  제목: 【미국 증시 오늘의 요약】  이란 종전 기대감·PPI 예상 하회… 필라델피아 반도체 또 사상 최고치!  -  2026/04/14
+  URL: https://www.youtube.com/watch?v=Tdud27idrvE
+  publishedAt: 2026-04-14T22:22:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Tdud27idrvE | ongoing=False | publishedAt=2026-04-14T22:22:00Z | actualEndTime=None | effective=2026-04-14 22:22:00+00:00 | 【미국 증시 오늘의 요약】  이란 종전 기대감·PPI 예상 하회… 필라델피아 반도체 또 사상 최고치!  - 
+   - LkoHTlAOjZE | ongoing=False | publishedAt=2026-04-14T21:54:00Z | actualEndTime=2026-04-14T21:33:30Z | effective=2026-04-14 21:33:30+00:00 | [26년 04월 14일 화]  미국·이란, 2차 회담 검토 중 ｜ 이스라엘·레바논, 평화회담 예정  ｜ 블룸
    - 3VD73eYLfQQ | ongoing=False | publishedAt=2026-04-13T22:06:13Z | actualEndTime=None | effective=2026-04-13 22:06:13+00:00 | 【미국 증시 오늘의 요약】  트럼프 한마디에 시장 반등! S&P500 연중 플러스 전환  -  2026/04
    - VFC9QUxZDGk | ongoing=False | publishedAt=2026-04-13T21:36:47Z | actualEndTime=2026-04-13T21:14:30Z | effective=2026-04-13 21:14:30+00:00 | [26년 04월 13일 월]  미-이란 평화 협상 결렬 ｜ 미국, 호르무즈 해협 봉쇄 예정 ｜ 샌디스크, 나
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 돈 벌기 참 쉽쥬??
-  URL: https://www.youtube.com/watch?v=1KOxAhXe7ns
-  publishedAt: 2026-04-14T03:00:03Z
+  제목: 내 주식은 얼마나 오를 수 있을까?
+  URL: https://www.youtube.com/watch?v=4DqcTDVuGA0
+  publishedAt: 2026-04-15T03:00:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 4DqcTDVuGA0 | ongoing=False | publishedAt=2026-04-15T03:00:04Z | actualEndTime=None | effective=2026-04-15 03:00:04+00:00 | 내 주식은 얼마나 오를 수 있을까?
+   - mowWOyLcY7w | ongoing=False | publishedAt=2026-04-15T00:08:12Z | actualEndTime=2026-04-15T00:02:54Z | effective=2026-04-15 00:02:54+00:00 | 정신차리고 보니 칠천피!!ㅣ고점이다vs버블온다, 대응전략은??ㅣ[아침뉴스&미국시황] #260415
    - 1KOxAhXe7ns | ongoing=False | publishedAt=2026-04-14T03:00:03Z | actualEndTime=None | effective=2026-04-14 03:00:03+00:00 | 돈 벌기 참 쉽쥬??
    - pExMXyIEIU4 | ongoing=False | publishedAt=2026-04-14T00:16:49Z | actualEndTime=2026-04-14T00:10:51Z | effective=2026-04-14 00:10:51+00:00 | 주말에 "2차 협상" 한다ㅣ소프트웨어 급반등, 바닥일까??ㅣ오늘은 신고가 종목을 찾아봅시다! 개꿀!!ㅣ[아침
-   - tgCfpovPPKE | ongoing=False | publishedAt=2026-04-13T16:00:26Z | actualEndTime=2026-04-13T15:52:23Z | effective=2026-04-13 15:52:23+00:00 | [미국증시 LIVE] 아몰랑! 매수만이 살길이야!! 트럼프를 믿어보자!!!ㅣ#260413
-   - BiThVjXyo9Y | ongoing=False | publishedAt=2026-04-13T02:03:31Z | actualEndTime=None | effective=2026-04-13 02:03:31+00:00 | 다가오는 실적 발표 시즌, 지금 주목할 지점은?
-   - c7xrViLRrGA | ongoing=False | publishedAt=2026-04-13T00:37:32Z | actualEndTime=2026-04-12T23:57:51Z | effective=2026-04-12 23:57:51+00:00 | 2차 협상을 기다리는 시장, 트럼프의 출구전략은...?ㅣ실적시즌, 이제는 전쟁보다 실적...??ㅣ[아침뉴스&
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 증시 폭등? 두가지 함정이 있습니다.
+  URL: https://www.youtube.com/watch?v=l1IFamaX_bg
+  publishedAt: 2026-04-14T18:44:38Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - l1IFamaX_bg | ongoing=False | publishedAt=2026-04-14T18:44:38Z | actualEndTime=None | effective=2026-04-14 18:44:38+00:00 | 증시 폭등? 두가지 함정이 있습니다.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - Qd6AaKM6RhE | ongoing=False | publishedAt=2026-04-14T10:33:08Z | actualEndTime=None | effective=2026-04-14 10:33:08+00:00 | 앤트로픽 때문에 백악관 긴급회의까지? 유례 없는 AI혁명의 최대 수혜주들
    - m2-d33gcInY | ongoing=False | publishedAt=2026-04-13T10:21:18Z | actualEndTime=None | effective=2026-04-13 10:21:18+00:00 | 공포에 던졌던 대규모 자금 다시 돌아온다? 월가 충격 보고서 적중할까
    - ClnRcgIHW-Y | ongoing=False | publishedAt=2026-04-13T08:43:10Z | actualEndTime=None | effective=2026-04-13 08:43:10+00:00 | 스페이스X 상장 임박, 우주 산업 대장주들에 투자하는 법
-   - 9RF3_jmY-RQ | ongoing=False | publishedAt=2026-04-12T13:31:40Z | actualEndTime=None | effective=2026-04-12 13:31:40+00:00 | 머스크, 베조스, 젠슨황이 동시에 찍었다?스페이스X 상장의 최대 수혜주들
