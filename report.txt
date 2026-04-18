@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-17 12:59 (KST)
-Run: 121 (id=24546896154)
+생성 시각: 2026-04-18 12:44 (KST)
+Run: 122 (id=24596155667)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,68 @@ Run: 121 (id=24546896154)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Israel, Lebanon Agree on 10-Day Ceasefire | Balance of Power 04/16/2026
-  URL: https://www.youtube.com/watch?v=Tntr9em4Qu8
-  publishedAt: 2026-04-17T00:17:45Z
+  제목: India’s Parliament Expansion and the North-South Divide
+  URL: https://www.youtube.com/watch?v=Jj73bkybpb0
+  publishedAt: 2026-04-18T03:29:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Tntr9em4Qu8 | ongoing=False | publishedAt=2026-04-17T00:17:45Z | actualEndTime=None | effective=2026-04-17 00:17:45+00:00 | Israel, Lebanon Agree on 10-Day Ceasefire | Balance of Power
-   - UTzU7TW52mA | ongoing=False | publishedAt=2026-04-16T22:13:21Z | actualEndTime=None | effective=2026-04-16 22:13:21+00:00 | Netflix Misses Estimate, Stocks Hold Record Highs | The Clos
-   - E-43MFZsKKU | ongoing=False | publishedAt=2026-04-16T21:16:22Z | actualEndTime=None | effective=2026-04-16 21:16:22+00:00 | Yardeni: Investors Are Looking Past Iran War
-   - SkLyQj1pLTA | ongoing=False | publishedAt=2026-04-16T21:03:38Z | actualEndTime=None | effective=2026-04-16 21:03:38+00:00 | The AI Model That Frightens Wall Street
-   - MjunUOYUgfU | ongoing=False | publishedAt=2026-04-16T20:47:38Z | actualEndTime=None | effective=2026-04-16 20:47:38+00:00 | Netflix Earnings Forecast Misses, Reed Hastings Steps Down
-   - y-NIa2O3ktA | ongoing=False | publishedAt=2026-04-16T20:47:44Z | actualEndTime=None | effective=2026-04-16 20:47:44+00:00 | Netflix Just Keeps Printing Money, Gerber Says
-   - NmRwoRhqzX8 | ongoing=False | publishedAt=2026-04-16T20:46:24Z | actualEndTime=None | effective=2026-04-16 20:46:24+00:00 | Netflix Beats on Earnings, but Misses on the Forecast, Sendi
-   - UMuZk-dJEWw | ongoing=False | publishedAt=2026-04-16T20:17:26Z | actualEndTime=None | effective=2026-04-16 20:17:26+00:00 | Netflix Report Results, Co-Founder Hastings to Leave Board |
-   - SRCmGY3e0OI | ongoing=False | publishedAt=2026-04-16T20:07:24Z | actualEndTime=None | effective=2026-04-16 20:07:24+00:00 | Bank of Israel May Upgrade Growth Forecast, Yaron Says
-   - 3BL7rze5VAE | ongoing=False | publishedAt=2026-04-16T20:00:29Z | actualEndTime=None | effective=2026-04-16 20:00:29+00:00 | Stocks Extend High as Traders Await Clarity on US, Iran Truc
+   - Jj73bkybpb0 | ongoing=False | publishedAt=2026-04-18T03:29:34Z | actualEndTime=None | effective=2026-04-18 03:29:34+00:00 | India’s Parliament Expansion and the North-South Divide
+   - eZFsV1jWR6c | ongoing=False | publishedAt=2026-04-17T23:40:06Z | actualEndTime=None | effective=2026-04-17 23:40:06+00:00 | Trump Claims Hormuz is 'Open For Business' | Balance of Powe
+   - K9UoYXhZKxA | ongoing=False | publishedAt=2026-04-17T23:00:24Z | actualEndTime=None | effective=2026-04-17 23:00:24+00:00 | Wall Street Week | Paulson on Iran War, Energy Market Disrup
+   - jsluWH1B_bQ | ongoing=False | publishedAt=2026-04-17T22:11:48Z | actualEndTime=None | effective=2026-04-17 22:11:48+00:00 | Peace Prospects Extend April Surge | The Close 4/17/2026
+   - 3kQKBEmxOrU | ongoing=False | publishedAt=2026-04-17T21:13:31Z | actualEndTime=None | effective=2026-04-17 21:13:31+00:00 | Wall Street Extends April Surge on Peace Prospects | Bloombe
+   - uaPXm0ybjBc | ongoing=False | publishedAt=2026-04-17T20:55:53Z | actualEndTime=None | effective=2026-04-17 20:55:53+00:00 | NYC’s Second-Home Tax Unites Mamdani and Hochul
+   - PP0hBo9a1Fg | ongoing=False | publishedAt=2026-04-17T20:49:05Z | actualEndTime=None | effective=2026-04-17 20:49:05+00:00 | Florida Schools Bet on AI Tools to Bolster Finances
+   - oI8yA40K6E0 | ongoing=False | publishedAt=2026-04-17T20:47:26Z | actualEndTime=None | effective=2026-04-17 20:47:26+00:00 | Global Financial Watchdog to Share Insight on Anthropic’s My
+   - lAAc0eCjeYQ | ongoing=False | publishedAt=2026-04-17T20:39:57Z | actualEndTime=None | effective=2026-04-17 20:39:57+00:00 | Wall Street Extends April Surge As The Strait of Hormuz Reop
+   - hUje3oBg9Vc | ongoing=False | publishedAt=2026-04-17T20:29:39Z | actualEndTime=None | effective=2026-04-17 20:29:39+00:00 | Stocks Hit Record Highs After Strait of Hormuz Is Declared O
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Trump JUST **Announced** Big Iran U-Turn
-  URL: https://www.youtube.com/watch?v=-ZhsNF9gID0
-  publishedAt: 2026-04-16T18:25:28Z
+  제목: WE NEED TO TALK. SOMETHING'S UP.
+  URL: https://www.youtube.com/watch?v=pvll7speEgI
+  publishedAt: 2026-04-18T03:38:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - pvll7speEgI | ongoing=False | publishedAt=2026-04-18T03:38:50Z | actualEndTime=None | effective=2026-04-18 03:38:50+00:00 | WE NEED TO TALK. SOMETHING'S UP.
+   - 7705qDZGYPw | ongoing=False | publishedAt=2026-04-17T13:32:40Z | actualEndTime=None | effective=2026-04-17 13:32:40+00:00 | This Changes Everything.
    - -ZhsNF9gID0 | ongoing=False | publishedAt=2026-04-16T18:25:28Z | actualEndTime=None | effective=2026-04-16 18:25:28+00:00 | Trump JUST **Announced** Big Iran U-Turn
-   - DglqEYPmZmg | ongoing=False | publishedAt=2026-04-15T22:29:30Z | actualEndTime=None | effective=2026-04-15 22:29:30+00:00 | This Changes EVERYTHING for Stocks.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  미·이란 협상 급진전… S&P500 또 사상 최고치  -  2026/04/16
-  URL: https://www.youtube.com/watch?v=13n1t2G9wdc
-  publishedAt: 2026-04-16T22:15:00Z
+  제목: 【미국 증시 오늘의 요약】  이란 호르무즈 해협 개방 선언… S&P 500 사상 첫 7,100선 돌파  -  2026/04/17
+  URL: https://www.youtube.com/watch?v=nJR0AATSLnU
+  publishedAt: 2026-04-17T22:25:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - nJR0AATSLnU | ongoing=False | publishedAt=2026-04-17T22:25:01Z | actualEndTime=None | effective=2026-04-17 22:25:01+00:00 | 【미국 증시 오늘의 요약】  이란 호르무즈 해협 개방 선언… S&P 500 사상 첫 7,100선 돌파  - 
+   - cFte_uCrEeE | ongoing=False | publishedAt=2026-04-17T21:50:03Z | actualEndTime=2026-04-17T21:28:17Z | effective=2026-04-17 21:28:17+00:00 | [26년 04월 17일 금]  트럼프, "이란 전쟁, 곧 끝날 것“ ｜ 금요일 3.3조 달러 옵션 만기 ｜C
    - 13n1t2G9wdc | ongoing=False | publishedAt=2026-04-16T22:15:00Z | actualEndTime=None | effective=2026-04-16 22:15:00+00:00 | 【미국 증시 오늘의 요약】  미·이란 협상 급진전… S&P500 또 사상 최고치  -  2026/04/16
    - udrjy0eYqMo | ongoing=False | publishedAt=2026-04-16T21:54:26Z | actualEndTime=2026-04-16T21:31:10Z | effective=2026-04-16 21:31:10+00:00 | [26년 04월 16일 목]  트럼프, '이스라엘-레바논' 정상회담 예정｜ TSMC - 실적발표 ｜ 백악관,
-   - dd4g5id7UWo | ongoing=False | publishedAt=2026-04-15T22:10:00Z | actualEndTime=None | effective=2026-04-15 22:10:00+00:00 | 【미국 증시 오늘의 요약】  트럼프 "전쟁 거의 끝났다"… 휴전 훈풍에 사상 최고치 찍은 미 증시  -  2
-   - Yx-8JK6SO6M | ongoing=False | publishedAt=2026-04-15T21:37:20Z | actualEndTime=2026-04-15T21:15:40Z | effective=2026-04-15 21:15:40+00:00 | [26년 04월 15일 수]  미국·이란, 휴전 연장 합의?! ｜ 백악관 대변인 '언론 브리핑' ｜ 메타·브
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 또또또또또또 IPO
-  URL: https://www.youtube.com/watch?v=LBbJj80odyY
-  publishedAt: 2026-04-17T03:00:31Z
+  제목: 미국 실적 발표를 볼 때 이거 하나만큼은 기억하세요
+  URL: https://www.youtube.com/watch?v=-NZEP3UyxzI
+  publishedAt: 2026-04-18T02:17:48Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -NZEP3UyxzI | ongoing=False | publishedAt=2026-04-18T02:17:48Z | actualEndTime=None | effective=2026-04-18 02:17:48+00:00 | 미국 실적 발표를 볼 때 이거 하나만큼은 기억하세요
+   - iPJNl2Xw6cE | ongoing=False | publishedAt=2026-04-17T09:01:00Z | actualEndTime=None | effective=2026-04-17 09:01:00+00:00 | 투자와 투기를 구분하는 방법은?
    - LBbJj80odyY | ongoing=False | publishedAt=2026-04-17T03:00:31Z | actualEndTime=None | effective=2026-04-17 03:00:31+00:00 | 또또또또또또 IPO
    - aIgLUQoraAk | ongoing=False | publishedAt=2026-04-17T00:15:26Z | actualEndTime=2026-04-17T00:10:18Z | effective=2026-04-17 00:10:18+00:00 | 마이클버리, 페이팔, 어도비, 세일즈포스 매수!!ㅣ엔비디아, 200달러는 멀고도 험하네요ㅣ오늘은 "2차전지+
    - FvYuBT7J5CI | ongoing=False | publishedAt=2026-04-16T07:00:20Z | actualEndTime=None | effective=2026-04-16 07:00:20+00:00 | 매매 전략의 정석에 대해 말씀드리겠습니다
    - 0JgLvAies88 | ongoing=False | publishedAt=2026-04-16T06:14:54Z | actualEndTime=None | effective=2026-04-16 06:14:54+00:00 | 미국 재무부의 '성장 전략'이 주식/채권 시장에 미칠 영향
-   - YKgcNVAks54 | ongoing=False | publishedAt=2026-04-16T03:00:37Z | actualEndTime=None | effective=2026-04-16 03:00:37+00:00 | 존버해서 돈이 됩니까? 단타 몰빵을 해야지!!
-   - pS6ZfPXf7fY | ongoing=False | publishedAt=2026-04-16T00:14:29Z | actualEndTime=2026-04-16T00:08:51Z | effective=2026-04-16 00:08:51+00:00 | 엔비디아 매도한 X들 전부 X었으면 좋겠습니다ㅣ[아침뉴스&미국시황] #260416
-   - DYxnpk_i9hQ | ongoing=False | publishedAt=2026-04-15T05:35:49Z | actualEndTime=None | effective=2026-04-15 05:35:49+00:00 | 정말 매수를 하고 싶다면 "이럴 때" 하셔야!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 이제는 정말 전쟁의 끝이 보이는 진짜 이유
+  URL: https://www.youtube.com/watch?v=a8651aiMbQ4
+  publishedAt: 2026-04-17T17:14:27Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - a8651aiMbQ4 | ongoing=False | publishedAt=2026-04-17T17:14:27Z | actualEndTime=None | effective=2026-04-17 17:14:27+00:00 | 이제는 정말 전쟁의 끝이 보이는 진짜 이유
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - T0LyJV8h2Dc | ongoing=False | publishedAt=2026-04-15T08:50:09Z | actualEndTime=None | effective=2026-04-15 08:50:09+00:00 | 월가도 예상 못했다, 아마존 깜짝 부활 선언의 수혜주들
+  비고: 최근 48시간 검색 결과 없음
