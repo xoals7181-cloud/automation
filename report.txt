@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-22 12:55 (KST)
-Run: 126 (id=24759317848)
+생성 시각: 2026-04-23 13:09 (KST)
+Run: 127 (id=24816201410)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,68 +8,69 @@ Run: 126 (id=24759317848)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Iran Ceasefire Extending Until Talks Conclude | Balance of Power 04/21/2026
-  URL: https://www.youtube.com/watch?v=5WA2WDwVPVM
-  publishedAt: 2026-04-21T23:41:47Z
+  제목: AI’s Impact on Jobs: What Economists Might Be Getting Wrong
+  URL: https://www.youtube.com/watch?v=FKtqi3zSoOE
+  publishedAt: 2026-04-23T04:00:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 5WA2WDwVPVM | ongoing=False | publishedAt=2026-04-21T23:41:47Z | actualEndTime=None | effective=2026-04-21 23:41:47+00:00 | Iran Ceasefire Extending Until Talks Conclude | Balance of P
-   - zEevejDBiBw | ongoing=False | publishedAt=2026-04-21T23:35:11Z | actualEndTime=None | effective=2026-04-21 23:35:11+00:00 | Anthropic’s Mythos model is being accessed by unauthorized u
-   - PqX4NMnDzYQ | ongoing=False | publishedAt=2026-04-21T22:15:04Z | actualEndTime=None | effective=2026-04-21 22:15:04+00:00 | Stocks Extend Drop, Trump Extends Iran Ceasefire | The Close
-   - O1w_1fscw8E | ongoing=False | publishedAt=2026-04-21T22:14:04Z | actualEndTime=None | effective=2026-04-21 22:14:04+00:00 | Anthropic's Mythos AI Model Accessed by Unauthorized Users
-   - p3pExjm_Tdc | ongoing=False | publishedAt=2026-04-21T21:45:01Z | actualEndTime=None | effective=2026-04-21 21:45:01+00:00 | Senator Warren on War in Iran, Warsh Hearing and Fed Indepen
-   - WP4Cs7PN-rc | ongoing=False | publishedAt=2026-04-21T21:37:51Z | actualEndTime=None | effective=2026-04-21 21:37:51+00:00 | Vance Not Going to Pakistan for Talks, Trump Extends Ceasefi
-   - oRQBCD3AC-0 | ongoing=False | publishedAt=2026-04-21T21:23:57Z | actualEndTime=None | effective=2026-04-21 21:23:57+00:00 | FDA's Makary on Trump EO to Ease Access to Psychedelics
-   - UlHREhGxLdw | ongoing=False | publishedAt=2026-04-21T21:21:34Z | actualEndTime=None | effective=2026-04-21 21:21:34+00:00 | Mixed Messaging Clouds Potential New US-Iran Talks
-   - Dj2TR93vbsc | ongoing=False | publishedAt=2026-04-21T21:21:42Z | actualEndTime=None | effective=2026-04-21 21:21:42+00:00 | Apple CEO Tim Cook’s 15-Year Legacy by the Numbers
-   - YWYQKI8_0UA | ongoing=False | publishedAt=2026-04-21T21:20:01Z | actualEndTime=None | effective=2026-04-21 21:20:01+00:00 | Trump Extends Iran Ceasefire Until Talks Conclude
+   - FKtqi3zSoOE | ongoing=False | publishedAt=2026-04-23T04:00:14Z | actualEndTime=None | effective=2026-04-23 04:00:14+00:00 | AI’s Impact on Jobs: What Economists Might Be Getting Wrong
+   - 3eIvpPGJ7uo | ongoing=False | publishedAt=2026-04-23T03:54:39Z | actualEndTime=None | effective=2026-04-23 03:54:39+00:00 | AI Optimism Drives Korean Stocks to Record | The Asia Trade 
+   - Z_-d7XKqk-c | ongoing=False | publishedAt=2026-04-22T23:51:40Z | actualEndTime=None | effective=2026-04-22 23:51:40+00:00 | US, Iran Deadlocked Over Hormuz | Balance of Power 04/22/202
+   - W--21PmIB98 | ongoing=False | publishedAt=2026-04-22T22:13:46Z | actualEndTime=None | effective=2026-04-22 22:13:46+00:00 | Stocks Rise on Truce Extension, Tesla Beats Estimates | The 
+   - droWYu_Uj7A | ongoing=False | publishedAt=2026-04-22T20:38:53Z | actualEndTime=None | effective=2026-04-22 20:38:53+00:00 | Tesla Faces Tricky Road Ahead, Former Board Member Says
+   - hzW4rJ1uBoM | ongoing=False | publishedAt=2026-04-22T20:27:53Z | actualEndTime=None | effective=2026-04-22 20:27:53+00:00 | Tesla 1Q Earnings Beat Estimates Sending Share Higher
+   - 4n5shcnEMDU | ongoing=False | publishedAt=2026-04-22T20:25:07Z | actualEndTime=None | effective=2026-04-22 20:25:07+00:00 | Stocks Near Record Highs on Iran Truce Extension | Bloomberg
+   - 5HNEUWcySvo | ongoing=False | publishedAt=2026-04-22T20:09:53Z | actualEndTime=None | effective=2026-04-22 20:09:53+00:00 | US, Iran in Battle to Control Strait of Hormuz
+   - ux6Wc52lkZY | ongoing=False | publishedAt=2026-04-22T19:38:51Z | actualEndTime=None | effective=2026-04-22 19:38:51+00:00 | Trump Extends Ceasefire, Virginia Backs Redistricting| Balan
+   - XmaKKdFdzSE | ongoing=False | publishedAt=2026-04-22T19:09:22Z | actualEndTime=None | effective=2026-04-22 19:09:22+00:00 | US Expected to Ease Restrictions on Marijuana
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: NO ONE IS TALKING ABOUT THIS: CRITICAL
-  URL: https://www.youtube.com/watch?v=zaMazPG3ha0
-  publishedAt: 2026-04-22T02:35:34Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - zaMazPG3ha0 | ongoing=False | publishedAt=2026-04-22T02:35:34Z | actualEndTime=None | effective=2026-04-22 02:35:34+00:00 | NO ONE IS TALKING ABOUT THIS: CRITICAL
    - nB1rDUw97gY | ongoing=False | publishedAt=2026-04-21T21:20:26Z | actualEndTime=None | effective=2026-04-21 21:20:26+00:00 | f**k
-   - eGq6Pj1wFWQ | ongoing=False | publishedAt=2026-04-20T23:55:03Z | actualEndTime=None | effective=2026-04-20 23:55:03+00:00 | Trump JUST *Flip Flopped* AGAIN!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 미·이란 협상 결렬 우려에 증시 하락... 트럼프 "휴전 연장"  -  2026/04/21
-  URL: https://www.youtube.com/watch?v=B1ZtIUzAnhg
-  publishedAt: 2026-04-21T22:25:01Z
+  제목: 【미국 증시 오늘의 요약】 전쟁 공포도 잊게 만든 '호실적 릴레이'…  S&P500 또 사상 최고치!   -  2026/04/22
+  URL: https://www.youtube.com/watch?v=7EaYrsxSXNM
+  publishedAt: 2026-04-22T23:18:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 7EaYrsxSXNM | ongoing=False | publishedAt=2026-04-22T23:18:01Z | actualEndTime=None | effective=2026-04-22 23:18:01+00:00 | 【미국 증시 오늘의 요약】 전쟁 공포도 잊게 만든 '호실적 릴레이'…  S&P500 또 사상 최고치!   -
+   - uk5w3569UOA | ongoing=False | publishedAt=2026-04-22T23:09:01Z | actualEndTime=2026-04-22T22:41:01Z | effective=2026-04-22 22:41:01+00:00 | [26년 04월 22일 수]  트럼프, "이란, 공격 보류·휴전 연장" ｜ 테슬라·IBM, 실적발표 ｜ 어도
    - B1ZtIUzAnhg | ongoing=False | publishedAt=2026-04-21T22:25:01Z | actualEndTime=None | effective=2026-04-21 22:25:01+00:00 | 【미국 증시 오늘의 요약】 미·이란 협상 결렬 우려에 증시 하락... 트럼프 "휴전 연장"  -  2026/
    - wdsOMiiXFJI | ongoing=False | publishedAt=2026-04-21T21:54:07Z | actualEndTime=2026-04-21T21:35:19Z | effective=2026-04-21 21:35:19+00:00 | [26년 04월 21일 화]  '케빈 워시' 연준 의장 지명자 ‘인준 청문회’ ｜ 트럼프 대통령, CNBC 
-   - HB54XgZkyqc | ongoing=False | publishedAt=2026-04-20T22:25:00Z | actualEndTime=None | effective=2026-04-20 22:25:00+00:00 | 【미국 증시 오늘의 요약】 팀 쿡 시대 막 내린 애플... S&P500 랠리 멈췄지만 중소형주는 날았다!  
-   - sjhuRIEhIXQ | ongoing=False | publishedAt=2026-04-20T22:03:33Z | actualEndTime=2026-04-20T21:39:52Z | effective=2026-04-20 21:39:52+00:00 | [26년 04월 20일 월]   D-2.. 미국·이란 휴전 협상 만료 ｜ 구글, 마벨과 AI 신규 칩 개발 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 워렌 버핏도 샀지만, 이건 답이 없다고 생각합니다
-  URL: https://www.youtube.com/watch?v=Tv9h6CkEDDQ
-  publishedAt: 2026-04-22T03:00:34Z
+  제목: 욕심을 내려 놓아야 수익이 쌓입니다
+  URL: https://www.youtube.com/watch?v=Cpz4DCcp8cs
+  publishedAt: 2026-04-23T03:00:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Cpz4DCcp8cs | ongoing=False | publishedAt=2026-04-23T03:00:20Z | actualEndTime=None | effective=2026-04-23 03:00:20+00:00 | 욕심을 내려 놓아야 수익이 쌓입니다
+   - U4UA0y1x3G8 | ongoing=False | publishedAt=2026-04-23T01:00:33Z | actualEndTime=None | effective=2026-04-23 01:00:33+00:00 | 반도체 시장의 숨겨진 호재?!
+   - 4nJf6muU_dA | ongoing=False | publishedAt=2026-04-23T00:07:35Z | actualEndTime=2026-04-22T23:58:34Z | effective=2026-04-22 23:58:34+00:00 | 브로드컴 신고가! MU 받고 TSMC, 아마존, 구글, 엔비디아까지 가즈아!!ㅣ[아침뉴스&미국시황] #260
+   - Hheisz9HZDs | ongoing=False | publishedAt=2026-04-22T09:00:32Z | actualEndTime=None | effective=2026-04-22 09:00:32+00:00 | 성공한 투자자는 떡잎부터 다르다?!
    - Tv9h6CkEDDQ | ongoing=False | publishedAt=2026-04-22T03:00:34Z | actualEndTime=None | effective=2026-04-22 03:00:34+00:00 | 워렌 버핏도 샀지만, 이건 답이 없다고 생각합니다
    - PMxhvTjVkgE | ongoing=False | publishedAt=2026-04-22T01:00:34Z | actualEndTime=None | effective=2026-04-22 01:00:34+00:00 | 이젠 말하는 것도 지친다
    - yc2f5xj5VQI | ongoing=False | publishedAt=2026-04-22T00:15:08Z | actualEndTime=2026-04-22T00:09:46Z | effective=2026-04-22 00:09:46+00:00 | 케빈 워시 청문회, 쉽지 않은 연준의장이 될 것 같습니다ㅣ[아침뉴스&미국시황] #260422
-   - 8Lu93TXZmzs | ongoing=False | publishedAt=2026-04-21T18:16:26Z | actualEndTime=2026-04-21T15:54:50Z | effective=2026-04-21 15:54:50+00:00 | [미국주식LIVE] 주식은 걱정의 벽을 타고 오른다규!!ㅣ#260421
    - HLi8ADqxG1M | ongoing=False | publishedAt=2026-04-21T10:10:58Z | actualEndTime=None | effective=2026-04-21 10:10:58+00:00 | 시장을 정확히 보려면 RSI 지표를 주목!
-   - HCECkH_FmvU | ongoing=False | publishedAt=2026-04-21T03:00:26Z | actualEndTime=None | effective=2026-04-21 03:00:26+00:00 | 스윙 차트를 공부해봅시다ㅣ#테반꿀 #넷플릭스 #실적발표
-   - P138vEpEyiM | ongoing=False | publishedAt=2026-04-21T01:00:32Z | actualEndTime=None | effective=2026-04-21 01:00:32+00:00 | 진짜 팔지 말아야 할 기업, GPM, OPM을 봐야 한다
-   - IE2I5OvQIPU | ongoing=False | publishedAt=2026-04-21T00:08:37Z | actualEndTime=2026-04-21T00:03:16Z | effective=2026-04-21 00:03:16+00:00 | 엔비디아가 상승하기 시작했습니다!!!!ㅣ[아침뉴스&미국시황] #260421
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 말도 안되는 주식 상승
+  URL: https://www.youtube.com/watch?v=Qm3k_i7QZAg
+  publishedAt: 2026-04-22T18:08:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - Qm3k_i7QZAg | ongoing=False | publishedAt=2026-04-22T18:08:02Z | actualEndTime=None | effective=2026-04-22 18:08:02+00:00 | 말도 안되는 주식 상승
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - kyMme-CBqwI | ongoing=False | publishedAt=2026-04-22T12:44:34Z | actualEndTime=None | effective=2026-04-22 12:44:34+00:00 | 메타 CEO까지 복제한다? 섬뜩한 AI에이전트 시대 수혜주들
    - nsTUU5dPD64 | ongoing=False | publishedAt=2026-04-21T09:01:48Z | actualEndTime=None | effective=2026-04-21 09:01:48+00:00 | 앤트로픽이 다시 불붙인 AI 광풍, 돈 몰리는 수혜주들
-   - RwXZPKeIBUc | ongoing=False | publishedAt=2026-04-20T13:18:38Z | actualEndTime=None | effective=2026-04-20 13:18:38+00:00 | 증시 역대급 반등에 태세전환한 월가, 전망 적중할까
