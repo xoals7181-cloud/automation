@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-25 12:48 (KST)
-Run: 129 (id=24921859693)
+생성 시각: 2026-04-26 13:18 (KST)
+Run: 130 (id=24948069079)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,21 +8,21 @@ Run: 129 (id=24921859693)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Iran Says No Meeting Planned With US | Balance of Power 04/24/2026
-  URL: https://www.youtube.com/watch?v=xENN08NwdY4
-  publishedAt: 2026-04-24T23:19:58Z
+  제목: Trump Recounts Shooting Incident at Correspondents’ Dinner
+  URL: https://www.youtube.com/watch?v=kFjVDHC_xio
+  publishedAt: 2026-04-26T03:24:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - xENN08NwdY4 | ongoing=False | publishedAt=2026-04-24T23:19:58Z | actualEndTime=None | effective=2026-04-24 23:19:58+00:00 | Iran Says No Meeting Planned With US | Balance of Power 04/2
-   - KQ7PnL8ID-E | ongoing=False | publishedAt=2026-04-24T23:00:17Z | actualEndTime=None | effective=2026-04-24 23:00:17+00:00 | Wall Street Week | Anthropic Cybersecurity Risk, BYD Goes Gl
-   - QLPn2RJQ5n0 | ongoing=False | publishedAt=2026-04-24T22:32:34Z | actualEndTime=None | effective=2026-04-24 22:32:34+00:00 | Stocks At All-Time Highs, Powell Probe Reversal | Bloomberg 
-   - GoOQylbF3o8 | ongoing=False | publishedAt=2026-04-24T22:12:14Z | actualEndTime=None | effective=2026-04-24 22:12:14+00:00 | Stocks Close at Record High on US-Iran Talk Hopes | The Clos
-   - qs5IaacKZgM | ongoing=False | publishedAt=2026-04-24T21:14:11Z | actualEndTime=None | effective=2026-04-24 21:14:11+00:00 | 'Tax the Rich' Policies Draw Attention
-   - soC9Hz0lhMc | ongoing=False | publishedAt=2026-04-24T20:41:14Z | actualEndTime=None | effective=2026-04-24 20:41:14+00:00 | Oracle Stock Could Double, Ives Says
-   - i6YLWUA_jl8 | ongoing=False | publishedAt=2026-04-24T20:33:28Z | actualEndTime=None | effective=2026-04-24 20:33:28+00:00 | DOJ Drops Fed Probe, Clearing Way for Warsh | Balance of Pow
-   - 3WcFHxa3fcM | ongoing=False | publishedAt=2026-04-24T20:24:28Z | actualEndTime=None | effective=2026-04-24 20:24:28+00:00 | Record Day for S&P, Nasdaq | Closing Bell
-   - 2n3plkzcMAM | ongoing=False | publishedAt=2026-04-24T20:10:08Z | actualEndTime=None | effective=2026-04-24 20:10:08+00:00 | Xiaomi’s Electric Supercar Threatens Porsche, Europe Models
-   - JRodg5x_5WI | ongoing=False | publishedAt=2026-04-24T20:07:58Z | actualEndTime=None | effective=2026-04-24 20:07:58+00:00 | Tesla Boosts Spending Plan to $25 Billion in AI, Robotics Pu
+   - kFjVDHC_xio | ongoing=False | publishedAt=2026-04-26T03:24:36Z | actualEndTime=None | effective=2026-04-26 03:24:36+00:00 | Trump Recounts Shooting Incident at Correspondents’ Dinner
+   - zrKj0ksBt2U | ongoing=False | publishedAt=2026-04-26T03:03:28Z | actualEndTime=None | effective=2026-04-26 03:03:28+00:00 | Trump Evacuated After Shots Fired at DC Event
+   - ypmhVBK8qQQ | ongoing=False | publishedAt=2026-04-25T16:32:17Z | actualEndTime=None | effective=2026-04-25 16:32:17+00:00 | Bloomberg This Weekend | Mix Messages on Iran Talks, DOJ end
+   - i9nvnZpBDtE | ongoing=False | publishedAt=2026-04-25T16:06:46Z | actualEndTime=None | effective=2026-04-25 16:06:46+00:00 | European Union Leaders Convene in Cyprus Amid Iran War
+   - bW3zguhgnp8 | ongoing=False | publishedAt=2026-04-25T16:00:45Z | actualEndTime=None | effective=2026-04-25 16:00:45+00:00 | The Billion-Barrel Hormuz Oil Shock Is About to Crash Demand
+   - 2mHM-Oeq04I | ongoing=False | publishedAt=2026-04-25T15:49:57Z | actualEndTime=None | effective=2026-04-25 15:49:57+00:00 | FIFA World Cup, Chili, Pokémon | BTW
+   - N8e20R0uii0 | ongoing=False | publishedAt=2026-04-25T15:38:23Z | actualEndTime=None | effective=2026-04-25 15:38:23+00:00 | Triumphal Arch: How Trump is Leaving His Mark on Washington 
+   - XKXYzazGIMY | ongoing=False | publishedAt=2026-04-25T15:16:41Z | actualEndTime=None | effective=2026-04-25 15:16:41+00:00 | Rep. McCaul (R-TX): US-Iran Talks Unlikely to Reach Breakthr
+   - H0ryiQLar6w | ongoing=False | publishedAt=2026-04-25T15:08:00Z | actualEndTime=None | effective=2026-04-25 15:08:00+00:00 | Insurance, Crypto, Media | The Pointed News Quiz
+   - qFIdimyGCgg | ongoing=False | publishedAt=2026-04-25T14:59:56Z | actualEndTime=None | effective=2026-04-25 14:59:56+00:00 | The Diplomacy Behind the 2026 World Cup
 
 - Meet Kevin
   상태: NO_VIDEO
@@ -30,39 +30,30 @@ Run: 129 (id=24921859693)
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 미 증시 사상 최고치 돌파!  인텔 23% 폭등 & 미·이란 협상 기대감    -  2026/04/24
-  URL: https://www.youtube.com/watch?v=WGh7VSPfVNs
-  publishedAt: 2026-04-24T22:27:00Z
+  제목: [특별 방송]  트럼프 대통령 '총격 사건, 기자회견'  ｜ -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=GSxWlJu8zEQ
+  publishedAt: 2026-04-26T03:11:43Z
+  actualEndTime: 2026-04-26T03:07:12Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - GSxWlJu8zEQ | ongoing=False | publishedAt=2026-04-26T03:11:43Z | actualEndTime=2026-04-26T03:07:12Z | effective=2026-04-26 03:07:12+00:00 | [특별 방송]  트럼프 대통령 '총격 사건, 기자회견'  ｜ -  오선의 미국 증시 라이브
    - WGh7VSPfVNs | ongoing=False | publishedAt=2026-04-24T22:27:00Z | actualEndTime=None | effective=2026-04-24 22:27:00+00:00 | 【미국 증시 오늘의 요약】 미 증시 사상 최고치 돌파!  인텔 23% 폭등 & 미·이란 협상 기대감    -
    - 4MLmYP9Ki9U | ongoing=False | publishedAt=2026-04-24T21:55:25Z | actualEndTime=2026-04-24T21:35:14Z | effective=2026-04-24 21:35:14+00:00 | [26년 04월 24일 금]  인텔, 어닝 서프라이즈 ｜ 이란 외무장관, 오늘 밤 파키스탄 방문 예정 ｜ 일
-   - 68REnmssFLg | ongoing=False | publishedAt=2026-04-23T23:00:06Z | actualEndTime=None | effective=2026-04-23 23:00:06+00:00 | 【미국 증시 오늘의 요약】 멀어지는 휴전, 치솟는 유가, 그리고 소프트웨어주 공포…     -  2026/0
-   - ieNdJzGtH-I | ongoing=False | publishedAt=2026-04-23T22:31:46Z | actualEndTime=2026-04-23T22:06:44Z | effective=2026-04-23 22:06:44+00:00 | [26년 04월 23일 목]  트럼프, '의료비 부담 완화' 행사 참석 ｜ 인텔, 실적발표 ｜ 서비스업·제조
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: AI 금융의 문제점, 여전히 적자가 누적된다
-  URL: https://www.youtube.com/watch?v=6wdH9Z1jFu8
-  publishedAt: 2026-04-25T01:00:06Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 8DoMqzunjWU | ongoing=False | publishedAt=2026-04-25T07:00:07Z | actualEndTime=None | effective=2026-04-25 07:00:07+00:00 | 단타냐? 장타냐? 그것이 문제로다
    - 6wdH9Z1jFu8 | ongoing=False | publishedAt=2026-04-25T01:00:06Z | actualEndTime=None | effective=2026-04-25 01:00:06+00:00 | AI 금융의 문제점, 여전히 적자가 누적된다
    - BfhO8SCVYyo | ongoing=False | publishedAt=2026-04-24T17:09:45Z | actualEndTime=2026-04-24T16:26:43Z | effective=2026-04-24 16:26:43+00:00 | [미국주식LIVE] 아마존 신고가!! TSMC도 신고가!!! 가즈아!!!!!!!!!!ㅣ어떤 편법을 써서라도 
-   - xTKl_n9ktgE | ongoing=False | publishedAt=2026-04-24T01:01:03Z | actualEndTime=None | effective=2026-04-24 01:01:03+00:00 | 네이버 - 두나무 IPO, 이거 맞습니까 정말?
-   - XJriOzEGlsM | ongoing=False | publishedAt=2026-04-24T00:14:10Z | actualEndTime=2026-04-24T00:05:43Z | effective=2026-04-24 00:05:43+00:00 | 유가 105달러, 전쟁+S/W 급락 ▶ 휴전 연장, SAP+인텔 실적반등!ㅣ오늘도 나스닥은 평화롭습니다ㅣ[아
-   - vnkyBa0Gr5E | ongoing=False | publishedAt=2026-04-23T08:10:18Z | actualEndTime=None | effective=2026-04-23 08:10:18+00:00 | 지금 시장의 진짜 승부처, 신고가 한 번에 갈린다!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 새로운 AI 주도주 바로 '이것'
-  URL: https://www.youtube.com/watch?v=m0NNOWZfcec
-  publishedAt: 2026-04-24T17:49:32Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - m0NNOWZfcec | ongoing=False | publishedAt=2026-04-24T17:49:32Z | actualEndTime=None | effective=2026-04-24 17:49:32+00:00 | 새로운 AI 주도주 바로 '이것'
    - X7l6XtJ2RZk | ongoing=False | publishedAt=2026-04-24T06:43:11Z | actualEndTime=None | effective=2026-04-24 06:43:11+00:00 | 하이닉스 200만원 기원 #하이닉스 #코스피  #국장  #shorts #붐샤카라카
-   - Qr3SVpU6dns | ongoing=False | publishedAt=2026-04-23T18:19:57Z | actualEndTime=None | effective=2026-04-23 18:19:57+00:00 | 소프트웨어 주식 최악의 날
 
 - 소수몽키
   상태: NO_VIDEO
