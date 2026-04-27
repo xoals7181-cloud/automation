@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-26 13:18 (KST)
-Run: 130 (id=24948069079)
+생성 시각: 2026-04-27 13:26 (KST)
+Run: 131 (id=24976498672)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,52 +8,49 @@ Run: 130 (id=24948069079)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Recounts Shooting Incident at Correspondents’ Dinner
-  URL: https://www.youtube.com/watch?v=kFjVDHC_xio
-  publishedAt: 2026-04-26T03:24:36Z
+  제목: How Chinese EV Makers Are Winning Over Consumers
+  URL: https://www.youtube.com/watch?v=jAIyASFIo2Y
+  publishedAt: 2026-04-27T04:03:49Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - kFjVDHC_xio | ongoing=False | publishedAt=2026-04-26T03:24:36Z | actualEndTime=None | effective=2026-04-26 03:24:36+00:00 | Trump Recounts Shooting Incident at Correspondents’ Dinner
-   - zrKj0ksBt2U | ongoing=False | publishedAt=2026-04-26T03:03:28Z | actualEndTime=None | effective=2026-04-26 03:03:28+00:00 | Trump Evacuated After Shots Fired at DC Event
-   - ypmhVBK8qQQ | ongoing=False | publishedAt=2026-04-25T16:32:17Z | actualEndTime=None | effective=2026-04-25 16:32:17+00:00 | Bloomberg This Weekend | Mix Messages on Iran Talks, DOJ end
-   - i9nvnZpBDtE | ongoing=False | publishedAt=2026-04-25T16:06:46Z | actualEndTime=None | effective=2026-04-25 16:06:46+00:00 | European Union Leaders Convene in Cyprus Amid Iran War
-   - bW3zguhgnp8 | ongoing=False | publishedAt=2026-04-25T16:00:45Z | actualEndTime=None | effective=2026-04-25 16:00:45+00:00 | The Billion-Barrel Hormuz Oil Shock Is About to Crash Demand
-   - 2mHM-Oeq04I | ongoing=False | publishedAt=2026-04-25T15:49:57Z | actualEndTime=None | effective=2026-04-25 15:49:57+00:00 | FIFA World Cup, Chili, Pokémon | BTW
-   - N8e20R0uii0 | ongoing=False | publishedAt=2026-04-25T15:38:23Z | actualEndTime=None | effective=2026-04-25 15:38:23+00:00 | Triumphal Arch: How Trump is Leaving His Mark on Washington 
-   - XKXYzazGIMY | ongoing=False | publishedAt=2026-04-25T15:16:41Z | actualEndTime=None | effective=2026-04-25 15:16:41+00:00 | Rep. McCaul (R-TX): US-Iran Talks Unlikely to Reach Breakthr
-   - H0ryiQLar6w | ongoing=False | publishedAt=2026-04-25T15:08:00Z | actualEndTime=None | effective=2026-04-25 15:08:00+00:00 | Insurance, Crypto, Media | The Pointed News Quiz
-   - qFIdimyGCgg | ongoing=False | publishedAt=2026-04-25T14:59:56Z | actualEndTime=None | effective=2026-04-25 14:59:56+00:00 | The Diplomacy Behind the 2026 World Cup
+   - jAIyASFIo2Y | ongoing=False | publishedAt=2026-04-27T04:03:49Z | actualEndTime=None | effective=2026-04-27 04:03:49+00:00 | How Chinese EV Makers Are Winning Over Consumers
+   - OGUVll1XPMI | ongoing=False | publishedAt=2026-04-26T16:17:04Z | actualEndTime=None | effective=2026-04-26 16:17:04+00:00 | Bloomberg This Weekend | Shots Fired at WHCD
+   - tWiz5wjk_pM | ongoing=False | publishedAt=2026-04-26T15:27:01Z | actualEndTime=None | effective=2026-04-26 15:27:01+00:00 | Rep. Beyer: "We Are More Divided Than We've Ever Been"
+   - Q2jMObyE3e4 | ongoing=False | publishedAt=2026-04-26T15:19:30Z | actualEndTime=None | effective=2026-04-26 15:19:30+00:00 | Rep. McCaul on How to Combat Political Violence
+   - izxay7rHhpk | ongoing=False | publishedAt=2026-04-26T15:08:49Z | actualEndTime=None | effective=2026-04-26 15:08:49+00:00 | Sen. Tillis Expected to Clear Way for Kevin Warsh as Fed Cha
+   - SGjjn9QDDBo | ongoing=False | publishedAt=2026-04-26T14:50:52Z | actualEndTime=None | effective=2026-04-26 14:50:52+00:00 | King Charles' Security Under Review ahead of DC Visit
+   - sV1m1kqPUYo | ongoing=False | publishedAt=2026-04-26T14:14:40Z | actualEndTime=None | effective=2026-04-26 14:14:40+00:00 | A History of Presidential Assassination Attempts
+   - iOrvOwBRsdk | ongoing=False | publishedAt=2026-04-26T14:01:06Z | actualEndTime=None | effective=2026-04-26 14:01:06+00:00 | How Boring Businesses Create Billionaires
+   - b-70-mQfa0k | ongoing=False | publishedAt=2026-04-26T13:29:23Z | actualEndTime=None | effective=2026-04-26 13:29:23+00:00 | Secret Service Likely to Lead WHCD Investigation
+   - Qt0J7qy0MLk | ongoing=False | publishedAt=2026-04-26T12:53:03Z | actualEndTime=None | effective=2026-04-26 12:53:03+00:00 | Shots Fired at White House Correspondents' Dinner, Suspect i
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: [특별 방송]  트럼프 대통령 '총격 사건, 기자회견'  ｜ -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=GSxWlJu8zEQ
-  publishedAt: 2026-04-26T03:11:43Z
-  actualEndTime: 2026-04-26T03:07:12Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - GSxWlJu8zEQ | ongoing=False | publishedAt=2026-04-26T03:11:43Z | actualEndTime=2026-04-26T03:07:12Z | effective=2026-04-26 03:07:12+00:00 | [특별 방송]  트럼프 대통령 '총격 사건, 기자회견'  ｜ -  오선의 미국 증시 라이브
-   - WGh7VSPfVNs | ongoing=False | publishedAt=2026-04-24T22:27:00Z | actualEndTime=None | effective=2026-04-24 22:27:00+00:00 | 【미국 증시 오늘의 요약】 미 증시 사상 최고치 돌파!  인텔 23% 폭등 & 미·이란 협상 기대감    -
-   - 4MLmYP9Ki9U | ongoing=False | publishedAt=2026-04-24T21:55:25Z | actualEndTime=2026-04-24T21:35:14Z | effective=2026-04-24 21:35:14+00:00 | [26년 04월 24일 금]  인텔, 어닝 서프라이즈 ｜ 이란 외무장관, 오늘 밤 파키스탄 방문 예정 ｜ 일
-
-- 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - GSxWlJu8zEQ | ongoing=False | publishedAt=2026-04-26T03:11:43Z | actualEndTime=2026-04-26T03:07:12Z | effective=2026-04-26 03:07:12+00:00 | [특별 방송]  트럼프 대통령 '총격 사건, 기자회견'  ｜ -  오선의 미국 증시 라이브
+
+- 설명왕 테이버
+  상태: NO_TRANSCRIPT
+  제목: 저는 100세까지 살고 싶습니다
+  URL: https://www.youtube.com/watch?v=vbqMvCGLc4M
+  publishedAt: 2026-04-27T03:01:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - vbqMvCGLc4M | ongoing=False | publishedAt=2026-04-27T03:01:01Z | actualEndTime=None | effective=2026-04-27 03:01:01+00:00 | 저는 100세까지 살고 싶습니다
+   - ULOQGTK1eP0 | ongoing=False | publishedAt=2026-04-27T00:13:43Z | actualEndTime=2026-04-27T00:06:11Z | effective=2026-04-27 00:06:11+00:00 | 협상은 모르겠고, 실적이 핵심이다! 실적발표 전 차트 분석!!ㅣ근데, 유럽 천연가스 가격이 심상치 않다...
+   - 1zOUGYk9ar4 | ongoing=False | publishedAt=2026-04-26T07:00:01Z | actualEndTime=None | effective=2026-04-26 07:00:01+00:00 | 시장 변동성 폭발? 진짜 이유는 "여기" 에
    - 8DoMqzunjWU | ongoing=False | publishedAt=2026-04-25T07:00:07Z | actualEndTime=None | effective=2026-04-25 07:00:07+00:00 | 단타냐? 장타냐? 그것이 문제로다
-   - 6wdH9Z1jFu8 | ongoing=False | publishedAt=2026-04-25T01:00:06Z | actualEndTime=None | effective=2026-04-25 01:00:06+00:00 | AI 금융의 문제점, 여전히 적자가 누적된다
-   - BfhO8SCVYyo | ongoing=False | publishedAt=2026-04-24T17:09:45Z | actualEndTime=2026-04-24T16:26:43Z | effective=2026-04-24 16:26:43+00:00 | [미국주식LIVE] 아마존 신고가!! TSMC도 신고가!!! 가즈아!!!!!!!!!!ㅣ어떤 편법을 써서라도 
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - m0NNOWZfcec | ongoing=False | publishedAt=2026-04-24T17:49:32Z | actualEndTime=None | effective=2026-04-24 17:49:32+00:00 | 새로운 AI 주도주 바로 '이것'
-   - X7l6XtJ2RZk | ongoing=False | publishedAt=2026-04-24T06:43:11Z | actualEndTime=None | effective=2026-04-24 06:43:11+00:00 | 하이닉스 200만원 기원 #하이닉스 #코스피  #국장  #shorts #붐샤카라카
+   - Ks1mglMkrO4 | ongoing=False | publishedAt=2026-04-26T13:43:29Z | actualEndTime=None | effective=2026-04-26 13:43:29+00:00 | 올바른 투자 캠페인 중입니다🚨🚨🚨
 
 - 소수몽키
   상태: NO_VIDEO
