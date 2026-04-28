@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-27 13:26 (KST)
-Run: 131 (id=24976498672)
+생성 시각: 2026-04-28 13:29 (KST)
+Run: 132 (id=25033948688)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,43 +8,54 @@ Run: 131 (id=24976498672)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How Chinese EV Makers Are Winning Over Consumers
-  URL: https://www.youtube.com/watch?v=jAIyASFIo2Y
-  publishedAt: 2026-04-27T04:03:49Z
+  제목: White House Security in Spotlight, Trump & King Charles Meet | Balance of Power 04/27/2026
+  URL: https://www.youtube.com/watch?v=nVuD7U54jjQ
+  publishedAt: 2026-04-27T23:57:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - jAIyASFIo2Y | ongoing=False | publishedAt=2026-04-27T04:03:49Z | actualEndTime=None | effective=2026-04-27 04:03:49+00:00 | How Chinese EV Makers Are Winning Over Consumers
-   - OGUVll1XPMI | ongoing=False | publishedAt=2026-04-26T16:17:04Z | actualEndTime=None | effective=2026-04-26 16:17:04+00:00 | Bloomberg This Weekend | Shots Fired at WHCD
-   - tWiz5wjk_pM | ongoing=False | publishedAt=2026-04-26T15:27:01Z | actualEndTime=None | effective=2026-04-26 15:27:01+00:00 | Rep. Beyer: "We Are More Divided Than We've Ever Been"
-   - Q2jMObyE3e4 | ongoing=False | publishedAt=2026-04-26T15:19:30Z | actualEndTime=None | effective=2026-04-26 15:19:30+00:00 | Rep. McCaul on How to Combat Political Violence
-   - izxay7rHhpk | ongoing=False | publishedAt=2026-04-26T15:08:49Z | actualEndTime=None | effective=2026-04-26 15:08:49+00:00 | Sen. Tillis Expected to Clear Way for Kevin Warsh as Fed Cha
-   - SGjjn9QDDBo | ongoing=False | publishedAt=2026-04-26T14:50:52Z | actualEndTime=None | effective=2026-04-26 14:50:52+00:00 | King Charles' Security Under Review ahead of DC Visit
-   - sV1m1kqPUYo | ongoing=False | publishedAt=2026-04-26T14:14:40Z | actualEndTime=None | effective=2026-04-26 14:14:40+00:00 | A History of Presidential Assassination Attempts
-   - iOrvOwBRsdk | ongoing=False | publishedAt=2026-04-26T14:01:06Z | actualEndTime=None | effective=2026-04-26 14:01:06+00:00 | How Boring Businesses Create Billionaires
-   - b-70-mQfa0k | ongoing=False | publishedAt=2026-04-26T13:29:23Z | actualEndTime=None | effective=2026-04-26 13:29:23+00:00 | Secret Service Likely to Lead WHCD Investigation
-   - Qt0J7qy0MLk | ongoing=False | publishedAt=2026-04-26T12:53:03Z | actualEndTime=None | effective=2026-04-26 12:53:03+00:00 | Shots Fired at White House Correspondents' Dinner, Suspect i
+   - nVuD7U54jjQ | ongoing=False | publishedAt=2026-04-27T23:57:52Z | actualEndTime=None | effective=2026-04-27 23:57:52+00:00 | White House Security in Spotlight, Trump & King Charles Meet
+   - HtMmKu0weu0 | ongoing=False | publishedAt=2026-04-27T22:30:56Z | actualEndTime=None | effective=2026-04-27 22:30:56+00:00 | Bloomberg Television coverage of Liberation Day Tariffs for 
+   - LEiynrjadc0 | ongoing=False | publishedAt=2026-04-27T22:30:31Z | actualEndTime=None | effective=2026-04-27 22:30:31+00:00 | Bloomberg Television coverage of Liberation Day Tariffs for 
+   - geCaI2lH93g | ongoing=False | publishedAt=2026-04-27T22:30:08Z | actualEndTime=None | effective=2026-04-27 22:30:08+00:00 | Bloomberg Television coverage of Liberation Day Tariffs for 
+   - Vo1m9i2QGRc | ongoing=False | publishedAt=2026-04-27T22:13:36Z | actualEndTime=None | effective=2026-04-27 22:13:36+00:00 | Stocks Hit Record Close Ahead of Busy Earnings Week | The Cl
+   - k2UCRT0Gh84 | ongoing=False | publishedAt=2026-04-27T21:00:03Z | actualEndTime=None | effective=2026-04-27 21:00:03+00:00 | King Charles Arrives in US for First State Visit as Monarch
+   - UY832a-tJpc | ongoing=False | publishedAt=2026-04-27T20:57:42Z | actualEndTime=None | effective=2026-04-27 20:57:42+00:00 | Correspondents’ Dinner Shooting Causes Alarm Ahead of King’s
+   - ejqO6pFoa8A | ongoing=False | publishedAt=2026-04-27T20:57:10Z | actualEndTime=None | effective=2026-04-27 20:57:10+00:00 | Joby Tests Air Taxis Between JFK Airport and Manhattan
+   - R5eemhmMtgc | ongoing=False | publishedAt=2026-04-27T20:57:21Z | actualEndTime=None | effective=2026-04-27 20:57:21+00:00 | Trump Being ‘Humiliated’ in Iran Talks, Germany's Merz Says
+   - LuMhhitUG3k | ongoing=False | publishedAt=2026-04-27T20:31:49Z | actualEndTime=None | effective=2026-04-27 20:31:49+00:00 | California Man Charged With Trying to Kill Trump at DC Dinne
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: Elon Musk's EVIL Plan: SpaceX & Tesla Stock.
+  URL: https://www.youtube.com/watch?v=4bSbwzRV0gA
+  publishedAt: 2026-04-27T20:44:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 4bSbwzRV0gA | ongoing=False | publishedAt=2026-04-27T20:44:02Z | actualEndTime=None | effective=2026-04-27 20:44:02+00:00 | Elon Musk's EVIL Plan: SpaceX & Tesla Stock.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  S&P500 사상 최고치 마감…이제 시장은 ‘이란 리스크’보다 빅테크 실적 본다  -  2026/04/27
+  URL: https://www.youtube.com/watch?v=Zbt-8mxRiVU
+  publishedAt: 2026-04-27T22:17:00Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - GSxWlJu8zEQ | ongoing=False | publishedAt=2026-04-26T03:11:43Z | actualEndTime=2026-04-26T03:07:12Z | effective=2026-04-26 03:07:12+00:00 | [특별 방송]  트럼프 대통령 '총격 사건, 기자회견'  ｜ -  오선의 미국 증시 라이브
+   - Zbt-8mxRiVU | ongoing=False | publishedAt=2026-04-27T22:17:00Z | actualEndTime=None | effective=2026-04-27 22:17:00+00:00 | 【미국 증시 오늘의 요약】  S&P500 사상 최고치 마감…이제 시장은 ‘이란 리스크’보다 빅테크 실적 본다
+   - ChEh25QUrDE | ongoing=False | publishedAt=2026-04-27T21:54:01Z | actualEndTime=2026-04-27T21:29:50Z | effective=2026-04-27 21:29:50+00:00 | [26년 04월 27일 월]  마벨, 포엣 테크놀로지 주문 계약 취소 ｜ 중국, 메타 '마누스' 인수 차단 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 저는 100세까지 살고 싶습니다
-  URL: https://www.youtube.com/watch?v=vbqMvCGLc4M
-  publishedAt: 2026-04-27T03:01:01Z
+  제목: 파도파도 끝이없는 창의적인 K-주식
+  URL: https://www.youtube.com/watch?v=QLRNTOqjbDQ
+  publishedAt: 2026-04-28T03:00:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QLRNTOqjbDQ | ongoing=False | publishedAt=2026-04-28T03:00:34Z | actualEndTime=None | effective=2026-04-28 03:00:34+00:00 | 파도파도 끝이없는 창의적인 K-주식
+   - T2b6AL7gSj0 | ongoing=False | publishedAt=2026-04-28T00:29:35Z | actualEndTime=2026-04-28T00:16:14Z | effective=2026-04-28 00:16:14+00:00 | [중요!!] 반도체 하락, 엔비디아는 상승한 의미ㅣ[아침뉴스&미국시황] #260428
+   - xjXAzfbK14A | ongoing=False | publishedAt=2026-04-27T16:39:02Z | actualEndTime=2026-04-27T16:07:36Z | effective=2026-04-27 16:07:36+00:00 | [미국주식LIVE] 개쫄려서 비싼애들부터 매도 시작 ㄷㄷㄷㅣ#260427
    - vbqMvCGLc4M | ongoing=False | publishedAt=2026-04-27T03:01:01Z | actualEndTime=None | effective=2026-04-27 03:01:01+00:00 | 저는 100세까지 살고 싶습니다
    - ULOQGTK1eP0 | ongoing=False | publishedAt=2026-04-27T00:13:43Z | actualEndTime=2026-04-27T00:06:11Z | effective=2026-04-27 00:06:11+00:00 | 협상은 모르겠고, 실적이 핵심이다! 실적발표 전 차트 분석!!ㅣ근데, 유럽 천연가스 가격이 심상치 않다...
    - 1zOUGYk9ar4 | ongoing=False | publishedAt=2026-04-26T07:00:01Z | actualEndTime=None | effective=2026-04-26 07:00:01+00:00 | 시장 변동성 폭발? 진짜 이유는 "여기" 에
-   - 8DoMqzunjWU | ongoing=False | publishedAt=2026-04-25T07:00:07Z | actualEndTime=None | effective=2026-04-25 07:00:07+00:00 | 단타냐? 장타냐? 그것이 문제로다
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
@@ -54,4 +65,6 @@ Run: 131 (id=24976498672)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - B-fSbAaFH6c | ongoing=False | publishedAt=2026-04-27T10:34:20Z | actualEndTime=None | effective=2026-04-27 10:34:20+00:00 | AI에이전트가 반도체 판도 다 뒤집는다?새로운 주도주 탄생의 신호일까
