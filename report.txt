@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-28 13:29 (KST)
-Run: 132 (id=25033948688)
+생성 시각: 2026-04-29 13:24 (KST)
+Run: 133 (id=25090827156)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,63 +8,69 @@ Run: 132 (id=25033948688)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: White House Security in Spotlight, Trump & King Charles Meet | Balance of Power 04/27/2026
-  URL: https://www.youtube.com/watch?v=nVuD7U54jjQ
-  publishedAt: 2026-04-27T23:57:52Z
+  제목: King Charles Addresses Congress in US Visit, UAE to Leave OPEC | Balance of Power 04/28/2026
+  URL: https://www.youtube.com/watch?v=7WfbbMNxNwo
+  publishedAt: 2026-04-28T23:59:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - nVuD7U54jjQ | ongoing=False | publishedAt=2026-04-27T23:57:52Z | actualEndTime=None | effective=2026-04-27 23:57:52+00:00 | White House Security in Spotlight, Trump & King Charles Meet
-   - HtMmKu0weu0 | ongoing=False | publishedAt=2026-04-27T22:30:56Z | actualEndTime=None | effective=2026-04-27 22:30:56+00:00 | Bloomberg Television coverage of Liberation Day Tariffs for 
-   - LEiynrjadc0 | ongoing=False | publishedAt=2026-04-27T22:30:31Z | actualEndTime=None | effective=2026-04-27 22:30:31+00:00 | Bloomberg Television coverage of Liberation Day Tariffs for 
-   - geCaI2lH93g | ongoing=False | publishedAt=2026-04-27T22:30:08Z | actualEndTime=None | effective=2026-04-27 22:30:08+00:00 | Bloomberg Television coverage of Liberation Day Tariffs for 
-   - Vo1m9i2QGRc | ongoing=False | publishedAt=2026-04-27T22:13:36Z | actualEndTime=None | effective=2026-04-27 22:13:36+00:00 | Stocks Hit Record Close Ahead of Busy Earnings Week | The Cl
-   - k2UCRT0Gh84 | ongoing=False | publishedAt=2026-04-27T21:00:03Z | actualEndTime=None | effective=2026-04-27 21:00:03+00:00 | King Charles Arrives in US for First State Visit as Monarch
-   - UY832a-tJpc | ongoing=False | publishedAt=2026-04-27T20:57:42Z | actualEndTime=None | effective=2026-04-27 20:57:42+00:00 | Correspondents’ Dinner Shooting Causes Alarm Ahead of King’s
-   - ejqO6pFoa8A | ongoing=False | publishedAt=2026-04-27T20:57:10Z | actualEndTime=None | effective=2026-04-27 20:57:10+00:00 | Joby Tests Air Taxis Between JFK Airport and Manhattan
-   - R5eemhmMtgc | ongoing=False | publishedAt=2026-04-27T20:57:21Z | actualEndTime=None | effective=2026-04-27 20:57:21+00:00 | Trump Being ‘Humiliated’ in Iran Talks, Germany's Merz Says
-   - LuMhhitUG3k | ongoing=False | publishedAt=2026-04-27T20:31:49Z | actualEndTime=None | effective=2026-04-27 20:31:49+00:00 | California Man Charged With Trying to Kill Trump at DC Dinne
+   - 7WfbbMNxNwo | ongoing=False | publishedAt=2026-04-28T23:59:28Z | actualEndTime=None | effective=2026-04-28 23:59:28+00:00 | King Charles Addresses Congress in US Visit, UAE to Leave OP
+   - -0qbBz22yKc | ongoing=False | publishedAt=2026-04-28T22:06:14Z | actualEndTime=None | effective=2026-04-28 22:06:14+00:00 | Stocks Fall as Report on OpenAI Fuels Angst | The Close 4/28
+   - Axh-Quij1ag | ongoing=False | publishedAt=2026-04-28T21:59:21Z | actualEndTime=None | effective=2026-04-28 21:59:21+00:00 | The Stock Market’s 'Curious Exuberance' Despite the Iran War
+   - wOCLGb5U7iQ | ongoing=False | publishedAt=2026-04-28T21:58:37Z | actualEndTime=None | effective=2026-04-28 21:58:37+00:00 | North Korea's Nuclear Program Reaches Tipping Point For The 
+   - lREPM6merPs | ongoing=False | publishedAt=2026-04-28T21:48:11Z | actualEndTime=None | effective=2026-04-28 21:48:11+00:00 | Crypto Industry Is in a Holding Pattern, Simpson Says
+   - jcM906zaL5c | ongoing=False | publishedAt=2026-04-28T21:36:16Z | actualEndTime=None | effective=2026-04-28 21:36:16+00:00 | $300 Million Crypto Hack Raises DeFi Security Concerns
+   - 5EJqvNIHRV8 | ongoing=False | publishedAt=2026-04-28T21:33:35Z | actualEndTime=None | effective=2026-04-28 21:33:35+00:00 | Kalshi Says Surveillance Systems Keep Eye Out for Insider Tr
+   - as9htjj-2Zc | ongoing=False | publishedAt=2026-04-28T20:34:28Z | actualEndTime=None | effective=2026-04-28 20:34:28+00:00 | UAE Quits OPEC, OpenAI Hits Back at Growth Fears | Bloomberg
+   - xwyUu2zYagg | ongoing=False | publishedAt=2026-04-28T20:22:00Z | actualEndTime=None | effective=2026-04-28 20:22:00+00:00 | Stocks Slump on OpenAI Report | Closing Bell
+   - UG2heYlF1XE | ongoing=False | publishedAt=2026-04-28T20:00:30Z | actualEndTime=None | effective=2026-04-28 20:00:30+00:00 | King Charles III Addresses Congress About US-UK Relations
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Elon Musk's EVIL Plan: SpaceX & Tesla Stock.
-  URL: https://www.youtube.com/watch?v=4bSbwzRV0gA
-  publishedAt: 2026-04-27T20:44:02Z
+  제목: BIG RUG PULL
+  URL: https://www.youtube.com/watch?v=RVskUjb0_vg
+  publishedAt: 2026-04-29T02:04:48Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - RVskUjb0_vg | ongoing=False | publishedAt=2026-04-29T02:04:48Z | actualEndTime=None | effective=2026-04-29 02:04:48+00:00 | BIG RUG PULL
    - 4bSbwzRV0gA | ongoing=False | publishedAt=2026-04-27T20:44:02Z | actualEndTime=None | effective=2026-04-27 20:44:02+00:00 | Elon Musk's EVIL Plan: SpaceX & Tesla Stock.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  S&P500 사상 최고치 마감…이제 시장은 ‘이란 리스크’보다 빅테크 실적 본다  -  2026/04/27
-  URL: https://www.youtube.com/watch?v=Zbt-8mxRiVU
-  publishedAt: 2026-04-27T22:17:00Z
+  제목: 【미국 증시 오늘의 요약】  오픈AI 쇼크에 꺾인 기술주… '운명의 수요일' 빅테크 실적·FOMC 대기  -  2026/04/28
+  URL: https://www.youtube.com/watch?v=ELCSNEs-UM4
+  publishedAt: 2026-04-28T22:36:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ELCSNEs-UM4 | ongoing=False | publishedAt=2026-04-28T22:36:00Z | actualEndTime=None | effective=2026-04-28 22:36:00+00:00 | 【미국 증시 오늘의 요약】  오픈AI 쇼크에 꺾인 기술주… '운명의 수요일' 빅테크 실적·FOMC 대기  -
+   - r7bkkdXt3u0 | ongoing=False | publishedAt=2026-04-28T22:10:12Z | actualEndTime=2026-04-28T21:49:19Z | effective=2026-04-28 21:49:19+00:00 | [26년 04월 28일 화]  오픈AI, 신규 사용자·매출 목표 달성 실패 ｜ 트럼프, 이란 제안 의구심 표
    - Zbt-8mxRiVU | ongoing=False | publishedAt=2026-04-27T22:17:00Z | actualEndTime=None | effective=2026-04-27 22:17:00+00:00 | 【미국 증시 오늘의 요약】  S&P500 사상 최고치 마감…이제 시장은 ‘이란 리스크’보다 빅테크 실적 본다
    - ChEh25QUrDE | ongoing=False | publishedAt=2026-04-27T21:54:01Z | actualEndTime=2026-04-27T21:29:50Z | effective=2026-04-27 21:29:50+00:00 | [26년 04월 27일 월]  마벨, 포엣 테크놀로지 주문 계약 취소 ｜ 중국, 메타 '마누스' 인수 차단 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 파도파도 끝이없는 창의적인 K-주식
-  URL: https://www.youtube.com/watch?v=QLRNTOqjbDQ
-  publishedAt: 2026-04-28T03:00:34Z
+  제목: 이 차트 깨지면 다 던지고 도망쳐야 합니다
+  URL: https://www.youtube.com/watch?v=2nhKUI34ZM0
+  publishedAt: 2026-04-29T03:00:02Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2nhKUI34ZM0 | ongoing=False | publishedAt=2026-04-29T03:00:02Z | actualEndTime=None | effective=2026-04-29 03:00:02+00:00 | 이 차트 깨지면 다 던지고 도망쳐야 합니다
+   - 5KhKgCK8S80 | ongoing=False | publishedAt=2026-04-29T00:22:22Z | actualEndTime=2026-04-29T00:14:35Z | effective=2026-04-29 00:14:35+00:00 | 반도체가 미쳤어요!! 씨게이트(STX) 실적발표 후 +16%ㅣOpenAI 성장둔화는 노이즈다!!ㅣ내일 드디어
    - QLRNTOqjbDQ | ongoing=False | publishedAt=2026-04-28T03:00:34Z | actualEndTime=None | effective=2026-04-28 03:00:34+00:00 | 파도파도 끝이없는 창의적인 K-주식
    - T2b6AL7gSj0 | ongoing=False | publishedAt=2026-04-28T00:29:35Z | actualEndTime=2026-04-28T00:16:14Z | effective=2026-04-28 00:16:14+00:00 | [중요!!] 반도체 하락, 엔비디아는 상승한 의미ㅣ[아침뉴스&미국시황] #260428
    - xjXAzfbK14A | ongoing=False | publishedAt=2026-04-27T16:39:02Z | actualEndTime=2026-04-27T16:07:36Z | effective=2026-04-27 16:07:36+00:00 | [미국주식LIVE] 개쫄려서 비싼애들부터 매도 시작 ㄷㄷㄷㅣ#260427
-   - vbqMvCGLc4M | ongoing=False | publishedAt=2026-04-27T03:01:01Z | actualEndTime=None | effective=2026-04-27 03:01:01+00:00 | 저는 100세까지 살고 싶습니다
-   - ULOQGTK1eP0 | ongoing=False | publishedAt=2026-04-27T00:13:43Z | actualEndTime=2026-04-27T00:06:11Z | effective=2026-04-27 00:06:11+00:00 | 협상은 모르겠고, 실적이 핵심이다! 실적발표 전 차트 분석!!ㅣ근데, 유럽 천연가스 가격이 심상치 않다...
-   - 1zOUGYk9ar4 | ongoing=False | publishedAt=2026-04-26T07:00:01Z | actualEndTime=None | effective=2026-04-26 07:00:01+00:00 | 시장 변동성 폭발? 진짜 이유는 "여기" 에
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 900조원 베팅의 종말? OpenAI의 역대급 위기?
+  URL: https://www.youtube.com/watch?v=2DJ5RUMnBY8
+  publishedAt: 2026-04-28T18:21:53Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Ks1mglMkrO4 | ongoing=False | publishedAt=2026-04-26T13:43:29Z | actualEndTime=None | effective=2026-04-26 13:43:29+00:00 | 올바른 투자 캠페인 중입니다🚨🚨🚨
+   - 2DJ5RUMnBY8 | ongoing=False | publishedAt=2026-04-28T18:21:53Z | actualEndTime=None | effective=2026-04-28 18:21:53+00:00 | 900조원 베팅의 종말? OpenAI의 역대급 위기?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - qvR2o1LFK6M | ongoing=False | publishedAt=2026-04-28T10:40:29Z | actualEndTime=None | effective=2026-04-28 10:40:29+00:00 | 빅테크 생존을 건 AI 투자 시작됐다,양보없는 전쟁의 수혜주들
    - B-fSbAaFH6c | ongoing=False | publishedAt=2026-04-27T10:34:20Z | actualEndTime=None | effective=2026-04-27 10:34:20+00:00 | AI에이전트가 반도체 판도 다 뒤집는다?새로운 주도주 탄생의 신호일까
