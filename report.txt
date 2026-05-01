@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-04-30 13:27 (KST)
-Run: 134 (id=25147358677)
+생성 시각: 2026-05-01 13:43 (KST)
+Run: 135 (id=25202587257)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,66 +8,60 @@ Run: 134 (id=25147358677)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Graduates Turn to Emergency Degrees To Beat Jobs Crisis
-  URL: https://www.youtube.com/watch?v=CumuTVXTBVo
-  publishedAt: 2026-04-30T04:00:14Z
+  제목: Trump Signs Bill Ending DHS Shutdown | Balance of Power 04/30/2026
+  URL: https://www.youtube.com/watch?v=nbg4s8zHeSc
+  publishedAt: 2026-04-30T23:56:48Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - CumuTVXTBVo | ongoing=False | publishedAt=2026-04-30T04:00:14Z | actualEndTime=None | effective=2026-04-30 04:00:14+00:00 | Graduates Turn to Emergency Degrees To Beat Jobs Crisis
-   - 0UJM7qwHn1A | ongoing=False | publishedAt=2026-04-30T00:13:06Z | actualEndTime=None | effective=2026-04-30 00:13:06+00:00 | Fed Keeps Rates Steady As Powell's Leadership Nears End | Ba
-   - G99fXPUbJTU | ongoing=False | publishedAt=2026-04-29T23:36:51Z | actualEndTime=None | effective=2026-04-29 23:36:51+00:00 | The Close 4/29/2026
-   - 4z5OA-NFtgQ | ongoing=False | publishedAt=2026-04-29T22:58:17Z | actualEndTime=None | effective=2026-04-29 22:58:17+00:00 | Meta Shares Plunge as AI Investments Raise Spending Outlook
-   - vAbymXNxcUI | ongoing=False | publishedAt=2026-04-29T22:27:38Z | actualEndTime=None | effective=2026-04-29 22:27:38+00:00 | Bloomberg Surveillance: The Fed Decides 4/29/2026
-   - pKVrb51gyjk | ongoing=False | publishedAt=2026-04-29T21:04:37Z | actualEndTime=None | effective=2026-04-29 21:04:37+00:00 | Ford CFO on Q1 Earnings, Outlook and Impact of Gas Prices
-   - XK5dRD4CweA | ongoing=False | publishedAt=2026-04-29T20:57:38Z | actualEndTime=None | effective=2026-04-29 20:57:38+00:00 | Luria Sees Good Signs Ahead for Big Tech After Earnings
-   - jbTLpdl2oqM | ongoing=False | publishedAt=2026-04-29T20:56:07Z | actualEndTime=None | effective=2026-04-29 20:56:07+00:00 | Divided Fed Officials Hold Rates; Powell to Stay as Governor
-   - B5aWIsvIc1A | ongoing=False | publishedAt=2026-04-29T20:40:18Z | actualEndTime=None | effective=2026-04-29 20:40:18+00:00 | When Will Jerome Powell Leave the Fed?
-   - 9BnHU6o0mZw | ongoing=False | publishedAt=2026-04-29T20:36:42Z | actualEndTime=None | effective=2026-04-29 20:36:42+00:00 | Powell Says He’ll Stay on as Governor After Term as Chair En
+   - nbg4s8zHeSc | ongoing=False | publishedAt=2026-04-30T23:56:48Z | actualEndTime=None | effective=2026-04-30 23:56:48+00:00 | Trump Signs Bill Ending DHS Shutdown | Balance of Power 04/3
+   - TxZqTlVDNmI | ongoing=False | publishedAt=2026-04-30T22:10:20Z | actualEndTime=None | effective=2026-04-30 22:10:20+00:00 | S&P Set for Best Month Since 2020, Apple Beats Earnings | Th
+   - QqGcYJI84TU | ongoing=False | publishedAt=2026-04-30T21:20:30Z | actualEndTime=None | effective=2026-04-30 21:20:30+00:00 | The Key Takeaways From Apple's Q2 Earnings Beat
+   - z1fsuOp20Ac | ongoing=False | publishedAt=2026-04-30T21:04:16Z | actualEndTime=None | effective=2026-04-30 21:04:16+00:00 | Trump Says 'Incredible' Hormuz Blockade Is Working
+   - 836xHi8uaio | ongoing=False | publishedAt=2026-04-30T20:52:10Z | actualEndTime=None | effective=2026-04-30 20:52:10+00:00 | Apple's Memory Strategy Is a Good Move, Seaport's Goldberg S
+   - 4yMK6qCaMqk | ongoing=False | publishedAt=2026-04-30T20:35:13Z | actualEndTime=None | effective=2026-04-30 20:35:13+00:00 | Alphabet Soars, S&P Hits Another Record | Closing Bell
+   - ndh7XrScdqE | ongoing=False | publishedAt=2026-04-30T20:15:38Z | actualEndTime=None | effective=2026-04-30 20:15:38+00:00 | Trump Says He Is Lifting Some Scotch Tariffs
+   - cW_Xi3rClvM | ongoing=False | publishedAt=2026-04-30T20:04:29Z | actualEndTime=None | effective=2026-04-30 20:04:29+00:00 | S&P Hits Records, Wayfair Earnings Miss | Bloomberg Business
+   - z6YProUl6k8 | ongoing=False | publishedAt=2026-04-30T19:56:30Z | actualEndTime=None | effective=2026-04-30 19:56:30+00:00 | Trump Says He Doesn't Care If Powell Stays on Fed Board
+   - z17SCzEXIYA | ongoing=False | publishedAt=2026-04-30T19:48:12Z | actualEndTime=None | effective=2026-04-30 19:48:12+00:00 | Trump Signs Order Expanding Access to Retirement Plans
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: it's over.
-  URL: https://www.youtube.com/watch?v=SwvQjHTtnP4
-  publishedAt: 2026-04-29T19:50:51Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - SwvQjHTtnP4 | ongoing=False | publishedAt=2026-04-29T19:50:51Z | actualEndTime=None | effective=2026-04-29 19:50:51+00:00 | it's over.
    - -IyMvjY6rSQ | ongoing=False | publishedAt=2026-04-29T19:48:17Z | actualEndTime=2026-04-29T19:42:58Z | effective=2026-04-29 19:42:58+00:00 | GOODBYE POWELL: Final Fed FOMC Presser & Rate Decision!
-   - RVskUjb0_vg | ongoing=False | publishedAt=2026-04-29T02:04:48Z | actualEndTime=None | effective=2026-04-29 02:04:48+00:00 | BIG RUG PULL
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 연준 '매파적 동결'에 국채금리 급등!  엇갈린 빅테크 실적  -  2026/04/29
-  URL: https://www.youtube.com/watch?v=FBslQ99P4Fk
-  publishedAt: 2026-04-29T23:30:06Z
+  제목: 【미국 증시 오늘의 요약】 S&P 500 사상 최고치 경신… 엇갈린 빅테크 실적과 견고한 고용  -  2026/04/30
+  URL: https://www.youtube.com/watch?v=BBQsXmrMrrY
+  publishedAt: 2026-04-30T22:51:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - BBQsXmrMrrY | ongoing=False | publishedAt=2026-04-30T22:51:00Z | actualEndTime=None | effective=2026-04-30 22:51:00+00:00 | 【미국 증시 오늘의 요약】 S&P 500 사상 최고치 경신… 엇갈린 빅테크 실적과 견고한 고용  -  202
+   - Y90lbUWoDL4 | ongoing=False | publishedAt=2026-04-30T22:24:09Z | actualEndTime=2026-04-30T22:02:38Z | effective=2026-04-30 22:02:38+00:00 | [26년 04월 30일 목]  미군, 이란 군사 행동 옵션 브리핑 예정 ｜  애플·샌디스크, 실적발표 ｜  
    - FBslQ99P4Fk | ongoing=False | publishedAt=2026-04-29T23:30:06Z | actualEndTime=None | effective=2026-04-29 23:30:06+00:00 | 【미국 증시 오늘의 요약】 연준 '매파적 동결'에 국채금리 급등!  엇갈린 빅테크 실적  -  2026/04
    - gmgAJrQ0RwI | ongoing=False | publishedAt=2026-04-29T22:58:07Z | actualEndTime=2026-04-29T22:34:26Z | effective=2026-04-29 22:34:26+00:00 | [26년 04월 29일 수]  마이크로소프트, 메타, 구글, 아마존 -  실적발표｜ 미국, 기준금리 결정 ｜
-   - ELCSNEs-UM4 | ongoing=False | publishedAt=2026-04-28T22:36:00Z | actualEndTime=None | effective=2026-04-28 22:36:00+00:00 | 【미국 증시 오늘의 요약】  오픈AI 쇼크에 꺾인 기술주… '운명의 수요일' 빅테크 실적·FOMC 대기  -
-   - r7bkkdXt3u0 | ongoing=False | publishedAt=2026-04-28T22:10:12Z | actualEndTime=2026-04-28T21:49:19Z | effective=2026-04-28 21:49:19+00:00 | [26년 04월 28일 화]  오픈AI, 신규 사용자·매출 목표 달성 실패 ｜ 트럼프, 이란 제안 의구심 표
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 이거 또 다 처물리겠네...............
-  URL: https://www.youtube.com/watch?v=9rLYYnnd9-s
-  publishedAt: 2026-04-30T03:00:09Z
+  제목: 한계에 다다른 가격, 이제는 물량의 싸움 #삼성전자 #SK하이닉스 #샌디스크 #메모리
+  URL: https://www.youtube.com/watch?v=TUpN57jzduU
+  publishedAt: 2026-05-01T01:55:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - TUpN57jzduU | ongoing=False | publishedAt=2026-05-01T01:55:18Z | actualEndTime=None | effective=2026-05-01 01:55:18+00:00 | 한계에 다다른 가격, 이제는 물량의 싸움 #삼성전자 #SK하이닉스 #샌디스크 #메모리
+   - Vw_mQC6DNOM | ongoing=False | publishedAt=2026-05-01T01:36:36Z | actualEndTime=2026-05-01T01:09:16Z | effective=2026-05-01 01:09:16+00:00 | 애플: 우리도 AI 한다!ㅣ샌디스크: 다 좋은데 왜 빠져요?ㅣ[아침뉴스&미국시황] #260501
+   - sywTeOrE0dE | ongoing=False | publishedAt=2026-04-30T16:21:02Z | actualEndTime=2026-04-30T15:40:56Z | effective=2026-04-30 15:40:56+00:00 | [미국주식 LIVE] 오늘 빠지면 ㅈ됩니다.......... #260430
+   - arxyAq9qM_c | ongoing=False | publishedAt=2026-04-30T09:00:07Z | actualEndTime=None | effective=2026-04-30 09:00:07+00:00 | 레버리지 ETF의 진실, 2배가 2배가 아닌 이유
    - 9rLYYnnd9-s | ongoing=False | publishedAt=2026-04-30T03:00:09Z | actualEndTime=None | effective=2026-04-30 03:00:09+00:00 | 이거 또 다 처물리겠네...............
    - kpIjcwKNuyA | ongoing=False | publishedAt=2026-04-30T00:38:01Z | actualEndTime=2026-04-30T00:21:36Z | effective=2026-04-30 00:21:36+00:00 | 올해 가장 기분좋은 아침입니다ㅣ근데 브렌트유 120달러 실화임...??ㅣ[아침뉴스&미국시황] #260430
    - 6dQsLEm8dxA | ongoing=False | publishedAt=2026-04-29T09:00:09Z | actualEndTime=None | effective=2026-04-29 09:00:09+00:00 | 신규 상장주를 볼 때도 대주주를 보게 되는 이유
-   - 2nhKUI34ZM0 | ongoing=False | publishedAt=2026-04-29T03:00:02Z | actualEndTime=None | effective=2026-04-29 03:00:02+00:00 | 이 차트 깨지면 다 던지고 도망쳐야 합니다
-   - 5KhKgCK8S80 | ongoing=False | publishedAt=2026-04-29T00:22:22Z | actualEndTime=2026-04-29T00:14:35Z | effective=2026-04-29 00:14:35+00:00 | 반도체가 미쳤어요!! 씨게이트(STX) 실적발표 후 +16%ㅣOpenAI 성장둔화는 노이즈다!!ㅣ내일 드디어
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 2DJ5RUMnBY8 | ongoing=False | publishedAt=2026-04-28T18:21:53Z | actualEndTime=None | effective=2026-04-28 18:21:53+00:00 | 900조원 베팅의 종말? OpenAI의 역대급 위기?
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - qvR2o1LFK6M | ongoing=False | publishedAt=2026-04-28T10:40:29Z | actualEndTime=None | effective=2026-04-28 10:40:29+00:00 | 빅테크 생존을 건 AI 투자 시작됐다,양보없는 전쟁의 수혜주들
+  비고: 최근 48시간 검색 결과 없음
