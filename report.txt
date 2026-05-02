@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-01 13:43 (KST)
-Run: 135 (id=25202587257)
+생성 시각: 2026-05-02 13:14 (KST)
+Run: 136 (id=25243509864)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,55 +8,55 @@ Run: 135 (id=25202587257)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Signs Bill Ending DHS Shutdown | Balance of Power 04/30/2026
-  URL: https://www.youtube.com/watch?v=nbg4s8zHeSc
-  publishedAt: 2026-04-30T23:56:48Z
+  제목: Iran War Hits 60-Day Legal Deadline | Balance of Power 05/01/2026
+  URL: https://www.youtube.com/watch?v=FkCI7e5hp-o
+  publishedAt: 2026-05-02T00:08:10Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - nbg4s8zHeSc | ongoing=False | publishedAt=2026-04-30T23:56:48Z | actualEndTime=None | effective=2026-04-30 23:56:48+00:00 | Trump Signs Bill Ending DHS Shutdown | Balance of Power 04/3
-   - TxZqTlVDNmI | ongoing=False | publishedAt=2026-04-30T22:10:20Z | actualEndTime=None | effective=2026-04-30 22:10:20+00:00 | S&P Set for Best Month Since 2020, Apple Beats Earnings | Th
-   - QqGcYJI84TU | ongoing=False | publishedAt=2026-04-30T21:20:30Z | actualEndTime=None | effective=2026-04-30 21:20:30+00:00 | The Key Takeaways From Apple's Q2 Earnings Beat
-   - z1fsuOp20Ac | ongoing=False | publishedAt=2026-04-30T21:04:16Z | actualEndTime=None | effective=2026-04-30 21:04:16+00:00 | Trump Says 'Incredible' Hormuz Blockade Is Working
-   - 836xHi8uaio | ongoing=False | publishedAt=2026-04-30T20:52:10Z | actualEndTime=None | effective=2026-04-30 20:52:10+00:00 | Apple's Memory Strategy Is a Good Move, Seaport's Goldberg S
-   - 4yMK6qCaMqk | ongoing=False | publishedAt=2026-04-30T20:35:13Z | actualEndTime=None | effective=2026-04-30 20:35:13+00:00 | Alphabet Soars, S&P Hits Another Record | Closing Bell
-   - ndh7XrScdqE | ongoing=False | publishedAt=2026-04-30T20:15:38Z | actualEndTime=None | effective=2026-04-30 20:15:38+00:00 | Trump Says He Is Lifting Some Scotch Tariffs
-   - cW_Xi3rClvM | ongoing=False | publishedAt=2026-04-30T20:04:29Z | actualEndTime=None | effective=2026-04-30 20:04:29+00:00 | S&P Hits Records, Wayfair Earnings Miss | Bloomberg Business
-   - z6YProUl6k8 | ongoing=False | publishedAt=2026-04-30T19:56:30Z | actualEndTime=None | effective=2026-04-30 19:56:30+00:00 | Trump Says He Doesn't Care If Powell Stays on Fed Board
-   - z17SCzEXIYA | ongoing=False | publishedAt=2026-04-30T19:48:12Z | actualEndTime=None | effective=2026-04-30 19:48:12+00:00 | Trump Signs Order Expanding Access to Retirement Plans
+   - FkCI7e5hp-o | ongoing=False | publishedAt=2026-05-02T00:08:10Z | actualEndTime=None | effective=2026-05-02 00:08:10+00:00 | Iran War Hits 60-Day Legal Deadline | Balance of Power 05/01
+   - 0_lplMuq6eQ | ongoing=False | publishedAt=2026-05-01T23:00:01Z | actualEndTime=None | effective=2026-05-01 23:00:01+00:00 | Wall Street Week | Warsh’s Fed, Vibe Coding, Geothermal Ener
+   - okxmWxXj-sQ | ongoing=False | publishedAt=2026-05-01T22:34:05Z | actualEndTime=None | effective=2026-05-01 22:34:05+00:00 | Stocks Keep Record Highs on Renewed US-Iran Hopes | The Clos
+   - sgu3Riks-Ok | ongoing=False | publishedAt=2026-05-01T22:15:18Z | actualEndTime=None | effective=2026-05-01 22:15:18+00:00 | US Orders Withdrawal of About 5,000 Troops From Germany
+   - 5-AlJBD9Qf0 | ongoing=False | publishedAt=2026-05-01T20:46:32Z | actualEndTime=None | effective=2026-05-01 20:46:32+00:00 | Trump Bemoans Iran Talks, Magna CEO Talks News Trump Tariffs
+   - y_HXgQPchJI | ongoing=False | publishedAt=2026-05-01T20:34:42Z | actualEndTime=None | effective=2026-05-01 20:34:42+00:00 | US Economic Resilience Lowers Rate Cut Odds, Private Credit 
+   - fjgquahcznQ | ongoing=False | publishedAt=2026-05-01T20:27:17Z | actualEndTime=None | effective=2026-05-01 20:27:17+00:00 | After seven years, first US-Venezuela flight lands in Caraca
+   - u3CnqJ5SJbs | ongoing=False | publishedAt=2026-05-01T20:24:34Z | actualEndTime=None | effective=2026-05-01 20:24:34+00:00 | Stocks Hold Record Highs | Closing Bell
+   - T0NLyXEC2ek | ongoing=False | publishedAt=2026-05-01T20:21:14Z | actualEndTime=None | effective=2026-05-01 20:21:14+00:00 | Trump Says 'Not Happy' on Iran, Touts Hormuz Closure | Balan
+   - 9eK-Yx6M2sk | ongoing=False | publishedAt=2026-05-01T20:08:57Z | actualEndTime=None | effective=2026-05-01 20:08:57+00:00 | Florida’s Brightline Seeks Rescue to Avoid Bankruptcy
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: HOLY GAMESTOP AND EBAY!
+  URL: https://www.youtube.com/watch?v=JI2bfNhIMBc
+  publishedAt: 2026-05-01T22:38:44Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - SwvQjHTtnP4 | ongoing=False | publishedAt=2026-04-29T19:50:51Z | actualEndTime=None | effective=2026-04-29 19:50:51+00:00 | it's over.
-   - -IyMvjY6rSQ | ongoing=False | publishedAt=2026-04-29T19:48:17Z | actualEndTime=2026-04-29T19:42:58Z | effective=2026-04-29 19:42:58+00:00 | GOODBYE POWELL: Final Fed FOMC Presser & Rate Decision!
+   - JI2bfNhIMBc | ongoing=False | publishedAt=2026-05-01T22:38:44Z | actualEndTime=None | effective=2026-05-01 22:38:44+00:00 | HOLY GAMESTOP AND EBAY!
+   - fbqMU-qTqJE | ongoing=False | publishedAt=2026-05-01T14:53:19Z | actualEndTime=None | effective=2026-05-01 14:53:19+00:00 | REVOLT
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 S&P 500 사상 최고치 경신… 엇갈린 빅테크 실적과 견고한 고용  -  2026/04/30
-  URL: https://www.youtube.com/watch?v=BBQsXmrMrrY
-  publishedAt: 2026-04-30T22:51:00Z
+  제목: 【미국 증시 오늘의 요약】 실적이 증명한 강세장! 애플·오라클 급등  -  2026/05/01
+  URL: https://www.youtube.com/watch?v=Q10ZxhxlnT8
+  publishedAt: 2026-05-01T22:45:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Q10ZxhxlnT8 | ongoing=False | publishedAt=2026-05-01T22:45:01Z | actualEndTime=None | effective=2026-05-01 22:45:01+00:00 | 【미국 증시 오늘의 요약】 실적이 증명한 강세장! 애플·오라클 급등  -  2026/05/01
+   - -nKcVXu9-vg | ongoing=False | publishedAt=2026-05-01T21:54:45Z | actualEndTime=2026-05-01T21:29:55Z | effective=2026-05-01 21:29:55+00:00 | [26년 05월 01일 금]  미국, 60일 전쟁 시한 종료?! ｜ 일본, 2024년 이후 처음으로 외환시장
    - BBQsXmrMrrY | ongoing=False | publishedAt=2026-04-30T22:51:00Z | actualEndTime=None | effective=2026-04-30 22:51:00+00:00 | 【미국 증시 오늘의 요약】 S&P 500 사상 최고치 경신… 엇갈린 빅테크 실적과 견고한 고용  -  202
    - Y90lbUWoDL4 | ongoing=False | publishedAt=2026-04-30T22:24:09Z | actualEndTime=2026-04-30T22:02:38Z | effective=2026-04-30 22:02:38+00:00 | [26년 04월 30일 목]  미군, 이란 군사 행동 옵션 브리핑 예정 ｜  애플·샌디스크, 실적발표 ｜  
-   - FBslQ99P4Fk | ongoing=False | publishedAt=2026-04-29T23:30:06Z | actualEndTime=None | effective=2026-04-29 23:30:06+00:00 | 【미국 증시 오늘의 요약】 연준 '매파적 동결'에 국채금리 급등!  엇갈린 빅테크 실적  -  2026/04
-   - gmgAJrQ0RwI | ongoing=False | publishedAt=2026-04-29T22:58:07Z | actualEndTime=2026-04-29T22:34:26Z | effective=2026-04-29 22:34:26+00:00 | [26년 04월 29일 수]  마이크로소프트, 메타, 구글, 아마존 -  실적발표｜ 미국, 기준금리 결정 ｜
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 한계에 다다른 가격, 이제는 물량의 싸움 #삼성전자 #SK하이닉스 #샌디스크 #메모리
-  URL: https://www.youtube.com/watch?v=TUpN57jzduU
-  publishedAt: 2026-05-01T01:55:18Z
+  제목: 차트충 VS 재무충! 자강두천의 결론은?
+  URL: https://www.youtube.com/watch?v=MENw21TTFdc
+  publishedAt: 2026-05-02T01:00:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - MENw21TTFdc | ongoing=False | publishedAt=2026-05-02T01:00:30Z | actualEndTime=None | effective=2026-05-02 01:00:30+00:00 | 차트충 VS 재무충! 자강두천의 결론은?
    - TUpN57jzduU | ongoing=False | publishedAt=2026-05-01T01:55:18Z | actualEndTime=None | effective=2026-05-01 01:55:18+00:00 | 한계에 다다른 가격, 이제는 물량의 싸움 #삼성전자 #SK하이닉스 #샌디스크 #메모리
    - Vw_mQC6DNOM | ongoing=False | publishedAt=2026-05-01T01:36:36Z | actualEndTime=2026-05-01T01:09:16Z | effective=2026-05-01 01:09:16+00:00 | 애플: 우리도 AI 한다!ㅣ샌디스크: 다 좋은데 왜 빠져요?ㅣ[아침뉴스&미국시황] #260501
-   - sywTeOrE0dE | ongoing=False | publishedAt=2026-04-30T16:21:02Z | actualEndTime=2026-04-30T15:40:56Z | effective=2026-04-30 15:40:56+00:00 | [미국주식 LIVE] 오늘 빠지면 ㅈ됩니다.......... #260430
    - arxyAq9qM_c | ongoing=False | publishedAt=2026-04-30T09:00:07Z | actualEndTime=None | effective=2026-04-30 09:00:07+00:00 | 레버리지 ETF의 진실, 2배가 2배가 아닌 이유
-   - 9rLYYnnd9-s | ongoing=False | publishedAt=2026-04-30T03:00:09Z | actualEndTime=None | effective=2026-04-30 03:00:09+00:00 | 이거 또 다 처물리겠네...............
-   - kpIjcwKNuyA | ongoing=False | publishedAt=2026-04-30T00:38:01Z | actualEndTime=2026-04-30T00:21:36Z | effective=2026-04-30 00:21:36+00:00 | 올해 가장 기분좋은 아침입니다ㅣ근데 브렌트유 120달러 실화임...??ㅣ[아침뉴스&미국시황] #260430
-   - 6dQsLEm8dxA | ongoing=False | publishedAt=2026-04-29T09:00:09Z | actualEndTime=None | effective=2026-04-29 09:00:09+00:00 | 신규 상장주를 볼 때도 대주주를 보게 되는 이유
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
