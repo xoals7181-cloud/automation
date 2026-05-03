@@ -1,62 +1,45 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-02 13:14 (KST)
-Run: 136 (id=25243509864)
+생성 시각: 2026-05-03 13:35 (KST)
+Run: 137 (id=25269981620)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: Iran War Hits 60-Day Legal Deadline | Balance of Power 05/01/2026
-  URL: https://www.youtube.com/watch?v=FkCI7e5hp-o
-  publishedAt: 2026-05-02T00:08:10Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - FkCI7e5hp-o | ongoing=False | publishedAt=2026-05-02T00:08:10Z | actualEndTime=None | effective=2026-05-02 00:08:10+00:00 | Iran War Hits 60-Day Legal Deadline | Balance of Power 05/01
-   - 0_lplMuq6eQ | ongoing=False | publishedAt=2026-05-01T23:00:01Z | actualEndTime=None | effective=2026-05-01 23:00:01+00:00 | Wall Street Week | Warsh’s Fed, Vibe Coding, Geothermal Ener
-   - okxmWxXj-sQ | ongoing=False | publishedAt=2026-05-01T22:34:05Z | actualEndTime=None | effective=2026-05-01 22:34:05+00:00 | Stocks Keep Record Highs on Renewed US-Iran Hopes | The Clos
-   - sgu3Riks-Ok | ongoing=False | publishedAt=2026-05-01T22:15:18Z | actualEndTime=None | effective=2026-05-01 22:15:18+00:00 | US Orders Withdrawal of About 5,000 Troops From Germany
-   - 5-AlJBD9Qf0 | ongoing=False | publishedAt=2026-05-01T20:46:32Z | actualEndTime=None | effective=2026-05-01 20:46:32+00:00 | Trump Bemoans Iran Talks, Magna CEO Talks News Trump Tariffs
-   - y_HXgQPchJI | ongoing=False | publishedAt=2026-05-01T20:34:42Z | actualEndTime=None | effective=2026-05-01 20:34:42+00:00 | US Economic Resilience Lowers Rate Cut Odds, Private Credit 
-   - fjgquahcznQ | ongoing=False | publishedAt=2026-05-01T20:27:17Z | actualEndTime=None | effective=2026-05-01 20:27:17+00:00 | After seven years, first US-Venezuela flight lands in Caraca
-   - u3CnqJ5SJbs | ongoing=False | publishedAt=2026-05-01T20:24:34Z | actualEndTime=None | effective=2026-05-01 20:24:34+00:00 | Stocks Hold Record Highs | Closing Bell
-   - T0NLyXEC2ek | ongoing=False | publishedAt=2026-05-01T20:21:14Z | actualEndTime=None | effective=2026-05-01 20:21:14+00:00 | Trump Says 'Not Happy' on Iran, Touts Hormuz Closure | Balan
-   - 9eK-Yx6M2sk | ongoing=False | publishedAt=2026-05-01T20:08:57Z | actualEndTime=None | effective=2026-05-01 20:08:57+00:00 | Florida’s Brightline Seeks Rescue to Avoid Bankruptcy
+   - gY4AZRHizDE | ongoing=False | publishedAt=2026-05-02T16:05:29Z | actualEndTime=None | effective=2026-05-02 16:05:29+00:00 | Bloomberg This Weekend | Spirit Airlines Shuts Down, Berkshi
+   - bxAqDLHlLDs | ongoing=False | publishedAt=2026-05-02T15:46:55Z | actualEndTime=None | effective=2026-05-02 15:46:55+00:00 | UAE Departs OPEC as Iran Feel Economic Sting of Blockade
+   - QGmFLEyb0ks | ongoing=False | publishedAt=2026-05-02T15:35:40Z | actualEndTime=None | effective=2026-05-02 15:35:40+00:00 | Actor Ben McKenzie Explores Cryptocurrency Fraud in Document
+   - tExW4yT3pCk | ongoing=False | publishedAt=2026-05-02T15:34:32Z | actualEndTime=None | effective=2026-05-02 15:34:32+00:00 | Blockade Continues in Hormuz and Iran War Drags On
+   - mExxi2HkpFg | ongoing=False | publishedAt=2026-05-02T14:51:23Z | actualEndTime=None | effective=2026-05-02 14:51:23+00:00 | Trump Rues State of Iran Talks
+   - HvonHRuixIQ | ongoing=False | publishedAt=2026-05-02T14:08:21Z | actualEndTime=None | effective=2026-05-02 14:08:21+00:00 | Bloomberg House Miami Highlights the F1 Grand Prix
+   - xYU7zaaRjmE | ongoing=False | publishedAt=2026-05-02T14:01:38Z | actualEndTime=None | effective=2026-05-02 14:01:38+00:00 | The Vibe Coding Era: Why AI Won’t Replace Software Engineers
+   - jP6EKe6O_k8 | ongoing=False | publishedAt=2026-05-02T12:51:10Z | actualEndTime=None | effective=2026-05-02 12:51:10+00:00 | Berkshire Hathaway Posts $11.35 Billion Q1 Earning
+   - RNvDWuNagqQ | ongoing=False | publishedAt=2026-05-02T12:08:57Z | actualEndTime=None | effective=2026-05-02 12:08:57+00:00 | Spirit Airlines Shuts Down Operations After White House Bail
+   - ywkWyZfrK1M | ongoing=False | publishedAt=2026-05-02T12:01:41Z | actualEndTime=None | effective=2026-05-02 12:01:41+00:00 | What Kevin Warsh Means for the Future of the Fed
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: HOLY GAMESTOP AND EBAY!
-  URL: https://www.youtube.com/watch?v=JI2bfNhIMBc
-  publishedAt: 2026-05-01T22:38:44Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - JI2bfNhIMBc | ongoing=False | publishedAt=2026-05-01T22:38:44Z | actualEndTime=None | effective=2026-05-01 22:38:44+00:00 | HOLY GAMESTOP AND EBAY!
    - fbqMU-qTqJE | ongoing=False | publishedAt=2026-05-01T14:53:19Z | actualEndTime=None | effective=2026-05-01 14:53:19+00:00 | REVOLT
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 실적이 증명한 강세장! 애플·오라클 급등  -  2026/05/01
-  URL: https://www.youtube.com/watch?v=Q10ZxhxlnT8
-  publishedAt: 2026-05-01T22:45:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - Q10ZxhxlnT8 | ongoing=False | publishedAt=2026-05-01T22:45:01Z | actualEndTime=None | effective=2026-05-01 22:45:01+00:00 | 【미국 증시 오늘의 요약】 실적이 증명한 강세장! 애플·오라클 급등  -  2026/05/01
    - -nKcVXu9-vg | ongoing=False | publishedAt=2026-05-01T21:54:45Z | actualEndTime=2026-05-01T21:29:55Z | effective=2026-05-01 21:29:55+00:00 | [26년 05월 01일 금]  미국, 60일 전쟁 시한 종료?! ｜ 일본, 2024년 이후 처음으로 외환시장
-   - BBQsXmrMrrY | ongoing=False | publishedAt=2026-04-30T22:51:00Z | actualEndTime=None | effective=2026-04-30 22:51:00+00:00 | 【미국 증시 오늘의 요약】 S&P 500 사상 최고치 경신… 엇갈린 빅테크 실적과 견고한 고용  -  202
-   - Y90lbUWoDL4 | ongoing=False | publishedAt=2026-04-30T22:24:09Z | actualEndTime=2026-04-30T22:02:38Z | effective=2026-04-30 22:02:38+00:00 | [26년 04월 30일 목]  미군, 이란 군사 행동 옵션 브리핑 예정 ｜  애플·샌디스크, 실적발표 ｜  
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 차트충 VS 재무충! 자강두천의 결론은?
-  URL: https://www.youtube.com/watch?v=MENw21TTFdc
-  publishedAt: 2026-05-02T01:00:30Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - MENw21TTFdc | ongoing=False | publishedAt=2026-05-02T01:00:30Z | actualEndTime=None | effective=2026-05-02 01:00:30+00:00 | 차트충 VS 재무충! 자강두천의 결론은?
-   - TUpN57jzduU | ongoing=False | publishedAt=2026-05-01T01:55:18Z | actualEndTime=None | effective=2026-05-01 01:55:18+00:00 | 한계에 다다른 가격, 이제는 물량의 싸움 #삼성전자 #SK하이닉스 #샌디스크 #메모리
-   - Vw_mQC6DNOM | ongoing=False | publishedAt=2026-05-01T01:36:36Z | actualEndTime=2026-05-01T01:09:16Z | effective=2026-05-01 01:09:16+00:00 | 애플: 우리도 AI 한다!ㅣ샌디스크: 다 좋은데 왜 빠져요?ㅣ[아침뉴스&미국시황] #260501
-   - arxyAq9qM_c | ongoing=False | publishedAt=2026-04-30T09:00:07Z | actualEndTime=None | effective=2026-04-30 09:00:07+00:00 | 레버리지 ETF의 진실, 2배가 2배가 아닌 이유
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
