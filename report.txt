@@ -1,49 +1,62 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-03 13:35 (KST)
-Run: 137 (id=25269981620)
+생성 시각: 2026-05-04 13:35 (KST)
+Run: 138 (id=25301237506)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Trump's Hormuz Plan; Takaichi Visits Australia | The Asia Trade 5/4/2026
+  URL: https://www.youtube.com/watch?v=6T0rzPILD8M
+  publishedAt: 2026-05-04T04:02:32Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - gY4AZRHizDE | ongoing=False | publishedAt=2026-05-02T16:05:29Z | actualEndTime=None | effective=2026-05-02 16:05:29+00:00 | Bloomberg This Weekend | Spirit Airlines Shuts Down, Berkshi
-   - bxAqDLHlLDs | ongoing=False | publishedAt=2026-05-02T15:46:55Z | actualEndTime=None | effective=2026-05-02 15:46:55+00:00 | UAE Departs OPEC as Iran Feel Economic Sting of Blockade
-   - QGmFLEyb0ks | ongoing=False | publishedAt=2026-05-02T15:35:40Z | actualEndTime=None | effective=2026-05-02 15:35:40+00:00 | Actor Ben McKenzie Explores Cryptocurrency Fraud in Document
-   - tExW4yT3pCk | ongoing=False | publishedAt=2026-05-02T15:34:32Z | actualEndTime=None | effective=2026-05-02 15:34:32+00:00 | Blockade Continues in Hormuz and Iran War Drags On
-   - mExxi2HkpFg | ongoing=False | publishedAt=2026-05-02T14:51:23Z | actualEndTime=None | effective=2026-05-02 14:51:23+00:00 | Trump Rues State of Iran Talks
-   - HvonHRuixIQ | ongoing=False | publishedAt=2026-05-02T14:08:21Z | actualEndTime=None | effective=2026-05-02 14:08:21+00:00 | Bloomberg House Miami Highlights the F1 Grand Prix
-   - xYU7zaaRjmE | ongoing=False | publishedAt=2026-05-02T14:01:38Z | actualEndTime=None | effective=2026-05-02 14:01:38+00:00 | The Vibe Coding Era: Why AI Won’t Replace Software Engineers
-   - jP6EKe6O_k8 | ongoing=False | publishedAt=2026-05-02T12:51:10Z | actualEndTime=None | effective=2026-05-02 12:51:10+00:00 | Berkshire Hathaway Posts $11.35 Billion Q1 Earning
-   - RNvDWuNagqQ | ongoing=False | publishedAt=2026-05-02T12:08:57Z | actualEndTime=None | effective=2026-05-02 12:08:57+00:00 | Spirit Airlines Shuts Down Operations After White House Bail
-   - ywkWyZfrK1M | ongoing=False | publishedAt=2026-05-02T12:01:41Z | actualEndTime=None | effective=2026-05-02 12:01:41+00:00 | What Kevin Warsh Means for the Future of the Fed
+   - 6T0rzPILD8M | ongoing=False | publishedAt=2026-05-04T04:02:32Z | actualEndTime=None | effective=2026-05-04 04:02:32+00:00 | Trump's Hormuz Plan; Takaichi Visits Australia | The Asia Tr
+   - OYqpdLRKFg8 | ongoing=False | publishedAt=2026-05-03T17:26:19Z | actualEndTime=None | effective=2026-05-03 17:26:19+00:00 | Bloomberg This Weekend | Trump Reviewing Iran's Proposal, Sp
+   - 2dBrNYtFrV4 | ongoing=False | publishedAt=2026-05-03T16:15:49Z | actualEndTime=None | effective=2026-05-03 16:15:49+00:00 | Rep. Kiley: Iran Cannot Be Allowed To Get A Nuclear Weapon
+   - NMGiftarF-4 | ongoing=False | publishedAt=2026-05-03T15:51:45Z | actualEndTime=None | effective=2026-05-03 15:51:45+00:00 | Rep. Fields: We Need Term Limits on the Supreme Court
+   - RN2_2CcP1Ps | ongoing=False | publishedAt=2026-05-03T15:41:28Z | actualEndTime=None | effective=2026-05-03 15:41:28+00:00 | Pointed News Quiz | AI, Marathon, Toys
+   - SpiI8w5-P8w | ongoing=False | publishedAt=2026-05-03T15:35:38Z | actualEndTime=None | effective=2026-05-03 15:35:38+00:00 | Bloomberg Dispatch: It’s a Weird Time to Be Named Claude
+   - kAK7dCRfoes | ongoing=False | publishedAt=2026-05-03T15:25:24Z | actualEndTime=None | effective=2026-05-03 15:25:24+00:00 | FCC Commissioner Gomez Condemns Early ABC License Review as 
+   - axQ-nxrCafk | ongoing=False | publishedAt=2026-05-03T15:04:09Z | actualEndTime=None | effective=2026-05-03 15:04:09+00:00 | Goop Kitchen, Ozempic Breath, Hotspan | BTW: Headlines You S
+   - WH_nLn__VDc | ongoing=False | publishedAt=2026-05-03T14:49:15Z | actualEndTime=None | effective=2026-05-03 14:49:15+00:00 | Sharapova's 'Pretty Tough' Smashes Podcast Manosphere
+   - ghjzAIvyJr4 | ongoing=False | publishedAt=2026-05-03T14:00:59Z | actualEndTime=None | effective=2026-05-03 14:00:59+00:00 | Las Vegas Is Gambling on Its Own Reinvention
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: THIS CHANGES EVERYTHING
+  URL: https://www.youtube.com/watch?v=0-1i1awbGgw
+  publishedAt: 2026-05-03T19:20:21Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - JI2bfNhIMBc | ongoing=False | publishedAt=2026-05-01T22:38:44Z | actualEndTime=None | effective=2026-05-01 22:38:44+00:00 | HOLY GAMESTOP AND EBAY!
-   - fbqMU-qTqJE | ongoing=False | publishedAt=2026-05-01T14:53:19Z | actualEndTime=None | effective=2026-05-01 14:53:19+00:00 | REVOLT
+   - 0-1i1awbGgw | ongoing=False | publishedAt=2026-05-03T19:20:21Z | actualEndTime=None | effective=2026-05-03 19:20:21+00:00 | THIS CHANGES EVERYTHING
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Q10ZxhxlnT8 | ongoing=False | publishedAt=2026-05-01T22:45:01Z | actualEndTime=None | effective=2026-05-01 22:45:01+00:00 | 【미국 증시 오늘의 요약】 실적이 증명한 강세장! 애플·오라클 급등  -  2026/05/01
-   - -nKcVXu9-vg | ongoing=False | publishedAt=2026-05-01T21:54:45Z | actualEndTime=2026-05-01T21:29:55Z | effective=2026-05-01 21:29:55+00:00 | [26년 05월 01일 금]  미국, 60일 전쟁 시한 종료?! ｜ 일본, 2024년 이후 처음으로 외환시장
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 직장인이 슈드를 왜 사요? 세금폭탄 왜 맞아요??
+  URL: https://www.youtube.com/watch?v=HTIPVVxjd-E
+  publishedAt: 2026-05-04T03:00:27Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - MENw21TTFdc | ongoing=False | publishedAt=2026-05-02T01:00:30Z | actualEndTime=None | effective=2026-05-02 01:00:30+00:00 | 차트충 VS 재무충! 자강두천의 결론은?
+   - HTIPVVxjd-E | ongoing=False | publishedAt=2026-05-04T03:00:27Z | actualEndTime=None | effective=2026-05-04 03:00:27+00:00 | 직장인이 슈드를 왜 사요? 세금폭탄 왜 맞아요??
+   - unAp4wBnhlc | ongoing=False | publishedAt=2026-05-04T00:10:14Z | actualEndTime=2026-05-03T23:56:46Z | effective=2026-05-03 23:56:46+00:00 | 프로젝트 프리덤, 트럼프는 무슨 생각인가?ㅣ반도체를 사야할까? 순환매를 돌려야 할까?ㅣ[아침뉴스&미국시황] 
+   - ePuGpyewipk | ongoing=False | publishedAt=2026-05-03T08:00:41Z | actualEndTime=None | effective=2026-05-03 08:00:41+00:00 | 저는 구글이 좋습니다
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 삼성전자, SK하이닉스 떡상? '진짜 수혜주'는 따로 있습니다 (5/4)
+  URL: https://www.youtube.com/watch?v=vckD1aXTqhI
+  publishedAt: 2026-05-04T02:50:21Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - vckD1aXTqhI | ongoing=False | publishedAt=2026-05-04T02:50:21Z | actualEndTime=None | effective=2026-05-04 02:50:21+00:00 | 삼성전자, SK하이닉스 떡상? '진짜 수혜주'는 따로 있습니다 (5/4)
+   - iNakszlG_XQ | ongoing=False | publishedAt=2026-05-03T16:54:27Z | actualEndTime=None | effective=2026-05-03 16:54:27+00:00 | 빅테크가 찍어준 AI투자의 정답지?
 
 - 소수몽키
   상태: NO_VIDEO
