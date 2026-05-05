@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-04 13:35 (KST)
-Run: 138 (id=25301237506)
+생성 시각: 2026-05-05 13:12 (KST)
+Run: 139 (id=25357418335)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,56 +8,64 @@ Run: 138 (id=25301237506)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump's Hormuz Plan; Takaichi Visits Australia | The Asia Trade 5/4/2026
-  URL: https://www.youtube.com/watch?v=6T0rzPILD8M
-  publishedAt: 2026-05-04T04:02:32Z
+  제목: Trump's 'Project Freedom' Fans Tensions | Balance of Power 05/04/2026
+  URL: https://www.youtube.com/watch?v=6tUcFXEtqzM
+  publishedAt: 2026-05-04T23:46:12Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 6T0rzPILD8M | ongoing=False | publishedAt=2026-05-04T04:02:32Z | actualEndTime=None | effective=2026-05-04 04:02:32+00:00 | Trump's Hormuz Plan; Takaichi Visits Australia | The Asia Tr
-   - OYqpdLRKFg8 | ongoing=False | publishedAt=2026-05-03T17:26:19Z | actualEndTime=None | effective=2026-05-03 17:26:19+00:00 | Bloomberg This Weekend | Trump Reviewing Iran's Proposal, Sp
-   - 2dBrNYtFrV4 | ongoing=False | publishedAt=2026-05-03T16:15:49Z | actualEndTime=None | effective=2026-05-03 16:15:49+00:00 | Rep. Kiley: Iran Cannot Be Allowed To Get A Nuclear Weapon
-   - NMGiftarF-4 | ongoing=False | publishedAt=2026-05-03T15:51:45Z | actualEndTime=None | effective=2026-05-03 15:51:45+00:00 | Rep. Fields: We Need Term Limits on the Supreme Court
-   - RN2_2CcP1Ps | ongoing=False | publishedAt=2026-05-03T15:41:28Z | actualEndTime=None | effective=2026-05-03 15:41:28+00:00 | Pointed News Quiz | AI, Marathon, Toys
-   - SpiI8w5-P8w | ongoing=False | publishedAt=2026-05-03T15:35:38Z | actualEndTime=None | effective=2026-05-03 15:35:38+00:00 | Bloomberg Dispatch: It’s a Weird Time to Be Named Claude
-   - kAK7dCRfoes | ongoing=False | publishedAt=2026-05-03T15:25:24Z | actualEndTime=None | effective=2026-05-03 15:25:24+00:00 | FCC Commissioner Gomez Condemns Early ABC License Review as 
-   - axQ-nxrCafk | ongoing=False | publishedAt=2026-05-03T15:04:09Z | actualEndTime=None | effective=2026-05-03 15:04:09+00:00 | Goop Kitchen, Ozempic Breath, Hotspan | BTW: Headlines You S
-   - WH_nLn__VDc | ongoing=False | publishedAt=2026-05-03T14:49:15Z | actualEndTime=None | effective=2026-05-03 14:49:15+00:00 | Sharapova's 'Pretty Tough' Smashes Podcast Manosphere
-   - ghjzAIvyJr4 | ongoing=False | publishedAt=2026-05-03T14:00:59Z | actualEndTime=None | effective=2026-05-03 14:00:59+00:00 | Las Vegas Is Gambling on Its Own Reinvention
+   - 6tUcFXEtqzM | ongoing=False | publishedAt=2026-05-04T23:46:12Z | actualEndTime=None | effective=2026-05-04 23:46:12+00:00 | Trump's 'Project Freedom' Fans Tensions | Balance of Power 0
+   - p7UvLfn2dzQ | ongoing=False | publishedAt=2026-05-04T22:43:30Z | actualEndTime=None | effective=2026-05-04 22:43:30+00:00 | Live From the Milken Institute Global Conference | The Close
+   - 2HneRtyABc0 | ongoing=False | publishedAt=2026-05-04T22:25:33Z | actualEndTime=None | effective=2026-05-04 22:25:33+00:00 | Rep. Smith: Iran nuclear threat wasn't imminent #shorts #ira
+   - FC3KwAR1qEk | ongoing=False | publishedAt=2026-05-04T21:33:51Z | actualEndTime=None | effective=2026-05-04 21:33:51+00:00 | Guggenheim's Walsh Sees Fed Cutting Once More This Year
+   - OGfA7RFQyU8 | ongoing=False | publishedAt=2026-05-04T21:08:29Z | actualEndTime=None | effective=2026-05-04 21:08:29+00:00 | Man Group CEO: Economic pain in Europe worse than US #shorts
+   - ITgNGVQVNf8 | ongoing=False | publishedAt=2026-05-04T21:02:13Z | actualEndTime=None | effective=2026-05-04 21:02:13+00:00 | Pimco's Stracke Sees Client Diversification Away From US
+   - T6Aa8zSBaVM | ongoing=False | publishedAt=2026-05-04T20:43:18Z | actualEndTime=None | effective=2026-05-04 20:43:18+00:00 | Tom Brady and former X CEO on GLP-1s and their joint venture
+   - Q1ft5WFQ2iU | ongoing=False | publishedAt=2026-05-04T20:42:05Z | actualEndTime=None | effective=2026-05-04 20:42:05+00:00 | Ted Cruz: Bailing out Spirit Airlines would’ve been a mistak
+   - tOjhMKdG5HQ | ongoing=False | publishedAt=2026-05-04T20:37:41Z | actualEndTime=None | effective=2026-05-04 20:37:41+00:00 | Tom Brady & Linda Yaccarino on Startup eMed, GLP-1s
+   - rusVrPv3t7g | ongoing=False | publishedAt=2026-05-04T20:34:46Z | actualEndTime=None | effective=2026-05-04 20:34:46+00:00 | The Online Games Where The House Always Wins
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: THIS CHANGES EVERYTHING
-  URL: https://www.youtube.com/watch?v=0-1i1awbGgw
-  publishedAt: 2026-05-03T19:20:21Z
+  제목: Iran is Worsening.
+  URL: https://www.youtube.com/watch?v=Gbd0uSSrI5k
+  publishedAt: 2026-05-04T18:44:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Gbd0uSSrI5k | ongoing=False | publishedAt=2026-05-04T18:44:09Z | actualEndTime=None | effective=2026-05-04 18:44:09+00:00 | Iran is Worsening.
    - 0-1i1awbGgw | ongoing=False | publishedAt=2026-05-03T19:20:21Z | actualEndTime=None | effective=2026-05-03 19:20:21+00:00 | THIS CHANGES EVERYTHING
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  트럼프 vs 이란 무력 충돌 우려 격화… S&P 500 사상 최고치서 하락   -  2026/05/04
+  URL: https://www.youtube.com/watch?v=kOisaKQ5jwU
+  publishedAt: 2026-05-04T22:55:01Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - kOisaKQ5jwU | ongoing=False | publishedAt=2026-05-04T22:55:01Z | actualEndTime=None | effective=2026-05-04 22:55:01+00:00 | 【미국 증시 오늘의 요약】  트럼프 vs 이란 무력 충돌 우려 격화… S&P 500 사상 최고치서 하락   
+   - Lu-esLBEJGk | ongoing=False | publishedAt=2026-05-04T22:20:20Z | actualEndTime=2026-05-04T21:58:45Z | effective=2026-05-04 21:58:45+00:00 | [26년 05월 04일 월]  호르무즈 해협 긴장 고조...｜ 게임스탑, 이베이에 인수 제안 ｜ 코인베이스,
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 직장인이 슈드를 왜 사요? 세금폭탄 왜 맞아요??
-  URL: https://www.youtube.com/watch?v=HTIPVVxjd-E
-  publishedAt: 2026-05-04T03:00:27Z
+  제목: 유튜브 시장에도 PER같은 지표가 존재?!
+  URL: https://www.youtube.com/watch?v=Pj5LuIiW5UE
+  publishedAt: 2026-05-05T03:49:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Pj5LuIiW5UE | ongoing=False | publishedAt=2026-05-05T03:49:13Z | actualEndTime=None | effective=2026-05-05 03:49:13+00:00 | 유튜브 시장에도 PER같은 지표가 존재?!
+   - wLMc0tLYQ4U | ongoing=False | publishedAt=2026-05-05T00:48:47Z | actualEndTime=2026-05-05T00:41:22Z | effective=2026-05-05 00:41:22+00:00 | 팔란티어 실적발표, 주가는 안움직였다!ㅣ팔란티어 보다 눈여겨 봐야할 실적발표는?ㅣ오늘도 웃음벨 넘치는 USA
    - HTIPVVxjd-E | ongoing=False | publishedAt=2026-05-04T03:00:27Z | actualEndTime=None | effective=2026-05-04 03:00:27+00:00 | 직장인이 슈드를 왜 사요? 세금폭탄 왜 맞아요??
    - unAp4wBnhlc | ongoing=False | publishedAt=2026-05-04T00:10:14Z | actualEndTime=2026-05-03T23:56:46Z | effective=2026-05-03 23:56:46+00:00 | 프로젝트 프리덤, 트럼프는 무슨 생각인가?ㅣ반도체를 사야할까? 순환매를 돌려야 할까?ㅣ[아침뉴스&미국시황] 
    - ePuGpyewipk | ongoing=False | publishedAt=2026-05-03T08:00:41Z | actualEndTime=None | effective=2026-05-03 08:00:41+00:00 | 저는 구글이 좋습니다
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 삼성전자, SK하이닉스 떡상? '진짜 수혜주'는 따로 있습니다 (5/4)
-  URL: https://www.youtube.com/watch?v=vckD1aXTqhI
-  publishedAt: 2026-05-04T02:50:21Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - vckD1aXTqhI | ongoing=False | publishedAt=2026-05-04T02:50:21Z | actualEndTime=None | effective=2026-05-04 02:50:21+00:00 | 삼성전자, SK하이닉스 떡상? '진짜 수혜주'는 따로 있습니다 (5/4)
    - iNakszlG_XQ | ongoing=False | publishedAt=2026-05-03T16:54:27Z | actualEndTime=None | effective=2026-05-03 16:54:27+00:00 | 빅테크가 찍어준 AI투자의 정답지?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - Dw5Rh2VstLc | ongoing=False | publishedAt=2026-05-04T12:19:54Z | actualEndTime=None | effective=2026-05-04 12:19:54+00:00 | AI 투자가 돈 되기 시작했다? 구글이 보여준 투자 답안지
