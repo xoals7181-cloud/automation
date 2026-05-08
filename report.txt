@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-07 13:29 (KST)
-Run: 141 (id=25476134025)
+생성 시각: 2026-05-08 13:12 (KST)
+Run: 142 (id=25536262648)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,64 @@ Run: 141 (id=25476134025)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Japan Catchup Rally, Iran Optimism Fuels Asia To Record | The Asia Trade 5/7/2026
-  URL: https://www.youtube.com/watch?v=gc11AOX0geg
-  publishedAt: 2026-05-07T04:06:33Z
+  제목: Reports: US Military Carried Out Strikes in Strait of Hormuz Area | Balance of Power 05/07/2026
+  URL: https://www.youtube.com/watch?v=50vTlLT-kNk
+  publishedAt: 2026-05-07T23:57:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - gc11AOX0geg | ongoing=False | publishedAt=2026-05-07T04:06:33Z | actualEndTime=None | effective=2026-05-07 04:06:33+00:00 | Japan Catchup Rally, Iran Optimism Fuels Asia To Record | Th
-   - 7B6Udtwytxw | ongoing=False | publishedAt=2026-05-07T04:00:08Z | actualEndTime=None | effective=2026-05-07 04:00:08+00:00 | Why China Blocked Meta’s $2 billion Acquisition of Manus AI
-   - nAbaCU7cFBY | ongoing=False | publishedAt=2026-05-07T00:02:43Z | actualEndTime=None | effective=2026-05-07 00:02:43+00:00 | Oil, Gas Plunge As Iran Weighs US Proposal to End War | Bala
-   - Z2hEdJUWnQA | ongoing=False | publishedAt=2026-05-06T22:47:30Z | actualEndTime=None | effective=2026-05-06 22:47:30+00:00 | Short warns GOP infighting could hurt in November #shorts #g
-   - lQ2QV_FSZf8 | ongoing=False | publishedAt=2026-05-06T22:34:37Z | actualEndTime=None | effective=2026-05-06 22:34:37+00:00 | Day 3 From the Milken Institute Global Conference | The Clos
-   - EC584-vtwJ0 | ongoing=False | publishedAt=2026-05-06T21:27:12Z | actualEndTime=None | effective=2026-05-06 21:27:12+00:00 | Guggenheim ‘Leaning Into’ BDCs, Dina DiLorenzo Says
-   - pl1ctfvRrXk | ongoing=False | publishedAt=2026-05-06T20:54:26Z | actualEndTime=None | effective=2026-05-06 20:54:26+00:00 | Trump Says 'We Won' When Asked About Latest on Iran
-   - zUglKgnPv1s | ongoing=False | publishedAt=2026-05-06T20:50:45Z | actualEndTime=None | effective=2026-05-06 20:50:45+00:00 | Brewers owner has no plans to sell stake to private equity
-   - MF-HwMPF604 | ongoing=False | publishedAt=2026-05-06T20:41:35Z | actualEndTime=None | effective=2026-05-06 20:41:35+00:00 | GameStop Makes $56B Bid For eBay, M&A Animal Spirits Are Str
-   - SBmJEQ_cv3g | ongoing=False | publishedAt=2026-05-06T20:31:37Z | actualEndTime=None | effective=2026-05-06 20:31:37+00:00 | Apple to Let Users Choose Rival AI Models
+   - 50vTlLT-kNk | ongoing=False | publishedAt=2026-05-07T23:57:52Z | actualEndTime=None | effective=2026-05-07 23:57:52+00:00 | Reports: US Military Carried Out Strikes in Strait of Hormuz
+   - AoimMqo1zYM | ongoing=False | publishedAt=2026-05-07T22:46:50Z | actualEndTime=None | effective=2026-05-07 22:46:50+00:00 | Gundlach compares private credit market to the Wild West #sh
+   - qLuiF3DNkJY | ongoing=False | publishedAt=2026-05-07T22:20:20Z | actualEndTime=None | effective=2026-05-07 22:20:20+00:00 | Live from DoubleLine Capital | The Close 5/7/2026
+   - mpx52YQ_Ljk | ongoing=False | publishedAt=2026-05-07T21:33:19Z | actualEndTime=None | effective=2026-05-07 21:33:19+00:00 | Gundlach Warns About the Risks Facing Private Credit
+   - 29ZmdnJMjcs | ongoing=False | publishedAt=2026-05-07T21:05:30Z | actualEndTime=None | effective=2026-05-07 21:05:30+00:00 | Doubleline's Shinoda Sees Good Times Ahead for Commercial Re
+   - SvEAuorPm5A | ongoing=False | publishedAt=2026-05-07T20:44:54Z | actualEndTime=None | effective=2026-05-07 20:44:54+00:00 | US Awaits Iran Response on Deal, Stocks Decline From Highs |
+   - 9CDwE2kPJx4 | ongoing=False | publishedAt=2026-05-07T19:50:24Z | actualEndTime=None | effective=2026-05-07 19:50:24+00:00 | US Awaits Iran's Peace Deal Response | Balance of Power: Ear
+   - sOBEc2rWiOI | ongoing=False | publishedAt=2026-05-07T19:50:16Z | actualEndTime=None | effective=2026-05-07 19:50:16+00:00 | Fed Can't Lose Credibility, Says Doubleline's Campbell
+   - qN1cEvSANn0 | ongoing=False | publishedAt=2026-05-07T19:42:19Z | actualEndTime=None | effective=2026-05-07 19:42:19+00:00 | Fed’s Daly says it’s “too early to tell” on end of rate-cutt
+   - uDsZmyO3uLo | ongoing=False | publishedAt=2026-05-07T19:30:36Z | actualEndTime=None | effective=2026-05-07 19:30:36+00:00 | Evelyn Farkas: Iran's Nuclear Program is the "Number One Pro
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - OUHYto8PY-g | ongoing=False | publishedAt=2026-05-06T00:57:39Z | actualEndTime=None | effective=2026-05-06 00:57:39+00:00 | Trump JUST DID IT ***AGAIN***
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  미·이란 합의 임박설 + AMD 어닝 서프라이즈   -  2026/05/06
-  URL: https://www.youtube.com/watch?v=V5dXgp5Cxgg
-  publishedAt: 2026-05-06T23:00:25Z
+  제목: 【미국 증시 오늘의 요약】  호르무즈 해협 폭발음! 전면전 우려에 요동치는 유가...   -  2026/05/07
+  URL: https://www.youtube.com/watch?v=gb7vt1Pv5oo
+  publishedAt: 2026-05-07T23:10:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - gb7vt1Pv5oo | ongoing=False | publishedAt=2026-05-07T23:10:00Z | actualEndTime=None | effective=2026-05-07 23:10:00+00:00 | 【미국 증시 오늘의 요약】  호르무즈 해협 폭발음! 전면전 우려에 요동치는 유가...   -  2026/05
+   - DGR27GJ6AT4 | ongoing=False | publishedAt=2026-05-07T22:40:59Z | actualEndTime=2026-05-07T22:20:08Z | effective=2026-05-07 22:20:08+00:00 | [26년 05월 07일 목]  미국·브라질 정상회담 ｜ 실적발표: 아이렌, 코어위브, 로켓랩 등  ｜ 경제지
    - V5dXgp5Cxgg | ongoing=False | publishedAt=2026-05-06T23:00:25Z | actualEndTime=None | effective=2026-05-06 23:00:25+00:00 | 【미국 증시 오늘의 요약】  미·이란 합의 임박설 + AMD 어닝 서프라이즈   -  2026/05/06
    - wV7vZZe-LSY | ongoing=False | publishedAt=2026-05-06T22:30:53Z | actualEndTime=2026-05-06T22:12:17Z | effective=2026-05-06 22:12:17+00:00 | [26년 05월 06일 수]  미국-이란 전쟁 종전 합의 임박!?｜ 앤트로픽, 구글에 $2,000억 지출 예
-   - R4tLo6er5a8 | ongoing=False | publishedAt=2026-05-05T23:00:27Z | actualEndTime=None | effective=2026-05-05 23:00:27+00:00 | 【미국 증시 오늘의 요약】  휴전 유지에 유가 하락…반도체 랠리로 S&P500 신고가   -  2026/05
-   - k32J58ZYvNM | ongoing=False | publishedAt=2026-05-05T22:29:23Z | actualEndTime=2026-05-05T22:07:38Z | effective=2026-05-05 22:07:38+00:00 | [26년 05월 5일 화]  애플, 인텔·삼성과 칩 생산 논의 ｜ 실적발표: AMD, 루멘텀, 슈마컴 등 ｜
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 드디어 큰형님이 움직이기 시작했다ㅣ국제유가, 비트코인 이상거래 또 나왔다..??ㅣ[아침뉴스&미국시황] #260507
-  URL: https://www.youtube.com/watch?v=kJ8-xDBTFEM
-  publishedAt: 2026-05-07T00:35:34Z
-  actualEndTime: 2026-05-07T00:19:23Z
+  제목: 하지만 인플레이션이 온다면!?
+  URL: https://www.youtube.com/watch?v=nwx_Bzdmccc
+  publishedAt: 2026-05-08T03:01:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - nwx_Bzdmccc | ongoing=False | publishedAt=2026-05-08T03:01:01Z | actualEndTime=None | effective=2026-05-08 03:01:01+00:00 | 하지만 인플레이션이 온다면!?
+   - OSfWbBT-MuY | ongoing=False | publishedAt=2026-05-08T00:40:18Z | actualEndTime=2026-05-08T00:31:12Z | effective=2026-05-08 00:31:12+00:00 | 또 숏충이 등장ㅣ협상 되는거 맞아...?? 반도체/코인/채권/금 일제히 하락ㅣ코어위브, 이자가 너무 많다! 
+   - Fhy-hkIbNBs | ongoing=False | publishedAt=2026-05-07T16:17:33Z | actualEndTime=2026-05-07T15:38:52Z | effective=2026-05-07 15:38:52+00:00 | [미국주식 LIVE] 오늘도 가즈아!!ㅣ#260507
+   - FAdr-Ypfi2E | ongoing=False | publishedAt=2026-05-07T08:12:05Z | actualEndTime=None | effective=2026-05-07 08:12:05+00:00 | AI / 반도체 투자자 필독, "이거" 만큼은 기억해야!
    - kJ8-xDBTFEM | ongoing=False | publishedAt=2026-05-07T00:35:34Z | actualEndTime=2026-05-07T00:19:23Z | effective=2026-05-07 00:19:23+00:00 | 드디어 큰형님이 움직이기 시작했다ㅣ국제유가, 비트코인 이상거래 또 나왔다..??ㅣ[아침뉴스&미국시황] #26
    - KPSCxfG7GkU | ongoing=False | publishedAt=2026-05-06T10:42:59Z | actualEndTime=None | effective=2026-05-06 10:42:59+00:00 | 주식성 도박이냐, 도박성 주식이냐
-   - S5ozkLQ3-QA | ongoing=False | publishedAt=2026-05-06T00:14:44Z | actualEndTime=2026-05-06T00:09:40Z | effective=2026-05-06 00:09:40+00:00 | 트럼프: 이란과 협상 거의 다 왔다!!ㅣ호르무즈 호위작전 일시중단 발표ㅣ반도체가 미쳤어요! 언제까지 버텨요!
-   - _39QJnM8X8g | ongoing=False | publishedAt=2026-05-05T08:18:40Z | actualEndTime=None | effective=2026-05-05 08:18:40+00:00 | 2배짜리 ETF가 시장에 미치는 영향
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 삼성전자 하이닉스 못 오른 진짜 이유 (5월 7일)
-  URL: https://www.youtube.com/watch?v=NMF0EZNVBCM
-  publishedAt: 2026-05-07T03:50:51Z
+  제목: 삼전 닉스 코스피 동반 하락의 진짜 이유 (5월 8일)
+  URL: https://www.youtube.com/watch?v=q4PI_I1PId0
+  publishedAt: 2026-05-08T02:41:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - q4PI_I1PId0 | ongoing=False | publishedAt=2026-05-08T02:41:46Z | actualEndTime=None | effective=2026-05-08 02:41:46+00:00 | 삼전 닉스 코스피 동반 하락의 진짜 이유 (5월 8일)
    - NMF0EZNVBCM | ongoing=False | publishedAt=2026-05-07T03:50:51Z | actualEndTime=None | effective=2026-05-07 03:50:51+00:00 | 삼성전자 하이닉스 못 오른 진짜 이유 (5월 7일)
-   - MANTcG3YCc4 | ongoing=False | publishedAt=2026-05-06T03:50:21Z | actualEndTime=None | effective=2026-05-06 03:50:21+00:00 | 삼성전자 하이닉스 또 오른 진짜 이유 (5월 6일)
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - mqaBDzpEZnw | ongoing=False | publishedAt=2026-05-05T11:21:54Z | actualEndTime=None | effective=2026-05-05 11:21:54+00:00 | 빅테크도 당황한 AI 수요 폭발, AI 에이전트 시대 개막의 주인공들
+   - veDBGfHH1q0 | ongoing=False | publishedAt=2026-05-07T10:34:20Z | actualEndTime=None | effective=2026-05-07 10:34:20+00:00 | 샌디스크 마이크론을 놓쳤다면? 다음 대장주를 미리 찾는 방법
