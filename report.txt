@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-09 13:18 (KST)
-Run: 143 (id=25591490469)
+생성 시각: 2026-05-10 13:39 (KST)
+Run: 144 (id=25619967145)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,61 +8,54 @@ Run: 143 (id=25591490469)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US Awaits Iranian Response as Clashes Raise Tensions | Balance of Power 05/08/2026
-  URL: https://www.youtube.com/watch?v=krVeKN_iLS0
-  publishedAt: 2026-05-08T23:31:43Z
+  제목: Bloomberg This Weekend | US Awaits Iranian Response to Proposed Deal, Hantavirus Hits Cruise Ship
+  URL: https://www.youtube.com/watch?v=DD_rWPpgwMA
+  publishedAt: 2026-05-09T17:38:55Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - krVeKN_iLS0 | ongoing=False | publishedAt=2026-05-08T23:31:43Z | actualEndTime=None | effective=2026-05-08 23:31:43+00:00 | US Awaits Iranian Response as Clashes Raise Tensions | Balan
-   - ZmiiKA3NJ1Y | ongoing=False | publishedAt=2026-05-08T23:11:29Z | actualEndTime=None | effective=2026-05-08 23:11:29+00:00 | VA Rep. McClellan seeks to ban partisan gerrymandering #shor
-   - zoS5RV0M2x4 | ongoing=False | publishedAt=2026-05-08T23:01:11Z | actualEndTime=None | effective=2026-05-08 23:01:11+00:00 | Wall Street Week | High Stakes Summit, New Zealand’s Brain D
-   - BbLv8sae2_o | ongoing=False | publishedAt=2026-05-08T22:28:14Z | actualEndTime=None | effective=2026-05-08 22:28:14+00:00 | US Preps AI Security Order That Omits Mandatory Tests
-   - vtaGyPy6zJc | ongoing=False | publishedAt=2026-05-08T22:26:36Z | actualEndTime=None | effective=2026-05-08 22:26:36+00:00 | Chip Stock Surge Sends Markets to Record Highs | The Close 5
-   - EYXzFjOQmPY | ongoing=False | publishedAt=2026-05-08T20:47:05Z | actualEndTime=None | effective=2026-05-08 20:47:05+00:00 | Fed’s Goolsbee: Inflation isn’t stalling, it’s getting worse
-   - zO5qkmVKFJI | ongoing=False | publishedAt=2026-05-08T20:45:15Z | actualEndTime=None | effective=2026-05-08 20:45:15+00:00 | Russia, Ukraine Ceasefire, Three Mile Island Returns | Bloom
-   - GO6FQB_-Bzo | ongoing=False | publishedAt=2026-05-08T20:39:16Z | actualEndTime=None | effective=2026-05-08 20:39:16+00:00 | S&P Closes Out 6th Straight Week of Gains | Closing Bell
-   - mQI5egLBJLQ | ongoing=False | publishedAt=2026-05-08T20:36:50Z | actualEndTime=None | effective=2026-05-08 20:36:50+00:00 | Looking Back at Fed Chair Powell's Legacy
-   - pJHpNZTtcXc | ongoing=False | publishedAt=2026-05-08T20:29:49Z | actualEndTime=None | effective=2026-05-08 20:29:49+00:00 | Iran Criticizes US ‘Propaganda’ as Trump Demands a Deal
+   - DD_rWPpgwMA | ongoing=False | publishedAt=2026-05-09T17:38:55Z | actualEndTime=None | effective=2026-05-09 17:38:55+00:00 | Bloomberg This Weekend | US Awaits Iranian Response to Propo
+   - CEEr2mmXI34 | ongoing=False | publishedAt=2026-05-09T17:20:50Z | actualEndTime=None | effective=2026-05-09 17:20:50+00:00 | Rachel Entrekin Shatters 250-Mile Course Record
+   - Yx7ctQEQfqo | ongoing=False | publishedAt=2026-05-09T17:09:05Z | actualEndTime=None | effective=2026-05-09 17:09:05+00:00 | Health Officials Downplay Pandemic Risk From Cruise Hantavir
+   - qayuQrMb0aI | ongoing=False | publishedAt=2026-05-09T17:01:08Z | actualEndTime=None | effective=2026-05-09 17:01:08+00:00 | The sparkling water wars are just getting started #shorts #m
+   - bjgYc5aCRfM | ongoing=False | publishedAt=2026-05-09T16:56:09Z | actualEndTime=None | effective=2026-05-09 16:56:09+00:00 | China Summit Stays on Track Despite Iran Concerns
+   - cECjfA4JchY | ongoing=False | publishedAt=2026-05-09T16:43:39Z | actualEndTime=None | effective=2026-05-09 16:43:39+00:00 | "China is Just Watching": Ro Khanna on Why the Iran Conflict
+   - kk0uKYO46Fk | ongoing=False | publishedAt=2026-05-09T16:36:49Z | actualEndTime=None | effective=2026-05-09 16:36:49+00:00 | DOJ Probing Suspicious Oil Trades Tied To Iran War
+   - MsfqcZkagRM | ongoing=False | publishedAt=2026-05-09T16:27:16Z | actualEndTime=None | effective=2026-05-09 16:27:16+00:00 | Dangers of Sitting, Astrology Vacations, Man Bands | BTW: He
+   - ln59Acb4kRk | ongoing=False | publishedAt=2026-05-09T16:19:38Z | actualEndTime=None | effective=2026-05-09 16:19:38+00:00 | Exploring The Met's New "Costume Art" Exhibit
+   - dq50ZkL8YPc | ongoing=False | publishedAt=2026-05-09T15:01:19Z | actualEndTime=None | effective=2026-05-09 15:01:19+00:00 | Stablecoins are quietly changing how the world sends money #
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: SHOCKING WARNINGS: We have *JUST* 10 Days Left [Rick Rule / Julia La Roche]
-  URL: https://www.youtube.com/watch?v=g1JF4s-ucL0
-  publishedAt: 2026-05-08T22:00:47Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - g1JF4s-ucL0 | ongoing=False | publishedAt=2026-05-08T22:00:47Z | actualEndTime=None | effective=2026-05-08 22:00:47+00:00 | SHOCKING WARNINGS: We have *JUST* 10 Days Left [Rick Rule / 
    - vkhji94wWKE | ongoing=False | publishedAt=2026-05-08T18:45:04Z | actualEndTime=None | effective=2026-05-08 18:45:04+00:00 | EXPLOSIVE
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  멈추지 않는 AI·반도체 질주! 미국-이란 휴전 기대감에 S&P500 신고가 달성  -  2026/05/08
-  URL: https://www.youtube.com/watch?v=CjBUecR5voU
-  publishedAt: 2026-05-08T22:17:00Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - CjBUecR5voU | ongoing=False | publishedAt=2026-05-08T22:17:00Z | actualEndTime=None | effective=2026-05-08 22:17:00+00:00 | 【미국 증시 오늘의 요약】  멈추지 않는 AI·반도체 질주! 미국-이란 휴전 기대감에 S&P500 신고가 달
-   - mZ2loiUVHes | ongoing=False | publishedAt=2026-05-08T21:43:18Z | actualEndTime=2026-05-08T21:19:59Z | effective=2026-05-08 21:19:59+00:00 | [26년 05월 08일 금]  트럼프 대통령 '연설' 예정 ｜ 경제지표: 비농업 취업자수, 실업률  ｜미 무
-   - gb7vt1Pv5oo | ongoing=False | publishedAt=2026-05-07T23:10:00Z | actualEndTime=None | effective=2026-05-07 23:10:00+00:00 | 【미국 증시 오늘의 요약】  호르무즈 해협 폭발음! 전면전 우려에 요동치는 유가...   -  2026/05
-   - DGR27GJ6AT4 | ongoing=False | publishedAt=2026-05-07T22:40:59Z | actualEndTime=2026-05-07T22:20:08Z | effective=2026-05-07 22:20:08+00:00 | [26년 05월 07일 목]  미국·브라질 정상회담 ｜ 실적발표: 아이렌, 코어위브, 로켓랩 등  ｜ 경제지
-
-- 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - CjBUecR5voU | ongoing=False | publishedAt=2026-05-08T22:17:00Z | actualEndTime=None | effective=2026-05-08 22:17:00+00:00 | 【미국 증시 오늘의 요약】  멈추지 않는 AI·반도체 질주! 미국-이란 휴전 기대감에 S&P500 신고가 달
+   - mZ2loiUVHes | ongoing=False | publishedAt=2026-05-08T21:43:18Z | actualEndTime=2026-05-08T21:19:59Z | effective=2026-05-08 21:19:59+00:00 | [26년 05월 08일 금]  트럼프 대통령 '연설' 예정 ｜ 경제지표: 비농업 취업자수, 실업률  ｜미 무
+
+- 설명왕 테이버
+  상태: NO_TRANSCRIPT
+  제목: 처음 손절한 주린이들을 위해
+  URL: https://www.youtube.com/watch?v=f-mzxgBp8B0
+  publishedAt: 2026-05-10T01:15:12Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - f-mzxgBp8B0 | ongoing=False | publishedAt=2026-05-10T01:15:12Z | actualEndTime=None | effective=2026-05-10 01:15:12+00:00 | 처음 손절한 주린이들을 위해
+   - od57yk9ckhg | ongoing=False | publishedAt=2026-05-09T04:40:41Z | actualEndTime=None | effective=2026-05-09 04:40:41+00:00 | 레버리지 채권 ETF, 아무거나 막 하면 안됩니다!
    - mjhsV630HoI | ongoing=False | publishedAt=2026-05-08T16:34:48Z | actualEndTime=2026-05-08T15:50:06Z | effective=2026-05-08 15:50:06+00:00 | [미국주식LIVE] 파티의 마지막은 엔비디아 떡상!! #260508
    - EjXUg49wLT4 | ongoing=False | publishedAt=2026-05-08T09:00:32Z | actualEndTime=None | effective=2026-05-08 09:00:32+00:00 | 트럼프 발표 직전 1조 원유 공매도, 1,800억 수익의 비밀은?
-   - nwx_Bzdmccc | ongoing=False | publishedAt=2026-05-08T03:01:01Z | actualEndTime=None | effective=2026-05-08 03:01:01+00:00 | 하지만 인플레이션이 온다면!?
-   - OSfWbBT-MuY | ongoing=False | publishedAt=2026-05-08T00:40:18Z | actualEndTime=2026-05-08T00:31:12Z | effective=2026-05-08 00:31:12+00:00 | 또 숏충이 등장ㅣ협상 되는거 맞아...?? 반도체/코인/채권/금 일제히 하락ㅣ코어위브, 이자가 너무 많다! 
-   - Fhy-hkIbNBs | ongoing=False | publishedAt=2026-05-07T16:17:33Z | actualEndTime=2026-05-07T15:38:52Z | effective=2026-05-07 15:38:52+00:00 | [미국주식 LIVE] 오늘도 가즈아!!ㅣ#260507
-   - FAdr-Ypfi2E | ongoing=False | publishedAt=2026-05-07T08:12:05Z | actualEndTime=None | effective=2026-05-07 08:12:05+00:00 | AI / 반도체 투자자 필독, "이거" 만큼은 기억해야!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - T9YCki7z98U | ongoing=False | publishedAt=2026-05-09T10:24:40Z | actualEndTime=None | effective=2026-05-09 10:24:40+00:00 | 월요일에 삼전 하이닉스 떡상하는 이유 (5월 9일)
    - kQGIWqyddhQ | ongoing=False | publishedAt=2026-05-08T14:38:14Z | actualEndTime=None | effective=2026-05-08 14:38:14+00:00 | 인텔은 새로운 AI 대장주가 될 수 있을까?
-   - q4PI_I1PId0 | ongoing=False | publishedAt=2026-05-08T02:41:46Z | actualEndTime=None | effective=2026-05-08 02:41:46+00:00 | 삼전 닉스 코스피 동반 하락의 진짜 이유 (5월 8일)
 
 - 소수몽키
   상태: NO_VIDEO
