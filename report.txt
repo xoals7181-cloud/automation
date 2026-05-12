@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-11 13:54 (KST)
-Run: 145 (id=25651060959)
+생성 시각: 2026-05-12 13:31 (KST)
+Run: 146 (id=25713467000)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,53 +8,57 @@ Run: 145 (id=25651060959)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: AI Trade Lifts Asian Stocks | The China Show 5/11/2026
-  URL: https://www.youtube.com/watch?v=O046y9eXBd0
-  publishedAt: 2026-05-11T04:45:07Z
+  제목: Bruising Election for Starmer Sees Farage’s Reform Surge
+  URL: https://www.youtube.com/watch?v=6gV2uV9BtWE
+  publishedAt: 2026-05-12T04:00:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - O046y9eXBd0 | ongoing=False | publishedAt=2026-05-11T04:45:07Z | actualEndTime=None | effective=2026-05-11 04:45:07+00:00 | AI Trade Lifts Asian Stocks | The China Show 5/11/2026
-   - poaeoxRbRK4 | ongoing=False | publishedAt=2026-05-11T00:46:24Z | actualEndTime=None | effective=2026-05-11 00:46:24+00:00 | Trump, Xi Slated for Beijing Summit Amid Iran Conflict
-   - mK09xxu6-f8 | ongoing=False | publishedAt=2026-05-10T17:19:15Z | actualEndTime=None | effective=2026-05-10 17:19:15+00:00 | O'Brien: Supreme Court Voting Rights Act Decision Likely Lea
-   - QVmmeHL0naM | ongoing=False | publishedAt=2026-05-10T17:15:39Z | actualEndTime=None | effective=2026-05-10 17:15:39+00:00 | Bloomberg This Weekend | Qatar Sends Ship Through Strait, Pa
-   - duv-aGx2lG4 | ongoing=False | publishedAt=2026-05-10T17:13:40Z | actualEndTime=None | effective=2026-05-10 17:13:40+00:00 | Bloomberg News Now: Iran Replies to US Peace Plan, LNG Tanke
-   - 7Fp5nakwKoc | ongoing=False | publishedAt=2026-05-10T17:11:09Z | actualEndTime=None | effective=2026-05-10 17:11:09+00:00 | RNC Gruters: This President's Been Going to Bat for the Aver
-   - BzYr1bR1vCI | ongoing=False | publishedAt=2026-05-10T16:40:30Z | actualEndTime=None | effective=2026-05-10 16:40:30+00:00 | Trump's Latest 10% Tariffs Declared Unlawful by US Trade
-   - AvETZmDbWF0 | ongoing=False | publishedAt=2026-05-10T16:38:39Z | actualEndTime=None | effective=2026-05-10 16:38:39+00:00 | The Ultimate Guide to Travel Insurance for Complex Times
-   - YtPKoq94ZuU | ongoing=False | publishedAt=2026-05-10T16:19:47Z | actualEndTime=None | effective=2026-05-10 16:19:47+00:00 | Why Parenting Now Feels Like an Investment Strategy
-   - 6hL29SO6Zx8 | ongoing=False | publishedAt=2026-05-10T16:17:58Z | actualEndTime=None | effective=2026-05-10 16:17:58+00:00 | Olszewski" "Not Confident" the US Can Negotiate an Advantage
+   - 6gV2uV9BtWE | ongoing=False | publishedAt=2026-05-12T04:00:06Z | actualEndTime=None | effective=2026-05-12 04:00:06+00:00 | Bruising Election for Starmer Sees Farage’s Reform Surge
+   - waJ3_vrrRfw | ongoing=False | publishedAt=2026-05-11T23:49:50Z | actualEndTime=None | effective=2026-05-11 23:49:50+00:00 | US-Iran Tensions Flare Ahead of Trump-Xi Meeting | Balance o
+   - sTwD5kvcK0Q | ongoing=False | publishedAt=2026-05-11T23:42:19Z | actualEndTime=None | effective=2026-05-11 23:42:19+00:00 | S&P Rises as Chipmakers Lift Stocks | The Close 5/11/2026
+   - wcyEi0mKSyk | ongoing=False | publishedAt=2026-05-11T23:01:02Z | actualEndTime=None | effective=2026-05-11 23:01:02+00:00 | How NASA’s Chief Plans to Bring Back the Moonwalk
+   - djVmK5s-oTw | ongoing=False | publishedAt=2026-05-11T22:53:46Z | actualEndTime=None | effective=2026-05-11 22:53:46+00:00 | Pied-à-terre proposal is “feel-good tax,” says Freedman #sho
+   - UD1FTf7CO0g | ongoing=False | publishedAt=2026-05-11T22:38:11Z | actualEndTime=None | effective=2026-05-11 22:38:11+00:00 | Oil Gains as Trump Signals Iran Deal On 'Life Support' | Blo
+   - Wm-VW9g5ZTQ | ongoing=False | publishedAt=2026-05-11T21:30:42Z | actualEndTime=None | effective=2026-05-11 21:30:42+00:00 | Trump Says Iran Ceasefire Is Weakened | Balance of Power: Ea
+   - uy4xmEG1UYo | ongoing=False | publishedAt=2026-05-11T21:27:25Z | actualEndTime=None | effective=2026-05-11 21:27:25+00:00 | Another Record Setting Day for US Equities | Closing Bell
+   - huynzVgiBsQ | ongoing=False | publishedAt=2026-05-11T19:58:10Z | actualEndTime=None | effective=2026-05-11 19:58:10+00:00 | DRAM's First-Month Surge, Corgi Launches Record 34 ETFs | ET
+   - DvyewhrOT4I | ongoing=False | publishedAt=2026-05-11T19:30:02Z | actualEndTime=None | effective=2026-05-11 19:30:02+00:00 | Inside OpenTable’s Strategy Shift
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  이란 협상 결렬에 유가 급등…그럼에도 S&P500은 또 사상 최고치  -  2026/05/11
+  URL: https://www.youtube.com/watch?v=Eam_5-AZqMQ
+  publishedAt: 2026-05-11T23:02:39Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - Eam_5-AZqMQ | ongoing=False | publishedAt=2026-05-11T23:02:39Z | actualEndTime=None | effective=2026-05-11 23:02:39+00:00 | 【미국 증시 오늘의 요약】  이란 협상 결렬에 유가 급등…그럼에도 S&P500은 또 사상 최고치  -  20
+   - cEoHdk_hHFw | ongoing=False | publishedAt=2026-05-11T22:36:00Z | actualEndTime=2026-05-11T22:11:54Z | effective=2026-05-11 22:11:54+00:00 | [26년 05월 11일 월]  미·이란, 종전·호르무즈 협상 평행선…｜ 루멘텀, 나스닥100 편입 예정 ｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 아직도 호르무즈는 닫겨 있습니다ㅣ[아침뉴스&미국시황] #260511
-  URL: https://www.youtube.com/watch?v=coDNNwHOwY0
-  publishedAt: 2026-05-10T23:58:57Z
-  actualEndTime: 2026-05-10T23:52:16Z
+  제목: 원자재에 손 대려는 주린이들에게 전합니다
+  URL: https://www.youtube.com/watch?v=ltdrQztSjkE
+  publishedAt: 2026-05-12T01:00:48Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ltdrQztSjkE | ongoing=False | publishedAt=2026-05-12T01:00:48Z | actualEndTime=None | effective=2026-05-12 01:00:48+00:00 | 원자재에 손 대려는 주린이들에게 전합니다
+   - _1bLt2EwWkk | ongoing=False | publishedAt=2026-05-12T00:05:27Z | actualEndTime=2026-05-11T23:50:59Z | effective=2026-05-11 23:50:59+00:00 | 트럼프, 이란 공격 옵션 재검토ㅣ사우디 아람코, 유가 내년에 정상화 될 것ㅣ[아침뉴스&미국시황] #26051
    - coDNNwHOwY0 | ongoing=False | publishedAt=2026-05-10T23:58:57Z | actualEndTime=2026-05-10T23:52:16Z | effective=2026-05-10 23:52:16+00:00 | 아직도 호르무즈는 닫겨 있습니다ㅣ[아침뉴스&미국시황] #260511
    - ua2whFh7HT0 | ongoing=False | publishedAt=2026-05-10T05:22:29Z | actualEndTime=None | effective=2026-05-10 05:22:29+00:00 | 주식 쉽게쉽게 합시다
-   - f-mzxgBp8B0 | ongoing=False | publishedAt=2026-05-10T01:15:12Z | actualEndTime=None | effective=2026-05-10 01:15:12+00:00 | 처음 손절한 주린이들을 위해
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 삼전 하이닉스 떡상의 진짜 이유 (5월 11일)
-  URL: https://www.youtube.com/watch?v=zFJw3Shrsi0
-  publishedAt: 2026-05-11T04:47:08Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - zFJw3Shrsi0 | ongoing=False | publishedAt=2026-05-11T04:47:08Z | actualEndTime=None | effective=2026-05-11 04:47:08+00:00 | 삼전 하이닉스 떡상의 진짜 이유 (5월 11일)
    - e1oYzX97yGw | ongoing=False | publishedAt=2026-05-10T12:03:00Z | actualEndTime=None | effective=2026-05-10 12:03:00+00:00 | 주식투자자의 휴가. 상상 vs 현실.
-   - T9YCki7z98U | ongoing=False | publishedAt=2026-05-09T10:24:40Z | actualEndTime=None | effective=2026-05-09 10:24:40+00:00 | 월요일에 삼전 하이닉스 떡상하는 이유 (5월 9일)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - ei3xMptOhlA | ongoing=False | publishedAt=2026-05-11T12:50:18Z | actualEndTime=None | effective=2026-05-11 12:50:18+00:00 | 전세계가 메모리 반도체에 열광? AI 시대 재평가 받는 주식들
