@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-13 13:38 (KST)
-Run: 147 (id=25778613535)
+생성 시각: 2026-05-14 13:36 (KST)
+Run: 148 (id=25841933548)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,68 +8,78 @@ Run: 147 (id=25778613535)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Why London's streets are perfect for training self-driving cars: Wayve CEO #tech #shorts
-  URL: https://www.youtube.com/watch?v=ZkKfLY8Xa6s
-  publishedAt: 2026-05-13T04:00:25Z
+  제목: Megan Greene on How the BOE Is Dealing With Supply Side Shock
+  URL: https://www.youtube.com/watch?v=YUMupevsznM
+  publishedAt: 2026-05-14T04:00:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ZkKfLY8Xa6s | ongoing=False | publishedAt=2026-05-13T04:00:25Z | actualEndTime=None | effective=2026-05-13 04:00:25+00:00 | Why London's streets are perfect for training self-driving c
-   - Qj-g20yag7s | ongoing=False | publishedAt=2026-05-13T02:30:35Z | actualEndTime=None | effective=2026-05-13 02:30:35+00:00 | China Dominates Offshore Wind as Global Tensions Rise
-   - lKnLMn1B5LI | ongoing=False | publishedAt=2026-05-13T00:12:17Z | actualEndTime=None | effective=2026-05-13 00:12:17+00:00 | Trump En Route to Beijing For Highly-Anticipated Summit | Ba
-   - -M9Wye99AQ0 | ongoing=False | publishedAt=2026-05-12T23:26:28Z | actualEndTime=None | effective=2026-05-12 23:26:28+00:00 | In A Game of Chicken: Daadler on US-Iran Talks
-   - e3E-bOByzNk | ongoing=False | publishedAt=2026-05-12T22:43:57Z | actualEndTime=None | effective=2026-05-12 22:43:57+00:00 | Could Iran Not Be on Agenda During US-China Summit?
-   - IcuEwcS3nOo | ongoing=False | publishedAt=2026-05-12T22:42:53Z | actualEndTime=None | effective=2026-05-12 22:42:53+00:00 | US Inflation Accelerates | The Close 5/12/2026
-   - OTza3bQPcwM | ongoing=False | publishedAt=2026-05-12T22:16:40Z | actualEndTime=None | effective=2026-05-12 22:16:40+00:00 | Is There Congressional Support For Trump's Temporary US Gas 
-   - iHOnAX_Xwik | ongoing=False | publishedAt=2026-05-12T22:08:02Z | actualEndTime=None | effective=2026-05-12 22:08:02+00:00 | Anthropic in talks to raise $30 billion at $900 billion valu
-   - _-FfW1BFUoY | ongoing=False | publishedAt=2026-05-12T22:02:28Z | actualEndTime=None | effective=2026-05-12 22:02:28+00:00 | Anthropic in Talks to Raise $30 Billion in New Funding
-   - pXdFYdletS4 | ongoing=False | publishedAt=2026-05-12T21:36:48Z | actualEndTime=None | effective=2026-05-12 21:36:48+00:00 | Food, Fuel and Rent Prices Accelerate Inflation | Bloomberg 
+   - YUMupevsznM | ongoing=False | publishedAt=2026-05-14T04:00:29Z | actualEndTime=None | effective=2026-05-14 04:00:29+00:00 | Megan Greene on How the BOE Is Dealing With Supply Side Shoc
+   - ro9gIm3_hmA | ongoing=False | publishedAt=2026-05-14T04:01:00Z | actualEndTime=None | effective=2026-05-14 04:01:00+00:00 | Waymo VP on why its full-stack approach will win self-drivin
+   - 85zmg2UKWBw | ongoing=False | publishedAt=2026-05-14T01:00:15Z | actualEndTime=None | effective=2026-05-14 01:00:15+00:00 | Modi Is More Powerful Than Ever – Even As India's Economy St
+   - bUqvszfTA7E | ongoing=False | publishedAt=2026-05-14T00:06:48Z | actualEndTime=None | effective=2026-05-14 00:06:48+00:00 | Trump, Xi Set to Meet in China Within Hours | Balance of Pow
+   - qVXARt-n3SU | ongoing=False | publishedAt=2026-05-13T22:35:31Z | actualEndTime=None | effective=2026-05-13 22:35:31+00:00 | Stocks Get Tech Boost Despite Pickup in Inflation | The Clos
+   - qG13MthDv2E | ongoing=False | publishedAt=2026-05-13T22:17:36Z | actualEndTime=None | effective=2026-05-13 22:17:36+00:00 | Senate Votes to Confirm Kevin Warsh as Next Fed Chair | Bloo
+   - hLmZlntKIyM | ongoing=False | publishedAt=2026-05-13T20:48:45Z | actualEndTime=None | effective=2026-05-13 20:48:45+00:00 | Cisco Sales Forecast Tops Estimates, Will Cut 5% of Jobs
+   - gICrzF_Mbyg | ongoing=False | publishedAt=2026-05-13T20:48:02Z | actualEndTime=None | effective=2026-05-13 20:48:02+00:00 | AI In Focus As Top CEOs Head To China For Trade Summit
+   - dLvVyckt_H4 | ongoing=False | publishedAt=2026-05-13T20:29:09Z | actualEndTime=None | effective=2026-05-13 20:29:09+00:00 | Ford Shares Take Biggest Leap Since 2020 | Closing Bell
+   - UG7ZW8H2CC4 | ongoing=False | publishedAt=2026-05-13T20:00:18Z | actualEndTime=None | effective=2026-05-13 20:00:18+00:00 | Iran War Costs Climb to Nearly $29 Billion  Pentagon
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: **WARNING** The Cerebras IPO [CBRS]
+  URL: https://www.youtube.com/watch?v=KK_ccR1T8U4
+  publishedAt: 2026-05-13T23:30:07Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - KK_ccR1T8U4 | ongoing=False | publishedAt=2026-05-13T23:30:07Z | actualEndTime=None | effective=2026-05-13 23:30:07+00:00 | **WARNING** The Cerebras IPO [CBRS]
+   - 1rbPmRvm67k | ongoing=False | publishedAt=2026-05-13T20:14:41Z | actualEndTime=None | effective=2026-05-13 20:14:41+00:00 | WARNING: The Trump MACRO SUPER CYCLE is STARTING
    - l99crzrYFoc | ongoing=False | publishedAt=2026-05-12T15:53:53Z | actualEndTime=None | effective=2026-05-12 15:53:53+00:00 | crap
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  6주 만에 70% 뛴 반도체주, 결국 숨 고르기…   -  2026/05/12
-  URL: https://www.youtube.com/watch?v=oSf3ltiPbWY
-  publishedAt: 2026-05-12T23:00:28Z
+  제목: [특별 방송]   미·중 정상회담 1일 차   ｜ -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=i_6-syZRuBQ
+  publishedAt: 2026-05-14T02:38:26Z
+  actualEndTime: 2026-05-14T02:35:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - i_6-syZRuBQ | ongoing=False | publishedAt=2026-05-14T02:38:26Z | actualEndTime=2026-05-14T02:35:35Z | effective=2026-05-14 02:35:35+00:00 | [특별 방송]   미·중 정상회담 1일 차   ｜ -  오선의 미국 증시 라이브
+   - 17RR5ksomMY | ongoing=False | publishedAt=2026-05-13T22:25:11Z | actualEndTime=None | effective=2026-05-13 22:25:11+00:00 | 【미국 증시 오늘의 요약】  물가 쇼크 덮어버린 '엔비디아 파워'… 트럼프 따라간 젠슨 황, 중국 판로 다시
+   - _Dkj99BmsTo | ongoing=False | publishedAt=2026-05-13T21:53:05Z | actualEndTime=2026-05-13T21:29:01Z | effective=2026-05-13 21:29:01+00:00 | [26년 05월 13일 수]  트럼프 “젠슨 황도 중국 방문 동행” ｜  4월 PPI 상승률｜ 앤트로픽, $
    - oSf3ltiPbWY | ongoing=False | publishedAt=2026-05-12T23:00:28Z | actualEndTime=None | effective=2026-05-12 23:00:28+00:00 | 【미국 증시 오늘의 요약】  6주 만에 70% 뛴 반도체주, 결국 숨 고르기…   -  2026/05/12
    - VWFhYZ6n-9w | ongoing=False | publishedAt=2026-05-12T22:14:22Z | actualEndTime=2026-05-12T21:54:44Z | effective=2026-05-12 21:54:44+00:00 | [26년 05월 12일 화]  4월 CPI, 10년물 국채 경매｜ 케빈 워시, 상원 절차 표결 첫 관문 통과
-   - Eam_5-AZqMQ | ongoing=False | publishedAt=2026-05-11T23:02:39Z | actualEndTime=None | effective=2026-05-11 23:02:39+00:00 | 【미국 증시 오늘의 요약】  이란 협상 결렬에 유가 급등…그럼에도 S&P500은 또 사상 최고치  -  20
-   - cEoHdk_hHFw | ongoing=False | publishedAt=2026-05-11T22:36:00Z | actualEndTime=2026-05-11T22:11:54Z | effective=2026-05-11 22:11:54+00:00 | [26년 05월 11일 월]  미·이란, 종전·호르무즈 협상 평행선…｜ 루멘텀, 나스닥100 편입 예정 ｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 이대로면 한국 망합니다.............
-  URL: https://www.youtube.com/watch?v=qUEaxXBSfEo
-  publishedAt: 2026-05-13T03:00:57Z
+  제목: 다 던지면 보이는 것들
+  URL: https://www.youtube.com/watch?v=biv_TVX6Ons
+  publishedAt: 2026-05-14T03:00:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - biv_TVX6Ons | ongoing=False | publishedAt=2026-05-14T03:00:30Z | actualEndTime=None | effective=2026-05-14 03:00:30+00:00 | 다 던지면 보이는 것들
+   - WbQq5rJlpOU | ongoing=False | publishedAt=2026-05-14T02:12:49Z | actualEndTime=None | effective=2026-05-14 02:12:49+00:00 | 이번 CPI, PPI 핵심은 운송·창고비 상승!
+   - RTZrWI94z3M | ongoing=False | publishedAt=2026-05-14T01:00:33Z | actualEndTime=None | effective=2026-05-14 01:00:33+00:00 | 지금 시장이 보는 것은 유가가 아니라 금리다!
+   - JsxLVfViTvI | ongoing=False | publishedAt=2026-05-14T00:09:20Z | actualEndTime=2026-05-13T23:59:37Z | effective=2026-05-13 23:59:37+00:00 | 인플레이션은 모르겠고!! 젠슨황 막타탔다!! 반도체 달려..!?ㅣ[아침뉴스&미국시황] #260514
+   - oH4c9vVDoVc | ongoing=False | publishedAt=2026-05-13T09:01:04Z | actualEndTime=None | effective=2026-05-13 09:01:04+00:00 | 책으로 주식을 배우려 한다고요?
    - qUEaxXBSfEo | ongoing=False | publishedAt=2026-05-13T03:00:57Z | actualEndTime=None | effective=2026-05-13 03:00:57+00:00 | 이대로면 한국 망합니다.............
    - TB8HhENC8kM | ongoing=False | publishedAt=2026-05-13T00:20:24Z | actualEndTime=2026-05-13T00:03:32Z | effective=2026-05-13 00:03:32+00:00 | 물가가 높다? 그래서 오쪼라고!!ㅣ순환매의 시작인가? 하락의 전조인가?ㅣ[아침뉴스&미국시황] #260513
-   - ltdrQztSjkE | ongoing=False | publishedAt=2026-05-12T01:00:48Z | actualEndTime=None | effective=2026-05-12 01:00:48+00:00 | 원자재에 손 대려는 주린이들에게 전합니다
-   - _1bLt2EwWkk | ongoing=False | publishedAt=2026-05-12T00:05:27Z | actualEndTime=2026-05-11T23:50:59Z | effective=2026-05-11 23:50:59+00:00 | 트럼프, 이란 공격 옵션 재검토ㅣ사우디 아람코, 유가 내년에 정상화 될 것ㅣ[아침뉴스&미국시황] #26051
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 떡락할줄 알았던 코스피 회복하는 이유 (5월 13일)
-  URL: https://www.youtube.com/watch?v=1aSWtH-4l1k
-  publishedAt: 2026-05-13T03:44:57Z
+  제목: 수수께끼같은 주가 상승
+  URL: https://www.youtube.com/watch?v=ARn8WwEdieQ
+  publishedAt: 2026-05-13T18:15:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ARn8WwEdieQ | ongoing=False | publishedAt=2026-05-13T18:15:32Z | actualEndTime=None | effective=2026-05-13 18:15:32+00:00 | 수수께끼같은 주가 상승
    - 1aSWtH-4l1k | ongoing=False | publishedAt=2026-05-13T03:44:57Z | actualEndTime=None | effective=2026-05-13 03:44:57+00:00 | 떡락할줄 알았던 코스피 회복하는 이유 (5월 13일)
    - YzNo21YIbh4 | ongoing=False | publishedAt=2026-05-12T17:47:18Z | actualEndTime=None | effective=2026-05-12 17:47:18+00:00 | 하이닉스, 삼성전자, 코스피 큰일 난 이유 (5월 13일)
    - 9vYK-f4tKH4 | ongoing=False | publishedAt=2026-05-12T17:12:41Z | actualEndTime=None | effective=2026-05-12 17:12:41+00:00 | 2022년의 폭락장의 악몽이 시작됐다.
    - Gez79THdJ_M | ongoing=False | publishedAt=2026-05-12T05:19:34Z | actualEndTime=None | effective=2026-05-12 05:19:34+00:00 | 하이닉스, 삼성전자 코스피 떡락 이유 (5월 12일)
-   - zFJw3Shrsi0 | ongoing=False | publishedAt=2026-05-11T04:47:08Z | actualEndTime=None | effective=2026-05-11 04:47:08+00:00 | 삼전 하이닉스 떡상의 진짜 이유 (5월 11일)
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 1QPGDu_SePo | ongoing=False | publishedAt=2026-05-13T13:02:58Z | actualEndTime=None | effective=2026-05-13 13:02:58+00:00 | 앤트로픽도 당황할 정도? AI 미친 수요 폭발의 수혜주들
    - BVFa1YtDUAA | ongoing=False | publishedAt=2026-05-12T11:58:04Z | actualEndTime=None | effective=2026-05-12 11:58:04+00:00 | 100년만의 투자 기회가 온다? 월가 큰손들의 충격 전망 적중할까
-   - ei3xMptOhlA | ongoing=False | publishedAt=2026-05-11T12:50:18Z | actualEndTime=None | effective=2026-05-11 12:50:18+00:00 | 전세계가 메모리 반도체에 열광? AI 시대 재평가 받는 주식들
