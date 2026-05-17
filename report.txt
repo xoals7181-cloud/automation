@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-16 13:23 (KST)
-Run: 150 (id=25952651477)
+생성 시각: 2026-05-17 13:47 (KST)
+Run: 151 (id=25981640862)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,69 +8,57 @@ Run: 150 (id=25952651477)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Leaves China With No Resolution | Balance of Power 05/15/2026
-  URL: https://www.youtube.com/watch?v=XJODIJ99pIM
-  publishedAt: 2026-05-16T00:04:49Z
+  제목: Bloomberg This Weekend | Trump Returns from China, Xi to Meet with Putin, LIRR Goes on Strike
+  URL: https://www.youtube.com/watch?v=VmvaCcLnoUw
+  publishedAt: 2026-05-16T17:01:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - XJODIJ99pIM | ongoing=False | publishedAt=2026-05-16T00:04:49Z | actualEndTime=None | effective=2026-05-16 00:04:49+00:00 | Trump Leaves China With No Resolution | Balance of Power 05/
-   - iyGRcEbg-GM | ongoing=False | publishedAt=2026-05-15T23:15:11Z | actualEndTime=None | effective=2026-05-15 23:15:11+00:00 | DC Landmark Gets The ‘SNL’ Treatment
-   - DKvTVoBFDGA | ongoing=False | publishedAt=2026-05-15T23:10:17Z | actualEndTime=None | effective=2026-05-15 23:10:17+00:00 | Global Bond Selloff Deepens as Oil Prices Rise | The Close 5
-   - jufLIM8m2SE | ongoing=False | publishedAt=2026-05-15T23:00:52Z | actualEndTime=None | effective=2026-05-15 23:00:52+00:00 | Wall Street Week | Dalio's Warning, AI Arms Race, China Powe
-   - 3Bfop2qbs1I | ongoing=False | publishedAt=2026-05-15T21:18:06Z | actualEndTime=None | effective=2026-05-15 21:18:06+00:00 | What does it mean to "win" the war in Iran?#shorts #iran #ir
-   - 0KnEX-JaV3s | ongoing=False | publishedAt=2026-05-15T21:06:16Z | actualEndTime=None | effective=2026-05-15 21:06:16+00:00 | Oil Prices Spook Investors, Consumers Feel Price Crunch | Bl
-   - PW3wboJN6UU | ongoing=False | publishedAt=2026-05-15T20:52:13Z | actualEndTime=None | effective=2026-05-15 20:52:13+00:00 | Equities & Bonds Take a Hit To Close the Week | Closing Bell
-   - IpEvDXJwMaY | ongoing=False | publishedAt=2026-05-15T20:45:10Z | actualEndTime=None | effective=2026-05-15 20:45:10+00:00 | MIT Warns of Loss From Funding, Grad Enrollment Drops
-   - pAv-SDOxhls | ongoing=False | publishedAt=2026-05-15T20:19:48Z | actualEndTime=None | effective=2026-05-15 20:19:48+00:00 | Canada strikes deal to start building oil pipeline in 2027
-   - A2jOcFaGtGU | ongoing=False | publishedAt=2026-05-15T19:45:02Z | actualEndTime=None | effective=2026-05-15 19:45:02+00:00 | Trump Wraps Up China Trip | Balance of Power: Early Edition 
+   - VmvaCcLnoUw | ongoing=False | publishedAt=2026-05-16T17:01:56Z | actualEndTime=None | effective=2026-05-16 17:01:56+00:00 | Bloomberg This Weekend | Trump Returns from China, Xi to Mee
+   - DXTiQGNHGTo | ongoing=False | publishedAt=2026-05-16T17:00:24Z | actualEndTime=None | effective=2026-05-16 17:00:24+00:00 | Will the US ever catch up to China on renewables? #shorts #e
+   - 0xjSkSniOxk | ongoing=False | publishedAt=2026-05-16T15:45:41Z | actualEndTime=None | effective=2026-05-16 15:45:41+00:00 | Trump is Ambiguous Over Taiwan After Summit in China
+   - yUjGuSSCMPg | ongoing=False | publishedAt=2026-05-16T15:28:15Z | actualEndTime=None | effective=2026-05-16 15:28:15+00:00 | Sports, Media, Inflation | The Pointed News Quiz
+   - 8fETgN6jmNM | ongoing=False | publishedAt=2026-05-16T14:56:24Z | actualEndTime=None | effective=2026-05-16 14:56:24+00:00 | New York Commuter Rail Strikes, Stranding 300,000 Daily Ride
+   - auqXaeTK2Fs | ongoing=False | publishedAt=2026-05-16T14:00:06Z | actualEndTime=None | effective=2026-05-16 14:00:06+00:00 | Science or profit? What is driving the AI revolution #shorts
+   - MHiVBoWB3OE | ongoing=False | publishedAt=2026-05-16T14:00:35Z | actualEndTime=None | effective=2026-05-16 14:00:35+00:00 | ‘The Oppenheimer’ of the AI Era
+   - FLJp9KDY-00 | ongoing=False | publishedAt=2026-05-16T13:59:13Z | actualEndTime=None | effective=2026-05-16 13:59:13+00:00 | UK Elections Signal Political Shakeup
+   - XI8tzIw7r2A | ongoing=False | publishedAt=2026-05-16T12:57:55Z | actualEndTime=None | effective=2026-05-16 12:57:55+00:00 | Tech Heads Accompany Trump on China Trip
+   - wAsJAC1MhuQ | ongoing=False | publishedAt=2026-05-16T12:55:55Z | actualEndTime=None | effective=2026-05-16 12:55:55+00:00 | Classic Cars, Cocktails, Peptides | BTW
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Why the Stock Market is FLIPPING
-  URL: https://www.youtube.com/watch?v=D2osbJNrR0E
-  publishedAt: 2026-05-15T19:13:07Z
+  제목: JUST IN: Trump & Private Credit BOMBSHELLS
+  URL: https://www.youtube.com/watch?v=w7TDYgHlRzI
+  publishedAt: 2026-05-16T19:24:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - w7TDYgHlRzI | ongoing=False | publishedAt=2026-05-16T19:24:50Z | actualEndTime=None | effective=2026-05-16 19:24:50+00:00 | JUST IN: Trump & Private Credit BOMBSHELLS
+   - UYEnhY14PW4 | ongoing=False | publishedAt=2026-05-16T13:34:18Z | actualEndTime=None | effective=2026-05-16 13:34:18+00:00 | Trump JUST BANNED Rental Properties: The 21st Century Housin
    - D2osbJNrR0E | ongoing=False | publishedAt=2026-05-15T19:13:07Z | actualEndTime=None | effective=2026-05-15 19:13:07+00:00 | Why the Stock Market is FLIPPING
-   - bwuerJFgUjU | ongoing=False | publishedAt=2026-05-14T18:40:08Z | actualEndTime=None | effective=2026-05-14 18:40:08+00:00 | MIRAN **JUST QUIT** the Fed! RATE HIKES
-   - _dWINUlG8Hw | ongoing=False | publishedAt=2026-05-14T17:15:18Z | actualEndTime=None | effective=2026-05-14 17:15:18+00:00 | INSANE FINDINGS: Elon Musk vs OpenAI Lawsuit
-   - o8Q4IG3FqB8 | ongoing=False | publishedAt=2026-05-14T13:27:08Z | actualEndTime=None | effective=2026-05-14 13:27:08+00:00 | UNBELIEVABLE: Google & SpaceX MASTER PLAN
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   미국 10년물 4.5% 돌파…반도체주 4% 급락...   -  2026/05/15
-  URL: https://www.youtube.com/watch?v=fSn4ZV7vQGw
-  publishedAt: 2026-05-15T22:38:59Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - fSn4ZV7vQGw | ongoing=False | publishedAt=2026-05-15T22:38:59Z | actualEndTime=None | effective=2026-05-15 22:38:59+00:00 | 【미국 증시 오늘의 요약】   미국 10년물 4.5% 돌파…반도체주 4% 급락...   -  2026/05/
    - EfroGvREN48 | ongoing=False | publishedAt=2026-05-15T21:57:07Z | actualEndTime=2026-05-15T21:32:53Z | effective=2026-05-15 21:32:53+00:00 | [26년 05월 15일 목]  트럼프, "중국과 엔비디아 칩 판매 논의되지 않았다" ｜  빌 애크먼, '마이
-   - diT83rupBV4 | ongoing=False | publishedAt=2026-05-14T22:25:08Z | actualEndTime=None | effective=2026-05-14 22:25:08+00:00 | 【미국 증시 오늘의 요약】   S&P 500 사상 첫 7500선 돌파! 고물가도 이겨낸 강력한 미국 소비  
-   - VCITO1L2LjA | ongoing=False | publishedAt=2026-05-14T21:55:29Z | actualEndTime=2026-05-14T21:34:34Z | effective=2026-05-14 21:34:34+00:00 | [26년 05월 14일 목]  트럼프 대통령 “시 주석과 매우 긍정적이고 생산적인 대화” ｜  시스코, 어닝
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 진짜 위험 신호는 재고와 가동률로부터
-  URL: https://www.youtube.com/watch?v=kjqshXZZ6Hc
-  publishedAt: 2026-05-16T01:00:43Z
+  제목: 달러, 기축통화 지위 상실? 그건 좀 아닌 거 같아요
+  URL: https://www.youtube.com/watch?v=-3YUXDpWo_E
+  publishedAt: 2026-05-17T01:00:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -3YUXDpWo_E | ongoing=False | publishedAt=2026-05-17T01:00:00Z | actualEndTime=None | effective=2026-05-17 01:00:00+00:00 | 달러, 기축통화 지위 상실? 그건 좀 아닌 거 같아요
+   - GBqE6v9NDY0 | ongoing=False | publishedAt=2026-05-16T07:00:19Z | actualEndTime=None | effective=2026-05-16 07:00:19+00:00 | 조급함이 섞인 돈으로는 절대 투자하지 마세요!
    - kjqshXZZ6Hc | ongoing=False | publishedAt=2026-05-16T01:00:43Z | actualEndTime=None | effective=2026-05-16 01:00:43+00:00 | 진짜 위험 신호는 재고와 가동률로부터
-   - xfz9R22md5E | ongoing=False | publishedAt=2026-05-15T03:45:13Z | actualEndTime=None | effective=2026-05-15 03:45:13+00:00 | 13F 공시의 비밀과 주식 시장 변동성!
-   - aNM9aT70XRU | ongoing=False | publishedAt=2026-05-15T03:00:01Z | actualEndTime=None | effective=2026-05-15 03:00:01+00:00 | 주식을 안하면 안되는데......??
-   - BjYL_eudbQI | ongoing=False | publishedAt=2026-05-15T01:00:19Z | actualEndTime=None | effective=2026-05-15 01:00:19+00:00 | 삼전, 하이닉스를 둘러싼 수급 주체의 변화
-   - aOlt1w_ONK8 | ongoing=False | publishedAt=2026-05-15T00:26:39Z | actualEndTime=2026-05-15T00:13:52Z | effective=2026-05-15 00:13:52+00:00 | 트럼프 리딩방 ON, 엔비디아 레츠꼬!!ㅣ메모리 팔고, 엔비디아 매수...??ㅣ[아침뉴스&미국시황] #260
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 물가 공포 현실화 되나?
-  URL: https://www.youtube.com/watch?v=nsHs3OS7ARg
-  publishedAt: 2026-05-15T16:31:31Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - DQ3aRR7gDMk | ongoing=False | publishedAt=2026-05-16T09:52:42Z | actualEndTime=None | effective=2026-05-16 09:52:42+00:00 | 하이닉스, 삼성전자 사요?
    - nsHs3OS7ARg | ongoing=False | publishedAt=2026-05-15T16:31:31Z | actualEndTime=None | effective=2026-05-15 16:31:31+00:00 | 물가 공포 현실화 되나?
-   - 9jAQpyRT2Og | ongoing=False | publishedAt=2026-05-15T03:18:02Z | actualEndTime=None | effective=2026-05-15 03:18:02+00:00 | 삼성전자 하이닉스 코스피 떡락 이유 (5월 15일)
-   - 8xEabHAg1Kw | ongoing=False | publishedAt=2026-05-14T05:44:00Z | actualEndTime=None | effective=2026-05-14 05:44:00+00:00 | 삼성전자가 하이닉스보다 더 오르는 이유 (5월 14일)
 
 - 소수몽키
   상태: NO_VIDEO
