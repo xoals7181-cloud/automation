@@ -1,64 +1,76 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-18 14:01 (KST)
-Run: 152 (id=26014482572)
+생성 시각: 2026-05-19 13:53 (KST)
+Run: 153 (id=26077018837)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Georgia Voters Head to Polls in High-Stakes Primaries | Balance of Power 05/18/2026
+  URL: https://www.youtube.com/watch?v=MFE849QdA9w
+  publishedAt: 2026-05-19T00:28:13Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - d0wBU-CmonU | ongoing=False | publishedAt=2026-05-17T16:39:48Z | actualEndTime=None | effective=2026-05-17 16:39:48+00:00 | Bloomberg This Weekend | Bill Cassidy Loses Primary Race, Tr
-   - _0djd0QaAZg | ongoing=False | publishedAt=2026-05-17T15:25:01Z | actualEndTime=None | effective=2026-05-17 15:25:01+00:00 | Polls Open Tuesday on "Mini" Super Tuesday
-   - LnIBhsTUI6E | ongoing=False | publishedAt=2026-05-17T15:06:39Z | actualEndTime=None | effective=2026-05-17 15:06:39+00:00 | Rep. Clarke on Impact of Supreme Court's Redistricting Decis
-   - f-EWXADStUE | ongoing=False | publishedAt=2026-05-17T14:49:34Z | actualEndTime=None | effective=2026-05-17 14:49:34+00:00 | NVIDIA Earnings Anticipated Wednesday Amid Supply Constraint
-   - c7NCKM2A25I | ongoing=False | publishedAt=2026-05-17T14:08:20Z | actualEndTime=None | effective=2026-05-17 14:08:20+00:00 | New Book Details Silicon Valley's Grip on College Campuses
-   - -UYlL1j9CUg | ongoing=False | publishedAt=2026-05-17T14:00:00Z | actualEndTime=None | effective=2026-05-17 14:00:00+00:00 | NYC keeps debating taxes on the wealthy #shorts #taxes #nyc 
-   - dFLopVeV31A | ongoing=False | publishedAt=2026-05-17T14:00:54Z | actualEndTime=None | effective=2026-05-17 14:00:54+00:00 | What New York’s Budget Crisis Reveals About the City’s Econo
-   - _8ikbc8MR7o | ongoing=False | publishedAt=2026-05-17T13:54:10Z | actualEndTime=None | effective=2026-05-17 13:54:10+00:00 | US Gas Prices Near Record High
-   - m5bn28z_I4g | ongoing=False | publishedAt=2026-05-17T13:36:18Z | actualEndTime=None | effective=2026-05-17 13:36:18+00:00 | Trump Ethics Filings Reveal Unusually High Number of Tech St
-   - cVJGkVDzBhA | ongoing=False | publishedAt=2026-05-17T13:21:25Z | actualEndTime=None | effective=2026-05-17 13:21:25+00:00 | Millennial Men Are Rethinking What 'Aging Well' Means
+   - MFE849QdA9w | ongoing=False | publishedAt=2026-05-19T00:28:13Z | actualEndTime=None | effective=2026-05-19 00:28:13+00:00 | Georgia Voters Head to Polls in High-Stakes Primaries | Bala
+   - 3Euo9YeUays | ongoing=False | publishedAt=2026-05-18T22:47:58Z | actualEndTime=None | effective=2026-05-18 22:47:58+00:00 | Stocks Fall, Oil Rises as Investors Eye Bonds | The Close 5/
+   - Z7WVFxGaSFo | ongoing=False | publishedAt=2026-05-18T22:34:10Z | actualEndTime=None | effective=2026-05-18 22:34:10+00:00 | Bloomberg Businessweek Daily 5/18/2026
+   - Ml_b5VpztPk | ongoing=False | publishedAt=2026-05-18T21:58:55Z | actualEndTime=None | effective=2026-05-18 21:58:55+00:00 | Trump Calls Iran Attack Pause a 'Positive Development'
+   - qDOxSbP4_ys | ongoing=False | publishedAt=2026-05-18T21:36:10Z | actualEndTime=None | effective=2026-05-18 21:36:10+00:00 | Bloomberg Surveillance 5/15/2026
+   - MSF7ZEyH6Ko | ongoing=False | publishedAt=2026-05-18T21:12:49Z | actualEndTime=None | effective=2026-05-18 21:12:49+00:00 | China will open its market to AI chips from US, Nvidia CEO s
+   - GmpNE-ONw6A | ongoing=False | publishedAt=2026-05-18T21:03:36Z | actualEndTime=None | effective=2026-05-18 21:03:36+00:00 | Redistricting is not Only a Racial Issue Says 'Killer Mike'
+   - C-bEaFfNq7U | ongoing=False | publishedAt=2026-05-18T20:48:59Z | actualEndTime=None | effective=2026-05-18 20:48:59+00:00 | Live in Atlanta for Georgia Primary | Balance of Power: Earl
+   - jA2taL5aXrk | ongoing=False | publishedAt=2026-05-18T20:37:48Z | actualEndTime=None | effective=2026-05-18 20:37:48+00:00 | Dell Scales Up the AI Supply Chain to Meet Demand
+   - tObNEvIMY-0 | ongoing=False | publishedAt=2026-05-18T20:21:47Z | actualEndTime=None | effective=2026-05-18 20:21:47+00:00 | Peru’s New Food Generation Looks Beyond the Boom
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Stock Market WARNING *JUST* Issued by Citi & Goldman
-  URL: https://www.youtube.com/watch?v=QqOnX1zFoNg
-  publishedAt: 2026-05-17T18:12:56Z
+  제목: **JURY REACHES VERDICT ON ELON MUSK**
+  URL: https://www.youtube.com/watch?v=gM7ZQaxQLls
+  publishedAt: 2026-05-18T17:52:57Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - gM7ZQaxQLls | ongoing=False | publishedAt=2026-05-18T17:52:57Z | actualEndTime=None | effective=2026-05-18 17:52:57+00:00 | **JURY REACHES VERDICT ON ELON MUSK**
+   - 2OG74U1mhQY | ongoing=False | publishedAt=2026-05-18T15:26:56Z | actualEndTime=None | effective=2026-05-18 15:26:56+00:00 | Prepare for WEDNESDAY | The NEXT WARNING.
    - QqOnX1zFoNg | ongoing=False | publishedAt=2026-05-17T18:12:56Z | actualEndTime=None | effective=2026-05-17 18:12:56+00:00 | Stock Market WARNING *JUST* Issued by Citi & Goldman
-   - w7TDYgHlRzI | ongoing=False | publishedAt=2026-05-16T19:24:50Z | actualEndTime=None | effective=2026-05-16 19:24:50+00:00 | JUST IN: Trump & Private Credit BOMBSHELLS
-   - UYEnhY14PW4 | ongoing=False | publishedAt=2026-05-16T13:34:18Z | actualEndTime=None | effective=2026-05-16 13:34:18+00:00 | Trump JUST BANNED Rental Properties: The 21st Century Housin
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  씨게이트 CEO 발언 한 마디에 메모리 반도체 폭락....    -  2026/05/18
+  URL: https://www.youtube.com/watch?v=7Sxs5syhDQI
+  publishedAt: 2026-05-18T22:33:13Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 7Sxs5syhDQI | ongoing=False | publishedAt=2026-05-18T22:33:13Z | actualEndTime=None | effective=2026-05-18 22:33:13+00:00 | 【미국 증시 오늘의 요약】  씨게이트 CEO 발언 한 마디에 메모리 반도체 폭락....    -  2026/
+   - 0BQ4zdXYLh4 | ongoing=False | publishedAt=2026-05-18T22:14:05Z | actualEndTime=2026-05-18T21:51:23Z | effective=2026-05-18 21:51:23+00:00 | [26년 05월 18일 월]  엔비디아 CEO,  기조연설 ｜ 스페이스X, 6월 12일 나스닥 상장? ｜ 버
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 채권 투자의 핵심은 듀레이션의 숫자에!
-  URL: https://www.youtube.com/watch?v=C2c02Rt8JAQ
-  publishedAt: 2026-05-18T01:00:09Z
+  제목: 매수할 용기는 없는데 왜 매도할 용기는 있나?
+  URL: https://www.youtube.com/watch?v=6KZww1uUBxU
+  publishedAt: 2026-05-19T01:00:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 6KZww1uUBxU | ongoing=False | publishedAt=2026-05-19T01:00:06Z | actualEndTime=None | effective=2026-05-19 01:00:06+00:00 | 매수할 용기는 없는데 왜 매도할 용기는 있나?
+   - TlmAYRsSvxQ | ongoing=False | publishedAt=2026-05-19T00:00:24Z | actualEndTime=2026-05-18T23:55:15Z | effective=2026-05-18 23:55:15+00:00 | 트럼프: 중동이 요청해서 이란 공격 안할거임!!ㅣ채권시장: 매수가 너무 약하다ㅣ케빈 워시, 금요일 백악관 취
+   - -uakFESZGbs | ongoing=False | publishedAt=2026-05-18T07:36:04Z | actualEndTime=None | effective=2026-05-18 07:36:04+00:00 | 대체 한국 시장은 언제쯤 바뀌는걸까? #네이버 #두나무
    - C2c02Rt8JAQ | ongoing=False | publishedAt=2026-05-18T01:00:09Z | actualEndTime=None | effective=2026-05-18 01:00:09+00:00 | 채권 투자의 핵심은 듀레이션의 숫자에!
    - 36wS7NgIISs | ongoing=False | publishedAt=2026-05-18T00:11:28Z | actualEndTime=2026-05-18T00:04:09Z | effective=2026-05-18 00:04:09+00:00 | 트럼프 너무 빡친것 같은데요...? 저는 오늘 돔황칩니다...!!ㅣ[아침뉴스&미국시황] #260518
    - ETtX2Uz0oEw | ongoing=False | publishedAt=2026-05-17T07:00:11Z | actualEndTime=None | effective=2026-05-17 07:00:11+00:00 | 항상 투자를 할 땐 기대수익률을 보세요
-   - -3YUXDpWo_E | ongoing=False | publishedAt=2026-05-17T01:00:00Z | actualEndTime=None | effective=2026-05-17 01:00:00+00:00 | 달러, 기축통화 지위 상실? 그건 좀 아닌 거 같아요
-   - GBqE6v9NDY0 | ongoing=False | publishedAt=2026-05-16T07:00:19Z | actualEndTime=None | effective=2026-05-16 07:00:19+00:00 | 조급함이 섞인 돈으로는 절대 투자하지 마세요!
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 코스피가 혼돈의 카오스인 이유 (5월 18일)
-  URL: https://www.youtube.com/watch?v=Le-3ebdgAuI
-  publishedAt: 2026-05-18T02:09:16Z
+  제목: 엔비디아를 숏?? AI투자 천재의 포트폴리오가 매우 충격이네요;;
+  URL: https://www.youtube.com/watch?v=-2Lb18wOFBY
+  publishedAt: 2026-05-18T17:41:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -2Lb18wOFBY | ongoing=False | publishedAt=2026-05-18T17:41:09Z | actualEndTime=None | effective=2026-05-18 17:41:09+00:00 | 엔비디아를 숏?? AI투자 천재의 포트폴리오가 매우 충격이네요;;
    - Le-3ebdgAuI | ongoing=False | publishedAt=2026-05-18T02:09:16Z | actualEndTime=None | effective=2026-05-18 02:09:16+00:00 | 코스피가 혼돈의 카오스인 이유 (5월 18일)
-   - DQ3aRR7gDMk | ongoing=False | publishedAt=2026-05-16T09:52:42Z | actualEndTime=None | effective=2026-05-16 09:52:42+00:00 | 하이닉스, 삼성전자 사요?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - oSiADmzgXLg | ongoing=False | publishedAt=2026-05-18T11:19:31Z | actualEndTime=None | effective=2026-05-18 11:19:31+00:00 | 3가지 악재에 긴장하는 증시, 조정장 대비해야 할까
