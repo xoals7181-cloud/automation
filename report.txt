@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-20 13:57 (KST)
-Run: 154 (id=26142287782)
+생성 시각: 2026-05-21 14:03 (KST)
+Run: 155 (id=26206539996)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,66 +8,77 @@ Run: 154 (id=26142287782)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Polls Open on 'Mini' Super Tuesday | Balance of Power 05/19/2026
-  URL: https://www.youtube.com/watch?v=zYNl_v9pvE8
-  publishedAt: 2026-05-20T00:02:22Z
+  제목: Stripe’s Collison on How Agentic Commerce Will Reshape the Internet
+  URL: https://www.youtube.com/watch?v=2wgFSlGWgFE
+  publishedAt: 2026-05-21T02:05:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - zYNl_v9pvE8 | ongoing=False | publishedAt=2026-05-20T00:02:22Z | actualEndTime=None | effective=2026-05-20 00:02:22+00:00 | Polls Open on 'Mini' Super Tuesday | Balance of Power 05/19/
-   - 2Q4Eb5hsm64 | ongoing=False | publishedAt=2026-05-19T22:32:14Z | actualEndTime=None | effective=2026-05-19 22:32:14+00:00 | Chip Stocks Bounce as Yields Retreat From Highs | The Close 
-   - qlMLsjmnOdw | ongoing=False | publishedAt=2026-05-19T22:11:21Z | actualEndTime=None | effective=2026-05-19 22:11:21+00:00 | Yields Rise on Inflation Angst | Bloomberg Businessweek Dail
-   - v68WZZvzKsM | ongoing=False | publishedAt=2026-05-19T21:16:26Z | actualEndTime=None | effective=2026-05-19 21:16:26+00:00 | What Byron Allen Has Planned for Buzzfeed, Late-Night Show
-   - TcfGDarYacg | ongoing=False | publishedAt=2026-05-19T20:25:08Z | actualEndTime=None | effective=2026-05-19 20:25:08+00:00 | S&P 500, Nasdaq-100 Fall for Third Straight Session | Closin
-   - bM9phEMUJag | ongoing=False | publishedAt=2026-05-19T20:21:34Z | actualEndTime=None | effective=2026-05-19 20:21:34+00:00 | Primary Day in Georgia | Balance of Power: Early Edition 5/1
-   - TVUjAQNC4I8 | ongoing=False | publishedAt=2026-05-19T19:34:32Z | actualEndTime=None | effective=2026-05-19 19:34:32+00:00 | We need more people now because of AI, says Orlando Bravo
-   - BKJMcdvi8XQ | ongoing=False | publishedAt=2026-05-19T18:35:46Z | actualEndTime=None | effective=2026-05-19 18:35:46+00:00 | Clarity Act Wins Senate Committee Vote, Crypto Wrench Attack
-   - qwd1mu-IpsY | ongoing=False | publishedAt=2026-05-19T17:53:05Z | actualEndTime=None | effective=2026-05-19 17:53:05+00:00 | "Two sides" to the Mythos equation, says JPMorgan's Beer #sh
-   - nkAFZlK9voQ | ongoing=False | publishedAt=2026-05-19T17:15:44Z | actualEndTime=None | effective=2026-05-19 17:15:44+00:00 | How AI is Already Reshaping the Workforce | Open Interest 5/
+   - 2wgFSlGWgFE | ongoing=False | publishedAt=2026-05-21T02:05:53Z | actualEndTime=None | effective=2026-05-21 02:05:53+00:00 | Stripe’s Collison on How Agentic Commerce Will Reshape the I
+   - MEPG6Ips6Qs | ongoing=False | publishedAt=2026-05-20T23:39:25Z | actualEndTime=None | effective=2026-05-20 23:39:25+00:00 | Nvidia Earnings Report & SpaceX Prepares for IPO | The Close
+   - wjye6EaaqPA | ongoing=False | publishedAt=2026-05-20T21:32:31Z | actualEndTime=None | effective=2026-05-20 21:32:31+00:00 | Officials Warned of Rate-Hike if Inflation Persists | Bloomb
+   - dKLfWooCyqM | ongoing=False | publishedAt=2026-05-20T21:20:07Z | actualEndTime=None | effective=2026-05-20 21:20:07+00:00 | The Key Takeaways From Nvidia's Earnings and Forecast
+   - ol_t4UZeev0 | ongoing=False | publishedAt=2026-05-20T21:17:40Z | actualEndTime=None | effective=2026-05-20 21:17:40+00:00 | Nvidia Gives Lackluster Forecast as Chip Competition Mounts
+   - emmFXGD_JCM | ongoing=False | publishedAt=2026-05-20T21:18:28Z | actualEndTime=None | effective=2026-05-20 21:18:28+00:00 | Fed Minutes Show More Officials Warned of Rate-Hike Scenario
+   - Cv70iomBl8E | ongoing=False | publishedAt=2026-05-20T21:13:13Z | actualEndTime=None | effective=2026-05-20 21:13:13+00:00 | Elon Musk's SpaceX Files for IPO on Nasdaq Under SPCX Symbol
+   - n77NEPxtaw4 | ongoing=False | publishedAt=2026-05-20T20:51:19Z | actualEndTime=None | effective=2026-05-20 20:51:19+00:00 | Nvidia Beats on 1Q EPS, Revenue Projected at $91 Billion
+   - 603mPb21bSw | ongoing=False | publishedAt=2026-05-20T20:33:18Z | actualEndTime=None | effective=2026-05-20 20:33:18+00:00 | Trump Flexes Grip Over GOP | Balance of Power: Early Edition
+   - 7sKPZCMk_qA | ongoing=False | publishedAt=2026-05-20T20:21:28Z | actualEndTime=None | effective=2026-05-20 20:21:28+00:00 | All Eyes on Nvidia Earnings Report | Closing Bell
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Shocking WARNINGS: Caleb Hammer 27-Year Old IT'S OVER
+  URL: https://www.youtube.com/watch?v=h2lHHlxn1qU
+  publishedAt: 2026-05-21T02:21:58Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - h2lHHlxn1qU | ongoing=False | publishedAt=2026-05-21T02:21:58Z | actualEndTime=None | effective=2026-05-21 02:21:58+00:00 | Shocking WARNINGS: Caleb Hammer 27-Year Old IT'S OVER
+   - bvcjsiIKt5M | ongoing=False | publishedAt=2026-05-20T21:19:31Z | actualEndTime=None | effective=2026-05-20 21:19:31+00:00 | SpaceX IPO **MASSIVE LOSSES REVEALED** [JUST OUT]
+   - h74j-rwfYhA | ongoing=False | publishedAt=2026-05-20T20:46:12Z | actualEndTime=2026-05-20T20:43:43Z | effective=2026-05-20 20:43:43+00:00 | Nvidia Earnings SHOCKER
+   - D4AVBmOB2wU | ongoing=False | publishedAt=2026-05-20T17:35:35Z | actualEndTime=None | effective=2026-05-20 17:35:35+00:00 | OpenAI IPO!! THIS COULD END EVERYTHING!
+   - 5VJKrxaxw3M | ongoing=False | publishedAt=2026-05-20T15:22:59Z | actualEndTime=None | effective=2026-05-20 15:22:59+00:00 | uh oh nvidia
    - huygLmrdLoQ | ongoing=False | publishedAt=2026-05-19T15:51:16Z | actualEndTime=None | effective=2026-05-19 15:51:16+00:00 | MASSIVELY SHORT
-   - gM7ZQaxQLls | ongoing=False | publishedAt=2026-05-18T17:52:57Z | actualEndTime=None | effective=2026-05-18 17:52:57+00:00 | **JURY REACHES VERDICT ON ELON MUSK**
-   - 2OG74U1mhQY | ongoing=False | publishedAt=2026-05-18T15:26:56Z | actualEndTime=None | effective=2026-05-18 15:26:56+00:00 | Prepare for WEDNESDAY | The NEXT WARNING.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  국채금리 발작에 3일 연속 밀린 S&P500, 엔비디아가 구원투수 될까?    -  2026/05/19
-  URL: https://www.youtube.com/watch?v=FWNTY5BxoeA
-  publishedAt: 2026-05-19T22:17:11Z
+  제목: 【미국 증시 오늘의 요약】  유가 급락에 증시 급반등…엔비디아 실적에도 주가 출렁인 이유   -  2026/05/20
+  URL: https://www.youtube.com/watch?v=kV2ZYTPOZU4
+  publishedAt: 2026-05-20T23:23:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - kV2ZYTPOZU4 | ongoing=False | publishedAt=2026-05-20T23:23:27Z | actualEndTime=None | effective=2026-05-20 23:23:27+00:00 | 【미국 증시 오늘의 요약】  유가 급락에 증시 급반등…엔비디아 실적에도 주가 출렁인 이유   -  2026/
+   - kmbsIZSYu6k | ongoing=False | publishedAt=2026-05-20T22:45:07Z | actualEndTime=2026-05-20T22:24:03Z | effective=2026-05-20 22:24:03+00:00 | [26년 05월 20일 수]  엔비디아, '실적발표' ｜ 스페이스X, IPO 신청서 제출 예정 ｜ EU, 미
    - FWNTY5BxoeA | ongoing=False | publishedAt=2026-05-19T22:17:11Z | actualEndTime=None | effective=2026-05-19 22:17:11+00:00 | 【미국 증시 오늘의 요약】  국채금리 발작에 3일 연속 밀린 S&P500, 엔비디아가 구원투수 될까?    
    - rDeFBtjxbQE | ongoing=False | publishedAt=2026-05-19T21:54:57Z | actualEndTime=2026-05-19T21:33:27Z | effective=2026-05-19 21:33:27+00:00 | [26년 05월 19일 화]  구글, 연례 개발자 컨퍼런스 ｜ 트럼프, 이란 추가 공격 보류 ｜ 엔비디아, 
-   - 7Sxs5syhDQI | ongoing=False | publishedAt=2026-05-18T22:33:13Z | actualEndTime=None | effective=2026-05-18 22:33:13+00:00 | 【미국 증시 오늘의 요약】  씨게이트 CEO 발언 한 마디에 메모리 반도체 폭락....    -  2026/
-   - 0BQ4zdXYLh4 | ongoing=False | publishedAt=2026-05-18T22:14:05Z | actualEndTime=2026-05-18T21:51:23Z | effective=2026-05-18 21:51:23+00:00 | [26년 05월 18일 월]  엔비디아 CEO,  기조연설 ｜ 스페이스X, 6월 12일 나스닥 상장? ｜ 버
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 6월이 두렵읍니다
-  URL: https://www.youtube.com/watch?v=EGpCLOmGtrE
-  publishedAt: 2026-05-20T03:00:09Z
+  제목: 횡보디아, 또 횡보하겠네요...
+  URL: https://www.youtube.com/watch?v=qWvDNBZp_Js
+  publishedAt: 2026-05-21T04:51:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - qWvDNBZp_Js | ongoing=False | publishedAt=2026-05-21T04:51:50Z | actualEndTime=None | effective=2026-05-21 04:51:50+00:00 | 횡보디아, 또 횡보하겠네요...
+   - _1-ofvCkTXY | ongoing=False | publishedAt=2026-05-21T00:18:49Z | actualEndTime=2026-05-21T00:08:32Z | effective=2026-05-21 00:08:32+00:00 | 엔비디아 실적, 나노단위 분석 = 문제점을 발견했습니다ㅣ[아침뉴스&미국시황] #260520
+   - cbGs4XVwEBo | ongoing=False | publishedAt=2026-05-20T07:00:20Z | actualEndTime=None | effective=2026-05-20 07:00:20+00:00 | 엔비디아 실적 발표 전 꼭 봐야할 것은 이겁니다
    - EGpCLOmGtrE | ongoing=False | publishedAt=2026-05-20T03:00:09Z | actualEndTime=None | effective=2026-05-20 03:00:09+00:00 | 6월이 두렵읍니다
    - 8gMB6wrNJTU | ongoing=False | publishedAt=2026-05-20T01:00:07Z | actualEndTime=None | effective=2026-05-20 01:00:07+00:00 | 위안화의 강세가 심상치 않은 이유
    - bRmupbk88ao | ongoing=False | publishedAt=2026-05-20T00:01:45Z | actualEndTime=2026-05-19T23:58:19Z | effective=2026-05-19 23:58:19+00:00 | 구글 키노트, 제미나이 3.5... 왜이래 이거?ㅣ금리가 오르는데, 반도체도 오른다...?ㅣ미국 국채를 팔고
-   - 6KZww1uUBxU | ongoing=False | publishedAt=2026-05-19T01:00:06Z | actualEndTime=None | effective=2026-05-19 01:00:06+00:00 | 매수할 용기는 없는데 왜 매도할 용기는 있나?
-   - TlmAYRsSvxQ | ongoing=False | publishedAt=2026-05-19T00:00:24Z | actualEndTime=2026-05-18T23:55:15Z | effective=2026-05-18 23:55:15+00:00 | 트럼프: 중동이 요청해서 이란 공격 안할거임!!ㅣ채권시장: 매수가 너무 약하다ㅣ케빈 워시, 금요일 백악관 취
-   - -uakFESZGbs | ongoing=False | publishedAt=2026-05-18T07:36:04Z | actualEndTime=None | effective=2026-05-18 07:36:04+00:00 | 대체 한국 시장은 언제쯤 바뀌는걸까? #네이버 #두나무
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 드디어 밝혀진 SpaceX의 모든것! 심층분석
+  URL: https://www.youtube.com/watch?v=MKXL0tOgOF0
+  publishedAt: 2026-05-20T23:28:26Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - MKXL0tOgOF0 | ongoing=False | publishedAt=2026-05-20T23:28:26Z | actualEndTime=None | effective=2026-05-20 23:28:26+00:00 | 드디어 밝혀진 SpaceX의 모든것! 심층분석
+   - eWkfJxJrJgA | ongoing=False | publishedAt=2026-05-20T16:53:29Z | actualEndTime=None | effective=2026-05-20 16:53:29+00:00 | 삼전 파업 끝? 미장 국장 폭등 시작! (5월 21일)
+   - f1w20ac9pjs | ongoing=False | publishedAt=2026-05-20T06:10:28Z | actualEndTime=None | effective=2026-05-20 06:10:28+00:00 | 삼성전자 내일 큰일 났다 (5월 20일)
    - Wq4SQ2Qkqxo | ongoing=False | publishedAt=2026-05-19T05:20:01Z | actualEndTime=None | effective=2026-05-19 05:20:01+00:00 | #삼성전자 #하이닉스 떡락 이유 (5월 19일)
-   - -2Lb18wOFBY | ongoing=False | publishedAt=2026-05-18T17:41:09Z | actualEndTime=None | effective=2026-05-18 17:41:09+00:00 | 엔비디아를 숏?? AI투자 천재의 포트폴리오가 매우 충격이네요;;
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 1QL1zOXTFHo | ongoing=False | publishedAt=2026-05-20T11:47:32Z | actualEndTime=None | effective=2026-05-20 11:47:32+00:00 | 월가 초고수가 찍었다? 드러켄밀러의 베팅 적중할까
    - zjnKEmJgNHY | ongoing=False | publishedAt=2026-05-19T10:26:12Z | actualEndTime=None | effective=2026-05-19 10:26:12+00:00 | 트럼프 최측근의 은밀한 매수, 역발상 베팅 적중할까
-   - oSiADmzgXLg | ongoing=False | publishedAt=2026-05-18T11:19:31Z | actualEndTime=None | effective=2026-05-18 11:19:31+00:00 | 3가지 악재에 긴장하는 증시, 조정장 대비해야 할까
