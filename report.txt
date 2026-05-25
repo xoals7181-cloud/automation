@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-24 13:57 (KST)
-Run: 158 (id=26352385976)
+생성 시각: 2026-05-25 14:14 (KST)
+Run: 159 (id=26384495023)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,53 @@ Run: 158 (id=26352385976)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: SpaceX launches Starship rocket from Texas
-  URL: https://www.youtube.com/watch?v=0cziZB0_wug
-  publishedAt: 2026-05-24T00:09:37Z
+  제목: Oil Falls, Stocks Rise as US, Iran Inch Toward Deal | The Asia Trade 5/25/2026
+  URL: https://www.youtube.com/watch?v=-fNU1-ZoBSw
+  publishedAt: 2026-05-25T04:41:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 0cziZB0_wug | ongoing=False | publishedAt=2026-05-24T00:09:37Z | actualEndTime=None | effective=2026-05-24 00:09:37+00:00 | SpaceX launches Starship rocket from Texas
-   - lMCQYXZWvjs | ongoing=False | publishedAt=2026-05-23T16:18:53Z | actualEndTime=None | effective=2026-05-23 16:18:53+00:00 | Bloomberg This Weekend | Trump Weighs Iran Options, Tracking
-   - PRSYKhhAnTk | ongoing=False | publishedAt=2026-05-23T15:43:37Z | actualEndTime=None | effective=2026-05-23 15:43:37+00:00 | General Petraeus: We May Have to Go Back to War with Iran
-   - C5VaJtSOQOc | ongoing=False | publishedAt=2026-05-23T15:11:11Z | actualEndTime=None | effective=2026-05-23 15:11:11+00:00 | Chanel’s Mega Dividend Brings Owners’ Windfall to $21 Billio
-   - x52zwWOVtH4 | ongoing=False | publishedAt=2026-05-23T14:31:45Z | actualEndTime=None | effective=2026-05-23 14:31:45+00:00 | Navigating Higher Food Costs as Burger Season Begins
-   - 9bvcMOGH9JM | ongoing=False | publishedAt=2026-05-23T14:23:39Z | actualEndTime=None | effective=2026-05-23 14:23:39+00:00 | Retail, Cryptocurrency, Obituaries | Pointed News Quiz
-   - OPMKuYaEcTs | ongoing=False | publishedAt=2026-05-23T14:18:33Z | actualEndTime=None | effective=2026-05-23 14:18:33+00:00 | The Surprising Joy of a Crowded Hiking Trail
-   - K1dBf40waNk | ongoing=False | publishedAt=2026-05-23T14:04:27Z | actualEndTime=None | effective=2026-05-23 14:04:27+00:00 | Trump’s 3,711 Trades Point to Several Stock-Market Strategie
-   - i1lrkSsCSbQ | ongoing=False | publishedAt=2026-05-23T13:55:41Z | actualEndTime=None | effective=2026-05-23 13:55:41+00:00 | In a Cashless Society, Will the Dollar Remain King?
-   - uZYm6_ClKSE | ongoing=False | publishedAt=2026-05-23T13:34:26Z | actualEndTime=None | effective=2026-05-23 13:34:26+00:00 | Since Last Outbreak US Ebola Aid Plummeted 99%
+   - -fNU1-ZoBSw | ongoing=False | publishedAt=2026-05-25T04:41:50Z | actualEndTime=None | effective=2026-05-25 04:41:50+00:00 | Oil Falls, Stocks Rise as US, Iran Inch Toward Deal | The As
+   - WnoX6zOvegE | ongoing=False | publishedAt=2026-05-24T19:08:47Z | actualEndTime=None | effective=2026-05-24 19:08:47+00:00 | Bloomberg This Weekend | White House: Iran deal to be announ
+   - DZ1w9CzOx-o | ongoing=False | publishedAt=2026-05-24T16:05:53Z | actualEndTime=None | effective=2026-05-24 16:05:53+00:00 | Rising Energy Prices Pose Challenge for Travelers
+   - KINYseec7cw | ongoing=False | publishedAt=2026-05-24T15:57:22Z | actualEndTime=None | effective=2026-05-24 15:57:22+00:00 | Ebola Spreads Across Congo as Flights Are Halted, Supplies R
+   - e_lleylZ8qc | ongoing=False | publishedAt=2026-05-24T15:49:47Z | actualEndTime=None | effective=2026-05-24 15:49:47+00:00 | Rubio Invites India’s Modi to Visit White House as Relations
+   - UjjuVnkpX84 | ongoing=False | publishedAt=2026-05-24T15:40:41Z | actualEndTime=None | effective=2026-05-24 15:40:41+00:00 | Pope Leo Focusing on AI in First Social Encyclical
+   - 48gbASLLK7U | ongoing=False | publishedAt=2026-05-24T15:32:27Z | actualEndTime=None | effective=2026-05-24 15:32:27+00:00 | College Kids Don’t Want Your AI
+   - d-8o45m2BbE | ongoing=False | publishedAt=2026-05-24T15:17:55Z | actualEndTime=None | effective=2026-05-24 15:17:55+00:00 | Trump Touts Influence in Texas Midterm Primaries
+   - q6AM9hhlGF8 | ongoing=False | publishedAt=2026-05-24T15:07:14Z | actualEndTime=None | effective=2026-05-24 15:07:14+00:00 | Rep. Ivey "Disgusted" at Settlement Slush Fund, Critiques $1
+   - dI2anYKdDpA | ongoing=False | publishedAt=2026-05-24T15:00:21Z | actualEndTime=None | effective=2026-05-24 15:00:21+00:00 | Trump Mulls Arms Sale to Taiwan, Will Speak to President
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: TRUMP ANNOUNCES IRAN PEACE!! HORMUZ TO OPEN!
-  URL: https://www.youtube.com/watch?v=rn0-SyS7dfI
-  publishedAt: 2026-05-23T21:27:36Z
-  actualEndTime: 2026-05-23T21:25:23Z
+  제목: Iran Deal COLLAPSING?!??!!
+  URL: https://www.youtube.com/watch?v=D8heL0mIUO0
+  publishedAt: 2026-05-24T19:28:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - D8heL0mIUO0 | ongoing=False | publishedAt=2026-05-24T19:28:56Z | actualEndTime=None | effective=2026-05-24 19:28:56+00:00 | Iran Deal COLLAPSING?!??!!
    - rn0-SyS7dfI | ongoing=False | publishedAt=2026-05-23T21:27:36Z | actualEndTime=2026-05-23T21:25:23Z | effective=2026-05-23 21:25:23+00:00 | TRUMP ANNOUNCES IRAN PEACE!! HORMUZ TO OPEN!
-   - YpbjeejjwJg | ongoing=False | publishedAt=2026-05-22T20:35:54Z | actualEndTime=None | effective=2026-05-22 20:35:54+00:00 | CRAP: Worst Bubble Since 1880!
-   - Hl8sgbmBF98 | ongoing=False | publishedAt=2026-05-22T16:23:24Z | actualEndTime=None | effective=2026-05-22 16:23:24+00:00 | *TWO* CRITICAL *STOCKS* if you like MONEY
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - JvGsbPPlOIE | ongoing=False | publishedAt=2026-05-22T22:37:41Z | actualEndTime=None | effective=2026-05-22 22:37:41+00:00 | 【미국 증시 오늘의 요약】   중동 평화 기대에 오른 증시…AI 랠리 속 엔비디아는 하락   -  2026/
-   - xiayCHV0CQQ | ongoing=False | publishedAt=2026-05-22T21:39:18Z | actualEndTime=2026-05-22T21:17:27Z | effective=2026-05-22 21:17:27+00:00 | [26년 05월 22일 금]  케빈 워시, 연준 의장 공식 취임 ｜ AMD, 향후 5년간 CPU 시장 연 3
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 올해 엔비디아 주가의 현실적인 전망치는?
-  URL: https://www.youtube.com/watch?v=29AfaiCRgnw
-  publishedAt: 2026-05-24T01:00:02Z
+  제목: 채권 투자로 돈 복사 해봅시다
+  URL: https://www.youtube.com/watch?v=y0i4LleUk0A
+  publishedAt: 2026-05-25T03:00:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - y0i4LleUk0A | ongoing=False | publishedAt=2026-05-25T03:00:41Z | actualEndTime=None | effective=2026-05-25 03:00:41+00:00 | 채권 투자로 돈 복사 해봅시다
+   - k8NX5e9xJQs | ongoing=False | publishedAt=2026-05-25T01:00:31Z | actualEndTime=None | effective=2026-05-25 01:00:31+00:00 | 이러쿵저러쿵 해도 결국 대전제는 우상향!
    - 29AfaiCRgnw | ongoing=False | publishedAt=2026-05-24T01:00:02Z | actualEndTime=None | effective=2026-05-24 01:00:02+00:00 | 올해 엔비디아 주가의 현실적인 전망치는?
-   - -jNIsmWD0cI | ongoing=False | publishedAt=2026-05-23T02:07:33Z | actualEndTime=None | effective=2026-05-23 02:07:33+00:00 | 물타기와 매수에도 시그널이 중요합니다
-   - ou5cBH-svgQ | ongoing=False | publishedAt=2026-05-22T16:09:24Z | actualEndTime=2026-05-22T15:15:49Z | effective=2026-05-22 15:15:49+00:00 | [미국주식 LIVE] 3일 연휴!! 협상 본격화? 아직 팔지마??ㅣ#260522
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 5J38OWzbbKM | ongoing=False | publishedAt=2026-05-22T06:33:04Z | actualEndTime=None | effective=2026-05-22 06:33:04+00:00 | 코스피는 멈춰있는데 코스닥만 대폭등하는 이유 (5월 22일)
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
-  상태: NO_TRANSCRIPT
-  제목: 이번 강세장 주도주 쉽게 안 바뀐다? 끝까지 들고 가야 할 주식들(김성환 수석연구원 2부)
-  URL: https://www.youtube.com/watch?v=fTDeL7kQNj0
-  publishedAt: 2026-05-24T04:24:24Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - fTDeL7kQNj0 | ongoing=False | publishedAt=2026-05-24T04:24:24Z | actualEndTime=None | effective=2026-05-24 04:24:24+00:00 | 이번 강세장 주도주 쉽게 안 바뀐다? 끝까지 들고 가야 할 주식들(김성환 수석연구원 2부)
-   - Gf5NcmmIMdw | ongoing=False | publishedAt=2026-05-23T03:22:38Z | actualEndTime=None | effective=2026-05-23 03:22:38+00:00 | 강세장 후반부 진입, 상승 각도 더 가팔라진다? 버블 초입의 징후들(김성환 수석연구원 1부)
-   - vAGGVtkk5Z8 | ongoing=False | publishedAt=2026-05-22T09:39:01Z | actualEndTime=None | effective=2026-05-22 09:39:01+00:00 | 완전히 다시 태어난 삼전닉스, 반도체 슈퍼사이클과 현금흐름 둘 다 잡는 법
