@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-25 14:14 (KST)
-Run: 159 (id=26384495023)
+생성 시각: 2026-05-26 13:56 (KST)
+Run: 160 (id=26433131680)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,31 +8,31 @@ Run: 159 (id=26384495023)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Oil Falls, Stocks Rise as US, Iran Inch Toward Deal | The Asia Trade 5/25/2026
-  URL: https://www.youtube.com/watch?v=-fNU1-ZoBSw
-  publishedAt: 2026-05-25T04:41:50Z
+  제목: Oil Climbs as US Strikes Iran Targets | The Asia Trade 5/26/2026
+  URL: https://www.youtube.com/watch?v=-Pvr_DQqDQk
+  publishedAt: 2026-05-26T04:28:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -Pvr_DQqDQk | ongoing=False | publishedAt=2026-05-26T04:28:47Z | actualEndTime=None | effective=2026-05-26 04:28:47+00:00 | Oil Climbs as US Strikes Iran Targets | The Asia Trade 5/26/
+   - MjSap3K8VEw | ongoing=False | publishedAt=2026-05-25T10:06:21Z | actualEndTime=None | effective=2026-05-25 10:06:21+00:00 | Iran Says US Deal Not Imminent | The Pulse 5/25/2026
+   - JxQMeuHwzkU | ongoing=False | publishedAt=2026-05-25T09:31:43Z | actualEndTime=None | effective=2026-05-25 09:31:43+00:00 | Iran Says US Deal Not Imminent | The Opening Trade 5/25/2026
+   - euJsMxaWGBI | ongoing=False | publishedAt=2026-05-25T07:15:34Z | actualEndTime=None | effective=2026-05-25 07:15:34+00:00 | Respite for JGBs Won't Last Long: 3-Minutes MLIV
+   - eN4cs4iBBzA | ongoing=False | publishedAt=2026-05-25T06:57:20Z | actualEndTime=None | effective=2026-05-25 06:57:20+00:00 | Iran War: Trump Says 'No Rush' as US, Iran Inch Towards Deal
+   - 5StvM_1bhxA | ongoing=False | publishedAt=2026-05-25T06:42:20Z | actualEndTime=None | effective=2026-05-25 06:42:20+00:00 | Markets Up Oil Down Over Iran Deal; Ebola Affects Flights | 
+   - A4anLOjRZmg | ongoing=False | publishedAt=2026-05-25T06:32:15Z | actualEndTime=None | effective=2026-05-25 06:32:15+00:00 | Deal Or No Deal? Oil Falls On Hope | Insight with Haslinda A
+   - CVYY2xbU3lU | ongoing=False | publishedAt=2026-05-25T05:26:31Z | actualEndTime=None | effective=2026-05-25 05:26:31+00:00 | China Investigates Deadly Coal Mine Blast | The China Show 5
    - -fNU1-ZoBSw | ongoing=False | publishedAt=2026-05-25T04:41:50Z | actualEndTime=None | effective=2026-05-25 04:41:50+00:00 | Oil Falls, Stocks Rise as US, Iran Inch Toward Deal | The As
    - WnoX6zOvegE | ongoing=False | publishedAt=2026-05-24T19:08:47Z | actualEndTime=None | effective=2026-05-24 19:08:47+00:00 | Bloomberg This Weekend | White House: Iran deal to be announ
-   - DZ1w9CzOx-o | ongoing=False | publishedAt=2026-05-24T16:05:53Z | actualEndTime=None | effective=2026-05-24 16:05:53+00:00 | Rising Energy Prices Pose Challenge for Travelers
-   - KINYseec7cw | ongoing=False | publishedAt=2026-05-24T15:57:22Z | actualEndTime=None | effective=2026-05-24 15:57:22+00:00 | Ebola Spreads Across Congo as Flights Are Halted, Supplies R
-   - e_lleylZ8qc | ongoing=False | publishedAt=2026-05-24T15:49:47Z | actualEndTime=None | effective=2026-05-24 15:49:47+00:00 | Rubio Invites India’s Modi to Visit White House as Relations
-   - UjjuVnkpX84 | ongoing=False | publishedAt=2026-05-24T15:40:41Z | actualEndTime=None | effective=2026-05-24 15:40:41+00:00 | Pope Leo Focusing on AI in First Social Encyclical
-   - 48gbASLLK7U | ongoing=False | publishedAt=2026-05-24T15:32:27Z | actualEndTime=None | effective=2026-05-24 15:32:27+00:00 | College Kids Don’t Want Your AI
-   - d-8o45m2BbE | ongoing=False | publishedAt=2026-05-24T15:17:55Z | actualEndTime=None | effective=2026-05-24 15:17:55+00:00 | Trump Touts Influence in Texas Midterm Primaries
-   - q6AM9hhlGF8 | ongoing=False | publishedAt=2026-05-24T15:07:14Z | actualEndTime=None | effective=2026-05-24 15:07:14+00:00 | Rep. Ivey "Disgusted" at Settlement Slush Fund, Critiques $1
-   - dI2anYKdDpA | ongoing=False | publishedAt=2026-05-24T15:00:21Z | actualEndTime=None | effective=2026-05-24 15:00:21+00:00 | Trump Mulls Arms Sale to Taiwan, Will Speak to President
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Iran Deal COLLAPSING?!??!!
-  URL: https://www.youtube.com/watch?v=D8heL0mIUO0
-  publishedAt: 2026-05-24T19:28:56Z
+  제목: US STRIKES IRAN **AGAIN** WTF. Plz TACO.
+  URL: https://www.youtube.com/watch?v=YpSDA9OaAl0
+  publishedAt: 2026-05-26T00:39:21Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - YpSDA9OaAl0 | ongoing=False | publishedAt=2026-05-26T00:39:21Z | actualEndTime=None | effective=2026-05-26 00:39:21+00:00 | US STRIKES IRAN **AGAIN** WTF. Plz TACO.
    - D8heL0mIUO0 | ongoing=False | publishedAt=2026-05-24T19:28:56Z | actualEndTime=None | effective=2026-05-24 19:28:56+00:00 | Iran Deal COLLAPSING?!??!!
-   - rn0-SyS7dfI | ongoing=False | publishedAt=2026-05-23T21:27:36Z | actualEndTime=2026-05-23T21:25:23Z | effective=2026-05-23 21:25:23+00:00 | TRUMP ANNOUNCES IRAN PEACE!! HORMUZ TO OPEN!
 
 - 오선의 미국 증시
   상태: NO_VIDEO
@@ -40,21 +40,27 @@ Run: 159 (id=26384495023)
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 채권 투자로 돈 복사 해봅시다
-  URL: https://www.youtube.com/watch?v=y0i4LleUk0A
-  publishedAt: 2026-05-25T03:00:41Z
+  제목: 2022년과 지금이 닮았다고요?
+  URL: https://www.youtube.com/watch?v=iwhSYptHw1Y
+  publishedAt: 2026-05-26T01:00:33Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - iwhSYptHw1Y | ongoing=False | publishedAt=2026-05-26T01:00:33Z | actualEndTime=None | effective=2026-05-26 01:00:33+00:00 | 2022년과 지금이 닮았다고요?
+   - clWYy5FhPRg | ongoing=False | publishedAt=2026-05-25T23:54:22Z | actualEndTime=2026-05-25T23:50:35Z | effective=2026-05-25 23:50:35+00:00 | 호르무즈 열렸다구!! 계산기를 두드려 볼 시간입니다!!ㅣ[아침뉴스&미국시황] #260526
    - y0i4LleUk0A | ongoing=False | publishedAt=2026-05-25T03:00:41Z | actualEndTime=None | effective=2026-05-25 03:00:41+00:00 | 채권 투자로 돈 복사 해봅시다
    - k8NX5e9xJQs | ongoing=False | publishedAt=2026-05-25T01:00:31Z | actualEndTime=None | effective=2026-05-25 01:00:31+00:00 | 이러쿵저러쿵 해도 결국 대전제는 우상향!
-   - 29AfaiCRgnw | ongoing=False | publishedAt=2026-05-24T01:00:02Z | actualEndTime=None | effective=2026-05-24 01:00:02+00:00 | 올해 엔비디아 주가의 현실적인 전망치는?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 하이닉스가 삼전보다 더 오른 진짜 이유 (5월 26일)
+  URL: https://www.youtube.com/watch?v=gSQcy25AyIY
+  publishedAt: 2026-05-26T01:46:06Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - gSQcy25AyIY | ongoing=False | publishedAt=2026-05-26T01:46:06Z | actualEndTime=None | effective=2026-05-26 01:46:06+00:00 | 하이닉스가 삼전보다 더 오른 진짜 이유 (5월 26일)
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - fTDeL7kQNj0 | ongoing=False | publishedAt=2026-05-24T04:24:24Z | actualEndTime=None | effective=2026-05-24 04:24:24+00:00 | 이번 강세장 주도주 쉽게 안 바뀐다? 끝까지 들고 가야 할 주식들(김성환 수석연구원 2부)
+   - 9LMPAvJo3xQ | ongoing=False | publishedAt=2026-05-25T11:14:37Z | actualEndTime=None | effective=2026-05-25 11:14:37+00:00 | 엔비디아 인텔 AMD CEO가 동시에 찍었다, 지금부터 주목해야 할 증시 키워드
