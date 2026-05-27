@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-26 13:56 (KST)
-Run: 160 (id=26433131680)
+생성 시각: 2026-05-27 14:09 (KST)
+Run: 161 (id=26492080974)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,59 +8,71 @@ Run: 160 (id=26433131680)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Oil Climbs as US Strikes Iran Targets | The Asia Trade 5/26/2026
-  URL: https://www.youtube.com/watch?v=-Pvr_DQqDQk
-  publishedAt: 2026-05-26T04:28:47Z
+  제목: SK Hynix, Micron Join $1 Trillion Market Cap Club | The Asia Trade 5/27/2026
+  URL: https://www.youtube.com/watch?v=csgtSfHE2WQ
+  publishedAt: 2026-05-27T04:43:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - -Pvr_DQqDQk | ongoing=False | publishedAt=2026-05-26T04:28:47Z | actualEndTime=None | effective=2026-05-26 04:28:47+00:00 | Oil Climbs as US Strikes Iran Targets | The Asia Trade 5/26/
-   - MjSap3K8VEw | ongoing=False | publishedAt=2026-05-25T10:06:21Z | actualEndTime=None | effective=2026-05-25 10:06:21+00:00 | Iran Says US Deal Not Imminent | The Pulse 5/25/2026
-   - JxQMeuHwzkU | ongoing=False | publishedAt=2026-05-25T09:31:43Z | actualEndTime=None | effective=2026-05-25 09:31:43+00:00 | Iran Says US Deal Not Imminent | The Opening Trade 5/25/2026
-   - euJsMxaWGBI | ongoing=False | publishedAt=2026-05-25T07:15:34Z | actualEndTime=None | effective=2026-05-25 07:15:34+00:00 | Respite for JGBs Won't Last Long: 3-Minutes MLIV
-   - eN4cs4iBBzA | ongoing=False | publishedAt=2026-05-25T06:57:20Z | actualEndTime=None | effective=2026-05-25 06:57:20+00:00 | Iran War: Trump Says 'No Rush' as US, Iran Inch Towards Deal
-   - 5StvM_1bhxA | ongoing=False | publishedAt=2026-05-25T06:42:20Z | actualEndTime=None | effective=2026-05-25 06:42:20+00:00 | Markets Up Oil Down Over Iran Deal; Ebola Affects Flights | 
-   - A4anLOjRZmg | ongoing=False | publishedAt=2026-05-25T06:32:15Z | actualEndTime=None | effective=2026-05-25 06:32:15+00:00 | Deal Or No Deal? Oil Falls On Hope | Insight with Haslinda A
-   - CVYY2xbU3lU | ongoing=False | publishedAt=2026-05-25T05:26:31Z | actualEndTime=None | effective=2026-05-25 05:26:31+00:00 | China Investigates Deadly Coal Mine Blast | The China Show 5
-   - -fNU1-ZoBSw | ongoing=False | publishedAt=2026-05-25T04:41:50Z | actualEndTime=None | effective=2026-05-25 04:41:50+00:00 | Oil Falls, Stocks Rise as US, Iran Inch Toward Deal | The As
-   - WnoX6zOvegE | ongoing=False | publishedAt=2026-05-24T19:08:47Z | actualEndTime=None | effective=2026-05-24 19:08:47+00:00 | Bloomberg This Weekend | White House: Iran deal to be announ
+   - csgtSfHE2WQ | ongoing=False | publishedAt=2026-05-27T04:43:30Z | actualEndTime=None | effective=2026-05-27 04:43:30+00:00 | SK Hynix, Micron Join $1 Trillion Market Cap Club | The Asia
+   - ifMnpL7ElZ4 | ongoing=False | publishedAt=2026-05-26T23:23:21Z | actualEndTime=None | effective=2026-05-26 23:23:21+00:00 | Texas Showdown Latest Test of Trump's Sway | Balance of Powe
+   - W7rAe6m4FBg | ongoing=False | publishedAt=2026-05-26T22:11:50Z | actualEndTime=None | effective=2026-05-26 22:11:50+00:00 | Stocks Rise Toward Record on Iran Peace Hopes | The Close 5/
+   - IsnI_YtB0_c | ongoing=False | publishedAt=2026-05-26T20:25:20Z | actualEndTime=None | effective=2026-05-26 20:25:20+00:00 | US Consumer Confidence Slips on Price Concerns| Bloomberg Bu
+   - zZxhy6CDj5A | ongoing=False | publishedAt=2026-05-26T20:24:04Z | actualEndTime=None | effective=2026-05-26 20:24:04+00:00 | Micron Shares Surge To Surpass $1 Trillion in Market Value |
+   - WfLZBRSt0bM | ongoing=False | publishedAt=2026-05-26T19:48:44Z | actualEndTime=None | effective=2026-05-26 19:48:44+00:00 | Petraeus: We may have to go back to war with Iran #shorts #p
+   - pZyeDKoo9dM | ongoing=False | publishedAt=2026-05-26T19:46:47Z | actualEndTime=None | effective=2026-05-26 19:46:47+00:00 | Farmers Feel Squeeze From Higher Fuel Costs, Fertilizer Shor
+   - 2hy1GFgHfBc | ongoing=False | publishedAt=2026-05-26T19:44:37Z | actualEndTime=None | effective=2026-05-26 19:44:37+00:00 | Bloomberg Crypto 5/26/2026
+   - 8CM_v01Znco | ongoing=False | publishedAt=2026-05-26T19:33:09Z | actualEndTime=None | effective=2026-05-26 19:33:09+00:00 | US Touts Iran Deal Prospects | Balance of Power: Early Editi
+   - oFSgUBou1zI | ongoing=False | publishedAt=2026-05-26T19:00:22Z | actualEndTime=None | effective=2026-05-26 19:00:22+00:00 | Mamdani Scores $50 World Cup Tickets for 1,000 New Yorkers
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: US STRIKES IRAN **AGAIN** WTF. Plz TACO.
-  URL: https://www.youtube.com/watch?v=YpSDA9OaAl0
-  publishedAt: 2026-05-26T00:39:21Z
+  제목: f**k this
+  URL: https://www.youtube.com/watch?v=poUJIZRmFew
+  publishedAt: 2026-05-27T03:23:07Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - poUJIZRmFew | ongoing=False | publishedAt=2026-05-27T03:23:07Z | actualEndTime=None | effective=2026-05-27 03:23:07+00:00 | f**k this
+   - 5VXbBLaZTD4 | ongoing=False | publishedAt=2026-05-26T21:55:51Z | actualEndTime=None | effective=2026-05-26 21:55:51+00:00 | ELON MUSK WORKING SPACEX MERGER WITH TESLA!!!!
+   - ImdwYfLRU6A | ongoing=False | publishedAt=2026-05-26T15:45:52Z | actualEndTime=None | effective=2026-05-26 15:45:52+00:00 | IS THIS THE TOP
    - YpSDA9OaAl0 | ongoing=False | publishedAt=2026-05-26T00:39:21Z | actualEndTime=None | effective=2026-05-26 00:39:21+00:00 | US STRIKES IRAN **AGAIN** WTF. Plz TACO.
-   - D8heL0mIUO0 | ongoing=False | publishedAt=2026-05-24T19:28:56Z | actualEndTime=None | effective=2026-05-24 19:28:56+00:00 | Iran Deal COLLAPSING?!??!!
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】   마이크론 19% 폭등! 이란 리스크 뚫고 미국 증시 사상 최고   -  2026/05/26
+  URL: https://www.youtube.com/watch?v=BXvNMRFxnvI
+  publishedAt: 2026-05-26T22:15:37Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - BXvNMRFxnvI | ongoing=False | publishedAt=2026-05-26T22:15:37Z | actualEndTime=None | effective=2026-05-26 22:15:37+00:00 | 【미국 증시 오늘의 요약】   마이크론 19% 폭등! 이란 리스크 뚫고 미국 증시 사상 최고   -  202
+   - g53zHXD97VM | ongoing=False | publishedAt=2026-05-26T21:44:58Z | actualEndTime=2026-05-26T21:24:04Z | effective=2026-05-26 21:24:04+00:00 | [26년 05월 26일 화]  이란 전쟁 종식 기대감 '고조' ｜ 스페이스X, 스타십 V3 발사 성공 ｜ 마
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 2022년과 지금이 닮았다고요?
-  URL: https://www.youtube.com/watch?v=iwhSYptHw1Y
-  publishedAt: 2026-05-26T01:00:33Z
+  제목: 케빈 워시와 트럼프는 '고금리 + 고성장'을 설계하고 있습니다
+  URL: https://www.youtube.com/watch?v=AhLtjRi5xpo
+  publishedAt: 2026-05-27T03:00:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - AhLtjRi5xpo | ongoing=False | publishedAt=2026-05-27T03:00:29Z | actualEndTime=None | effective=2026-05-27 03:00:29+00:00 | 케빈 워시와 트럼프는 '고금리 + 고성장'을 설계하고 있습니다
+   - _4raxf7enKQ | ongoing=False | publishedAt=2026-05-27T00:06:47Z | actualEndTime=2026-05-27T00:02:10Z | effective=2026-05-27 00:02:10+00:00 | 마이크론 +19%!! 삼성전자 레버리지 축포인가!?ㅣ메모리가 너무 비싸서 AI를 못쓴다...? 이게 머선말이
+   - PPhRF-1qdkg | ongoing=False | publishedAt=2026-05-26T08:32:59Z | actualEndTime=None | effective=2026-05-26 08:32:59+00:00 | Space X IPO를 조심해야 하는 이유
    - iwhSYptHw1Y | ongoing=False | publishedAt=2026-05-26T01:00:33Z | actualEndTime=None | effective=2026-05-26 01:00:33+00:00 | 2022년과 지금이 닮았다고요?
    - clWYy5FhPRg | ongoing=False | publishedAt=2026-05-25T23:54:22Z | actualEndTime=2026-05-25T23:50:35Z | effective=2026-05-25 23:50:35+00:00 | 호르무즈 열렸다구!! 계산기를 두드려 볼 시간입니다!!ㅣ[아침뉴스&미국시황] #260526
-   - y0i4LleUk0A | ongoing=False | publishedAt=2026-05-25T03:00:41Z | actualEndTime=None | effective=2026-05-25 03:00:41+00:00 | 채권 투자로 돈 복사 해봅시다
-   - k8NX5e9xJQs | ongoing=False | publishedAt=2026-05-25T01:00:31Z | actualEndTime=None | effective=2026-05-25 01:00:31+00:00 | 이러쿵저러쿵 해도 결국 대전제는 우상향!
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 하이닉스가 삼전보다 더 오른 진짜 이유 (5월 26일)
-  URL: https://www.youtube.com/watch?v=gSQcy25AyIY
-  publishedAt: 2026-05-26T01:46:06Z
+  제목: #삼성전자 #하이닉스 오늘도 떡상하는 이유 (5월 27일)
+  URL: https://www.youtube.com/watch?v=97ufTe6Lveo
+  publishedAt: 2026-05-27T01:56:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 97ufTe6Lveo | ongoing=False | publishedAt=2026-05-27T01:56:58Z | actualEndTime=None | effective=2026-05-27 01:56:58+00:00 | #삼성전자 #하이닉스 오늘도 떡상하는 이유 (5월 27일)
+   - jLF18M4eFRg | ongoing=False | publishedAt=2026-05-26T07:35:28Z | actualEndTime=None | effective=2026-05-26 07:35:28+00:00 | 주식 스터디 가는 길에 코스피 8000 기념으로 찍어봤습니다.
    - gSQcy25AyIY | ongoing=False | publishedAt=2026-05-26T01:46:06Z | actualEndTime=None | effective=2026-05-26 01:46:06+00:00 | 하이닉스가 삼전보다 더 오른 진짜 이유 (5월 26일)
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - JLTyoWL5t6k | ongoing=False | publishedAt=2026-05-26T11:07:44Z | actualEndTime=None | effective=2026-05-26 11:07:44+00:00 | 엔비디아의 깜짝 발표, 메모리 반도체 구조적 성장의 신호일까
    - 9LMPAvJo3xQ | ongoing=False | publishedAt=2026-05-25T11:14:37Z | actualEndTime=None | effective=2026-05-25 11:14:37+00:00 | 엔비디아 인텔 AMD CEO가 동시에 찍었다, 지금부터 주목해야 할 증시 키워드
