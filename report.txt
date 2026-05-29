@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-28 14:03 (KST)
-Run: 162 (id=26555806432)
+생성 시각: 2026-05-29 14:06 (KST)
+Run: 163 (id=26619181030)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,72 +8,66 @@ Run: 162 (id=26555806432)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: BOK's New Governor Delivers Hawkish Hold | The Asia Trade 5/28/2026
-  URL: https://www.youtube.com/watch?v=tyZqsaFEIZw
-  publishedAt: 2026-05-28T04:57:05Z
+  제목: Global Stocks Rally on Hopes of US-Iran Deal | The Asia Trade 5/29/2026
+  URL: https://www.youtube.com/watch?v=veED0qZD21M
+  publishedAt: 2026-05-29T03:24:16Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - tyZqsaFEIZw | ongoing=False | publishedAt=2026-05-28T04:57:05Z | actualEndTime=None | effective=2026-05-28 04:57:05+00:00 | BOK's New Governor Delivers Hawkish Hold | The Asia Trade 5/
-   - Qou3FsvY2Xo | ongoing=False | publishedAt=2026-05-28T00:18:07Z | actualEndTime=None | effective=2026-05-28 00:18:07+00:00 | Trump: 'Not Satisfied Yet' on Iran Deal | Balance of Power: 
-   - 9DJjVFxFdwk | ongoing=False | publishedAt=2026-05-27T22:09:39Z | actualEndTime=None | effective=2026-05-27 22:09:39+00:00 | Stocks Halt Rally on Conflicting US-Iran Signals | The Close
-   - y4UCXwP4VJU | ongoing=False | publishedAt=2026-05-27T21:28:14Z | actualEndTime=None | effective=2026-05-27 21:28:14+00:00 | Salesforce Taking Longer Than Expected to Shift to AI, Analy
-   - UjE9lnskJ8M | ongoing=False | publishedAt=2026-05-27T20:47:29Z | actualEndTime=None | effective=2026-05-27 20:47:29+00:00 | Traders Weigh Iran Peace Deal Reports as Trump Pushes Back |
-   - ipI8RQsl144 | ongoing=False | publishedAt=2026-05-27T20:32:25Z | actualEndTime=None | effective=2026-05-27 20:32:25+00:00 | Trump: Nobody Will Control Hormuz, But US to Watch Over It (
-   - K0tVV7e3HeY | ongoing=False | publishedAt=2026-05-27T20:32:06Z | actualEndTime=None | effective=2026-05-27 20:32:06+00:00 | Real Estate Investment Committee: AI, Rates, Supply & Demand
-   - 5xU5v1C6GC8 | ongoing=False | publishedAt=2026-05-27T20:28:45Z | actualEndTime=None | effective=2026-05-27 20:28:45+00:00 | NASA chief expects permanent moon base as soon as early 2030
-   - Pmyvs8fTgfM | ongoing=False | publishedAt=2026-05-27T20:24:24Z | actualEndTime=None | effective=2026-05-27 20:24:24+00:00 | Dimon Says JPMorgan Could Spend $20 Billion on Deals
-   - KFehDSVBIpc | ongoing=False | publishedAt=2026-05-27T20:22:58Z | actualEndTime=None | effective=2026-05-27 20:22:58+00:00 | How NASA Plans to Build a Base on the Moon
+   - veED0qZD21M | ongoing=False | publishedAt=2026-05-29T03:24:16Z | actualEndTime=None | effective=2026-05-29 03:24:16+00:00 | Global Stocks Rally on Hopes of US-Iran Deal | The Asia Trad
+   - BxcUG5pcyCE | ongoing=False | publishedAt=2026-05-29T02:35:14Z | actualEndTime=None | effective=2026-05-29 02:35:14+00:00 | Philippines' Marcos on Building a Legacy of His Own
+   - uqteAQfWIjY | ongoing=False | publishedAt=2026-05-28T23:24:21Z | actualEndTime=None | effective=2026-05-28 23:24:21+00:00 | US, Iran Agree to 60-Day Truce Pending Trump Approval | Bala
+   - UG_enX9Fi4Q | ongoing=False | publishedAt=2026-05-28T22:35:45Z | actualEndTime=None | effective=2026-05-28 22:35:45+00:00 | Dell soars on raised outlook for $60 billion in AI server sa
+   - OxMYC4weSiU | ongoing=False | publishedAt=2026-05-28T22:23:25Z | actualEndTime=None | effective=2026-05-28 22:23:25+00:00 | Stocks & Bonds Rise After US-Iran Deal Reports | The Close 5
+   - OPu1hkG4ZeY | ongoing=False | publishedAt=2026-05-28T22:07:38Z | actualEndTime=None | effective=2026-05-28 22:07:38+00:00 | Dell CFO Kennedy Sees AI Server Demand Driving Sales Growth
+   - 6xgnmtupuZk | ongoing=False | publishedAt=2026-05-28T21:13:54Z | actualEndTime=None | effective=2026-05-28 21:13:54+00:00 | Bessent Briefs Press, Outlines Trump’s Conditions for Iran |
+   - OQRKZhz-17M | ongoing=False | publishedAt=2026-05-28T20:41:58Z | actualEndTime=None | effective=2026-05-28 20:41:58+00:00 | Dell’s Earning Report Higher Than Expected | Closing Bell
+   - 9aRt9P7gWg0 | ongoing=False | publishedAt=2026-05-28T20:19:34Z | actualEndTime=None | effective=2026-05-28 20:19:34+00:00 | US, Iran Truce Awaits Trump Signoff | Balance of Power: Earl
+   - r_t0oWPvnOU | ongoing=False | publishedAt=2026-05-28T20:10:07Z | actualEndTime=None | effective=2026-05-28 20:10:07+00:00 | BNY CEO Says Artificial Intelligence Is a 'Super Power'
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - poUJIZRmFew | ongoing=False | publishedAt=2026-05-27T03:23:07Z | actualEndTime=None | effective=2026-05-27 03:23:07+00:00 | f**k this
-   - 5VXbBLaZTD4 | ongoing=False | publishedAt=2026-05-26T21:55:51Z | actualEndTime=None | effective=2026-05-26 21:55:51+00:00 | ELON MUSK WORKING SPACEX MERGER WITH TESLA!!!!
-   - ImdwYfLRU6A | ongoing=False | publishedAt=2026-05-26T15:45:52Z | actualEndTime=None | effective=2026-05-26 15:45:52+00:00 | IS THIS THE TOP
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   이란 협상 엇갈린 신호에도 증시는 버텼다… 반도체는 숨고르기  -  2026/05/27
-  URL: https://www.youtube.com/watch?v=Bmf5uZ7-P6o
-  publishedAt: 2026-05-27T22:30:24Z
+  제목: 【미국 증시 오늘의 요약】   트럼프 승인만 남았다? 미·이란 MOU 보도에 증시 랠리  -  2026/05/28
+  URL: https://www.youtube.com/watch?v=nXWwn1zsEDY
+  publishedAt: 2026-05-28T22:30:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - nXWwn1zsEDY | ongoing=False | publishedAt=2026-05-28T22:30:09Z | actualEndTime=None | effective=2026-05-28 22:30:09+00:00 | 【미국 증시 오늘의 요약】   트럼프 승인만 남았다? 미·이란 MOU 보도에 증시 랠리  -  2026/05
+   - zXOb1Z7IegM | ongoing=False | publishedAt=2026-05-28T22:00:58Z | actualEndTime=2026-05-28T21:36:43Z | effective=2026-05-28 21:36:43+00:00 | [26년 05월 28일 목]  PC E가격지수, GDP ｜ 미 국방부, 미 드론 기업 자금 지원 검토 ｜ 미
    - Bmf5uZ7-P6o | ongoing=False | publishedAt=2026-05-27T22:30:24Z | actualEndTime=None | effective=2026-05-27 22:30:24+00:00 | 【미국 증시 오늘의 요약】   이란 협상 엇갈린 신호에도 증시는 버텼다… 반도체는 숨고르기  -  2026/
    - WIFvw_A2IhI | ongoing=False | publishedAt=2026-05-27T22:03:27Z | actualEndTime=2026-05-27T21:44:38Z | effective=2026-05-27 21:44:38+00:00 | [26년 05월 27일 수]  이란, '미국과 종전 협상 지속' ｜스페이스X·테슬라 합병설..? ｜ 트럼프 
-   - BXvNMRFxnvI | ongoing=False | publishedAt=2026-05-26T22:15:37Z | actualEndTime=None | effective=2026-05-26 22:15:37+00:00 | 【미국 증시 오늘의 요약】   마이크론 19% 폭등! 이란 리스크 뚫고 미국 증시 사상 최고   -  202
-   - g53zHXD97VM | ongoing=False | publishedAt=2026-05-26T21:44:58Z | actualEndTime=2026-05-26T21:24:04Z | effective=2026-05-26 21:24:04+00:00 | [26년 05월 26일 화]  이란 전쟁 종식 기대감 '고조' ｜ 스페이스X, 스타십 V3 발사 성공 ｜ 마
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 자사주 매입 시대 끝? 빅테크 IPO가 변수다
-  URL: https://www.youtube.com/watch?v=g3W84_FZMjk
-  publishedAt: 2026-05-28T01:00:25Z
+  제목: 마이크론 대폭등이 우리에게 시사하는 것
+  URL: https://www.youtube.com/watch?v=Ul8jvL5ekV8
+  publishedAt: 2026-05-29T01:00:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Ul8jvL5ekV8 | ongoing=False | publishedAt=2026-05-29T01:00:30Z | actualEndTime=None | effective=2026-05-29 01:00:30+00:00 | 마이크론 대폭등이 우리에게 시사하는 것
+   - JI1fq2CDCl8 | ongoing=False | publishedAt=2026-05-29T00:10:16Z | actualEndTime=2026-05-29T00:02:05Z | effective=2026-05-29 00:02:05+00:00 | 완성된 협상문! 시간 끌겠다는 트럼프?ㅣDELL, 실적발표 후 +40%!!!ㅣK자 성장, 근데 물가는 예상치
    - g3W84_FZMjk | ongoing=False | publishedAt=2026-05-28T01:00:25Z | actualEndTime=None | effective=2026-05-28 01:00:25+00:00 | 자사주 매입 시대 끝? 빅테크 IPO가 변수다
    - kQShYqhYl80 | ongoing=False | publishedAt=2026-05-28T00:02:12Z | actualEndTime=2026-05-27T23:58:15Z | effective=2026-05-27 23:58:15+00:00 | 스노우플레이크, +35% 머선일이고?ㅣ메타, 신규 AI 구독 서비스 출시ㅣ엔비디아, 도대체 왜 빠지는거야!!
    - u7XN59WTBoc | ongoing=False | publishedAt=2026-05-27T09:31:23Z | actualEndTime=None | effective=2026-05-27 09:31:23+00:00 | '새 돈'이 자산 가격을 폭등시키는 절대 원리
-   - AhLtjRi5xpo | ongoing=False | publishedAt=2026-05-27T03:00:29Z | actualEndTime=None | effective=2026-05-27 03:00:29+00:00 | 케빈 워시와 트럼프는 '고금리 + 고성장'을 설계하고 있습니다
-   - _4raxf7enKQ | ongoing=False | publishedAt=2026-05-27T00:06:47Z | actualEndTime=2026-05-27T00:02:10Z | effective=2026-05-27 00:02:10+00:00 | 마이크론 +19%!! 삼성전자 레버리지 축포인가!?ㅣ메모리가 너무 비싸서 AI를 못쓴다...? 이게 머선말이
-   - PPhRF-1qdkg | ongoing=False | publishedAt=2026-05-26T08:32:59Z | actualEndTime=None | effective=2026-05-26 08:32:59+00:00 | Space X IPO를 조심해야 하는 이유
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 증시의 3가지 악재 (5월 28일)
-  URL: https://www.youtube.com/watch?v=xM_fT85U3to
-  publishedAt: 2026-05-28T03:29:06Z
+  제목: 삼성전자가 하이닉스보다 더 오른 진짜 이유 (5월 29일)
+  URL: https://www.youtube.com/watch?v=trlpcObA_DI
+  publishedAt: 2026-05-29T01:56:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - trlpcObA_DI | ongoing=False | publishedAt=2026-05-29T01:56:23Z | actualEndTime=None | effective=2026-05-29 01:56:23+00:00 | 삼성전자가 하이닉스보다 더 오른 진짜 이유 (5월 29일)
+   - m0VV2X5axLc | ongoing=False | publishedAt=2026-05-28T17:32:09Z | actualEndTime=None | effective=2026-05-28 17:32:09+00:00 | 내일 코스피 제발 올라야 하는 이유 3가지
    - xM_fT85U3to | ongoing=False | publishedAt=2026-05-28T03:29:06Z | actualEndTime=None | effective=2026-05-28 03:29:06+00:00 | 증시의 3가지 악재 (5월 28일)
    - n9VfZw8iaRA | ongoing=False | publishedAt=2026-05-27T13:18:31Z | actualEndTime=None | effective=2026-05-27 13:18:31+00:00 | 생각나는 친구한테 공유하기 #하이닉스 #삼성전자 #코스피
    - 9HSzIbcEo7o | ongoing=False | publishedAt=2026-05-27T07:00:10Z | actualEndTime=None | effective=2026-05-27 07:00:10+00:00 | 6월 3일 코스피 대폭락한다고? 증시 괴담에 대한 저의 생각
-   - 97ufTe6Lveo | ongoing=False | publishedAt=2026-05-27T01:56:58Z | actualEndTime=None | effective=2026-05-27 01:56:58+00:00 | #삼성전자 #하이닉스 오늘도 떡상하는 이유 (5월 27일)
-   - jLF18M4eFRg | ongoing=False | publishedAt=2026-05-26T07:35:28Z | actualEndTime=None | effective=2026-05-26 07:35:28+00:00 | 주식 스터디 가는 길에 코스피 8000 기념으로 찍어봤습니다.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - zt3SDjLcJQA | ongoing=False | publishedAt=2026-05-27T10:30:23Z | actualEndTime=None | effective=2026-05-27 10:30:23+00:00 | 트럼프의 밀어주기는 계속된다, 다음 후보가 될 주식들
-   - JLTyoWL5t6k | ongoing=False | publishedAt=2026-05-26T11:07:44Z | actualEndTime=None | effective=2026-05-26 11:07:44+00:00 | 엔비디아의 깜짝 발표, 메모리 반도체 구조적 성장의 신호일까
