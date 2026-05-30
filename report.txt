@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-29 14:06 (KST)
-Run: 163 (id=26619181030)
+생성 시각: 2026-05-30 13:44 (KST)
+Run: 164 (id=26674807436)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,66 +8,66 @@ Run: 163 (id=26619181030)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Global Stocks Rally on Hopes of US-Iran Deal | The Asia Trade 5/29/2026
-  URL: https://www.youtube.com/watch?v=veED0qZD21M
-  publishedAt: 2026-05-29T03:24:16Z
+  제목: Boston Seizes on California Billionaire Tax to Lure AI Talent
+  URL: https://www.youtube.com/watch?v=XomN1COt27k
+  publishedAt: 2026-05-30T04:00:16Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - veED0qZD21M | ongoing=False | publishedAt=2026-05-29T03:24:16Z | actualEndTime=None | effective=2026-05-29 03:24:16+00:00 | Global Stocks Rally on Hopes of US-Iran Deal | The Asia Trad
-   - BxcUG5pcyCE | ongoing=False | publishedAt=2026-05-29T02:35:14Z | actualEndTime=None | effective=2026-05-29 02:35:14+00:00 | Philippines' Marcos on Building a Legacy of His Own
-   - uqteAQfWIjY | ongoing=False | publishedAt=2026-05-28T23:24:21Z | actualEndTime=None | effective=2026-05-28 23:24:21+00:00 | US, Iran Agree to 60-Day Truce Pending Trump Approval | Bala
-   - UG_enX9Fi4Q | ongoing=False | publishedAt=2026-05-28T22:35:45Z | actualEndTime=None | effective=2026-05-28 22:35:45+00:00 | Dell soars on raised outlook for $60 billion in AI server sa
-   - OxMYC4weSiU | ongoing=False | publishedAt=2026-05-28T22:23:25Z | actualEndTime=None | effective=2026-05-28 22:23:25+00:00 | Stocks & Bonds Rise After US-Iran Deal Reports | The Close 5
-   - OPu1hkG4ZeY | ongoing=False | publishedAt=2026-05-28T22:07:38Z | actualEndTime=None | effective=2026-05-28 22:07:38+00:00 | Dell CFO Kennedy Sees AI Server Demand Driving Sales Growth
-   - 6xgnmtupuZk | ongoing=False | publishedAt=2026-05-28T21:13:54Z | actualEndTime=None | effective=2026-05-28 21:13:54+00:00 | Bessent Briefs Press, Outlines Trump’s Conditions for Iran |
-   - OQRKZhz-17M | ongoing=False | publishedAt=2026-05-28T20:41:58Z | actualEndTime=None | effective=2026-05-28 20:41:58+00:00 | Dell’s Earning Report Higher Than Expected | Closing Bell
-   - 9aRt9P7gWg0 | ongoing=False | publishedAt=2026-05-28T20:19:34Z | actualEndTime=None | effective=2026-05-28 20:19:34+00:00 | US, Iran Truce Awaits Trump Signoff | Balance of Power: Earl
-   - r_t0oWPvnOU | ongoing=False | publishedAt=2026-05-28T20:10:07Z | actualEndTime=None | effective=2026-05-28 20:10:07+00:00 | BNY CEO Says Artificial Intelligence Is a 'Super Power'
+   - XomN1COt27k | ongoing=False | publishedAt=2026-05-30T04:00:16Z | actualEndTime=None | effective=2026-05-30 04:00:16+00:00 | Boston Seizes on California Billionaire Tax to Lure AI Talen
+   - WWeC1wM5bqo | ongoing=False | publishedAt=2026-05-30T00:16:46Z | actualEndTime=None | effective=2026-05-30 00:16:46+00:00 | Why is Trump's Reflecting Pool Renovation Costing $13M?
+   - wLU4nXMlP3c | ongoing=False | publishedAt=2026-05-29T23:40:14Z | actualEndTime=None | effective=2026-05-29 23:40:14+00:00 | Trump Holds Situation Room Meeting on Iran | Balance of Powe
+   - XzRgscwPH38 | ongoing=False | publishedAt=2026-05-29T23:06:01Z | actualEndTime=None | effective=2026-05-29 23:06:01+00:00 | Wall Street Week | Britain’s Debt Problem, Poland’s Economic
+   - ST41ojG1-7M | ongoing=False | publishedAt=2026-05-29T22:38:02Z | actualEndTime=None | effective=2026-05-29 22:38:02+00:00 | What to Make of Blue Origin's Rocket Exploding Onto Launchpa
+   - IgbmIymOwCM | ongoing=False | publishedAt=2026-05-29T22:18:50Z | actualEndTime=None | effective=2026-05-29 22:18:50+00:00 | Louisiana redistricting “devastating” for Black voters, says
+   - 7An6VCfUW9k | ongoing=False | publishedAt=2026-05-29T22:16:35Z | actualEndTime=None | effective=2026-05-29 22:16:35+00:00 | Zandi Says US Is ‘Uncomfortably Close’ to Recession
+   - A73Xq25LcNo | ongoing=False | publishedAt=2026-05-29T22:10:08Z | actualEndTime=None | effective=2026-05-29 22:10:08+00:00 | US Stocks Extend Highs as Traders Await US-Iran Deal | The C
+   - YzbEjP_lP-8 | ongoing=False | publishedAt=2026-05-29T22:00:23Z | actualEndTime=None | effective=2026-05-29 22:00:23+00:00 | Cubans Protest Raúl Castro Indictment at US Embassy in Havan
+   - 3mMV2ne2pw4 | ongoing=False | publishedAt=2026-05-29T22:01:24Z | actualEndTime=None | effective=2026-05-29 22:01:24+00:00 | How is the Redistricting Wave Impacting Black Voters?
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: PBD On Being An Atheist
+  URL: https://www.youtube.com/watch?v=k_d7Pn_Vyuw
+  publishedAt: 2026-05-29T19:00:18Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - k_d7Pn_Vyuw | ongoing=False | publishedAt=2026-05-29T19:00:18Z | actualEndTime=None | effective=2026-05-29 19:00:18+00:00 | PBD On Being An Atheist
+   - lWgs1WTyx-k | ongoing=False | publishedAt=2026-05-29T16:00:15Z | actualEndTime=None | effective=2026-05-29 16:00:15+00:00 | Why It's Impossible To Own Real Estate
+   - XWS2kl7X8hU | ongoing=False | publishedAt=2026-05-29T13:00:28Z | actualEndTime=None | effective=2026-05-29 13:00:28+00:00 | No One Is Talking About This
+   - Idf-aOsNk44 | ongoing=False | publishedAt=2026-05-29T10:00:04Z | actualEndTime=None | effective=2026-05-29 10:00:04+00:00 | Why The Average Person Is Poor
+   - mjaalssqoSo | ongoing=False | publishedAt=2026-05-29T06:45:13Z | actualEndTime=None | effective=2026-05-29 06:45:13+00:00 | The Problem With Having Kids
+   - Y6Lff0K2ulU | ongoing=False | publishedAt=2026-05-29T04:00:38Z | actualEndTime=None | effective=2026-05-29 04:00:38+00:00 | PBD On Forcing His Kids To Read
+   - Bdn707opb9M | ongoing=False | publishedAt=2026-05-29T02:18:14Z | actualEndTime=None | effective=2026-05-29 02:18:14+00:00 | f**k, SpaceX Stock Price JUST STARTED CRASHING
+   - KCkOeMdMeOY | ongoing=False | publishedAt=2026-05-29T01:00:33Z | actualEndTime=None | effective=2026-05-29 01:00:33+00:00 | You Need $10M to Retire With A Family
+   - nuTxWBuGLjc | ongoing=False | publishedAt=2026-05-28T22:00:30Z | actualEndTime=None | effective=2026-05-28 22:00:30+00:00 | How To Pay LESS Taxes On Your W-2 Job!
+   - dT9KVpHtM3k | ongoing=False | publishedAt=2026-05-28T20:05:11Z | actualEndTime=None | effective=2026-05-28 20:05:11+00:00 | IT'S STARTING
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   트럼프 승인만 남았다? 미·이란 MOU 보도에 증시 랠리  -  2026/05/28
-  URL: https://www.youtube.com/watch?v=nXWwn1zsEDY
-  publishedAt: 2026-05-28T22:30:09Z
+  제목: 【미국 증시 오늘의 요약】   휴전 연장 엇갈린 보도에도 버틴 증시… 델 33% 폭등·소프트웨어주 일제히 반등  -  2026/05/29
+  URL: https://www.youtube.com/watch?v=J6SCcP3OXes
+  publishedAt: 2026-05-29T22:00:15Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - J6SCcP3OXes | ongoing=False | publishedAt=2026-05-29T22:00:15Z | actualEndTime=None | effective=2026-05-29 22:00:15+00:00 | 【미국 증시 오늘의 요약】   휴전 연장 엇갈린 보도에도 버틴 증시… 델 33% 폭등·소프트웨어주 일제히 반
+   - IfCZn-8Qa_U | ongoing=False | publishedAt=2026-05-29T21:34:38Z | actualEndTime=2026-05-29T21:11:40Z | effective=2026-05-29 21:11:40+00:00 | [26년 05월 29일 금]  델, 어닝 서프라이즈 ｜ 아폴로·블랙스톤, 구글 TPU 구매 예정 ｜ 미국·이
    - nXWwn1zsEDY | ongoing=False | publishedAt=2026-05-28T22:30:09Z | actualEndTime=None | effective=2026-05-28 22:30:09+00:00 | 【미국 증시 오늘의 요약】   트럼프 승인만 남았다? 미·이란 MOU 보도에 증시 랠리  -  2026/05
    - zXOb1Z7IegM | ongoing=False | publishedAt=2026-05-28T22:00:58Z | actualEndTime=2026-05-28T21:36:43Z | effective=2026-05-28 21:36:43+00:00 | [26년 05월 28일 목]  PC E가격지수, GDP ｜ 미 국방부, 미 드론 기업 자금 지원 검토 ｜ 미
-   - Bmf5uZ7-P6o | ongoing=False | publishedAt=2026-05-27T22:30:24Z | actualEndTime=None | effective=2026-05-27 22:30:24+00:00 | 【미국 증시 오늘의 요약】   이란 협상 엇갈린 신호에도 증시는 버텼다… 반도체는 숨고르기  -  2026/
-   - WIFvw_A2IhI | ongoing=False | publishedAt=2026-05-27T22:03:27Z | actualEndTime=2026-05-27T21:44:38Z | effective=2026-05-27 21:44:38+00:00 | [26년 05월 27일 수]  이란, '미국과 종전 협상 지속' ｜스페이스X·테슬라 합병설..? ｜ 트럼프 
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 마이크론 대폭등이 우리에게 시사하는 것
-  URL: https://www.youtube.com/watch?v=Ul8jvL5ekV8
-  publishedAt: 2026-05-29T01:00:30Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - Ul8jvL5ekV8 | ongoing=False | publishedAt=2026-05-29T01:00:30Z | actualEndTime=None | effective=2026-05-29 01:00:30+00:00 | 마이크론 대폭등이 우리에게 시사하는 것
-   - JI1fq2CDCl8 | ongoing=False | publishedAt=2026-05-29T00:10:16Z | actualEndTime=2026-05-29T00:02:05Z | effective=2026-05-29 00:02:05+00:00 | 완성된 협상문! 시간 끌겠다는 트럼프?ㅣDELL, 실적발표 후 +40%!!!ㅣK자 성장, 근데 물가는 예상치
-   - g3W84_FZMjk | ongoing=False | publishedAt=2026-05-28T01:00:25Z | actualEndTime=None | effective=2026-05-28 01:00:25+00:00 | 자사주 매입 시대 끝? 빅테크 IPO가 변수다
-   - kQShYqhYl80 | ongoing=False | publishedAt=2026-05-28T00:02:12Z | actualEndTime=2026-05-27T23:58:15Z | effective=2026-05-27 23:58:15+00:00 | 스노우플레이크, +35% 머선일이고?ㅣ메타, 신규 AI 구독 서비스 출시ㅣ엔비디아, 도대체 왜 빠지는거야!!
-   - u7XN59WTBoc | ongoing=False | publishedAt=2026-05-27T09:31:23Z | actualEndTime=None | effective=2026-05-27 09:31:23+00:00 | '새 돈'이 자산 가격을 폭등시키는 절대 원리
-
-- 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 삼성전자가 하이닉스보다 더 오른 진짜 이유 (5월 29일)
-  URL: https://www.youtube.com/watch?v=trlpcObA_DI
-  publishedAt: 2026-05-29T01:56:23Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - trlpcObA_DI | ongoing=False | publishedAt=2026-05-29T01:56:23Z | actualEndTime=None | effective=2026-05-29 01:56:23+00:00 | 삼성전자가 하이닉스보다 더 오른 진짜 이유 (5월 29일)
-   - m0VV2X5axLc | ongoing=False | publishedAt=2026-05-28T17:32:09Z | actualEndTime=None | effective=2026-05-28 17:32:09+00:00 | 내일 코스피 제발 올라야 하는 이유 3가지
-   - xM_fT85U3to | ongoing=False | publishedAt=2026-05-28T03:29:06Z | actualEndTime=None | effective=2026-05-28 03:29:06+00:00 | 증시의 3가지 악재 (5월 28일)
-   - n9VfZw8iaRA | ongoing=False | publishedAt=2026-05-27T13:18:31Z | actualEndTime=None | effective=2026-05-27 13:18:31+00:00 | 생각나는 친구한테 공유하기 #하이닉스 #삼성전자 #코스피
-   - 9HSzIbcEo7o | ongoing=False | publishedAt=2026-05-27T07:00:10Z | actualEndTime=None | effective=2026-05-27 07:00:10+00:00 | 6월 3일 코스피 대폭락한다고? 증시 괴담에 대한 저의 생각
-
-- 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - zt3SDjLcJQA | ongoing=False | publishedAt=2026-05-27T10:30:23Z | actualEndTime=None | effective=2026-05-27 10:30:23+00:00 | 트럼프의 밀어주기는 계속된다, 다음 후보가 될 주식들
+   - Ul8jvL5ekV8 | ongoing=False | publishedAt=2026-05-29T01:00:30Z | actualEndTime=None | effective=2026-05-29 01:00:30+00:00 | 마이크론 대폭등이 우리에게 시사하는 것
+   - JI1fq2CDCl8 | ongoing=False | publishedAt=2026-05-29T00:10:16Z | actualEndTime=2026-05-29T00:02:05Z | effective=2026-05-29 00:02:05+00:00 | 완성된 협상문! 시간 끌겠다는 트럼프?ㅣDELL, 실적발표 후 +40%!!!ㅣK자 성장, 근데 물가는 예상치
+
+- 내일은 투자왕 - 김단테
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - trlpcObA_DI | ongoing=False | publishedAt=2026-05-29T01:56:23Z | actualEndTime=None | effective=2026-05-29 01:56:23+00:00 | 삼성전자가 하이닉스보다 더 오른 진짜 이유 (5월 29일)
+   - m0VV2X5axLc | ongoing=False | publishedAt=2026-05-28T17:32:09Z | actualEndTime=None | effective=2026-05-28 17:32:09+00:00 | 내일 코스피 제발 올라야 하는 이유 3가지
+
+- 소수몽키
+  상태: NO_VIDEO
+  비고: 최근 48시간 검색 결과 없음
