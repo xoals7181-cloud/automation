@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-05-30 13:44 (KST)
-Run: 164 (id=26674807436)
+생성 시각: 2026-05-31 14:12 (KST)
+Run: 165 (id=26703996866)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,51 @@ Run: 164 (id=26674807436)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Boston Seizes on California Billionaire Tax to Lure AI Talent
-  URL: https://www.youtube.com/watch?v=XomN1COt27k
-  publishedAt: 2026-05-30T04:00:16Z
+  제목: How Nigerian Startup Moniepoint Became an Fintech Unicorn
+  URL: https://www.youtube.com/watch?v=V2pl6gKnxbc
+  publishedAt: 2026-05-31T05:00:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - XomN1COt27k | ongoing=False | publishedAt=2026-05-30T04:00:16Z | actualEndTime=None | effective=2026-05-30 04:00:16+00:00 | Boston Seizes on California Billionaire Tax to Lure AI Talen
-   - WWeC1wM5bqo | ongoing=False | publishedAt=2026-05-30T00:16:46Z | actualEndTime=None | effective=2026-05-30 00:16:46+00:00 | Why is Trump's Reflecting Pool Renovation Costing $13M?
-   - wLU4nXMlP3c | ongoing=False | publishedAt=2026-05-29T23:40:14Z | actualEndTime=None | effective=2026-05-29 23:40:14+00:00 | Trump Holds Situation Room Meeting on Iran | Balance of Powe
-   - XzRgscwPH38 | ongoing=False | publishedAt=2026-05-29T23:06:01Z | actualEndTime=None | effective=2026-05-29 23:06:01+00:00 | Wall Street Week | Britain’s Debt Problem, Poland’s Economic
-   - ST41ojG1-7M | ongoing=False | publishedAt=2026-05-29T22:38:02Z | actualEndTime=None | effective=2026-05-29 22:38:02+00:00 | What to Make of Blue Origin's Rocket Exploding Onto Launchpa
-   - IgbmIymOwCM | ongoing=False | publishedAt=2026-05-29T22:18:50Z | actualEndTime=None | effective=2026-05-29 22:18:50+00:00 | Louisiana redistricting “devastating” for Black voters, says
-   - 7An6VCfUW9k | ongoing=False | publishedAt=2026-05-29T22:16:35Z | actualEndTime=None | effective=2026-05-29 22:16:35+00:00 | Zandi Says US Is ‘Uncomfortably Close’ to Recession
-   - A73Xq25LcNo | ongoing=False | publishedAt=2026-05-29T22:10:08Z | actualEndTime=None | effective=2026-05-29 22:10:08+00:00 | US Stocks Extend Highs as Traders Await US-Iran Deal | The C
-   - YzbEjP_lP-8 | ongoing=False | publishedAt=2026-05-29T22:00:23Z | actualEndTime=None | effective=2026-05-29 22:00:23+00:00 | Cubans Protest Raúl Castro Indictment at US Embassy in Havan
-   - 3mMV2ne2pw4 | ongoing=False | publishedAt=2026-05-29T22:01:24Z | actualEndTime=None | effective=2026-05-29 22:01:24+00:00 | How is the Redistricting Wave Impacting Black Voters?
+   - V2pl6gKnxbc | ongoing=False | publishedAt=2026-05-31T05:00:03Z | actualEndTime=None | effective=2026-05-31 05:00:03+00:00 | How Nigerian Startup Moniepoint Became an Fintech Unicorn
+   - HPu-UWGZCiM | ongoing=False | publishedAt=2026-05-31T02:22:08Z | actualEndTime=2026-05-30T14:00:07Z | effective=2026-05-30 14:00:07+00:00 | Live at Shangri-La Dialogue; Iran Strike Injures Americans |
+   - LSVlA548bwY | ongoing=False | publishedAt=2026-05-30T16:48:44Z | actualEndTime=None | effective=2026-05-30 16:48:44+00:00 | Bloomberg This Weekend | Hegseth Reaffirms Commitment to Pac
+   - q7SMBPN5ZLs | ongoing=False | publishedAt=2026-05-30T14:51:22Z | actualEndTime=None | effective=2026-05-30 14:51:22+00:00 | Cisco Rides AI Boom as Stock Surges Higher
+   - XJ8FnWk6qr0 | ongoing=False | publishedAt=2026-05-30T14:14:41Z | actualEndTime=None | effective=2026-05-30 14:14:41+00:00 | At Scrabble’s Biggest Tournament, Thailand Punches Above Its
+   - bA2rUkm7J9k | ongoing=False | publishedAt=2026-05-30T14:00:04Z | actualEndTime=None | effective=2026-05-30 14:00:04+00:00 | The AI Boom Is Coming to Your Backyard
+   - q3Mz5cDYubM | ongoing=False | publishedAt=2026-05-30T13:58:05Z | actualEndTime=None | effective=2026-05-30 13:58:05+00:00 | Texas Republican Primary Upends Senate Race
+   - 6L4McJR8tJk | ongoing=False | publishedAt=2026-05-30T13:50:24Z | actualEndTime=None | effective=2026-05-30 13:50:24+00:00 | The Ebola Outbreak Raises Global Health Concerns
+   - mHvSUHUQQw4 | ongoing=False | publishedAt=2026-05-30T13:40:15Z | actualEndTime=None | effective=2026-05-30 13:40:15+00:00 | Secretary Hegseth Reaffirms US Commitment to Pacific Allies
+   - xqO3wKYCLhY | ongoing=False | publishedAt=2026-05-30T13:25:38Z | actualEndTime=None | effective=2026-05-30 13:25:38+00:00 | Trump's Deregulation Plan Falls Flat Analysis Finds
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: PBD On Being An Atheist
-  URL: https://www.youtube.com/watch?v=k_d7Pn_Vyuw
-  publishedAt: 2026-05-29T19:00:18Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - TCAn2ujyd8Q | ongoing=False | publishedAt=2026-05-30T14:09:35Z | actualEndTime=None | effective=2026-05-30 14:09:35+00:00 | IRAN STRIKES UNITED STATES!!!
    - k_d7Pn_Vyuw | ongoing=False | publishedAt=2026-05-29T19:00:18Z | actualEndTime=None | effective=2026-05-29 19:00:18+00:00 | PBD On Being An Atheist
    - lWgs1WTyx-k | ongoing=False | publishedAt=2026-05-29T16:00:15Z | actualEndTime=None | effective=2026-05-29 16:00:15+00:00 | Why It's Impossible To Own Real Estate
    - XWS2kl7X8hU | ongoing=False | publishedAt=2026-05-29T13:00:28Z | actualEndTime=None | effective=2026-05-29 13:00:28+00:00 | No One Is Talking About This
    - Idf-aOsNk44 | ongoing=False | publishedAt=2026-05-29T10:00:04Z | actualEndTime=None | effective=2026-05-29 10:00:04+00:00 | Why The Average Person Is Poor
    - mjaalssqoSo | ongoing=False | publishedAt=2026-05-29T06:45:13Z | actualEndTime=None | effective=2026-05-29 06:45:13+00:00 | The Problem With Having Kids
-   - Y6Lff0K2ulU | ongoing=False | publishedAt=2026-05-29T04:00:38Z | actualEndTime=None | effective=2026-05-29 04:00:38+00:00 | PBD On Forcing His Kids To Read
-   - Bdn707opb9M | ongoing=False | publishedAt=2026-05-29T02:18:14Z | actualEndTime=None | effective=2026-05-29 02:18:14+00:00 | f**k, SpaceX Stock Price JUST STARTED CRASHING
-   - KCkOeMdMeOY | ongoing=False | publishedAt=2026-05-29T01:00:33Z | actualEndTime=None | effective=2026-05-29 01:00:33+00:00 | You Need $10M to Retire With A Family
-   - nuTxWBuGLjc | ongoing=False | publishedAt=2026-05-28T22:00:30Z | actualEndTime=None | effective=2026-05-28 22:00:30+00:00 | How To Pay LESS Taxes On Your W-2 Job!
-   - dT9KVpHtM3k | ongoing=False | publishedAt=2026-05-28T20:05:11Z | actualEndTime=None | effective=2026-05-28 20:05:11+00:00 | IT'S STARTING
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   휴전 연장 엇갈린 보도에도 버틴 증시… 델 33% 폭등·소프트웨어주 일제히 반등  -  2026/05/29
-  URL: https://www.youtube.com/watch?v=J6SCcP3OXes
-  publishedAt: 2026-05-29T22:00:15Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - J6SCcP3OXes | ongoing=False | publishedAt=2026-05-29T22:00:15Z | actualEndTime=None | effective=2026-05-29 22:00:15+00:00 | 【미국 증시 오늘의 요약】   휴전 연장 엇갈린 보도에도 버틴 증시… 델 33% 폭등·소프트웨어주 일제히 반
    - IfCZn-8Qa_U | ongoing=False | publishedAt=2026-05-29T21:34:38Z | actualEndTime=2026-05-29T21:11:40Z | effective=2026-05-29 21:11:40+00:00 | [26년 05월 29일 금]  델, 어닝 서프라이즈 ｜ 아폴로·블랙스톤, 구글 TPU 구매 예정 ｜ 미국·이
-   - nXWwn1zsEDY | ongoing=False | publishedAt=2026-05-28T22:30:09Z | actualEndTime=None | effective=2026-05-28 22:30:09+00:00 | 【미국 증시 오늘의 요약】   트럼프 승인만 남았다? 미·이란 MOU 보도에 증시 랠리  -  2026/05
-   - zXOb1Z7IegM | ongoing=False | publishedAt=2026-05-28T22:00:58Z | actualEndTime=2026-05-28T21:36:43Z | effective=2026-05-28 21:36:43+00:00 | [26년 05월 28일 목]  PC E가격지수, GDP ｜ 미 국방부, 미 드론 기업 자금 지원 검토 ｜ 미
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - Ul8jvL5ekV8 | ongoing=False | publishedAt=2026-05-29T01:00:30Z | actualEndTime=None | effective=2026-05-29 01:00:30+00:00 | 마이크론 대폭등이 우리에게 시사하는 것
-   - JI1fq2CDCl8 | ongoing=False | publishedAt=2026-05-29T00:10:16Z | actualEndTime=2026-05-29T00:02:05Z | effective=2026-05-29 00:02:05+00:00 | 완성된 협상문! 시간 끌겠다는 트럼프?ㅣDELL, 실적발표 후 +40%!!!ㅣK자 성장, 근데 물가는 예상치
+   - liYvgZmevWA | ongoing=False | publishedAt=2026-05-30T09:05:59Z | actualEndTime=None | effective=2026-05-30 09:05:59+00:00 | 연준과 ECB에서 나오는 금리 인상의 조짐들
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - trlpcObA_DI | ongoing=False | publishedAt=2026-05-29T01:56:23Z | actualEndTime=None | effective=2026-05-29 01:56:23+00:00 | 삼성전자가 하이닉스보다 더 오른 진짜 이유 (5월 29일)
-   - m0VV2X5axLc | ongoing=False | publishedAt=2026-05-28T17:32:09Z | actualEndTime=None | effective=2026-05-28 17:32:09+00:00 | 내일 코스피 제발 올라야 하는 이유 3가지
+   - IAINjGpGMM0 | ongoing=False | publishedAt=2026-05-30T14:54:10Z | actualEndTime=None | effective=2026-05-30 14:54:10+00:00 | 이 신호가 보이면 주식을 팔아야 합니다.
 
 - 소수몽키
   상태: NO_VIDEO
