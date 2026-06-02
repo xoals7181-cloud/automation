@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-01 14:53 (KST)
-Run: 166 (id=26737751737)
+생성 시각: 2026-06-02 14:23 (KST)
+Run: 167 (id=26800212884)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,54 +8,69 @@ Run: 166 (id=26737751737)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Risk Rally Powers Past Iran Stalemate | The Asia Trade 6/1/2026
-  URL: https://www.youtube.com/watch?v=WMcTJDd-A4E
-  publishedAt: 2026-06-01T04:57:57Z
+  제목: Asian Markets Weigh Iran Risk, AI Rally | The Asia Trade 6/2/2026
+  URL: https://www.youtube.com/watch?v=-m69kx1R-K4
+  publishedAt: 2026-06-02T05:08:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - WMcTJDd-A4E | ongoing=False | publishedAt=2026-06-01T04:57:57Z | actualEndTime=None | effective=2026-06-01 04:57:57+00:00 | Risk Rally Powers Past Iran Stalemate | The Asia Trade 6/1/2
-   - 3Hf3sG8T_ME | ongoing=False | publishedAt=2026-06-01T00:33:16Z | actualEndTime=None | effective=2026-06-01 00:33:16+00:00 | How Poland built a trillion-dollar economy #shorts #poland #
-   - i6qYvTIH66I | ongoing=False | publishedAt=2026-06-01T00:31:19Z | actualEndTime=None | effective=2026-06-01 00:31:19+00:00 | Pete Hegseth Takes Swipe at European Defense Partners #taiwa
-   - 7KBayAxvgX0 | ongoing=False | publishedAt=2026-06-01T00:30:24Z | actualEndTime=None | effective=2026-06-01 00:30:24+00:00 | Samsung’s AI Bonuses Divide Workers
-   - c2mEmO710dE | ongoing=False | publishedAt=2026-05-31T17:15:30Z | actualEndTime=None | effective=2026-05-31 17:15:30+00:00 | Bloomberg This Weekend | Trump’s Edits to Iran Proposal, Rep
-   - KE3Chod8L7c | ongoing=False | publishedAt=2026-05-31T16:37:05Z | actualEndTime=None | effective=2026-05-31 16:37:05+00:00 | Trump Requests Edits to Iran Deal
-   - eMyh46e4puY | ongoing=False | publishedAt=2026-05-31T16:32:32Z | actualEndTime=None | effective=2026-05-31 16:32:32+00:00 | Gen Z Swaps Bars for Barbells
-   - FmbZoXi8NXQ | ongoing=False | publishedAt=2026-05-31T16:26:33Z | actualEndTime=None | effective=2026-05-31 16:26:33+00:00 | Bolton on Iran: We'll Be Right Back Where We Started
-   - HBymYknetqM | ongoing=False | publishedAt=2026-05-31T16:19:01Z | actualEndTime=None | effective=2026-05-31 16:19:01+00:00 | Knicks Tickets Reach Record Prices Ahead of Finals
-   - MNQDrF0HjtI | ongoing=False | publishedAt=2026-05-31T16:09:53Z | actualEndTime=None | effective=2026-05-31 16:09:53+00:00 | Major Companies Reconsider AI Costs
+   - -m69kx1R-K4 | ongoing=False | publishedAt=2026-06-02T05:08:11Z | actualEndTime=None | effective=2026-06-02 05:08:11+00:00 | Asian Markets Weigh Iran Risk, AI Rally | The Asia Trade 6/2
+   - KvLc31gCeog | ongoing=False | publishedAt=2026-06-02T05:00:10Z | actualEndTime=None | effective=2026-06-02 05:00:10+00:00 | Steph Curry Signs Deal With Chinese Sportswear Giant
+   - P4-5-v_AZ3U | ongoing=False | publishedAt=2026-06-01T23:53:35Z | actualEndTime=None | effective=2026-06-01 23:53:35+00:00 | Trump to Drop Plans for $1.8B Anti-Weaponization Fund | Bala
+   - 7RVoNQfz954 | ongoing=False | publishedAt=2026-06-01T23:01:26Z | actualEndTime=None | effective=2026-06-01 23:01:26+00:00 | Moyo: “Might be in early innings of a new world order”#short
+   - hQXY7fRoBzE | ongoing=False | publishedAt=2026-06-01T22:14:44Z | actualEndTime=None | effective=2026-06-01 22:14:44+00:00 | Stocks up as Trump Cites Rapid Pace in Iran Talks | The Clos
+   - 6rzH6PAKm-4 | ongoing=False | publishedAt=2026-06-01T21:26:51Z | actualEndTime=None | effective=2026-06-01 21:26:51+00:00 | Markets Move as Traders Weigh Trump Posts on Iran, Israel | 
+   - iHtDB6uuiJw | ongoing=False | publishedAt=2026-06-01T21:15:33Z | actualEndTime=None | effective=2026-06-01 21:15:33+00:00 | Alphabet Will Raise $80 Billion to Fund AI Spending
+   - n9-jsnGrJgc | ongoing=False | publishedAt=2026-06-01T21:01:38Z | actualEndTime=None | effective=2026-06-01 21:01:38+00:00 | Wall Street Week | Britain’s Debt Problem, Poland’s Economic
+   - 0v-l8l0K2_c | ongoing=False | publishedAt=2026-06-01T20:52:13Z | actualEndTime=None | effective=2026-06-01 20:52:13+00:00 | ETF IQ 6/1/2026
+   - BC5hdlvXVR0 | ongoing=False | publishedAt=2026-06-01T20:38:42Z | actualEndTime=None | effective=2026-06-01 20:38:42+00:00 | The Copper Demand is Exceeding The Global Supply Says Groves
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Elon Musk Is Merging TSLA & SPCX??
+  URL: https://www.youtube.com/watch?v=HgW88dSWZ2U
+  publishedAt: 2026-06-01T19:00:29Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - TCAn2ujyd8Q | ongoing=False | publishedAt=2026-05-30T14:09:35Z | actualEndTime=None | effective=2026-05-30 14:09:35+00:00 | IRAN STRIKES UNITED STATES!!!
+   - HgW88dSWZ2U | ongoing=False | publishedAt=2026-06-01T19:00:29Z | actualEndTime=None | effective=2026-06-01 19:00:29+00:00 | Elon Musk Is Merging TSLA & SPCX??
+   - nfKoVuramaU | ongoing=False | publishedAt=2026-06-01T15:58:19Z | actualEndTime=None | effective=2026-06-01 15:58:19+00:00 | IT'S HAPPENING
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】   트럼프가 달래고 엔비디아가 끌어올렸다! S&P 500 사상 최고치 경신  -  2026/06/01
+  URL: https://www.youtube.com/watch?v=SR5Glg5bnW4
+  publishedAt: 2026-06-01T22:42:40Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - SR5Glg5bnW4 | ongoing=False | publishedAt=2026-06-01T22:42:40Z | actualEndTime=None | effective=2026-06-01 22:42:40+00:00 | 【미국 증시 오늘의 요약】   트럼프가 달래고 엔비디아가 끌어올렸다! S&P 500 사상 최고치 경신  - 
+   - vTF1km3DGXc | ongoing=False | publishedAt=2026-06-01T22:04:42Z | actualEndTime=2026-06-01T21:44:09Z | effective=2026-06-01 21:44:09+00:00 | [26년 06월 01일 월]  엔비디아, 윈도우 PC 시장 본격 진출 ｜ 델, 저가형 XPS 13 출시 ｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 반도체의 고점은 "이 순간" 에 옵니다
-  URL: https://www.youtube.com/watch?v=nllQjnQNnjc
-  publishedAt: 2026-06-01T01:00:01Z
+  제목: 180일동안 '파티'가 열릴 예정입니다
+  URL: https://www.youtube.com/watch?v=-tsLYS16x28
+  publishedAt: 2026-06-02T03:00:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -tsLYS16x28 | ongoing=False | publishedAt=2026-06-02T03:00:13Z | actualEndTime=None | effective=2026-06-02 03:00:13+00:00 | 180일동안 '파티'가 열릴 예정입니다
+   - pfCbpVgvhbE | ongoing=False | publishedAt=2026-06-02T01:00:36Z | actualEndTime=None | effective=2026-06-02 01:00:36+00:00 | 지금 제일 중요한 차트는 결국 반도체입니다
+   - TMrcfYrdiS0 | ongoing=False | publishedAt=2026-06-02T00:00:06Z | actualEndTime=2026-06-01T23:53:27Z | effective=2026-06-01 23:53:27+00:00 | 슬슬..... VIX인가...??ㅣHPE, DELL에 이어 또 다시 실적급등!!ㅣ[아침뉴스&미국시황] #26
    - nllQjnQNnjc | ongoing=False | publishedAt=2026-06-01T01:00:01Z | actualEndTime=None | effective=2026-06-01 01:00:01+00:00 | 반도체의 고점은 "이 순간" 에 옵니다
    - LESXismsbBU | ongoing=False | publishedAt=2026-05-31T23:57:22Z | actualEndTime=2026-05-31T23:51:20Z | effective=2026-05-31 23:51:20+00:00 | 그래서 언제 팔아요??ㅣ[아침뉴스&미국시황] #260601
-   - 13kEOgn9S40 | ongoing=False | publishedAt=2026-05-31T05:15:11Z | actualEndTime=None | effective=2026-05-31 05:15:11+00:00 | 어디까지가 아니라 언제까지냐 입니다
-   - liYvgZmevWA | ongoing=False | publishedAt=2026-05-30T09:05:59Z | actualEndTime=None | effective=2026-05-30 09:05:59+00:00 | 연준과 ECB에서 나오는 금리 인상의 조짐들
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 삼성전자, LG전자 급등이유? (6월 1일)
-  URL: https://www.youtube.com/watch?v=pvpYXk9Jvlo
-  publishedAt: 2026-06-01T02:42:48Z
+  제목: 코스피와 젠슨황 관련주(LG전자, 두산, 현대차) 폭락 이유
+  URL: https://www.youtube.com/watch?v=TcPOksoKYh8
+  publishedAt: 2026-06-02T04:55:15Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - TcPOksoKYh8 | ongoing=False | publishedAt=2026-06-02T04:55:15Z | actualEndTime=None | effective=2026-06-02 04:55:15+00:00 | 코스피와 젠슨황 관련주(LG전자, 두산, 현대차) 폭락 이유
+   - DIP0sM3ouCM | ongoing=False | publishedAt=2026-06-01T16:25:43Z | actualEndTime=None | effective=2026-06-01 16:25:43+00:00 | 엔비디아, ARM, 마이크론 급등 이유
+   - UyN-xxtoswg | ongoing=False | publishedAt=2026-06-01T09:24:26Z | actualEndTime=None | effective=2026-06-01 09:24:26+00:00 | 엔비디아의 최종목표가 드러났습니다. (GTC Taipei 2026) with @unrealtech
    - pvpYXk9Jvlo | ongoing=False | publishedAt=2026-06-01T02:42:48Z | actualEndTime=None | effective=2026-06-01 02:42:48+00:00 | 삼성전자, LG전자 급등이유? (6월 1일)
-   - IAINjGpGMM0 | ongoing=False | publishedAt=2026-05-30T14:54:10Z | actualEndTime=None | effective=2026-05-30 14:54:10+00:00 | 이 신호가 보이면 주식을 팔아야 합니다.
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - na-xGOjRZjw | ongoing=False | publishedAt=2026-06-01T10:49:01Z | actualEndTime=None | effective=2026-06-01 10:49:01+00:00 | AI에이전트, 피지컬AI 모두 엔비디아가 다 먹는다? 깜짝 발표의 수혜주들
