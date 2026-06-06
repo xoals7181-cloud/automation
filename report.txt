@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-05 14:10 (KST)
-Run: 170 (id=26996694653)
+생성 시각: 2026-06-06 13:46 (KST)
+Run: 171 (id=27052932002)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,69 +8,67 @@ Run: 170 (id=26996694653)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Mega IPO Arms Race Heats Up: Markets Snapshot
-  URL: https://www.youtube.com/watch?v=3_AV38jtt7I
-  publishedAt: 2026-06-05T04:42:27Z
+  제목: Ebola Pioneer on Why It’s Not Like Covid
+  URL: https://www.youtube.com/watch?v=MATczpzE1Pk
+  publishedAt: 2026-06-06T04:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 3_AV38jtt7I | ongoing=False | publishedAt=2026-06-05T04:42:27Z | actualEndTime=None | effective=2026-06-05 04:42:27+00:00 | Mega IPO Arms Race Heats Up: Markets Snapshot
-   - WlNvNdQhI1w | ongoing=False | publishedAt=2026-06-05T00:08:46Z | actualEndTime=None | effective=2026-06-05 00:08:46+00:00 | Senate Votes Down Bids to Kill DOJ 'Anti-Weaponization Fund 
-   - ke-Q_hZlWm8 | ongoing=False | publishedAt=2026-06-04T23:13:04Z | actualEndTime=None | effective=2026-06-04 23:13:04+00:00 | AI Future Takes Center Stage at Bloomberg Tech | Bloomberg B
-   - dasmKuTtClQ | ongoing=False | publishedAt=2026-06-04T22:36:10Z | actualEndTime=None | effective=2026-06-04 22:36:10+00:00 | XBOX CEO on why she “killed” Copilot in gaming #shorts #xbox
-   - aJbysRtZ7rQ | ongoing=False | publishedAt=2026-06-04T22:18:56Z | actualEndTime=None | effective=2026-06-04 22:18:56+00:00 | Broadcom Results Weigh Down Chip Sector | The Close 6/4/2026
-   - oIV3SlQuKOM | ongoing=False | publishedAt=2026-06-04T22:08:19Z | actualEndTime=None | effective=2026-06-04 22:08:19+00:00 | There should be “checks and balances” in AI, says Murati #sh
-   - YfrhgG2SK_I | ongoing=False | publishedAt=2026-06-04T21:06:51Z | actualEndTime=None | effective=2026-06-04 21:06:51+00:00 | Verizon CEO says AI is coming for customer service jobs #sho
-   - 1aZEPGdiwts | ongoing=False | publishedAt=2026-06-04T20:50:32Z | actualEndTime=None | effective=2026-06-04 20:50:32+00:00 | Trump Says Pulte's Intelligence Position Will Be Temporary
-   - G5-lamWWMYg | ongoing=False | publishedAt=2026-06-04T20:45:23Z | actualEndTime=None | effective=2026-06-04 20:45:23+00:00 | Illinois Passes $56 Billion Budget as Bears Deal Stalled
-   - uSV5PcmdZhE | ongoing=False | publishedAt=2026-06-04T20:32:50Z | actualEndTime=None | effective=2026-06-04 20:32:50+00:00 | Fed Weighs Need For Rate Hikes, US May Payrolls Due Out Frid
+   - MATczpzE1Pk | ongoing=False | publishedAt=2026-06-06T04:00:37Z | actualEndTime=None | effective=2026-06-06 04:00:37+00:00 | Ebola Pioneer on Why It’s Not Like Covid
+   - Ev3gH7fnDsQ | ongoing=False | publishedAt=2026-06-06T00:07:25Z | actualEndTime=None | effective=2026-06-06 00:07:25+00:00 | US Adds 172,000 Jobs in May, Topping All Estimates | Balance
+   - TAAoFMUYZLc | ongoing=False | publishedAt=2026-06-05T23:51:40Z | actualEndTime=None | effective=2026-06-05 23:51:40+00:00 | Wall Street Week | AI-era Internet, Spaceport Investment, Bo
+   - PDnFumwHID0 | ongoing=False | publishedAt=2026-06-05T23:44:05Z | actualEndTime=None | effective=2026-06-05 23:44:05+00:00 | Gabriela Santos on How to Start $800K Savings Plan
+   - oJfdXqCNjBA | ongoing=False | publishedAt=2026-06-05T23:45:47Z | actualEndTime=None | effective=2026-06-05 23:45:47+00:00 | Cash Isn't Always King: JPMorgan's Santos
+   - PALnrZzSGzY | ongoing=False | publishedAt=2026-06-05T23:00:01Z | actualEndTime=None | effective=2026-06-05 23:00:01+00:00 | An AI "death spiral" threatens the internet #shorts #ai
+   - jIZCK4g-15I | ongoing=False | publishedAt=2026-06-05T22:40:57Z | actualEndTime=None | effective=2026-06-05 22:40:57+00:00 | Inside Nike’s 2026 World Cup playbook #shorts #nike #fifawor
+   - 1Yi3RDcJt4E | ongoing=False | publishedAt=2026-06-05T22:17:06Z | actualEndTime=None | effective=2026-06-05 22:17:06+00:00 | Tech Stocks Lead Selloff Amid Strong Jobs Report | Bloomberg
+   - iqyWV0ngtus | ongoing=False | publishedAt=2026-06-05T22:09:12Z | actualEndTime=None | effective=2026-06-05 22:09:12+00:00 | Jobs Report Fuels Fed-Rate Hike Bets | The Close 6/5/2026
+   - aG6asziBuOI | ongoing=False | publishedAt=2026-06-05T21:33:32Z | actualEndTime=None | effective=2026-06-05 21:33:32+00:00 | Senate Passes ICE, CBP Funding | Balance of Power 6/5/2025
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: WARNING: OPENAI COLLAPSE | BAD.
-  URL: https://www.youtube.com/watch?v=Vu3UPStfVUM
-  publishedAt: 2026-06-04T22:14:11Z
+  제목: it's over | the collapse is beginning
+  URL: https://www.youtube.com/watch?v=Wpj-_2UKwT4
+  publishedAt: 2026-06-06T03:30:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Wpj-_2UKwT4 | ongoing=False | publishedAt=2026-06-06T03:30:39Z | actualEndTime=None | effective=2026-06-06 03:30:39+00:00 | it's over | the collapse is beginning
+   - CHmLoWzSyog | ongoing=False | publishedAt=2026-06-05T14:08:26Z | actualEndTime=None | effective=2026-06-05 14:08:26+00:00 | Well f**k me
    - Vu3UPStfVUM | ongoing=False | publishedAt=2026-06-04T22:14:11Z | actualEndTime=None | effective=2026-06-04 22:14:11+00:00 | WARNING: OPENAI COLLAPSE | BAD.
    - Y9XNDUMraJ0 | ongoing=False | publishedAt=2026-06-04T15:21:40Z | actualEndTime=None | effective=2026-06-04 15:21:40+00:00 | PREPARE | HOLY SQUEEZE WARNING
-   - N1rHYqmFvJ8 | ongoing=False | publishedAt=2026-06-03T19:24:55Z | actualEndTime=None | effective=2026-06-03 19:24:55+00:00 | GOING NUCLEAR
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 06월 04일 목]  브로드컴, 실적 전망 하회 ｜ TSMC, "반도체 공급 부족 수년간 이어질 것"｜ 스페이스X, 로드쇼 시작 ｜   -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=Hxoq_9zd15U
-  publishedAt: 2026-06-04T22:25:31Z
-  actualEndTime: 2026-06-04T21:43:03Z
+  제목: 【미국 증시 오늘의 요약】   AI·반도체 투매, 나스닥 2025년 이후 최대 급락  -  2026/06/05
+  URL: https://www.youtube.com/watch?v=mkOEvSlumxI
+  publishedAt: 2026-06-05T23:04:24Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - mkOEvSlumxI | ongoing=False | publishedAt=2026-06-05T23:04:24Z | actualEndTime=None | effective=2026-06-05 23:04:24+00:00 | 【미국 증시 오늘의 요약】   AI·반도체 투매, 나스닥 2025년 이후 최대 급락  -  2026/06/0
+   - eMO18wAn1vU | ongoing=False | publishedAt=2026-06-05T22:23:04Z | actualEndTime=2026-06-05T22:01:07Z | effective=2026-06-05 22:01:07+00:00 | [26년 06월 05일 금]  비농업 취업자수, 실업률 ｜ 트럼프 행정부, AI 기업 지분 확보 논의?｜ 미
    - Hxoq_9zd15U | ongoing=False | publishedAt=2026-06-04T22:25:31Z | actualEndTime=2026-06-04T21:43:03Z | effective=2026-06-04 21:43:03+00:00 | [26년 06월 04일 목]  브로드컴, 실적 전망 하회 ｜ TSMC, "반도체 공급 부족 수년간 이어질 것
    - Xv24pLKVun0 | ongoing=False | publishedAt=2026-06-04T22:20:19Z | actualEndTime=None | effective=2026-06-04 22:20:19+00:00 | 【미국 증시 오늘의 요약】   다우 최고치 vs 나스닥 하락… 브로드컴 쇼크에 뒤바뀐 월가의 베팅  -  2
-   - BovwV84X3_w | ongoing=False | publishedAt=2026-06-03T22:43:48Z | actualEndTime=None | effective=2026-06-03 22:43:48+00:00 | 【미국 증시 오늘의 요약】   하락장 뚫고 나홀로 질주한 메타! 중동 악재에도 건재했던 반도체 주가 흐름  
-   - 6wlcSoFBS5E | ongoing=False | publishedAt=2026-06-03T22:27:15Z | actualEndTime=2026-06-03T22:00:24Z | effective=2026-06-03 22:00:24+00:00 | [26년 06월 03일 수]  트럼프, 이란 합의 낙관.. ｜ 서비스업 PMI, 베이지북 ｜ 엔비디아 CEO
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 나스닥은 갓이고 엔비디아는 신이다!!ㅣ브레이크 없는 룰루레몬, 한국 판매는 늘었다!?ㅣ[아침뉴스&미국시황] #260605
-  URL: https://www.youtube.com/watch?v=FSgMKk-O2Hc
-  publishedAt: 2026-06-05T00:25:00Z
-  actualEndTime: 2026-06-05T00:10:03Z
+  제목: 또 중국이야?
+  URL: https://www.youtube.com/watch?v=esAt-Uebe98
+  publishedAt: 2026-06-06T00:53:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - esAt-Uebe98 | ongoing=False | publishedAt=2026-06-06T00:53:31Z | actualEndTime=None | effective=2026-06-06 00:53:31+00:00 | 또 중국이야?
    - FSgMKk-O2Hc | ongoing=False | publishedAt=2026-06-05T00:25:00Z | actualEndTime=2026-06-05T00:10:03Z | effective=2026-06-05 00:10:03+00:00 | 나스닥은 갓이고 엔비디아는 신이다!!ㅣ브레이크 없는 룰루레몬, 한국 판매는 늘었다!?ㅣ[아침뉴스&미국시황] 
-   - MbBkx_hqPdI | ongoing=False | publishedAt=2026-06-04T03:00:30Z | actualEndTime=None | effective=2026-06-04 03:00:30+00:00 | 더 이상 돈이 없어요 돈이...
-   - fPIFBdIHLh8 | ongoing=False | publishedAt=2026-06-04T01:00:10Z | actualEndTime=None | effective=2026-06-04 01:00:10+00:00 | 자사주 소각으로 보는 기업 실적의 함정
-   - E-E272pmlr8 | ongoing=False | publishedAt=2026-06-04T00:44:48Z | actualEndTime=2026-06-04T00:02:34Z | effective=2026-06-04 00:02:34+00:00 | 죄송합니다... 허허허ㅣ[아침뉴스&미국시황] #260604
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 삼전 닉스 코스피 대폭락의 원인은 엔비디아???
-  URL: https://www.youtube.com/watch?v=FviwHcnACSY
-  publishedAt: 2026-06-05T02:50:58Z
+  제목: 나스닥 대폭락의 진짜 이유 (6월 6일)
+  URL: https://www.youtube.com/watch?v=yG6lCqLmehg
+  publishedAt: 2026-06-06T00:20:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - yG6lCqLmehg | ongoing=False | publishedAt=2026-06-06T00:20:53Z | actualEndTime=None | effective=2026-06-06 00:20:53+00:00 | 나스닥 대폭락의 진짜 이유 (6월 6일)
+   - n8aPEV40uo0 | ongoing=False | publishedAt=2026-06-05T16:26:10Z | actualEndTime=None | effective=2026-06-05 16:26:10+00:00 | 나스닥 안전벨트 꽉 붙잡으세요!
    - FviwHcnACSY | ongoing=False | publishedAt=2026-06-05T02:50:58Z | actualEndTime=None | effective=2026-06-05 02:50:58+00:00 | 삼전 닉스 코스피 대폭락의 원인은 엔비디아???
    - HoSYuopqfF4 | ongoing=False | publishedAt=2026-06-05T02:27:30Z | actualEndTime=None | effective=2026-06-05 02:27:30+00:00 | 코스피, 삼성전자, 하이닉스 대폭락 이슈의 본질은?
-   - Z5ifPNDdD8I | ongoing=False | publishedAt=2026-06-04T04:15:35Z | actualEndTime=None | effective=2026-06-04 04:15:35+00:00 | 환율이 박살난 진짜 이유
 
 - 소수몽키
   상태: NO_VIDEO
