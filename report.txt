@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-07 14:16 (KST)
-Run: 172 (id=27083562381)
+생성 시각: 2026-06-08 14:23 (KST)
+Run: 173 (id=27117732953)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,57 +8,53 @@ Run: 172 (id=27083562381)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Venture Capital Trends to Watch in Africa
-  URL: https://www.youtube.com/watch?v=9siQYPjd5oI
-  publishedAt: 2026-06-07T05:00:37Z
+  제목: Stocks Tumble as AI Trades Unwind | The Asia Trade 6/8/2026
+  URL: https://www.youtube.com/watch?v=BjnpateIvUs
+  publishedAt: 2026-06-08T04:20:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 9siQYPjd5oI | ongoing=False | publishedAt=2026-06-07T05:00:37Z | actualEndTime=None | effective=2026-06-07 05:00:37+00:00 | Venture Capital Trends to Watch in Africa
-   - -VqjVHu64io | ongoing=False | publishedAt=2026-06-07T02:16:43Z | actualEndTime=2026-06-06T14:04:16Z | effective=2026-06-06 14:04:16+00:00 | Big Tech Leads Broad Selloff; Trump Eyes US Stake in AI Firm
-   - OKMXxzoUVGs | ongoing=False | publishedAt=2026-06-06T22:24:18Z | actualEndTime=None | effective=2026-06-06 22:24:18+00:00 | IATA Director Willie Walsh on Rising Cost of Jet Fuel
-   - gmqXo9uz2Iw | ongoing=False | publishedAt=2026-06-06T22:24:26Z | actualEndTime=None | effective=2026-06-06 22:24:26+00:00 | IATA Director on Air Transport Stagflation & Challenges
-   - 2MGCnTzLYtY | ongoing=False | publishedAt=2026-06-06T22:23:58Z | actualEndTime=None | effective=2026-06-06 22:23:58+00:00 | Delta's Peter Carter on Consumer Premium Travel Appetite
-   - IWccOb5_JD0 | ongoing=False | publishedAt=2026-06-06T22:24:03Z | actualEndTime=None | effective=2026-06-06 22:24:03+00:00 | Delta President on Middle East Flights & Premium Travel
-   - xLokOjwQSt4 | ongoing=False | publishedAt=2026-06-06T22:24:11Z | actualEndTime=None | effective=2026-06-06 22:24:11+00:00 | JetBlue CEO Speaks on Potential Consolidation at IATA
-   - fiDLaGM2XBU | ongoing=False | publishedAt=2026-06-06T18:00:13Z | actualEndTime=None | effective=2026-06-06 18:00:13+00:00 | The US is showing interest in Bolivia’s critical minerals #s
-   - ZfhpO64cb-E | ongoing=False | publishedAt=2026-06-06T16:26:01Z | actualEndTime=None | effective=2026-06-06 16:26:01+00:00 | Bloomberg This Weekend | Major Indexes Tumble, Trump Eyes Go
-   - TS53y8wtoxA | ongoing=False | publishedAt=2026-06-06T16:11:30Z | actualEndTime=None | effective=2026-06-06 16:11:30+00:00 | Grindr Growing From Dating App to Politics, AI
+   - BjnpateIvUs | ongoing=False | publishedAt=2026-06-08T04:20:39Z | actualEndTime=None | effective=2026-06-08 04:20:39+00:00 | Stocks Tumble as AI Trades Unwind | The Asia Trade 6/8/2026
+   - s8HhlS_JOII | ongoing=False | publishedAt=2026-06-08T02:24:21Z | actualEndTime=2026-06-07T14:00:05Z | effective=2026-06-07 14:00:05+00:00 | Airline CEOs Weigh In on Fuel Prices; Screwworms Threaten US
+   - h01o-trLksM | ongoing=False | publishedAt=2026-06-07T21:14:32Z | actualEndTime=None | effective=2026-06-07 21:14:32+00:00 | IAG CEO on Asia demand, Consolidation & Fuel Prices
+   - WlOS651oJsc | ongoing=False | publishedAt=2026-06-07T20:32:23Z | actualEndTime=None | effective=2026-06-07 20:32:23+00:00 | Air New Zealand CEO on Consolidation & Price Increases
+   - _1lsl-GCArk | ongoing=False | publishedAt=2026-06-07T20:32:27Z | actualEndTime=None | effective=2026-06-07 20:32:27+00:00 | Air New Zealand CEO on "Sky Nest" Beds
+   - HMWv0EQ-ap8 | ongoing=False | publishedAt=2026-06-07T20:32:14Z | actualEndTime=None | effective=2026-06-07 20:32:14+00:00 | Etihad Airways CEO on Competition & Asian Market Growth
+   - VGlBovLe4c4 | ongoing=False | publishedAt=2026-06-07T17:22:56Z | actualEndTime=None | effective=2026-06-07 17:22:56+00:00 | Bloomberg This Weekend | Aviation Executives Live From Rio, 
+   - K_cEqD9ebsc | ongoing=False | publishedAt=2026-06-07T17:12:09Z | actualEndTime=None | effective=2026-06-07 17:12:09+00:00 | Etihad Airways CEO Antonoaldo Neves on Fuel Prices
+   - iJd-uRZwdTg | ongoing=False | publishedAt=2026-06-07T17:12:16Z | actualEndTime=None | effective=2026-06-07 17:12:16+00:00 | Air France-KLM CEO on Fuel Prices and Gulf Flights
+   - O3r7bADOhJI | ongoing=False | publishedAt=2026-06-07T17:00:18Z | actualEndTime=None | effective=2026-06-07 17:00:18+00:00 | Why the US and China need Latin America for space #shorts #s
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Wpj-_2UKwT4 | ongoing=False | publishedAt=2026-06-06T03:30:39Z | actualEndTime=None | effective=2026-06-06 03:30:39+00:00 | it's over | the collapse is beginning
-   - CHmLoWzSyog | ongoing=False | publishedAt=2026-06-05T14:08:26Z | actualEndTime=None | effective=2026-06-05 14:08:26+00:00 | Well f**k me
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - mkOEvSlumxI | ongoing=False | publishedAt=2026-06-05T23:04:24Z | actualEndTime=None | effective=2026-06-05 23:04:24+00:00 | 【미국 증시 오늘의 요약】   AI·반도체 투매, 나스닥 2025년 이후 최대 급락  -  2026/06/0
-   - eMO18wAn1vU | ongoing=False | publishedAt=2026-06-05T22:23:04Z | actualEndTime=2026-06-05T22:01:07Z | effective=2026-06-05 22:01:07+00:00 | [26년 06월 05일 금]  비농업 취업자수, 실업률 ｜ 트럼프 행정부, AI 기업 지분 확보 논의?｜ 미
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: SpaceX IPO 최대 수혜주
-  URL: https://www.youtube.com/watch?v=0qGRbqumhF4
-  publishedAt: 2026-06-07T01:00:29Z
+  제목: 그래서 언제부터 사면 되요?ㅣ[아침뉴스&미국시황] #260608
+  URL: https://www.youtube.com/watch?v=frtlNjv8aSM
+  publishedAt: 2026-06-08T00:16:15Z
+  actualEndTime: 2026-06-08T00:04:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - frtlNjv8aSM | ongoing=False | publishedAt=2026-06-08T00:16:15Z | actualEndTime=2026-06-08T00:04:52Z | effective=2026-06-08 00:04:52+00:00 | 그래서 언제부터 사면 되요?ㅣ[아침뉴스&미국시황] #260608
+   - 5gxgC_U-XSQ | ongoing=False | publishedAt=2026-06-07T09:00:10Z | actualEndTime=None | effective=2026-06-07 09:00:10+00:00 | 유동성 꼭지가 잠기면 시장은 또 놀랄 수 있다
+   - JX3VWczJQv0 | ongoing=False | publishedAt=2026-06-07T07:00:39Z | actualEndTime=None | effective=2026-06-07 07:00:39+00:00 | 에너지 주에 남은 숨겨진 기회가 있다면?
    - 0qGRbqumhF4 | ongoing=False | publishedAt=2026-06-07T01:00:29Z | actualEndTime=None | effective=2026-06-07 01:00:29+00:00 | SpaceX IPO 최대 수혜주
    - o8ZWHvBHM-w | ongoing=False | publishedAt=2026-06-06T07:00:07Z | actualEndTime=None | effective=2026-06-06 07:00:07+00:00 | 이걸 반등이라고 생각하신다고요?
-   - esAt-Uebe98 | ongoing=False | publishedAt=2026-06-06T00:53:31Z | actualEndTime=None | effective=2026-06-06 00:53:31+00:00 | 또 중국이야?
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 엔비디아의 가장 큰 병목은 바로 '이것' (대만 엔비디아 GTC 브이로그)
-  URL: https://www.youtube.com/watch?v=JbeZm0copdk
-  publishedAt: 2026-06-07T00:31:36Z
+  제목: 코스피 대폭락 중 닉스가 삼전 보다 강한 이유는? (6월 8일 월요일)
+  URL: https://www.youtube.com/watch?v=UQ9JUS4AR_I
+  publishedAt: 2026-06-08T02:23:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UQ9JUS4AR_I | ongoing=False | publishedAt=2026-06-08T02:23:03Z | actualEndTime=None | effective=2026-06-08 02:23:03+00:00 | 코스피 대폭락 중 닉스가 삼전 보다 강한 이유는? (6월 8일 월요일)
    - JbeZm0copdk | ongoing=False | publishedAt=2026-06-07T00:31:36Z | actualEndTime=None | effective=2026-06-07 00:31:36+00:00 | 엔비디아의 가장 큰 병목은 바로 '이것' (대만 엔비디아 GTC 브이로그)
-   - yG6lCqLmehg | ongoing=False | publishedAt=2026-06-06T00:20:53Z | actualEndTime=None | effective=2026-06-06 00:20:53+00:00 | 나스닥 대폭락의 진짜 이유 (6월 6일)
-   - n8aPEV40uo0 | ongoing=False | publishedAt=2026-06-05T16:26:10Z | actualEndTime=None | effective=2026-06-05 16:26:10+00:00 | 나스닥 안전벨트 꽉 붙잡으세요!
 
 - 소수몽키
   상태: NO_VIDEO
