@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-08 14:23 (KST)
-Run: 173 (id=27117732953)
+생성 시각: 2026-06-09 13:58 (KST)
+Run: 174 (id=27184829822)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,54 +8,66 @@ Run: 173 (id=27117732953)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Stocks Tumble as AI Trades Unwind | The Asia Trade 6/8/2026
-  URL: https://www.youtube.com/watch?v=BjnpateIvUs
-  publishedAt: 2026-06-08T04:20:39Z
+  제목: Balance of Power: Late Edition 6/8/2026
+  URL: https://www.youtube.com/watch?v=9cqGaJpYldk
+  publishedAt: 2026-06-08T23:12:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - BjnpateIvUs | ongoing=False | publishedAt=2026-06-08T04:20:39Z | actualEndTime=None | effective=2026-06-08 04:20:39+00:00 | Stocks Tumble as AI Trades Unwind | The Asia Trade 6/8/2026
-   - s8HhlS_JOII | ongoing=False | publishedAt=2026-06-08T02:24:21Z | actualEndTime=2026-06-07T14:00:05Z | effective=2026-06-07 14:00:05+00:00 | Airline CEOs Weigh In on Fuel Prices; Screwworms Threaten US
-   - h01o-trLksM | ongoing=False | publishedAt=2026-06-07T21:14:32Z | actualEndTime=None | effective=2026-06-07 21:14:32+00:00 | IAG CEO on Asia demand, Consolidation & Fuel Prices
-   - WlOS651oJsc | ongoing=False | publishedAt=2026-06-07T20:32:23Z | actualEndTime=None | effective=2026-06-07 20:32:23+00:00 | Air New Zealand CEO on Consolidation & Price Increases
-   - _1lsl-GCArk | ongoing=False | publishedAt=2026-06-07T20:32:27Z | actualEndTime=None | effective=2026-06-07 20:32:27+00:00 | Air New Zealand CEO on "Sky Nest" Beds
-   - HMWv0EQ-ap8 | ongoing=False | publishedAt=2026-06-07T20:32:14Z | actualEndTime=None | effective=2026-06-07 20:32:14+00:00 | Etihad Airways CEO on Competition & Asian Market Growth
-   - VGlBovLe4c4 | ongoing=False | publishedAt=2026-06-07T17:22:56Z | actualEndTime=None | effective=2026-06-07 17:22:56+00:00 | Bloomberg This Weekend | Aviation Executives Live From Rio, 
-   - K_cEqD9ebsc | ongoing=False | publishedAt=2026-06-07T17:12:09Z | actualEndTime=None | effective=2026-06-07 17:12:09+00:00 | Etihad Airways CEO Antonoaldo Neves on Fuel Prices
-   - iJd-uRZwdTg | ongoing=False | publishedAt=2026-06-07T17:12:16Z | actualEndTime=None | effective=2026-06-07 17:12:16+00:00 | Air France-KLM CEO on Fuel Prices and Gulf Flights
-   - O3r7bADOhJI | ongoing=False | publishedAt=2026-06-07T17:00:18Z | actualEndTime=None | effective=2026-06-07 17:00:18+00:00 | Why the US and China need Latin America for space #shorts #s
+   - 9cqGaJpYldk | ongoing=False | publishedAt=2026-06-08T23:12:43Z | actualEndTime=None | effective=2026-06-08 23:12:43+00:00 | Balance of Power: Late Edition 6/8/2026
+   - 1bVlr3NphW0 | ongoing=False | publishedAt=2026-06-08T22:36:29Z | actualEndTime=None | effective=2026-06-08 22:36:29+00:00 | Wall Street Claws Back Friday’s Losses | The Close 6/8/2026
+   - TNJr5miODyg | ongoing=False | publishedAt=2026-06-08T21:53:59Z | actualEndTime=None | effective=2026-06-08 21:53:59+00:00 | OpenAI filed confidentially for IPO as rivals race to market
+   - yDGxIYFPJ0g | ongoing=False | publishedAt=2026-06-08T21:44:15Z | actualEndTime=None | effective=2026-06-08 21:44:15+00:00 | OpenAI Files Confidentially for IPO
+   - 6RQ63c4b7ds | ongoing=False | publishedAt=2026-06-08T21:35:16Z | actualEndTime=None | effective=2026-06-08 21:35:16+00:00 | NYNJ FIFA Chief on How Fans Can Get to MetLife Stadium for t
+   - rqcMCAoOFE0 | ongoing=False | publishedAt=2026-06-08T21:33:44Z | actualEndTime=None | effective=2026-06-08 21:33:44+00:00 | Key Takeaways From Apple's WWDC 2026 Event
+   - NENwJYM3lZo | ongoing=False | publishedAt=2026-06-08T20:51:58Z | actualEndTime=None | effective=2026-06-08 20:51:58+00:00 | Apple Announces AI Revamp as Chip Stocks Soar| Bloomberg Bus
+   - yAvl-4bvSqY | ongoing=False | publishedAt=2026-06-08T20:44:13Z | actualEndTime=None | effective=2026-06-08 20:44:13+00:00 | Siri will stand out among competitive AI field, says co-foun
+   - XuVikyJJ47w | ongoing=False | publishedAt=2026-06-08T20:41:18Z | actualEndTime=None | effective=2026-06-08 20:41:18+00:00 | Peru Vote Is Too Close To Call As Fujimori's Lead Narrows
+   - Ye5XrqY4IPk | ongoing=False | publishedAt=2026-06-08T20:42:06Z | actualEndTime=None | effective=2026-06-08 20:42:06+00:00 | Tech Earnings Are on Fire, Golub Says
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - tI1yOVuS6zE | ongoing=False | publishedAt=2026-06-08T15:44:56Z | actualEndTime=None | effective=2026-06-08 15:44:56+00:00 | TRUMP FLIPS!!! LET'S F****KING GOOOOOOOOO
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】   하루 만에 10% 폭등한 마이크론!  대폭락은 끝났다?!  -  2026/06/08
+  URL: https://www.youtube.com/watch?v=y3ntD3r1wEc
+  publishedAt: 2026-06-08T22:05:21Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - y3ntD3r1wEc | ongoing=False | publishedAt=2026-06-08T22:05:21Z | actualEndTime=None | effective=2026-06-08 22:05:21+00:00 | 【미국 증시 오늘의 요약】   하루 만에 10% 폭등한 마이크론!  대폭락은 끝났다?!  -  2026/06
+   - GsAX3CiumU4 | ongoing=False | publishedAt=2026-06-08T21:42:34Z | actualEndTime=2026-06-08T21:21:40Z | effective=2026-06-08 21:21:40+00:00 | [26년 06월 08일 월]  애플 WWDC 2026 ｜ 트럼프 “이스라엘-이란 즉각 휴전 추진” ｜ 마벨,
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 그래서 언제부터 사면 되요?ㅣ[아침뉴스&미국시황] #260608
-  URL: https://www.youtube.com/watch?v=frtlNjv8aSM
-  publishedAt: 2026-06-08T00:16:15Z
-  actualEndTime: 2026-06-08T00:04:52Z
+  제목: 대불장인데 주식 계좌가 마이너스라면 꼭 보세요
+  URL: https://www.youtube.com/watch?v=-AsjXUy2U0E
+  publishedAt: 2026-06-09T03:00:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -AsjXUy2U0E | ongoing=False | publishedAt=2026-06-09T03:00:14Z | actualEndTime=None | effective=2026-06-09 03:00:14+00:00 | 대불장인데 주식 계좌가 마이너스라면 꼭 보세요
+   - K7igtvYwHwY | ongoing=False | publishedAt=2026-06-09T01:00:33Z | actualEndTime=None | effective=2026-06-09 01:00:33+00:00 | 뷰티는 AI 관련주다! #마운자로 #위고비 #다이어트
+   - fBRC1fNZU54 | ongoing=False | publishedAt=2026-06-09T00:33:18Z | actualEndTime=2026-06-09T00:11:08Z | effective=2026-06-09 00:11:08+00:00 | 2% 부족한 반등, 불안하네요ㅣ[아침뉴스&미국시황] #260609
+   - crrCEHipbog | ongoing=False | publishedAt=2026-06-08T16:13:47Z | actualEndTime=2026-06-08T15:41:08Z | effective=2026-06-08 15:41:08+00:00 | [미국주식LIVE] 매수로 대응하라!!!!!!!!!!!!!!!ㅣ#260608
    - frtlNjv8aSM | ongoing=False | publishedAt=2026-06-08T00:16:15Z | actualEndTime=2026-06-08T00:04:52Z | effective=2026-06-08 00:04:52+00:00 | 그래서 언제부터 사면 되요?ㅣ[아침뉴스&미국시황] #260608
    - 5gxgC_U-XSQ | ongoing=False | publishedAt=2026-06-07T09:00:10Z | actualEndTime=None | effective=2026-06-07 09:00:10+00:00 | 유동성 꼭지가 잠기면 시장은 또 놀랄 수 있다
    - JX3VWczJQv0 | ongoing=False | publishedAt=2026-06-07T07:00:39Z | actualEndTime=None | effective=2026-06-07 07:00:39+00:00 | 에너지 주에 남은 숨겨진 기회가 있다면?
-   - 0qGRbqumhF4 | ongoing=False | publishedAt=2026-06-07T01:00:29Z | actualEndTime=None | effective=2026-06-07 01:00:29+00:00 | SpaceX IPO 최대 수혜주
-   - o8ZWHvBHM-w | ongoing=False | publishedAt=2026-06-06T07:00:07Z | actualEndTime=None | effective=2026-06-06 07:00:07+00:00 | 이걸 반등이라고 생각하신다고요?
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 코스피 대폭락 중 닉스가 삼전 보다 강한 이유는? (6월 8일 월요일)
-  URL: https://www.youtube.com/watch?v=UQ9JUS4AR_I
-  publishedAt: 2026-06-08T02:23:03Z
+  제목: 나스닥 대반격의 시작 (6월 9일)
+  URL: https://www.youtube.com/watch?v=t4Dweu79Aro
+  publishedAt: 2026-06-08T17:39:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - t4Dweu79Aro | ongoing=False | publishedAt=2026-06-08T17:39:04Z | actualEndTime=None | effective=2026-06-08 17:39:04+00:00 | 나스닥 대반격의 시작 (6월 9일)
+   - dLgQ97udaqI | ongoing=False | publishedAt=2026-06-08T16:49:37Z | actualEndTime=None | effective=2026-06-08 16:49:37+00:00 | 나스닥 대반격 시작됐습니다.
    - UQ9JUS4AR_I | ongoing=False | publishedAt=2026-06-08T02:23:03Z | actualEndTime=None | effective=2026-06-08 02:23:03+00:00 | 코스피 대폭락 중 닉스가 삼전 보다 강한 이유는? (6월 8일 월요일)
-   - JbeZm0copdk | ongoing=False | publishedAt=2026-06-07T00:31:36Z | actualEndTime=None | effective=2026-06-07 00:31:36+00:00 | 엔비디아의 가장 큰 병목은 바로 '이것' (대만 엔비디아 GTC 브이로그)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - pkVOkS2Rs-c | ongoing=False | publishedAt=2026-06-08T12:55:26Z | actualEndTime=None | effective=2026-06-08 12:55:26+00:00 | 젠슨 황과 머스크가 증시 살린다? 동시에 찍어준 주인공 주식들
