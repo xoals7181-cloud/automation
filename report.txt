@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-10 14:10 (KST)
-Run: 175 (id=27254688770)
+생성 시각: 2026-06-11 14:21 (KST)
+Run: 176 (id=27325691100)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,74 +8,75 @@ Run: 175 (id=27254688770)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Markets Weigh AI Rotation, US 'Self-Defense' Strikes | The Asia Trade 6/10/2026
-  URL: https://www.youtube.com/watch?v=Oumk9q6cxMQ
-  publishedAt: 2026-06-10T04:45:43Z
+  제목: US Strikes Iran Again in Trump Escalation | The Asia Trade 6/11/2026
+  URL: https://www.youtube.com/watch?v=jukrrq6Q2YM
+  publishedAt: 2026-06-11T04:18:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Oumk9q6cxMQ | ongoing=False | publishedAt=2026-06-10T04:45:43Z | actualEndTime=None | effective=2026-06-10 04:45:43+00:00 | Markets Weigh AI Rotation, US 'Self-Defense' Strikes | The A
-   - QsJnlaChDLg | ongoing=False | publishedAt=2026-06-09T23:52:30Z | actualEndTime=None | effective=2026-06-09 23:52:30+00:00 | US Launches 'Self-Defense' Strikes Against Iran | Balance of
-   - KC19qtFQrXU | ongoing=False | publishedAt=2026-06-09T22:31:50Z | actualEndTime=None | effective=2026-06-09 22:31:50+00:00 | Stocks Pare Tech-Led Drop as Rotation Gains Speed | The Clos
-   - XmdvqQTN6mI | ongoing=False | publishedAt=2026-06-09T22:03:52Z | actualEndTime=None | effective=2026-06-09 22:03:52+00:00 | US Launches Strikes Against Iran After Helicopter Is Downed
-   - VfxlKSOB-rQ | ongoing=False | publishedAt=2026-06-09T20:47:26Z | actualEndTime=None | effective=2026-06-09 20:47:26+00:00 | FIFA Partnership, Securitize SPAC, MoneyGram Launches Its Ow
-   - 2ZBcW9pBNIo | ongoing=False | publishedAt=2026-06-09T20:43:24Z | actualEndTime=None | effective=2026-06-09 20:43:24+00:00 | Industries, Labor Market Grapple With AI Future | Bloomberg 
-   - n4v-pwnDPjQ | ongoing=False | publishedAt=2026-06-09T20:31:26Z | actualEndTime=None | effective=2026-06-09 20:31:26+00:00 | Gina Raimondo: America needs to unite as AI challenges rise
-   - pju0uU4lJmg | ongoing=False | publishedAt=2026-06-09T20:22:48Z | actualEndTime=None | effective=2026-06-09 20:22:48+00:00 | Tech Mega Caps Slump as Rotation Trade Gathers Momentum | Cl
-   - tE7JFxXcev4 | ongoing=False | publishedAt=2026-06-09T20:22:03Z | actualEndTime=None | effective=2026-06-09 20:22:03+00:00 | 'We Have To Prepare' for the AI Transition Says Gina Raimond
-   - 7KznHb_bHsc | ongoing=False | publishedAt=2026-06-09T20:14:03Z | actualEndTime=None | effective=2026-06-09 20:14:03+00:00 | Lancaster-Samuel Says Clients Have a 'Fear of Getting Out'
+   - jukrrq6Q2YM | ongoing=False | publishedAt=2026-06-11T04:18:14Z | actualEndTime=None | effective=2026-06-11 04:18:14+00:00 | US Strikes Iran Again in Trump Escalation | The Asia Trade 6
+   - 7X8cy8HSDYg | ongoing=False | publishedAt=2026-06-10T23:58:13Z | actualEndTime=None | effective=2026-06-10 23:58:13+00:00 | Congress Faces Friday Deadline for FISA Extension | Balance 
+   - C3LsP8Vsims | ongoing=False | publishedAt=2026-06-10T22:18:06Z | actualEndTime=None | effective=2026-06-10 22:18:06+00:00 | US Inflation Picks Up, Eroding Paychecks | The Close 6/10/20
+   - tiw8NUrmrNA | ongoing=False | publishedAt=2026-06-10T21:55:51Z | actualEndTime=None | effective=2026-06-10 21:55:51+00:00 | US Inflation Picks Up to 3 Year High, Eroding Paychecks| Blo
+   - imgdp5MaKGg | ongoing=False | publishedAt=2026-06-10T21:08:26Z | actualEndTime=None | effective=2026-06-10 21:08:26+00:00 | 'Bloom Is Off the Rose' for Oracle, Cleo's Kunst Says
+   - NfpdlaCR_uY | ongoing=False | publishedAt=2026-06-10T21:07:30Z | actualEndTime=None | effective=2026-06-10 21:07:30+00:00 | OpenAI Joins Massive AI IPO, Super Micro To Buy AI Equipment
+   - FSysqdwegAs | ongoing=False | publishedAt=2026-06-10T20:40:39Z | actualEndTime=None | effective=2026-06-10 20:40:39+00:00 | Oracle Earnings Report | Closing Bell
+   - AJxp_Mv_e6A | ongoing=False | publishedAt=2026-06-10T20:22:38Z | actualEndTime=None | effective=2026-06-10 20:22:38+00:00 | Nikki Haley: Trump has to finish what he started with Iran
+   - fscjQ5yAA2M | ongoing=False | publishedAt=2026-06-10T19:28:47Z | actualEndTime=None | effective=2026-06-10 19:28:47+00:00 | Trump Vows Iran Attacks | Balance of Power 6/10/2026
+   - ykM_mgPiWLo | ongoing=False | publishedAt=2026-06-10T18:35:14Z | actualEndTime=None | effective=2026-06-10 18:35:14+00:00 | The 'SaaSpocalypse is finished,' says Orlando Bravo #shorts 
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Elon Musk's NEW SpaceX Stock!
-  URL: https://www.youtube.com/watch?v=u_YjYRilJ8s
-  publishedAt: 2026-06-10T02:17:00Z
+  제목: $500,000 Self Driving Car
+  URL: https://www.youtube.com/watch?v=koEknEeT7aE
+  publishedAt: 2026-06-11T02:00:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - koEknEeT7aE | ongoing=False | publishedAt=2026-06-11T02:00:18Z | actualEndTime=None | effective=2026-06-11 02:00:18+00:00 | $500,000 Self Driving Car
+   - lNOuCF5qR7Q | ongoing=False | publishedAt=2026-06-10T16:31:38Z | actualEndTime=None | effective=2026-06-10 16:31:38+00:00 | ah f**k again… TRUMP JUST ANNOUNCED
+   - eWGojZAwY_M | ongoing=False | publishedAt=2026-06-10T11:30:30Z | actualEndTime=None | effective=2026-06-10 11:30:30+00:00 | Inflate National Debt
    - u_YjYRilJ8s | ongoing=False | publishedAt=2026-06-10T02:17:00Z | actualEndTime=None | effective=2026-06-10 02:17:00+00:00 | Elon Musk's NEW SpaceX Stock!
    - 8orV_bILC2c | ongoing=False | publishedAt=2026-06-09T15:52:44Z | actualEndTime=None | effective=2026-06-09 15:52:44+00:00 | The Market Collapse & Secret SpaceX FLIP has Begun
-   - tI1yOVuS6zE | ongoing=False | publishedAt=2026-06-08T15:44:56Z | actualEndTime=None | effective=2026-06-08 15:44:56+00:00 | TRUMP FLIPS!!! LET'S F****KING GOOOOOOOOO
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   롤러코스터 장세 속 반도체 하락… 다가온 CPI와 스페이스X의 파장   -  2026/06/09
-  URL: https://www.youtube.com/watch?v=9tVsoaqOR0o
-  publishedAt: 2026-06-09T22:32:39Z
+  제목: 【미국 증시 오늘의 요약】   물가 둔화에도 웃지 못한 월가… 중동 리스크 고조 & 스페이스X 상장 여파에 증시 휘청   -  2026/06/10
+  URL: https://www.youtube.com/watch?v=O1yVzHGsL08
+  publishedAt: 2026-06-10T22:44:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - O1yVzHGsL08 | ongoing=False | publishedAt=2026-06-10T22:44:32Z | actualEndTime=None | effective=2026-06-10 22:44:32+00:00 | 【미국 증시 오늘의 요약】   물가 둔화에도 웃지 못한 월가… 중동 리스크 고조 & 스페이스X 상장 여파에 
+   - EWYRvWF3cS4 | ongoing=False | publishedAt=2026-06-10T22:12:54Z | actualEndTime=2026-06-10T21:53:20Z | effective=2026-06-10 21:53:20+00:00 | [26년 06월 10일 수]  소비자물가지수(CPI) ｜트럼프, '이란, 이제 대가를 치를 차례'  ｜TSM
    - 9tVsoaqOR0o | ongoing=False | publishedAt=2026-06-09T22:32:39Z | actualEndTime=None | effective=2026-06-09 22:32:39+00:00 | 【미국 증시 오늘의 요약】   롤러코스터 장세 속 반도체 하락… 다가온 CPI와 스페이스X의 파장   -  
    - UMvC7Jru6vs | ongoing=False | publishedAt=2026-06-09T22:09:55Z | actualEndTime=2026-06-09T21:45:39Z | effective=2026-06-09 21:45:39+00:00 | [26년 06월 09일 화]  이란 공격에 미국 헬리콥터 추락.. ｜ 오픈AI, IPO 신청서 제출 ｜ 중국
-   - y3ntD3r1wEc | ongoing=False | publishedAt=2026-06-08T22:05:21Z | actualEndTime=None | effective=2026-06-08 22:05:21+00:00 | 【미국 증시 오늘의 요약】   하루 만에 10% 폭등한 마이크론!  대폭락은 끝났다?!  -  2026/06
-   - GsAX3CiumU4 | ongoing=False | publishedAt=2026-06-08T21:42:34Z | actualEndTime=2026-06-08T21:21:40Z | effective=2026-06-08 21:21:40+00:00 | [26년 06월 08일 월]  애플 WWDC 2026 ｜ 트럼프 “이스라엘-이란 즉각 휴전 추진” ｜ 마벨,
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 다가오는 Space X IPO, 다들 조심하셔야 됩니다
-  URL: https://www.youtube.com/watch?v=bCpljm6rujw
-  publishedAt: 2026-06-10T01:00:31Z
+  제목: 갑자기 빠지는 시장, 그 이유는 가격선에 있다
+  URL: https://www.youtube.com/watch?v=YanXNMrRFT0
+  publishedAt: 2026-06-11T01:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - YanXNMrRFT0 | ongoing=False | publishedAt=2026-06-11T01:00:37Z | actualEndTime=None | effective=2026-06-11 01:00:37+00:00 | 갑자기 빠지는 시장, 그 이유는 가격선에 있다
+   - vJGIoVyNzNk | ongoing=False | publishedAt=2026-06-11T00:22:40Z | actualEndTime=2026-06-11T00:12:57Z | effective=2026-06-11 00:12:57+00:00 | 유상증자는 고점 시그널인가? 매수기회인가?ㅣ[아침뉴스&미국시황] #260611
+   - msHm4pZFnkA | ongoing=False | publishedAt=2026-06-10T08:58:23Z | actualEndTime=None | effective=2026-06-10 08:58:23+00:00 | 공포가 깊어질수록 기회는 가까워진다
    - bCpljm6rujw | ongoing=False | publishedAt=2026-06-10T01:00:31Z | actualEndTime=None | effective=2026-06-10 01:00:31+00:00 | 다가오는 Space X IPO, 다들 조심하셔야 됩니다
    - gnuwhfpJXl4 | ongoing=False | publishedAt=2026-06-10T01:00:36Z | actualEndTime=None | effective=2026-06-10 01:00:36+00:00 | 7월 매수 드가자!!!
    - 36d7zNby58M | ongoing=False | publishedAt=2026-06-10T00:03:00Z | actualEndTime=2026-06-09T23:57:30Z | effective=2026-06-09 23:57:30+00:00 | ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅣ[아침뉴스&미국시황] #260610
-   - -AsjXUy2U0E | ongoing=False | publishedAt=2026-06-09T03:00:14Z | actualEndTime=None | effective=2026-06-09 03:00:14+00:00 | 대불장인데 주식 계좌가 마이너스라면 꼭 보세요
-   - K7igtvYwHwY | ongoing=False | publishedAt=2026-06-09T01:00:33Z | actualEndTime=None | effective=2026-06-09 01:00:33+00:00 | 뷰티는 AI 관련주다! #마운자로 #위고비 #다이어트
-   - fBRC1fNZU54 | ongoing=False | publishedAt=2026-06-09T00:33:18Z | actualEndTime=2026-06-09T00:11:08Z | effective=2026-06-09 00:11:08+00:00 | 2% 부족한 반등, 불안하네요ㅣ[아침뉴스&미국시황] #260609
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 의문의 나스닥 폭락
-  URL: https://www.youtube.com/watch?v=ySFPQK3jeOQ
-  publishedAt: 2026-06-09T17:35:51Z
+  제목: 나스닥 하락하지만 괜찮다?? ( 5월 CPI 발표)
+  URL: https://www.youtube.com/watch?v=1wcoRWM4QnE
+  publishedAt: 2026-06-10T17:47:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 1wcoRWM4QnE | ongoing=False | publishedAt=2026-06-10T17:47:06Z | actualEndTime=None | effective=2026-06-10 17:47:06+00:00 | 나스닥 하락하지만 괜찮다?? ( 5월 CPI 발표)
+   - K2QyTf5GZSg | ongoing=False | publishedAt=2026-06-10T05:57:31Z | actualEndTime=None | effective=2026-06-10 05:57:31+00:00 | 코스피 사이드카 3가지 악재
    - ySFPQK3jeOQ | ongoing=False | publishedAt=2026-06-09T17:35:51Z | actualEndTime=None | effective=2026-06-09 17:35:51+00:00 | 의문의 나스닥 폭락
    - njF8hg4QV0Y | ongoing=False | publishedAt=2026-06-09T17:05:41Z | actualEndTime=None | effective=2026-06-09 17:05:41+00:00 | 역대급 수수께끼의 대폭락
-   - t4Dweu79Aro | ongoing=False | publishedAt=2026-06-08T17:39:04Z | actualEndTime=None | effective=2026-06-08 17:39:04+00:00 | 나스닥 대반격의 시작 (6월 9일)
-   - dLgQ97udaqI | ongoing=False | publishedAt=2026-06-08T16:49:37Z | actualEndTime=None | effective=2026-06-08 16:49:37+00:00 | 나스닥 대반격 시작됐습니다.
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 5sp8xisMihc | ongoing=False | publishedAt=2026-06-09T11:58:23Z | actualEndTime=None | effective=2026-06-09 11:58:23+00:00 | 트럼프 대통령, 이번엔 AI 기업 투자? 증시 띄우기의 수혜주들
-   - pkVOkS2Rs-c | ongoing=False | publishedAt=2026-06-08T12:55:26Z | actualEndTime=None | effective=2026-06-08 12:55:26+00:00 | 젠슨 황과 머스크가 증시 살린다? 동시에 찍어준 주인공 주식들
