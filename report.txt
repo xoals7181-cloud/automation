@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-12 14:25 (KST)
-Run: 177 (id=27396464690)
+생성 시각: 2026-06-13 14:14 (KST)
+Run: 178 (id=27457531766)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,72 +8,66 @@ Run: 177 (id=27396464690)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Signal’s Whittaker Threatens UK Exit Amid Phone-Screening Plan
-  URL: https://www.youtube.com/watch?v=mEkJGi2K1bM
-  publishedAt: 2026-06-12T05:15:03Z
+  제목: Homeownership Isn’t Working Out for British Millennials
+  URL: https://www.youtube.com/watch?v=hlALcGDO5rA
+  publishedAt: 2026-06-13T04:00:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - mEkJGi2K1bM | ongoing=False | publishedAt=2026-06-12T05:15:03Z | actualEndTime=None | effective=2026-06-12 05:15:03+00:00 | Signal’s Whittaker Threatens UK Exit Amid Phone-Screening Pl
-   - FgoVAo2MDB4 | ongoing=False | publishedAt=2026-06-12T05:00:20Z | actualEndTime=None | effective=2026-06-12 05:00:20+00:00 | UK minister stands by defense funding as Healey resigns
-   - aIO3QQ26LEI | ongoing=False | publishedAt=2026-06-12T04:30:11Z | actualEndTime=None | effective=2026-06-12 04:30:11+00:00 | Brexit Battle: Campbell, Rees-Mogg clash on everything but B
-   - pI_W0Lf2iUU | ongoing=False | publishedAt=2026-06-12T00:17:43Z | actualEndTime=None | effective=2026-06-12 00:17:43+00:00 | Trump Taps Jay Clayton to Lead Top Intel Office | Balance of
-   - 7FKbv2UosyI | ongoing=False | publishedAt=2026-06-11T22:42:32Z | actualEndTime=None | effective=2026-06-11 22:42:32+00:00 | Trump Calls of Iran Strike, SpaceX Set to IPO | Bloomberg Bu
-   - KDbhfi4oojY | ongoing=False | publishedAt=2026-06-11T22:23:49Z | actualEndTime=None | effective=2026-06-11 22:23:49+00:00 | SpaceX Prices IPO Shares in Biggest Debut Ever | The Close 6
-   - UcQZ0hyUc8Q | ongoing=False | publishedAt=2026-06-11T21:32:56Z | actualEndTime=None | effective=2026-06-11 21:32:56+00:00 | Should the US government have stake in big AI companies?#sho
-   - J0ROgL0nKX8 | ongoing=False | publishedAt=2026-06-11T21:33:06Z | actualEndTime=None | effective=2026-06-11 21:33:06+00:00 | New York Penn Station Rehab Eyes Billions in Federal Funding
-   - uKvegSryU6k | ongoing=False | publishedAt=2026-06-11T21:32:59Z | actualEndTime=None | effective=2026-06-11 21:32:59+00:00 | Can the US Really Take Iran's Kharg Island?
-   - 0VD74mz_LFI | ongoing=False | publishedAt=2026-06-11T21:30:29Z | actualEndTime=None | effective=2026-06-11 21:30:29+00:00 | SpaceX to start trading on Nasdaq Friday morning
+   - hlALcGDO5rA | ongoing=False | publishedAt=2026-06-13T04:00:11Z | actualEndTime=None | effective=2026-06-13 04:00:11+00:00 | Homeownership Isn’t Working Out for British Millennials
+   - XivKj8jfcFE | ongoing=False | publishedAt=2026-06-12T23:55:01Z | actualEndTime=None | effective=2026-06-12 23:55:01+00:00 | US Sees 80-85% Chance of Iran Deal Being Signed | Balance of
+   - Pcty8c6Crm8 | ongoing=False | publishedAt=2026-06-12T23:26:31Z | actualEndTime=None | effective=2026-06-12 23:26:31+00:00 | Inside SpaceX and Elon Musk’s $75 billion IPO#shorts #musk #
+   - FKP1pF_P6ik | ongoing=False | publishedAt=2026-06-12T23:00:17Z | actualEndTime=None | effective=2026-06-12 23:00:17+00:00 | Wall Street Week | SpaceX Goes Public, Google’s AI Bet, Worl
+   - QxGrJK5uW2U | ongoing=False | publishedAt=2026-06-12T22:33:00Z | actualEndTime=None | effective=2026-06-12 22:33:00+00:00 | SpaceX Jumps in First Day Following Record $75B IPO | The Cl
+   - EupnwwJhXZA | ongoing=False | publishedAt=2026-06-12T22:27:22Z | actualEndTime=None | effective=2026-06-12 22:27:22+00:00 | Inside Trump’s White House UFC Arena
+   - pzrnZujkCYo | ongoing=False | publishedAt=2026-06-12T22:11:48Z | actualEndTime=None | effective=2026-06-12 22:11:48+00:00 | Record SpaceX IPO Climbs in First-Day Trading | Bloomberg Bu
+   - ULR2qDUzcP0 | ongoing=False | publishedAt=2026-06-12T21:23:30Z | actualEndTime=None | effective=2026-06-12 21:23:30+00:00 | NYC Comptroller raises concerns over SpaceX IPO
+   - _36IKCSbjhw | ongoing=False | publishedAt=2026-06-12T21:17:48Z | actualEndTime=None | effective=2026-06-12 21:17:48+00:00 | Look Ahead: Retail Sales, FMOC, NBA Finals
+   - 7K-C-37J91o | ongoing=False | publishedAt=2026-06-12T21:11:20Z | actualEndTime=None | effective=2026-06-12 21:11:20+00:00 | SpaceX Makes History With Biggest-Ever IPO | Bloomberg Money
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Covid EXPOSED
-  URL: https://www.youtube.com/watch?v=DCrSliNJqNk
-  publishedAt: 2026-06-12T04:00:25Z
+  제목: PBD On Having A Single President
+  URL: https://www.youtube.com/watch?v=cV-cXkQObt8
+  publishedAt: 2026-06-13T04:00:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - cV-cXkQObt8 | ongoing=False | publishedAt=2026-06-13T04:00:13Z | actualEndTime=None | effective=2026-06-13 04:00:13+00:00 | PBD On Having A Single President
+   - oTTfyWyBzXU | ongoing=False | publishedAt=2026-06-12T22:59:21Z | actualEndTime=None | effective=2026-06-12 22:59:21+00:00 | The Private Credit Disaster is Worsening | Here's WHY
+   - EFB6KvmA-GA | ongoing=False | publishedAt=2026-06-12T15:05:00Z | actualEndTime=None | effective=2026-06-12 15:05:00+00:00 | THIS IS IT! PREPARE
+   - HjjhQ8ghx58 | ongoing=False | publishedAt=2026-06-12T11:00:38Z | actualEndTime=None | effective=2026-06-12 11:00:38+00:00 | PBD EXPOSES California
    - DCrSliNJqNk | ongoing=False | publishedAt=2026-06-12T04:00:25Z | actualEndTime=None | effective=2026-06-12 04:00:25+00:00 | Covid EXPOSED
    - 75H6WwPLLDU | ongoing=False | publishedAt=2026-06-11T17:51:36Z | actualEndTime=None | effective=2026-06-11 17:51:36+00:00 | WATCH **BEFORE** THE SPACEX IPO.
    - OF75LXcybjY | ongoing=False | publishedAt=2026-06-11T11:00:20Z | actualEndTime=None | effective=2026-06-11 11:00:20+00:00 | Beat The Market
-   - koEknEeT7aE | ongoing=False | publishedAt=2026-06-11T02:00:18Z | actualEndTime=None | effective=2026-06-11 02:00:18+00:00 | $500,000 Self Driving Car
-   - lNOuCF5qR7Q | ongoing=False | publishedAt=2026-06-10T16:31:38Z | actualEndTime=None | effective=2026-06-10 16:31:38+00:00 | ah f**k again… TRUMP JUST ANNOUNCED
-   - eWGojZAwY_M | ongoing=False | publishedAt=2026-06-10T11:30:30Z | actualEndTime=None | effective=2026-06-10 11:30:30+00:00 | Inflate National Debt
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  "오늘 밤 타격한다"더니 돌연 합의? 트럼프 한마디에 폭등한 미 증시!   -  2026/06/11
-  URL: https://www.youtube.com/watch?v=W3q0cJpZbBQ
-  publishedAt: 2026-06-11T22:35:18Z
+  제목: 【미국 증시 오늘의 요약】  스페이스X 화려한 데뷔! 이란 평화 협정 기대감에 증시 상승   -  2026/06/12
+  URL: https://www.youtube.com/watch?v=wJakQ-RGtqM
+  publishedAt: 2026-06-12T21:51:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - wJakQ-RGtqM | ongoing=False | publishedAt=2026-06-12T21:51:03Z | actualEndTime=None | effective=2026-06-12 21:51:03+00:00 | 【미국 증시 오늘의 요약】  스페이스X 화려한 데뷔! 이란 평화 협정 기대감에 증시 상승   -  2026/
+   - IoF6gyvXPuI | ongoing=False | publishedAt=2026-06-12T21:27:06Z | actualEndTime=2026-06-12T21:04:23Z | effective=2026-06-12 21:04:23+00:00 | [26년 06월 12일 금]  스페이스X, 상장 예정 ｜ 로켓랩·코어위브·네비우스, 나스닥100 편입 ｜미국
    - W3q0cJpZbBQ | ongoing=False | publishedAt=2026-06-11T22:35:18Z | actualEndTime=None | effective=2026-06-11 22:35:18+00:00 | 【미국 증시 오늘의 요약】  "오늘 밤 타격한다"더니 돌연 합의? 트럼프 한마디에 폭등한 미 증시!   - 
    - AfbGLfL7teI | ongoing=False | publishedAt=2026-06-11T22:11:19Z | actualEndTime=2026-06-11T21:45:04Z | effective=2026-06-11 21:45:04+00:00 | [26년 06월 11일 목]  생산자물가지수(PPI), 유럽 기준금리 결정 ｜ 미국·이란 합의 근접 VS 확
-   - O1yVzHGsL08 | ongoing=False | publishedAt=2026-06-10T22:44:32Z | actualEndTime=None | effective=2026-06-10 22:44:32+00:00 | 【미국 증시 오늘의 요약】   물가 둔화에도 웃지 못한 월가… 중동 리스크 고조 & 스페이스X 상장 여파에 
-   - EWYRvWF3cS4 | ongoing=False | publishedAt=2026-06-10T22:12:54Z | actualEndTime=2026-06-10T21:53:20Z | effective=2026-06-10 21:53:20+00:00 | [26년 06월 10일 수]  소비자물가지수(CPI) ｜트럼프, '이란, 이제 대가를 치를 차례'  ｜TSM
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 비중 관리의 중요성, 물타기가 어려운 이유
-  URL: https://www.youtube.com/watch?v=K3n1CBFEjUI
-  publishedAt: 2026-06-12T01:00:36Z
+  제목: 단타를 확인할 수 있는 나의 멘탈과 그릇
+  URL: https://www.youtube.com/watch?v=Vb-PErWKKaw
+  publishedAt: 2026-06-13T02:59:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Vb-PErWKKaw | ongoing=False | publishedAt=2026-06-13T02:59:18Z | actualEndTime=None | effective=2026-06-13 02:59:18+00:00 | 단타를 확인할 수 있는 나의 멘탈과 그릇
    - K3n1CBFEjUI | ongoing=False | publishedAt=2026-06-12T01:00:36Z | actualEndTime=None | effective=2026-06-12 01:00:36+00:00 | 비중 관리의 중요성, 물타기가 어려운 이유
    - 9Q3OFsx8D1w | ongoing=False | publishedAt=2026-06-11T23:57:50Z | actualEndTime=2026-06-11T23:45:22Z | effective=2026-06-11 23:45:22+00:00 | 트럼프 리딩방 ON!!! 조정 벌써 끝난거야??ㅣ[아침뉴스&미국시황] #260612
    - F3K8Y4K-IkA | ongoing=False | publishedAt=2026-06-11T07:10:21Z | actualEndTime=None | effective=2026-06-11 07:10:21+00:00 | 빅테크의 연쇄 유상증자, 시장에 부담으로 작용하는 이유
-   - YanXNMrRFT0 | ongoing=False | publishedAt=2026-06-11T01:00:37Z | actualEndTime=None | effective=2026-06-11 01:00:37+00:00 | 갑자기 빠지는 시장, 그 이유는 가격선에 있다
-   - vJGIoVyNzNk | ongoing=False | publishedAt=2026-06-11T00:22:40Z | actualEndTime=2026-06-11T00:12:57Z | effective=2026-06-11 00:12:57+00:00 | 유상증자는 고점 시그널인가? 매수기회인가?ㅣ[아침뉴스&미국시황] #260611
-   - msHm4pZFnkA | ongoing=False | publishedAt=2026-06-10T08:58:23Z | actualEndTime=None | effective=2026-06-10 08:58:23+00:00 | 공포가 깊어질수록 기회는 가까워진다
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 나스닥 떡상과 국장이 더블로 좋은 이유
-  URL: https://www.youtube.com/watch?v=ggyAq5A6I2M
-  publishedAt: 2026-06-11T18:31:41Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - ggyAq5A6I2M | ongoing=False | publishedAt=2026-06-11T18:31:41Z | actualEndTime=None | effective=2026-06-11 18:31:41+00:00 | 나스닥 떡상과 국장이 더블로 좋은 이유
-   - 1wcoRWM4QnE | ongoing=False | publishedAt=2026-06-10T17:47:06Z | actualEndTime=None | effective=2026-06-10 17:47:06+00:00 | 나스닥 하락하지만 괜찮다?? ( 5월 CPI 발표)
-   - K2QyTf5GZSg | ongoing=False | publishedAt=2026-06-10T05:57:31Z | actualEndTime=None | effective=2026-06-10 05:57:31+00:00 | 코스피 사이드카 3가지 악재
 
 - 소수몽키
   상태: NO_VIDEO
