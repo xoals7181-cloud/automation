@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-14 14:23 (KST)
-Run: 179 (id=27489367787)
+생성 시각: 2026-06-15 15:15 (KST)
+Run: 180 (id=27527681278)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,59 +8,57 @@ Run: 179 (id=27489367787)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: The Era of the jumbo IPOs #shorts #spacex #ipo #elonmusk
-  URL: https://www.youtube.com/watch?v=C_kWDMdgWxU
-  publishedAt: 2026-06-13T21:00:23Z
+  제목: US-Iran Deal Triggers Rally in Asian Stocks | The China Show 6/15/2026
+  URL: https://www.youtube.com/watch?v=JFHc2pElsEo
+  publishedAt: 2026-06-15T06:07:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - C_kWDMdgWxU | ongoing=False | publishedAt=2026-06-13T21:00:23Z | actualEndTime=None | effective=2026-06-13 21:00:23+00:00 | The Era of the jumbo IPOs #shorts #spacex #ipo #elonmusk
-   - h_tQ-7sY2CM | ongoing=False | publishedAt=2026-06-13T18:18:22Z | actualEndTime=None | effective=2026-06-13 18:18:22+00:00 | Bloomberg This Weekend | SpaceX Launches Biggest IPO, Team U
-   - 1QzJicJ16kI | ongoing=False | publishedAt=2026-06-13T17:20:40Z | actualEndTime=None | effective=2026-06-13 17:20:40+00:00 | Why Musk Raced to Take SpaceX Public in the World’s Biggest 
-   - 4nkdvqqyyzU | ongoing=False | publishedAt=2026-06-13T17:05:11Z | actualEndTime=None | effective=2026-06-13 17:05:11+00:00 | Caffeine Minimalists Rewrite Routines to Battle Coffee Jitte
-   - BQs-ZGSmuNQ | ongoing=False | publishedAt=2026-06-13T16:18:21Z | actualEndTime=None | effective=2026-06-13 16:18:21+00:00 | Pointed News Quiz | Weather, Currency, Shoes
-   - RfwuiLEn7wQ | ongoing=False | publishedAt=2026-06-13T16:08:17Z | actualEndTime=None | effective=2026-06-13 16:08:17+00:00 | Swarovski CEO's focus on "modern luxury" to return the 131-y
-   - mBwZTCIHXQo | ongoing=False | publishedAt=2026-06-13T16:03:53Z | actualEndTime=None | effective=2026-06-13 16:03:53+00:00 | The Knicks’ Name Traces Back to a 200-Year-Old Publicity Stu
-   - Qi2gFMbtODY | ongoing=False | publishedAt=2026-06-13T15:50:13Z | actualEndTime=None | effective=2026-06-13 15:50:13+00:00 | US and Iran Move Closer to Deal Despite Hormuz Skirmishes
-   - 70QeaWhbTzE | ongoing=False | publishedAt=2026-06-13T15:39:39Z | actualEndTime=None | effective=2026-06-13 15:39:39+00:00 | Trillionaire Musk Is Three Times Richer Than Closest Rival
-   - R0IL1faLxYM | ongoing=False | publishedAt=2026-06-13T15:09:45Z | actualEndTime=None | effective=2026-06-13 15:09:45+00:00 | Nuns, Witches, Knicks | BTW: Headlines You Should See
+   - JFHc2pElsEo | ongoing=False | publishedAt=2026-06-15T06:07:18Z | actualEndTime=None | effective=2026-06-15 06:07:18+00:00 | US-Iran Deal Triggers Rally in Asian Stocks | The China Show
+   - AffD-rcFWIo | ongoing=False | publishedAt=2026-06-15T05:51:23Z | actualEndTime=None | effective=2026-06-15 05:51:23+00:00 | Swiss Referendum: Voters Reject 10 Million Population Cap Pr
+   - OVyVXsFQ0FI | ongoing=False | publishedAt=2026-06-15T05:43:06Z | actualEndTime=None | effective=2026-06-15 05:43:06+00:00 | Oil Down on US-Iran Interim Hormuz Deal
+   - YNCGzZr7AkM | ongoing=False | publishedAt=2026-06-15T03:39:51Z | actualEndTime=None | effective=2026-06-15 03:39:51+00:00 | Stocks Rally, Oil Falls on Long-Awaited Iran Peace Deal | Th
+   - 6NPKyG2XdKI | ongoing=False | publishedAt=2026-06-15T02:18:58Z | actualEndTime=2026-06-14T14:01:21Z | effective=2026-06-14 14:01:21+00:00 | Knicks Win, G7 Meeting in France,  & Us-Iran Talks  | Bloomb
+   - P-n3TvPbX_I | ongoing=False | publishedAt=2026-06-14T17:03:38Z | actualEndTime=None | effective=2026-06-14 17:03:38+00:00 | Bloomberg This Weekend | Knicks In 5, Iran Deal Uncertain at
+   - Ul_YoaUWDDY | ongoing=False | publishedAt=2026-06-14T15:39:12Z | actualEndTime=None | effective=2026-06-14 15:39:12+00:00 | Approachable Luxury Father's Day Gifts
+   - DG973wiJx1s | ongoing=False | publishedAt=2026-06-14T15:32:00Z | actualEndTime=None | effective=2026-06-14 15:32:00+00:00 | G7 Summit Delayed Amid Absence of US President
+   - 7hNAA2JZI_A | ongoing=False | publishedAt=2026-06-14T15:26:13Z | actualEndTime=None | effective=2026-06-14 15:26:13+00:00 | Questions Raised Over Costs of UFC Event at White House
+   - wm3lzMKNTYE | ongoing=False | publishedAt=2026-06-14T15:18:21Z | actualEndTime=None | effective=2026-06-14 15:18:21+00:00 | Tehran Hesitates and US Remains Silent on Terms of Deal
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: The Stock Market Is a Scam
-  URL: https://www.youtube.com/watch?v=uO0DKljanm8
-  publishedAt: 2026-06-14T04:00:04Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - n39vdv2XCjw | ongoing=False | publishedAt=2026-06-14T14:47:29Z | actualEndTime=None | effective=2026-06-14 14:47:29+00:00 | THUMBS DOWN
+   - WLZGxKwG0rU | ongoing=False | publishedAt=2026-06-14T11:00:14Z | actualEndTime=None | effective=2026-06-14 11:00:14+00:00 | Why $100M Is NOT Enough
    - uO0DKljanm8 | ongoing=False | publishedAt=2026-06-14T04:00:04Z | actualEndTime=None | effective=2026-06-14 04:00:04+00:00 | The Stock Market Is a Scam
    - Gg_dyJGK1e0 | ongoing=False | publishedAt=2026-06-13T11:00:22Z | actualEndTime=None | effective=2026-06-13 11:00:22+00:00 | Poor People Are Gonna Get Squeezed Out
-   - cV-cXkQObt8 | ongoing=False | publishedAt=2026-06-13T04:00:13Z | actualEndTime=None | effective=2026-06-13 04:00:13+00:00 | PBD On Having A Single President
-   - oTTfyWyBzXU | ongoing=False | publishedAt=2026-06-12T22:59:21Z | actualEndTime=None | effective=2026-06-12 22:59:21+00:00 | The Private Credit Disaster is Worsening | Here's WHY
-   - EFB6KvmA-GA | ongoing=False | publishedAt=2026-06-12T15:05:00Z | actualEndTime=None | effective=2026-06-12 15:05:00+00:00 | THIS IS IT! PREPARE
-   - HjjhQ8ghx58 | ongoing=False | publishedAt=2026-06-12T11:00:38Z | actualEndTime=None | effective=2026-06-12 11:00:38+00:00 | PBD EXPOSES California
 
 - 오선의 미국 증시
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 8QROpfbjZrI | ongoing=False | publishedAt=2026-06-13T15:05:39Z | actualEndTime=None | effective=2026-06-13 15:05:39+00:00 | [공지] ACE 우주테크 ETF 광고 관련 안내드립니다
-   - wJakQ-RGtqM | ongoing=False | publishedAt=2026-06-12T21:51:03Z | actualEndTime=None | effective=2026-06-12 21:51:03+00:00 | 【미국 증시 오늘의 요약】  스페이스X 화려한 데뷔! 이란 평화 협정 기대감에 증시 상승   -  2026/
-   - IoF6gyvXPuI | ongoing=False | publishedAt=2026-06-12T21:27:06Z | actualEndTime=2026-06-12T21:04:23Z | effective=2026-06-12 21:04:23+00:00 | [26년 06월 12일 금]  스페이스X, 상장 예정 ｜ 로켓랩·코어위브·네비우스, 나스닥100 편입 ｜미국
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 반도체 장세가 끝났다고? 아직 돈은 더 들어간다
-  URL: https://www.youtube.com/watch?v=n1gaD2wWB0Q
-  publishedAt: 2026-06-14T01:10:46Z
+  제목: 호르무즈 금요일에 열립니다ㅣ[아침뉴스&미국시황] #260615
+  URL: https://www.youtube.com/watch?v=QrYn3WVcRRA
+  publishedAt: 2026-06-15T00:02:00Z
+  actualEndTime: 2026-06-14T23:56:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QrYn3WVcRRA | ongoing=False | publishedAt=2026-06-15T00:02:00Z | actualEndTime=2026-06-14T23:56:13Z | effective=2026-06-14 23:56:13+00:00 | 호르무즈 금요일에 열립니다ㅣ[아침뉴스&미국시황] #260615
    - n1gaD2wWB0Q | ongoing=False | publishedAt=2026-06-14T01:10:46Z | actualEndTime=None | effective=2026-06-14 01:10:46+00:00 | 반도체 장세가 끝났다고? 아직 돈은 더 들어간다
    - KkPoqclS18A | ongoing=False | publishedAt=2026-06-14T01:00:13Z | actualEndTime=None | effective=2026-06-14 01:00:13+00:00 | 6월에만 300조 유증, 시장 유동성이 빨려간다!
-   - Vb-PErWKKaw | ongoing=False | publishedAt=2026-06-13T02:59:18Z | actualEndTime=None | effective=2026-06-13 02:59:18+00:00 | 단타를 확인할 수 있는 나의 멘탈과 그릇
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 미국 이란 전쟁 드디어 끝난다?
+  URL: https://www.youtube.com/watch?v=8BU6ZH3aVZo
+  publishedAt: 2026-06-15T01:11:10Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 8BU6ZH3aVZo | ongoing=False | publishedAt=2026-06-15T01:11:10Z | actualEndTime=None | effective=2026-06-15 01:11:10+00:00 | 미국 이란 전쟁 드디어 끝난다?
    - dB4WmhJPKv8 | ongoing=False | publishedAt=2026-06-13T16:10:39Z | actualEndTime=None | effective=2026-06-13 16:10:39+00:00 | 한국의 미래를 보았습니다.
 
 - 소수몽키
