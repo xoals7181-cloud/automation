@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-17 15:01 (KST)
-Run: 182 (id=27669121952)
+생성 시각: 2026-06-18 14:28 (KST)
+Run: 183 (id=27738794324)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,75 @@ Run: 182 (id=27669121952)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Oil Slides Below $80 as Iran Breakthrough Takes Shape | Insight with Haslinda Amin 06/17/2026
-  URL: https://www.youtube.com/watch?v=QNckN9s3t7s
-  publishedAt: 2026-06-17T05:40:47Z
+  제목: Trump says the Iran peace deal has been signed #politics #shorts
+  URL: https://www.youtube.com/watch?v=yCYNh_X1RkY
+  publishedAt: 2026-06-18T01:16:44Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - QNckN9s3t7s | ongoing=False | publishedAt=2026-06-17T05:40:47Z | actualEndTime=None | effective=2026-06-17 05:40:47+00:00 | Oil Slides Below $80 as Iran Breakthrough Takes Shape | Insi
-   - tUClxFLe9QA | ongoing=False | publishedAt=2026-06-17T03:26:19Z | actualEndTime=2026-06-16T15:19:39Z | effective=2026-06-16 15:19:39+00:00 | RBC President and CEO Dave McKay | Bloomberg Newsmakers
-   - ANDegDSNt1o | ongoing=False | publishedAt=2026-06-16T23:32:16Z | actualEndTime=None | effective=2026-06-16 23:32:16+00:00 | US Draft Deal Includes Financial Incentives for Iran | Balan
-   - r4mpe0UcUzk | ongoing=False | publishedAt=2026-06-16T22:46:27Z | actualEndTime=None | effective=2026-06-16 22:46:27+00:00 | Sen. Johnson: US Must Keep Iran ‘In a Box’
-   - rCJJw4fYnp8 | ongoing=False | publishedAt=2026-06-16T22:33:47Z | actualEndTime=None | effective=2026-06-16 22:33:47+00:00 | The Close 6/16/2026
-   - 1mYm1gw4S5k | ongoing=False | publishedAt=2026-06-16T21:54:23Z | actualEndTime=None | effective=2026-06-16 21:54:23+00:00 | Senator Warren on Iran Deal, Fed's Warsh and SpaceX IPO
-   - nCSII5fCHsw | ongoing=False | publishedAt=2026-06-16T21:17:31Z | actualEndTime=None | effective=2026-06-16 21:17:31+00:00 | SpaceX Soars in 3rd Day of Trading, Set to Overtake Amazon| 
-   - v38LY7Dnb9w | ongoing=False | publishedAt=2026-06-16T21:10:03Z | actualEndTime=None | effective=2026-06-16 21:10:03+00:00 | US, Iran Prepare to Sign Deal | Balance of Power 6/16/2026
-   - ePKH1JVDNzA | ongoing=False | publishedAt=2026-06-16T20:28:55Z | actualEndTime=None | effective=2026-06-16 20:28:55+00:00 | US Set to Offer Iran Broad Financial Gains in Deal to End Wa
-   - jGU-2T4h8WY | ongoing=False | publishedAt=2026-06-16T20:28:27Z | actualEndTime=None | effective=2026-06-16 20:28:27+00:00 | Tech Stocks Halt S&P 500 Rally | Closing Bell
+   - yCYNh_X1RkY | ongoing=False | publishedAt=2026-06-18T01:16:44Z | actualEndTime=None | effective=2026-06-18 01:16:44+00:00 | Trump says the Iran peace deal has been signed #politics #sh
+   - shg8PmcVOyU | ongoing=False | publishedAt=2026-06-18T01:00:02Z | actualEndTime=None | effective=2026-06-18 01:00:02+00:00 | G7 Leaders Gather for Evening Reception in France
+   - qeDSaSqw36M | ongoing=False | publishedAt=2026-06-18T00:22:09Z | actualEndTime=None | effective=2026-06-18 00:22:09+00:00 | Trump Threatens Fresh Iran Strikes 'If They Don't Behave'
+   - OSABwSQB_bQ | ongoing=False | publishedAt=2026-06-17T23:57:58Z | actualEndTime=None | effective=2026-06-17 23:57:58+00:00 | Trump: Interim Deal to be Signed in Next 48 Hours | Balance 
+   - MeOA39dwVjY | ongoing=False | publishedAt=2026-06-17T23:29:35Z | actualEndTime=None | effective=2026-06-17 23:29:35+00:00 | Warsh Vows Reforms as Fed Holds Rates| Bloomberg Businesswee
+   - Kw7G8K9KAvo | ongoing=False | publishedAt=2026-06-17T23:00:13Z | actualEndTime=None | effective=2026-06-17 23:00:13+00:00 | Trump Criticizes Israel Over Lebanon at G7 Summit in France
+   - Y8EBkOYkRVI | ongoing=False | publishedAt=2026-06-17T22:00:41Z | actualEndTime=None | effective=2026-06-17 22:00:41+00:00 | G7 Leaders Take Family Photo on Final Day of Summit
+   - 6E2t9qz85tc | ongoing=False | publishedAt=2026-06-17T21:57:54Z | actualEndTime=None | effective=2026-06-17 21:57:54+00:00 | Bloomberg Surveillance: The Fed Decides 6/17/2026
+   - 27vKlAZrKUM | ongoing=False | publishedAt=2026-06-17T21:51:16Z | actualEndTime=None | effective=2026-06-17 21:51:16+00:00 | Stocks Fall as Traders See Fed Hike by October | The Close 6
+   - cSF-dRpbg4M | ongoing=False | publishedAt=2026-06-17T21:43:21Z | actualEndTime=None | effective=2026-06-17 21:43:21+00:00 | Trump's Blunt Warning to Iran Over Oil Fees
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Popcorn Ceilings Are RUINING Your Property Value!
-  URL: https://www.youtube.com/watch?v=1SiB-Z1qb4I
-  publishedAt: 2026-06-17T04:00:11Z
+  제목: The BEST Way To Spend Money
+  URL: https://www.youtube.com/watch?v=RF5pFujQlOI
+  publishedAt: 2026-06-18T04:00:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - RF5pFujQlOI | ongoing=False | publishedAt=2026-06-18T04:00:36Z | actualEndTime=None | effective=2026-06-18 04:00:36+00:00 | The BEST Way To Spend Money
+   - l5kXf3-oiFI | ongoing=False | publishedAt=2026-06-17T19:59:12Z | actualEndTime=None | effective=2026-06-17 19:59:12+00:00 | Fed Warsh JUST TANKED the Market.
+   - 8he3tzwhVR4 | ongoing=False | publishedAt=2026-06-17T19:37:37Z | actualEndTime=2026-06-17T19:32:35Z | effective=2026-06-17 19:32:35+00:00 | *The Federal Reserve FOMC Presser & Rate Decision | Kevin Wa
+   - 302QWY_RYP8 | ongoing=False | publishedAt=2026-06-17T10:00:31Z | actualEndTime=None | effective=2026-06-17 10:00:31+00:00 | This Is The BEST Decade To Buy Real Estate!
    - 1SiB-Z1qb4I | ongoing=False | publishedAt=2026-06-17T04:00:11Z | actualEndTime=None | effective=2026-06-17 04:00:11+00:00 | Popcorn Ceilings Are RUINING Your Property Value!
    - 2z9CUMZ0j8M | ongoing=False | publishedAt=2026-06-17T00:39:07Z | actualEndTime=None | effective=2026-06-17 00:39:07+00:00 | The Iran Deal is a DISASTER | WW3 Warning.
    - RIruchen9JY | ongoing=False | publishedAt=2026-06-16T17:48:47Z | actualEndTime=None | effective=2026-06-16 17:48:47+00:00 | The Fed SHOCK Hits *TOMORROW* | Watch BEFORE WEDNESDAY
    - 2CvJoupkAFE | ongoing=False | publishedAt=2026-06-16T14:17:08Z | actualEndTime=None | effective=2026-06-16 14:17:08+00:00 | Elon is about to Execute SpaceX Phase 2: PREPARE NOW.
    - 9tuQIK8GWP4 | ongoing=False | publishedAt=2026-06-16T10:00:10Z | actualEndTime=None | effective=2026-06-16 10:00:10+00:00 | Skipping Chipotle Won’t Make You Rich!
-   - 2QiwEXrgmF8 | ongoing=False | publishedAt=2026-06-16T03:00:04Z | actualEndTime=None | effective=2026-06-16 03:00:04+00:00 | My Private Jet Costed $3M+ Per Year…
-   - UaJ6CnCceNY | ongoing=False | publishedAt=2026-06-15T20:15:38Z | actualEndTime=None | effective=2026-06-15 20:15:38+00:00 | Iran Is Building A Nuke In Pickaxe Mountain
-   - NmV949l2u0k | ongoing=False | publishedAt=2026-06-15T17:41:19Z | actualEndTime=None | effective=2026-06-15 17:41:19+00:00 | Elon Musk Is Merging TSLA & SPCX
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  워시 첫 금리 결정 앞두고 시장 긴장…  스페이스X가 아마존을 넘었다!    -  2026/06/16
-  URL: https://www.youtube.com/watch?v=KW6Ag2IV6PI
-  publishedAt: 2026-06-16T22:10:27Z
+  제목: 【미국 증시 오늘의 요약】  연준, 금리 동결했지만 시장은 충격…점도표에 담긴 인상 가능성    -  2026/06/17
+  URL: https://www.youtube.com/watch?v=oiVXhq_0cAg
+  publishedAt: 2026-06-17T22:31:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - oiVXhq_0cAg | ongoing=False | publishedAt=2026-06-17T22:31:04Z | actualEndTime=None | effective=2026-06-17 22:31:04+00:00 | 【미국 증시 오늘의 요약】  연준, 금리 동결했지만 시장은 충격…점도표에 담긴 인상 가능성    -  202
+   - A1SbuoiHi8I | ongoing=False | publishedAt=2026-06-17T22:03:28Z | actualEndTime=2026-06-17T21:44:56Z | effective=2026-06-17 21:44:56+00:00 | [26년 06월 17일 수]  기준금리 결정, FOMC 기자회견 ｜ 트럼프, "이란 MOU 합의" ｜ 씨티,
    - KW6Ag2IV6PI | ongoing=False | publishedAt=2026-06-16T22:10:27Z | actualEndTime=None | effective=2026-06-16 22:10:27+00:00 | 【미국 증시 오늘의 요약】  워시 첫 금리 결정 앞두고 시장 긴장…  스페이스X가 아마존을 넘었다!    -
    - ejK5I3eCWpk | ongoing=False | publishedAt=2026-06-16T21:46:27Z | actualEndTime=2026-06-16T21:23:01Z | effective=2026-06-16 21:23:01+00:00 | [26년 06월 16일 화]  트럼프 “이란 합의 공정하고 성공적일 것” ｜ 일본, 기준금리 인상 ｜스페이스
-   - jAvxJyUikTs | ongoing=False | publishedAt=2026-06-15T22:20:19Z | actualEndTime=None | effective=2026-06-15 22:20:19+00:00 | 【미국 증시 오늘의 요약】  스페이스X 이틀째 폭등! 미·이란 합의에 위험자산 랠리    -  2026/06
-   - UE1Bd6vntTA | ongoing=False | publishedAt=2026-06-15T21:47:01Z | actualEndTime=2026-06-15T21:24:46Z | effective=2026-06-15 21:24:46+00:00 | [26년 06월 15일 (월)]  미국·이란 전쟁 종식 및 호르무즈 해협 재개방 합의 ｜ G-7 정상회의 ｜
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: Space X의 품절주 효과! 시총 1등도 가능하지만...
-  URL: https://www.youtube.com/watch?v=MUryEh6SWrA
-  publishedAt: 2026-06-17T05:10:19Z
+  제목: 삼성전자, SK하이닉스가 0.5 마이크론인 이유
+  URL: https://www.youtube.com/watch?v=52SQO3v_HuY
+  publishedAt: 2026-06-18T03:00:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 52SQO3v_HuY | ongoing=False | publishedAt=2026-06-18T03:00:31Z | actualEndTime=None | effective=2026-06-18 03:00:31+00:00 | 삼성전자, SK하이닉스가 0.5 마이크론인 이유
+   - HodQL3X_spo | ongoing=False | publishedAt=2026-06-18T00:21:48Z | actualEndTime=2026-06-18T00:13:35Z | effective=2026-06-18 00:13:35+00:00 | FOMC Review, 케빈 워시는 어떤 의장인가?ㅣSPCX, 200달러 붕괴! 공매도 영향이다?ㅣMSFT,
    - MUryEh6SWrA | ongoing=False | publishedAt=2026-06-17T05:10:19Z | actualEndTime=None | effective=2026-06-17 05:10:19+00:00 | Space X의 품절주 효과! 시총 1등도 가능하지만...
    - ZOJ-APtZKHI | ongoing=False | publishedAt=2026-06-17T04:06:00Z | actualEndTime=None | effective=2026-06-17 04:06:00+00:00 | 한국 주식 중에서 아몰랑 분할매수 가능한 종목!!!
    - -aA11qPLDrs | ongoing=False | publishedAt=2026-06-17T00:23:28Z | actualEndTime=2026-06-17T00:10:58Z | effective=2026-06-17 00:10:58+00:00 | SpaceX, 옵션 거래 1일차 = 믿고 있었다구!!ㅣ반도체 조정? 이젠 감흥도 없음ㅣ지금 시장, 대응 방법
-   - qx-5M-QH7JQ | ongoing=False | publishedAt=2026-06-16T03:00:10Z | actualEndTime=None | effective=2026-06-16 03:00:10+00:00 | 상남자 매매하다가 계좌 수명 짧아진다!
-   - DQtzzDMd36k | ongoing=False | publishedAt=2026-06-16T00:12:41Z | actualEndTime=2026-06-16T00:06:22Z | effective=2026-06-16 00:06:22+00:00 | SpaceX, 떡상열차 출발합니다!!!ㅣ코스피, 만스피가 보인다!!?ㅣ그래서 이번 고점은 어디에요?ㅣ[아침뉴
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 나스닥에 새로운 저승사자가 찾아왔습니다. (FOMC 리뷰)
+  URL: https://www.youtube.com/watch?v=2d2vTDM5t0E
+  publishedAt: 2026-06-17T22:34:51Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2d2vTDM5t0E | ongoing=False | publishedAt=2026-06-17T22:34:51Z | actualEndTime=None | effective=2026-06-17 22:34:51+00:00 | 나스닥에 새로운 저승사자가 찾아왔습니다. (FOMC 리뷰)
+   - aU3y_4pmAl8 | ongoing=False | publishedAt=2026-06-17T21:50:09Z | actualEndTime=None | effective=2026-06-17 21:50:09+00:00 | 나스닥이 케빈워시라는 새로운 암초를 만났습니다 ㄷㄷㄷ (FOMC 리뷰)
+   - 9tuAd94AIuY | ongoing=False | publishedAt=2026-06-17T08:55:31Z | actualEndTime=None | effective=2026-06-17 08:55:31+00:00 | 상장후 50% 나 올랐다고? 스페이스엑스 급등의 비밀
+   - 73M1_7YXcbg | ongoing=False | publishedAt=2026-06-17T06:43:05Z | actualEndTime=None | effective=2026-06-17 06:43:05+00:00 | 떡락했던 코스피가 반등한 2가지 이유
    - sG9eA8x8Pyk | ongoing=False | publishedAt=2026-06-16T13:52:23Z | actualEndTime=None | effective=2026-06-16 13:52:23+00:00 | 스페이스엑스 떡상의 비밀
 
 - 소수몽키
@@ -76,4 +84,3 @@ Run: 182 (id=27669121952)
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - a7UJq7JCyU4 | ongoing=False | publishedAt=2026-06-16T09:41:58Z | actualEndTime=None | effective=2026-06-16 09:41:58+00:00 | 동맹국도 예외 없다? 트럼프의 깜짝 AI 금지령에 본격 주목 받을 수혜주들
-   - tCWjEU-CLWU | ongoing=False | publishedAt=2026-06-15T12:41:20Z | actualEndTime=None | effective=2026-06-15 12:41:20+00:00 | 삼전닉스발 대규모 투자 시작, 월가에서 새롭게 주목 받는 수혜주들
