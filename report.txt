@@ -1,77 +1,64 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-19 15:08 (KST)
-Run: 184 (id=27808804264)
+생성 시각: 2026-06-20 14:03 (KST)
+Run: 185 (id=27860969165)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: India Not Out of the Woods, Reforms Key: BofA
-  URL: https://www.youtube.com/watch?v=ygd4jTSYBWk
-  publishedAt: 2026-06-19T05:56:35Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - ygd4jTSYBWk | ongoing=False | publishedAt=2026-06-19T05:56:35Z | actualEndTime=None | effective=2026-06-19 05:56:35+00:00 | India Not Out of the Woods, Reforms Key: BofA
-   - WD7dAdstja0 | ongoing=False | publishedAt=2026-06-19T03:22:05Z | actualEndTime=None | effective=2026-06-19 03:22:05+00:00 | Asian Stocks Hit Record, Oil Heads for Weekly Loss | The Asi
-   - uDlVGcOdoIM | ongoing=False | publishedAt=2026-06-19T00:00:49Z | actualEndTime=None | effective=2026-06-19 00:00:49+00:00 | Vance Warns Israel Against Attacking its 'Only Powerful Ally
-   - GP9UmQqxpLg | ongoing=False | publishedAt=2026-06-18T22:56:23Z | actualEndTime=None | effective=2026-06-18 22:56:23+00:00 | Fed Rate-Hike Bets Fuel Equities Rally | The Close 6/18/2026
-   - aSXF15f3hjE | ongoing=False | publishedAt=2026-06-18T21:55:47Z | actualEndTime=None | effective=2026-06-18 21:55:47+00:00 | US-Iran Deal Eases Inflation Angst, Knicks Celebrate in NYC|
-   - zZxLerRjS3M | ongoing=False | publishedAt=2026-06-18T21:34:06Z | actualEndTime=None | effective=2026-06-18 21:34:06+00:00 | Iran Deal a 'Real Defeat' for the US, John Bolton Says
-   - TryLbx-vE_s | ongoing=False | publishedAt=2026-06-18T20:51:11Z | actualEndTime=None | effective=2026-06-18 20:51:11+00:00 | Thousands of Public-School Staff Across US Face Layoff Warni
-   - JeBC1DEyayg | ongoing=False | publishedAt=2026-06-18T20:42:09Z | actualEndTime=None | effective=2026-06-18 20:42:09+00:00 | Newsom Rushes to Sink Billionaire Tax Before Deadline
-   - jMKFGgkPMZs | ongoing=False | publishedAt=2026-06-18T20:04:21Z | actualEndTime=None | effective=2026-06-18 20:04:21+00:00 | Warsh Rocks Bond Market in Debut, Sparks Surge in Hike Bets
-   - xH8L6FMWDtI | ongoing=False | publishedAt=2026-06-18T20:04:53Z | actualEndTime=None | effective=2026-06-18 20:04:53+00:00 | Stocks rally as US-Iran sign interim deal, oil prices drop
+   - IGWP9i5xFZs | ongoing=False | publishedAt=2026-06-19T12:00:36Z | actualEndTime=None | effective=2026-06-19 12:00:36+00:00 | India's Biggest Exchange NSE Eyes IPO #markets #ipo
+   - ME0prQf6vro | ongoing=False | publishedAt=2026-06-19T10:50:50Z | actualEndTime=None | effective=2026-06-19 10:50:50+00:00 | Andy Burnham Win Puts UK PM Under Pressure & US-Iran Talks C
+   - FWifkL1pkWs | ongoing=False | publishedAt=2026-06-19T10:20:46Z | actualEndTime=None | effective=2026-06-19 10:20:46+00:00 | Vance Delays Iran Talks, Andy Burnham's Victory | The Openin
+   - KV5LHt70XLg | ongoing=False | publishedAt=2026-06-19T07:47:28Z | actualEndTime=None | effective=2026-06-19 07:47:28+00:00 | It's a Regime-Shift for US Real Yields: 3-Minutes MLIV
+   - EhFgdArkNGE | ongoing=False | publishedAt=2026-06-19T07:33:05Z | actualEndTime=None | effective=2026-06-19 07:33:05+00:00 | Vance Delays Deal Signing Trip; US Ends Hormuz Blockade | Ho
+   - AVZI-zCGnPA | ongoing=False | publishedAt=2026-06-19T07:13:29Z | actualEndTime=None | effective=2026-06-19 07:13:29+00:00 | Andy Burnham Wins Election In Threat to UK Prime Minister Ke
+   - t8gDh7ANDKQ | ongoing=False | publishedAt=2026-06-19T06:59:28Z | actualEndTime=None | effective=2026-06-19 06:59:28+00:00 | US Concerned with ASML Over China Chip Tool | The China Show
+   - 1weAMILEJkw | ongoing=False | publishedAt=2026-06-19T06:46:21Z | actualEndTime=None | effective=2026-06-19 06:46:21+00:00 | Burnham's By-Election Win Paves Way to Oust Starmer
+   - fVIZIFbtips | ongoing=False | publishedAt=2026-06-19T06:13:15Z | actualEndTime=None | effective=2026-06-19 06:13:15+00:00 | Vance Delays Swiss Trip for Iran Talks
+   - s3NAL6zIRac | ongoing=False | publishedAt=2026-06-19T06:10:16Z | actualEndTime=None | effective=2026-06-19 06:10:16+00:00 | 60-Day Clock Starts on Iran-US Talks | Insight with Haslinda
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: My FAVORITE Stock To Invest In 2026 📈
-  URL: https://www.youtube.com/watch?v=7P0uFYO4FPA
-  publishedAt: 2026-06-19T04:00:36Z
+  제목: The Stock Market Is Quietly Scamming You 📉
+  URL: https://www.youtube.com/watch?v=WDHvYYNUo0A
+  publishedAt: 2026-06-20T04:00:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - WDHvYYNUo0A | ongoing=False | publishedAt=2026-06-20T04:00:11Z | actualEndTime=None | effective=2026-06-20 04:00:11+00:00 | The Stock Market Is Quietly Scamming You 📉
+   - WTFGa5dKN5U | ongoing=False | publishedAt=2026-06-19T20:42:29Z | actualEndTime=None | effective=2026-06-19 20:42:29+00:00 | WARNING: Massive Chip Stock Catalyst WEDNESDAY [Watch Now]
+   - 3mw2tgWtDnk | ongoing=False | publishedAt=2026-06-19T10:00:31Z | actualEndTime=None | effective=2026-06-19 10:00:31+00:00 | What If MrBeast Ran For President
    - 7P0uFYO4FPA | ongoing=False | publishedAt=2026-06-19T04:00:36Z | actualEndTime=None | effective=2026-06-19 04:00:36+00:00 | My FAVORITE Stock To Invest In 2026 📈
    - 2v-J2exTNO8 | ongoing=False | publishedAt=2026-06-18T10:00:12Z | actualEndTime=None | effective=2026-06-18 10:00:12+00:00 | Each of My Kids Cost $200,000+ 😳
-   - RF5pFujQlOI | ongoing=False | publishedAt=2026-06-18T04:00:36Z | actualEndTime=None | effective=2026-06-18 04:00:36+00:00 | The BEST Way To Spend Money
-   - l5kXf3-oiFI | ongoing=False | publishedAt=2026-06-17T19:59:12Z | actualEndTime=None | effective=2026-06-17 19:59:12+00:00 | Fed Warsh JUST TANKED the Market.
-   - 8he3tzwhVR4 | ongoing=False | publishedAt=2026-06-17T19:37:37Z | actualEndTime=2026-06-17T19:32:35Z | effective=2026-06-17 19:32:35+00:00 | *The Federal Reserve FOMC Presser & Rate Decision | Kevin Wa
-   - 302QWY_RYP8 | ongoing=False | publishedAt=2026-06-17T10:00:31Z | actualEndTime=None | effective=2026-06-17 10:00:31+00:00 | This Is The BEST Decade To Buy Real Estate!
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  반도체 랠리 어디까지? 인텔-애플 미국 내 생산 소식에 기술주 투심 폭발    -  2026/06/18
-  URL: https://www.youtube.com/watch?v=_z3SNxHwAGg
-  publishedAt: 2026-06-18T22:15:17Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - _z3SNxHwAGg | ongoing=False | publishedAt=2026-06-18T22:15:17Z | actualEndTime=None | effective=2026-06-18 22:15:17+00:00 | 【미국 증시 오늘의 요약】  반도체 랠리 어디까지? 인텔-애플 미국 내 생산 소식에 기술주 투심 폭발    
    - mubUKNnweiI | ongoing=False | publishedAt=2026-06-18T22:02:31Z | actualEndTime=2026-06-18T21:33:36Z | effective=2026-06-18 21:33:36+00:00 | [26년 06월 18일 목]  세마녀의 날 (옵션 만기) ｜ 미국·이란 '임시 합의 발효 ｜ 인텔, 애플과 
-   - oiVXhq_0cAg | ongoing=False | publishedAt=2026-06-17T22:31:04Z | actualEndTime=None | effective=2026-06-17 22:31:04+00:00 | 【미국 증시 오늘의 요약】  연준, 금리 동결했지만 시장은 충격…점도표에 담긴 인상 가능성    -  202
-   - A1SbuoiHi8I | ongoing=False | publishedAt=2026-06-17T22:03:28Z | actualEndTime=2026-06-17T21:44:56Z | effective=2026-06-17 21:44:56+00:00 | [26년 06월 17일 수]  기준금리 결정, FOMC 기자회견 ｜ 트럼프, "이란 MOU 합의" ｜ 씨티,
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 지금의 엔화 약세가 구조적 결과인 이유
-  URL: https://www.youtube.com/watch?v=SO_6jqnUNss
-  publishedAt: 2026-06-19T04:30:54Z
+  제목: 엔화 약세가 글로벌 경제의 뇌관이 되어가는 이유
+  URL: https://www.youtube.com/watch?v=ZaFifYU-l1U
+  publishedAt: 2026-06-20T03:00:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ZaFifYU-l1U | ongoing=False | publishedAt=2026-06-20T03:00:03Z | actualEndTime=None | effective=2026-06-20 03:00:03+00:00 | 엔화 약세가 글로벌 경제의 뇌관이 되어가는 이유
    - SO_6jqnUNss | ongoing=False | publishedAt=2026-06-19T04:30:54Z | actualEndTime=None | effective=2026-06-19 04:30:54+00:00 | 지금의 엔화 약세가 구조적 결과인 이유
    - he9ydHdXtTI | ongoing=False | publishedAt=2026-06-19T00:16:33Z | actualEndTime=2026-06-19T00:10:43Z | effective=2026-06-19 00:10:43+00:00 | 엔-달러 161 뚫렸다!! BOJ 본격적으로 개입하나?ㅣ우주보다 반도체!! 스페이스X 채권발행의 요점은?ㅣ[
    - hm2wqtmksOA | ongoing=False | publishedAt=2026-06-18T06:31:50Z | actualEndTime=None | effective=2026-06-18 06:31:50+00:00 | 결론은 사과 엔딩?! 미국 - 이란 합의의 민낯
-   - 52SQO3v_HuY | ongoing=False | publishedAt=2026-06-18T03:00:31Z | actualEndTime=None | effective=2026-06-18 03:00:31+00:00 | 삼성전자, SK하이닉스가 0.5 마이크론인 이유
-   - HodQL3X_spo | ongoing=False | publishedAt=2026-06-18T00:21:48Z | actualEndTime=2026-06-18T00:13:35Z | effective=2026-06-18 00:13:35+00:00 | FOMC Review, 케빈 워시는 어떤 의장인가?ㅣSPCX, 200달러 붕괴! 공매도 영향이다?ㅣMSFT,
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - n4q0vvqK1yc | ongoing=False | publishedAt=2026-06-19T06:47:12Z | actualEndTime=None | effective=2026-06-19 06:47:12+00:00 | 잘 나가던 코스피 갑자기 무너진 이유
    - cBF3ki-w0r0 | ongoing=False | publishedAt=2026-06-18T06:43:23Z | actualEndTime=None | effective=2026-06-18 06:43:23+00:00 | 코스피 9000 찍었지만 주식시장이 개판인 이유
-   - 2d2vTDM5t0E | ongoing=False | publishedAt=2026-06-17T22:34:51Z | actualEndTime=None | effective=2026-06-17 22:34:51+00:00 | 나스닥에 새로운 저승사자가 찾아왔습니다. (FOMC 리뷰)
-   - aU3y_4pmAl8 | ongoing=False | publishedAt=2026-06-17T21:50:09Z | actualEndTime=None | effective=2026-06-17 21:50:09+00:00 | 나스닥이 케빈워시라는 새로운 암초를 만났습니다 ㄷㄷㄷ (FOMC 리뷰)
-   - 9tuAd94AIuY | ongoing=False | publishedAt=2026-06-17T08:55:31Z | actualEndTime=None | effective=2026-06-17 08:55:31+00:00 | 상장후 50% 나 올랐다고? 스페이스엑스 급등의 비밀
-   - 73M1_7YXcbg | ongoing=False | publishedAt=2026-06-17T06:43:05Z | actualEndTime=None | effective=2026-06-17 06:43:05+00:00 | 떡락했던 코스피가 반등한 2가지 이유
 
 - 소수몽키
   상태: NO_VIDEO
