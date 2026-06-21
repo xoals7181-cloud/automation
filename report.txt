@@ -1,64 +1,61 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-20 14:03 (KST)
-Run: 185 (id=27860969165)
+생성 시각: 2026-06-21 14:53 (KST)
+Run: 186 (id=27895227596)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Quantum deal boosts France's sovereignty, Alice and Bob COO says
+  URL: https://www.youtube.com/watch?v=aWb6PJByrBw
+  publishedAt: 2026-06-20T22:26:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - IGWP9i5xFZs | ongoing=False | publishedAt=2026-06-19T12:00:36Z | actualEndTime=None | effective=2026-06-19 12:00:36+00:00 | India's Biggest Exchange NSE Eyes IPO #markets #ipo
-   - ME0prQf6vro | ongoing=False | publishedAt=2026-06-19T10:50:50Z | actualEndTime=None | effective=2026-06-19 10:50:50+00:00 | Andy Burnham Win Puts UK PM Under Pressure & US-Iran Talks C
-   - FWifkL1pkWs | ongoing=False | publishedAt=2026-06-19T10:20:46Z | actualEndTime=None | effective=2026-06-19 10:20:46+00:00 | Vance Delays Iran Talks, Andy Burnham's Victory | The Openin
-   - KV5LHt70XLg | ongoing=False | publishedAt=2026-06-19T07:47:28Z | actualEndTime=None | effective=2026-06-19 07:47:28+00:00 | It's a Regime-Shift for US Real Yields: 3-Minutes MLIV
-   - EhFgdArkNGE | ongoing=False | publishedAt=2026-06-19T07:33:05Z | actualEndTime=None | effective=2026-06-19 07:33:05+00:00 | Vance Delays Deal Signing Trip; US Ends Hormuz Blockade | Ho
-   - AVZI-zCGnPA | ongoing=False | publishedAt=2026-06-19T07:13:29Z | actualEndTime=None | effective=2026-06-19 07:13:29+00:00 | Andy Burnham Wins Election In Threat to UK Prime Minister Ke
-   - t8gDh7ANDKQ | ongoing=False | publishedAt=2026-06-19T06:59:28Z | actualEndTime=None | effective=2026-06-19 06:59:28+00:00 | US Concerned with ASML Over China Chip Tool | The China Show
-   - 1weAMILEJkw | ongoing=False | publishedAt=2026-06-19T06:46:21Z | actualEndTime=None | effective=2026-06-19 06:46:21+00:00 | Burnham's By-Election Win Paves Way to Oust Starmer
-   - fVIZIFbtips | ongoing=False | publishedAt=2026-06-19T06:13:15Z | actualEndTime=None | effective=2026-06-19 06:13:15+00:00 | Vance Delays Swiss Trip for Iran Talks
-   - s3NAL6zIRac | ongoing=False | publishedAt=2026-06-19T06:10:16Z | actualEndTime=None | effective=2026-06-19 06:10:16+00:00 | 60-Day Clock Starts on Iran-US Talks | Insight with Haslinda
+   - aWb6PJByrBw | ongoing=False | publishedAt=2026-06-20T22:26:02Z | actualEndTime=None | effective=2026-06-20 22:26:02+00:00 | Quantum deal boosts France's sovereignty, Alice and Bob COO 
+   - tEqlKTDNCis | ongoing=False | publishedAt=2026-06-20T22:26:18Z | actualEndTime=None | effective=2026-06-20 22:26:18+00:00 | Burnham By-Election Win Paves Way For Starmer Ouster
+   - YrDgrrPpLwo | ongoing=False | publishedAt=2026-06-20T22:25:01Z | actualEndTime=None | effective=2026-06-20 22:25:01+00:00 | PhysicsX CEO on #ai breakthroughs in manufacturing #tech
+   - u_XwAc6CBP4 | ongoing=False | publishedAt=2026-06-20T22:23:09Z | actualEndTime=None | effective=2026-06-20 22:23:09+00:00 | The Mishal Husain Show | Signal's Whittaker on big tech's pr
+   - gQUdLyZKIi4 | ongoing=False | publishedAt=2026-06-20T21:27:36Z | actualEndTime=None | effective=2026-06-20 21:27:36+00:00 | Ambani’s Jio Could Be India’s Biggest IPO
+   - _tu20WbqMXI | ongoing=False | publishedAt=2026-06-20T21:27:14Z | actualEndTime=None | effective=2026-06-20 21:27:14+00:00 | Hamptons Golf Tickets At $400 Look Like A Steal After the Kn
+   - dTDozvgKTsY | ongoing=False | publishedAt=2026-06-20T17:30:41Z | actualEndTime=None | effective=2026-06-20 17:30:41+00:00 | Bloomberg This Weekend | US, Iran Reps to Switzerland, Team 
+   - 33ZyFESznnU | ongoing=False | publishedAt=2026-06-20T16:20:43Z | actualEndTime=None | effective=2026-06-20 16:20:43+00:00 | Pointed News Quiz | Bonds, Streaming, Yogurt
+   - 8eHxFUDo0H8 | ongoing=False | publishedAt=2026-06-20T16:13:47Z | actualEndTime=None | effective=2026-06-20 16:13:47+00:00 | History Repeating Itself in America
+   - p7WpsB1bJP0 | ongoing=False | publishedAt=2026-06-20T15:54:46Z | actualEndTime=None | effective=2026-06-20 15:54:46+00:00 | Iran Sanctions Losing Efficacy
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Stock Market Is Quietly Scamming You 📉
-  URL: https://www.youtube.com/watch?v=WDHvYYNUo0A
-  publishedAt: 2026-06-20T04:00:11Z
+  제목: The Simplest Path To Becoming A Millionaire!
+  URL: https://www.youtube.com/watch?v=1LVY72hpA0g
+  publishedAt: 2026-06-21T04:00:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 1LVY72hpA0g | ongoing=False | publishedAt=2026-06-21T04:00:20Z | actualEndTime=None | effective=2026-06-21 04:00:20+00:00 | The Simplest Path To Becoming A Millionaire!
+   - j2FSLpQVpss | ongoing=False | publishedAt=2026-06-20T10:00:08Z | actualEndTime=None | effective=2026-06-20 10:00:08+00:00 | Warren Buffett Just Invested $10B Into Google 😳
    - WDHvYYNUo0A | ongoing=False | publishedAt=2026-06-20T04:00:11Z | actualEndTime=None | effective=2026-06-20 04:00:11+00:00 | The Stock Market Is Quietly Scamming You 📉
    - WTFGa5dKN5U | ongoing=False | publishedAt=2026-06-19T20:42:29Z | actualEndTime=None | effective=2026-06-19 20:42:29+00:00 | WARNING: Massive Chip Stock Catalyst WEDNESDAY [Watch Now]
    - 3mw2tgWtDnk | ongoing=False | publishedAt=2026-06-19T10:00:31Z | actualEndTime=None | effective=2026-06-19 10:00:31+00:00 | What If MrBeast Ran For President
-   - 7P0uFYO4FPA | ongoing=False | publishedAt=2026-06-19T04:00:36Z | actualEndTime=None | effective=2026-06-19 04:00:36+00:00 | My FAVORITE Stock To Invest In 2026 📈
-   - 2v-J2exTNO8 | ongoing=False | publishedAt=2026-06-18T10:00:12Z | actualEndTime=None | effective=2026-06-18 10:00:12+00:00 | Each of My Kids Cost $200,000+ 😳
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - _z3SNxHwAGg | ongoing=False | publishedAt=2026-06-18T22:15:17Z | actualEndTime=None | effective=2026-06-18 22:15:17+00:00 | 【미국 증시 오늘의 요약】  반도체 랠리 어디까지? 인텔-애플 미국 내 생산 소식에 기술주 투심 폭발    
-   - mubUKNnweiI | ongoing=False | publishedAt=2026-06-18T22:02:31Z | actualEndTime=2026-06-18T21:33:36Z | effective=2026-06-18 21:33:36+00:00 | [26년 06월 18일 목]  세마녀의 날 (옵션 만기) ｜ 미국·이란 '임시 합의 발효 ｜ 인텔, 애플과 
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 엔화 약세가 글로벌 경제의 뇌관이 되어가는 이유
-  URL: https://www.youtube.com/watch?v=ZaFifYU-l1U
-  publishedAt: 2026-06-20T03:00:03Z
+  제목: 우상향한 종목을 골라야 복리가 생길 수 있어요
+  URL: https://www.youtube.com/watch?v=agsGJLBmcKo
+  publishedAt: 2026-06-21T01:00:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - agsGJLBmcKo | ongoing=False | publishedAt=2026-06-21T01:00:36Z | actualEndTime=None | effective=2026-06-21 01:00:36+00:00 | 우상향한 종목을 골라야 복리가 생길 수 있어요
    - ZaFifYU-l1U | ongoing=False | publishedAt=2026-06-20T03:00:03Z | actualEndTime=None | effective=2026-06-20 03:00:03+00:00 | 엔화 약세가 글로벌 경제의 뇌관이 되어가는 이유
-   - SO_6jqnUNss | ongoing=False | publishedAt=2026-06-19T04:30:54Z | actualEndTime=None | effective=2026-06-19 04:30:54+00:00 | 지금의 엔화 약세가 구조적 결과인 이유
-   - he9ydHdXtTI | ongoing=False | publishedAt=2026-06-19T00:16:33Z | actualEndTime=2026-06-19T00:10:43Z | effective=2026-06-19 00:10:43+00:00 | 엔-달러 161 뚫렸다!! BOJ 본격적으로 개입하나?ㅣ우주보다 반도체!! 스페이스X 채권발행의 요점은?ㅣ[
-   - hm2wqtmksOA | ongoing=False | publishedAt=2026-06-18T06:31:50Z | actualEndTime=None | effective=2026-06-18 06:31:50+00:00 | 결론은 사과 엔딩?! 미국 - 이란 합의의 민낯
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - n4q0vvqK1yc | ongoing=False | publishedAt=2026-06-19T06:47:12Z | actualEndTime=None | effective=2026-06-19 06:47:12+00:00 | 잘 나가던 코스피 갑자기 무너진 이유
-   - cBF3ki-w0r0 | ongoing=False | publishedAt=2026-06-18T06:43:23Z | actualEndTime=None | effective=2026-06-18 06:43:23+00:00 | 코스피 9000 찍었지만 주식시장이 개판인 이유
 
 - 소수몽키
   상태: NO_VIDEO
