@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-21 14:53 (KST)
-Run: 186 (id=27895227596)
+생성 시각: 2026-06-22 15:21 (KST)
+Run: 187 (id=27933689902)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,34 +8,29 @@ Run: 186 (id=27895227596)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Quantum deal boosts France's sovereignty, Alice and Bob COO says
-  URL: https://www.youtube.com/watch?v=aWb6PJByrBw
-  publishedAt: 2026-06-20T22:26:02Z
+  제목: Oil In Focus As US-Iran Peace Talks Show Signs of Progress | The Asia Trade 6/22/2026
+  URL: https://www.youtube.com/watch?v=Q38IVu-eETM
+  publishedAt: 2026-06-22T05:49:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - aWb6PJByrBw | ongoing=False | publishedAt=2026-06-20T22:26:02Z | actualEndTime=None | effective=2026-06-20 22:26:02+00:00 | Quantum deal boosts France's sovereignty, Alice and Bob COO 
-   - tEqlKTDNCis | ongoing=False | publishedAt=2026-06-20T22:26:18Z | actualEndTime=None | effective=2026-06-20 22:26:18+00:00 | Burnham By-Election Win Paves Way For Starmer Ouster
-   - YrDgrrPpLwo | ongoing=False | publishedAt=2026-06-20T22:25:01Z | actualEndTime=None | effective=2026-06-20 22:25:01+00:00 | PhysicsX CEO on #ai breakthroughs in manufacturing #tech
-   - u_XwAc6CBP4 | ongoing=False | publishedAt=2026-06-20T22:23:09Z | actualEndTime=None | effective=2026-06-20 22:23:09+00:00 | The Mishal Husain Show | Signal's Whittaker on big tech's pr
-   - gQUdLyZKIi4 | ongoing=False | publishedAt=2026-06-20T21:27:36Z | actualEndTime=None | effective=2026-06-20 21:27:36+00:00 | Ambani’s Jio Could Be India’s Biggest IPO
-   - _tu20WbqMXI | ongoing=False | publishedAt=2026-06-20T21:27:14Z | actualEndTime=None | effective=2026-06-20 21:27:14+00:00 | Hamptons Golf Tickets At $400 Look Like A Steal After the Kn
-   - dTDozvgKTsY | ongoing=False | publishedAt=2026-06-20T17:30:41Z | actualEndTime=None | effective=2026-06-20 17:30:41+00:00 | Bloomberg This Weekend | US, Iran Reps to Switzerland, Team 
-   - 33ZyFESznnU | ongoing=False | publishedAt=2026-06-20T16:20:43Z | actualEndTime=None | effective=2026-06-20 16:20:43+00:00 | Pointed News Quiz | Bonds, Streaming, Yogurt
-   - 8eHxFUDo0H8 | ongoing=False | publishedAt=2026-06-20T16:13:47Z | actualEndTime=None | effective=2026-06-20 16:13:47+00:00 | History Repeating Itself in America
-   - p7WpsB1bJP0 | ongoing=False | publishedAt=2026-06-20T15:54:46Z | actualEndTime=None | effective=2026-06-20 15:54:46+00:00 | Iran Sanctions Losing Efficacy
+   - Q38IVu-eETM | ongoing=False | publishedAt=2026-06-22T05:49:26Z | actualEndTime=None | effective=2026-06-22 05:49:26+00:00 | Oil In Focus As US-Iran Peace Talks Show Signs of Progress |
+   - Z0n8jOnPh_s | ongoing=False | publishedAt=2026-06-22T05:46:24Z | actualEndTime=None | effective=2026-06-22 05:46:24+00:00 | UK's Starmer Could Set Out Resignation Timetable Imminently
+   - cqrstRRGtXI | ongoing=False | publishedAt=2026-06-22T05:25:59Z | actualEndTime=None | effective=2026-06-22 05:25:59+00:00 | US-Iran Talks Progress, Europe Shifts Strategy | Insight wit
+   - 80VXLC16ZVk | ongoing=False | publishedAt=2026-06-22T02:27:14Z | actualEndTime=2026-06-21T14:01:43Z | effective=2026-06-21 14:01:43+00:00 | Vance Heads to Switzerland for US-Iran Talks, Hormuz Closes 
+   - 5-fxfUNe8Ks | ongoing=False | publishedAt=2026-06-21T17:35:52Z | actualEndTime=None | effective=2026-06-21 17:35:52+00:00 | Bloomberg This Weekend | US-Iran Talks To Get Underway, Trum
+   - i5dVGX5uX_8 | ongoing=False | publishedAt=2026-06-21T16:23:41Z | actualEndTime=None | effective=2026-06-21 16:23:41+00:00 | Fatherhood Books Are Failing to Reflect Modern Dads
+   - saUBqJcWc4k | ongoing=False | publishedAt=2026-06-21T16:17:20Z | actualEndTime=None | effective=2026-06-21 16:17:20+00:00 | FDA to Review Easing Restrictions on Peptides
+   - LbXU4FwZL-0 | ongoing=False | publishedAt=2026-06-21T16:01:07Z | actualEndTime=None | effective=2026-06-21 16:01:07+00:00 | New York Primary Election Approaches
+   - mpddQjwGGt0 | ongoing=False | publishedAt=2026-06-21T15:49:56Z | actualEndTime=None | effective=2026-06-21 15:49:56+00:00 | Iran Avoids Shared US Photo at Summit
+   - 2DqWHUGlahU | ongoing=False | publishedAt=2026-06-21T15:26:41Z | actualEndTime=None | effective=2026-06-21 15:26:41+00:00 | Former US Defense Secretary Esper: Hezbollah is 'Spoiler' fo
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: The Simplest Path To Becoming A Millionaire!
-  URL: https://www.youtube.com/watch?v=1LVY72hpA0g
-  publishedAt: 2026-06-21T04:00:20Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 2XZe2O3B3o4 | ongoing=False | publishedAt=2026-06-21T10:00:19Z | actualEndTime=None | effective=2026-06-21 10:00:19+00:00 | The ONE Question I’d Ask Warren Buffett…
    - 1LVY72hpA0g | ongoing=False | publishedAt=2026-06-21T04:00:20Z | actualEndTime=None | effective=2026-06-21 04:00:20+00:00 | The Simplest Path To Becoming A Millionaire!
    - j2FSLpQVpss | ongoing=False | publishedAt=2026-06-20T10:00:08Z | actualEndTime=None | effective=2026-06-20 10:00:08+00:00 | Warren Buffett Just Invested $10B Into Google 😳
-   - WDHvYYNUo0A | ongoing=False | publishedAt=2026-06-20T04:00:11Z | actualEndTime=None | effective=2026-06-20 04:00:11+00:00 | The Stock Market Is Quietly Scamming You 📉
-   - WTFGa5dKN5U | ongoing=False | publishedAt=2026-06-19T20:42:29Z | actualEndTime=None | effective=2026-06-19 20:42:29+00:00 | WARNING: Massive Chip Stock Catalyst WEDNESDAY [Watch Now]
-   - 3mw2tgWtDnk | ongoing=False | publishedAt=2026-06-19T10:00:31Z | actualEndTime=None | effective=2026-06-19 10:00:31+00:00 | What If MrBeast Ran For President
 
 - 오선의 미국 증시
   상태: NO_VIDEO
@@ -43,19 +38,24 @@ Run: 186 (id=27895227596)
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 우상향한 종목을 골라야 복리가 생길 수 있어요
-  URL: https://www.youtube.com/watch?v=agsGJLBmcKo
-  publishedAt: 2026-06-21T01:00:36Z
+  제목: BOJ의 엔화 개입이 자산시장 압박 버튼?
+  URL: https://www.youtube.com/watch?v=-G1SvHM6FL8
+  publishedAt: 2026-06-22T01:00:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - -G1SvHM6FL8 | ongoing=False | publishedAt=2026-06-22T01:00:35Z | actualEndTime=None | effective=2026-06-22 01:00:35+00:00 | BOJ의 엔화 개입이 자산시장 압박 버튼?
+   - 919CATmzOeg | ongoing=False | publishedAt=2026-06-22T00:05:29Z | actualEndTime=2026-06-21T23:58:50Z | effective=2026-06-21 23:58:50+00:00 | 협상은 안되고... 이벤트는 끝났고...  이제 뭘 봐야하지?ㅣ[아침뉴스&미국시황] #260622
+   - TXrNOsi4Fs0 | ongoing=False | publishedAt=2026-06-21T07:00:35Z | actualEndTime=None | effective=2026-06-21 07:00:35+00:00 | Space X의 적정가 계산이 어려운 이유에 대하여
    - agsGJLBmcKo | ongoing=False | publishedAt=2026-06-21T01:00:36Z | actualEndTime=None | effective=2026-06-21 01:00:36+00:00 | 우상향한 종목을 골라야 복리가 생길 수 있어요
-   - ZaFifYU-l1U | ongoing=False | publishedAt=2026-06-20T03:00:03Z | actualEndTime=None | effective=2026-06-20 03:00:03+00:00 | 엔화 약세가 글로벌 경제의 뇌관이 되어가는 이유
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 코스피 하이닉스의 상승이 불안한 이유
+  URL: https://www.youtube.com/watch?v=3NTH5V_q3fw
+  publishedAt: 2026-06-22T02:48:39Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - n4q0vvqK1yc | ongoing=False | publishedAt=2026-06-19T06:47:12Z | actualEndTime=None | effective=2026-06-19 06:47:12+00:00 | 잘 나가던 코스피 갑자기 무너진 이유
+   - 3NTH5V_q3fw | ongoing=False | publishedAt=2026-06-22T02:48:39Z | actualEndTime=None | effective=2026-06-22 02:48:39+00:00 | 코스피 하이닉스의 상승이 불안한 이유
 
 - 소수몽키
   상태: NO_VIDEO
