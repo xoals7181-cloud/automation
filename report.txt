@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-24 13:57 (KST)
-Run: 189 (id=28076197728)
+생성 시각: 2026-06-25 13:57 (KST)
+Run: 190 (id=28147857577)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,72 +8,70 @@ Run: 189 (id=28076197728)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US Chip Stocks Plunge as AI Selloff Ripples Across From Asia
-  URL: https://www.youtube.com/watch?v=GlUoYB9Jqrw
-  publishedAt: 2026-06-24T02:23:14Z
+  제목: Micron Revives AI Trade; SK Hynix Seeks US Listing | The Asia Trade 6/25/2026
+  URL: https://www.youtube.com/watch?v=tTivbC2C_Hc
+  publishedAt: 2026-06-25T04:26:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - GlUoYB9Jqrw | ongoing=False | publishedAt=2026-06-24T02:23:14Z | actualEndTime=None | effective=2026-06-24 02:23:14+00:00 | US Chip Stocks Plunge as AI Selloff Ripples Across From Asia
-   - klMYnN1OhG4 | ongoing=False | publishedAt=2026-06-24T01:56:22Z | actualEndTime=None | effective=2026-06-24 01:56:22+00:00 | The Fed Enters Its Kevin Warsh Era
-   - Ge62cM0S6oE | ongoing=False | publishedAt=2026-06-24T01:55:16Z | actualEndTime=None | effective=2026-06-24 01:55:16+00:00 | Africa’s Biggest IPOSparks Investor Frenzy in Dangote’s Nige
-   - HTRL75KOnt0 | ongoing=False | publishedAt=2026-06-24T01:55:02Z | actualEndTime=None | effective=2026-06-24 01:55:02+00:00 | The Knicks Win! So Do New York City, Big Merch And The NBA
-   - nqbNv5bZww4 | ongoing=False | publishedAt=2026-06-23T23:47:31Z | actualEndTime=None | effective=2026-06-23 23:47:31+00:00 | Stocks Slide as Wall Street Gets AI Wake-up Call | The Close
-   - CSrgdB3edx0 | ongoing=False | publishedAt=2026-06-23T23:44:54Z | actualEndTime=None | effective=2026-06-23 23:44:54+00:00 | Senate Votes to Limit Trump's Iran War Powers | Balance of P
-   - sKUQ9HMkiQU | ongoing=False | publishedAt=2026-06-23T21:45:39Z | actualEndTime=None | effective=2026-06-23 21:45:39+00:00 | Tech Stocks Hit By Losses as AI Concerns Spread |Bloomberg B
-   - eOixVoZxAq0 | ongoing=False | publishedAt=2026-06-23T20:33:03Z | actualEndTime=None | effective=2026-06-23 20:33:03+00:00 | SpaceX set to raise $25 billion of bonds in debut bond offer
-   - ZyoRYicJ7_k | ongoing=False | publishedAt=2026-06-23T20:26:46Z | actualEndTime=None | effective=2026-06-23 20:26:46+00:00 | Global Selloff in Equity Markets | Closing Bell
-   - tKwpBV72Mi8 | ongoing=False | publishedAt=2026-06-23T20:21:34Z | actualEndTime=None | effective=2026-06-23 20:21:34+00:00 | Trump Curbs Iran’s Unfrozen Funds | Balance of Power 6/22/20
+   - tTivbC2C_Hc | ongoing=False | publishedAt=2026-06-25T04:26:53Z | actualEndTime=None | effective=2026-06-25 04:26:53+00:00 | Micron Revives AI Trade; SK Hynix Seeks US Listing | The Asi
+   - -Nwxhhc62CE | ongoing=False | publishedAt=2026-06-25T03:48:09Z | actualEndTime=None | effective=2026-06-25 03:48:09+00:00 | Venezuela Hit by Massive Back-to-Back Earthquakes
+   - 9OnK92KBNy4 | ongoing=False | publishedAt=2026-06-24T23:28:33Z | actualEndTime=None | effective=2026-06-24 23:28:33+00:00 | NATO Secretary General Mark Rutte on Oval Office Meeting | B
+   - lcMIp2MUf4U | ongoing=False | publishedAt=2026-06-24T22:48:59Z | actualEndTime=None | effective=2026-06-24 22:48:59+00:00 | Rutte on NATO's involvement in Strait of Hormuz #shorts #pol
+   - kHwoua8iqxU | ongoing=False | publishedAt=2026-06-24T22:39:29Z | actualEndTime=None | effective=2026-06-24 22:39:29+00:00 | Mamdani is in "control" of Democratic Party, says Lawler #sh
+   - 1mEGY0kTLcc | ongoing=False | publishedAt=2026-06-24T22:18:18Z | actualEndTime=None | effective=2026-06-24 22:18:18+00:00 | Rutte Says Trump Is Getting NATO Into 'Better Shape'
+   - 058sRbT1YP0 | ongoing=False | publishedAt=2026-06-24T22:16:08Z | actualEndTime=None | effective=2026-06-24 22:16:08+00:00 | Oil Falls As More Ships Pass Through Hormuz | Bloomberg Busi
+   - BZrSRQpjZA4 | ongoing=False | publishedAt=2026-06-24T22:12:38Z | actualEndTime=None | effective=2026-06-24 22:12:38+00:00 | Stocks Churn Before Micron’s Earnings as Oil Sinks | The Clo
+   - WHMiJhkXagg | ongoing=False | publishedAt=2026-06-24T21:51:30Z | actualEndTime=None | effective=2026-06-24 21:51:30+00:00 | SK Hynix Seeks $29B With US Listing to Fund AI Boom
+   - AtrcDXCjOIE | ongoing=False | publishedAt=2026-06-24T21:39:28Z | actualEndTime=None | effective=2026-06-24 21:39:28+00:00 | Trump Warns 'Big Trouble' for Oil Companies If Price Gouging
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Why the Stock Market is Tanking: AGAIN
-  URL: https://www.youtube.com/watch?v=0ySGZvFLARI
-  publishedAt: 2026-06-23T22:14:58Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - SR9A1a53UHA | ongoing=False | publishedAt=2026-06-24T07:00:06Z | actualEndTime=None | effective=2026-06-24 07:00:06+00:00 | Is Meet Kevin a Republican or a Democrat??
    - 0ySGZvFLARI | ongoing=False | publishedAt=2026-06-23T22:14:58Z | actualEndTime=None | effective=2026-06-23 22:14:58+00:00 | Why the Stock Market is Tanking: AGAIN
    - GT1IHCuxfjo | ongoing=False | publishedAt=2026-06-23T07:00:33Z | actualEndTime=None | effective=2026-06-23 07:00:33+00:00 | Why I Sued CNN
-   - 0v8UeBPfLhg | ongoing=False | publishedAt=2026-06-22T21:39:37Z | actualEndTime=None | effective=2026-06-22 21:39:37+00:00 | The "Dragon" Stock Market Crash is Starting
-   - 2Q_wZ0mtB_Y | ongoing=False | publishedAt=2026-06-22T10:00:35Z | actualEndTime=None | effective=2026-06-22 10:00:35+00:00 | Investing In SpaceX, Anthropic, or OpenAI?!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 06월 23일 화]  글로벌 기술주 매도세 확산...｜ 마이크론, 방어적 옵션 포지션 확대 ｜ 미국-이란, 4개 실무그룹 구성 합의 ｜ -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=9rP5iBnCRUU
-  publishedAt: 2026-06-23T22:12:38Z
-  actualEndTime: 2026-06-23T21:37:01Z
+  제목: 【미국 증시 오늘의 요약】 마이크론 실적 서프라이즈, AI 랠리 재점화! 오늘 밤 PCE 물가지수 대기    -  2026/06/24
+  URL: https://www.youtube.com/watch?v=y2KLIlKGgY0
+  publishedAt: 2026-06-24T22:30:21Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - y2KLIlKGgY0 | ongoing=False | publishedAt=2026-06-24T22:30:21Z | actualEndTime=None | effective=2026-06-24 22:30:21+00:00 | 【미국 증시 오늘의 요약】 마이크론 실적 서프라이즈, AI 랠리 재점화! 오늘 밤 PCE 물가지수 대기   
+   - Bk26DpDcjwA | ongoing=False | publishedAt=2026-06-24T22:12:45Z | actualEndTime=2026-06-24T21:50:56Z | effective=2026-06-24 21:50:56+00:00 | [26년 06월 24일 수]  마이크론 실적발표 ｜ SK하이닉스, 7월 10일 나스닥 상장 예정 ｜ 구글, 
    - 9rP5iBnCRUU | ongoing=False | publishedAt=2026-06-23T22:12:38Z | actualEndTime=2026-06-23T21:37:01Z | effective=2026-06-23 21:37:01+00:00 | [26년 06월 23일 화]  글로벌 기술주 매도세 확산...｜ 마이크론, 방어적 옵션 포지션 확대 ｜ 미국
    - uRHThFzV1ak | ongoing=False | publishedAt=2026-06-23T22:12:00Z | actualEndTime=None | effective=2026-06-23 22:12:00+00:00 | 【미국 증시 오늘의 요약】  "AI 과열 공포" 덮친 미 증시, 반도체 8% 폭락…마이크론 실적에 쏠린 눈 
-   - 55z8NEF4ii4 | ongoing=False | publishedAt=2026-06-22T22:25:10Z | actualEndTime=None | effective=2026-06-22 22:25:10+00:00 | 【미국 증시 오늘의 요약】  스페이스X 하루 만에 16% 폭락! 구글도 휘청... 흔들리는 빅테크...?  
-   - Btt3OHUk5sM | ongoing=False | publishedAt=2026-06-22T21:52:57Z | actualEndTime=2026-06-22T21:29:39Z | effective=2026-06-22 21:29:39+00:00 | [26년 06월 22일 월]   미국·이란 평화협상 진전 ｜  영국 총리 사임 발표 ｜ 중국, 미국 희토류 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 빅테크가 투자를 줄일 수도 있다...?! 왜??
-  URL: https://www.youtube.com/watch?v=8nES1zfsPPs
-  publishedAt: 2026-06-24T00:00:07Z
+  제목: 마이크론, 이번에는 다르다!! 신고가 도전 가능할까?ㅣ시장의 세가지 이상징후ㅣ[아침뉴스&미국시황] #260625
+  URL: https://www.youtube.com/watch?v=dYqfUUzl4hg
+  publishedAt: 2026-06-25T00:29:02Z
+  actualEndTime: 2026-06-25T00:14:59Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - dYqfUUzl4hg | ongoing=False | publishedAt=2026-06-25T00:29:02Z | actualEndTime=2026-06-25T00:14:59Z | effective=2026-06-25 00:14:59+00:00 | 마이크론, 이번에는 다르다!! 신고가 도전 가능할까?ㅣ시장의 세가지 이상징후ㅣ[아침뉴스&미국시황] #2606
    - 8nES1zfsPPs | ongoing=False | publishedAt=2026-06-24T00:00:07Z | actualEndTime=None | effective=2026-06-24 00:00:07+00:00 | 빅테크가 투자를 줄일 수도 있다...?! 왜??
    - FjkwWSs2g0U | ongoing=False | publishedAt=2026-06-23T22:03:56Z | actualEndTime=2026-06-23T21:58:52Z | effective=2026-06-23 21:58:52+00:00 | 폭락인가?ㅣ[아침뉴스&미국시황] #260624
    - _J8MTRFZVP4 | ongoing=False | publishedAt=2026-06-23T13:00:33Z | actualEndTime=None | effective=2026-06-23 13:00:33+00:00 | Space X로 볼 수 있는 단타의 손절 기준이란?
    - OOZCQ-8AeRg | ongoing=False | publishedAt=2026-06-23T07:19:29Z | actualEndTime=None | effective=2026-06-23 07:19:29+00:00 | Space X가 흔들리면 반도체도 불편해진다
-   - e-Tsqngz8Es | ongoing=False | publishedAt=2026-06-23T00:37:21Z | actualEndTime=2026-06-23T00:09:23Z | effective=2026-06-23 00:09:23+00:00 | 엔화가 미쳤어요ㅣ마이크론, 이쯤되면 전쟁이다 이말이지ㅣSpaceX, 도대체 머선일이고...??ㅣ[아침뉴스&미
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 전무후무한 폭락장..다 팔고 튀어야 하나?
-  URL: https://www.youtube.com/watch?v=JlE8n7uBDiE
-  publishedAt: 2026-06-23T17:33:47Z
+  제목: 메모리는 더 이상 사이클 산업이 아닙니다.
+  URL: https://www.youtube.com/watch?v=x1Sdd2s995I
+  publishedAt: 2026-06-25T00:16:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - x1Sdd2s995I | ongoing=False | publishedAt=2026-06-25T00:16:26Z | actualEndTime=None | effective=2026-06-25 00:16:26+00:00 | 메모리는 더 이상 사이클 산업이 아닙니다.
+   - bC8xlSNYYJg | ongoing=False | publishedAt=2026-06-24T23:01:00Z | actualEndTime=None | effective=2026-06-24 23:01:00+00:00 | 메모리 산업은 더 이상 사이클 산업이 아닙니다. (마이크론 미친 실적)
+   - m0vQsBN_V9s | ongoing=False | publishedAt=2026-06-24T05:16:26Z | actualEndTime=None | effective=2026-06-24 05:16:26+00:00 | 삼성전자 다시 주도주 되나? 닉스보다 더 오른 이유
    - JlE8n7uBDiE | ongoing=False | publishedAt=2026-06-23T17:33:47Z | actualEndTime=None | effective=2026-06-23 17:33:47+00:00 | 전무후무한 폭락장..다 팔고 튀어야 하나?
-   - M7xD-w5kehw | ongoing=False | publishedAt=2026-06-23T02:45:19Z | actualEndTime=None | effective=2026-06-23 02:45:19+00:00 | 코스피 삼전 닉스 폭락의 3가지 비밀
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - iGGze3WT83s | ongoing=False | publishedAt=2026-06-22T12:10:16Z | actualEndTime=None | effective=2026-06-22 12:10:16+00:00 | 빅테크발 본격 빚투 전쟁의 시작, 유동성 폭발의 수혜주들
+   - UFZgYhy9Tmo | ongoing=False | publishedAt=2026-06-24T12:11:50Z | actualEndTime=None | effective=2026-06-24 12:11:50+00:00 | AI 반도체보다 더 중요한 건 전력? 젠슨 황 폭탄 발언의 수혜주들
