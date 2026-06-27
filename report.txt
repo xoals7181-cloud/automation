@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-26 14:03 (KST)
-Run: 191 (id=28218303893)
+생성 시각: 2026-06-27 13:43 (KST)
+Run: 192 (id=28278922577)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,74 +8,71 @@ Run: 191 (id=28218303893)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Asian Stocks Slump to a Two-Week Low on Tech Rout | The China Show 6/26/2026
-  URL: https://www.youtube.com/watch?v=2QTCelm40GI
-  publishedAt: 2026-06-26T04:41:25Z
+  제목: US Conducts Strikes Against Iran in Response to Thursday Attacks | Balance of Power: Late Edition
+  URL: https://www.youtube.com/watch?v=qpFLj7kFaYU
+  publishedAt: 2026-06-26T23:41:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 2QTCelm40GI | ongoing=False | publishedAt=2026-06-26T04:41:25Z | actualEndTime=None | effective=2026-06-26 04:41:25+00:00 | Asian Stocks Slump to a Two-Week Low on Tech Rout | The Chin
-   - lKXRYZwHWcU | ongoing=False | publishedAt=2026-06-26T03:48:42Z | actualEndTime=None | effective=2026-06-26 03:48:42+00:00 | Tech Volatility Spills Into Asia | The Asia Trade 6/26/2026
-   - 8AjmlYfV730 | ongoing=False | publishedAt=2026-06-25T23:55:39Z | actualEndTime=None | effective=2026-06-25 23:55:39+00:00 | Trump Blocks Housing Bill Until SAVE Act is Passed | Balance
-   - 2DyoyMLOW_M | ongoing=False | publishedAt=2026-06-25T22:23:06Z | actualEndTime=None | effective=2026-06-25 22:23:06+00:00 | The Close 6/25/2026
-   - b5malGyjFXQ | ongoing=False | publishedAt=2026-06-25T22:22:40Z | actualEndTime=None | effective=2026-06-25 22:22:40+00:00 | Fed is going to raise rates due to inflation, says economist
-   - AfxYwwWDak0 | ongoing=False | publishedAt=2026-06-25T22:07:41Z | actualEndTime=None | effective=2026-06-25 22:07:41+00:00 | Micron, Qualcomm Jump on Bright AI-Fueled Forecasts | Bloomb
-   - 1sb3ro7Jztg | ongoing=False | publishedAt=2026-06-25T20:40:11Z | actualEndTime=None | effective=2026-06-25 20:40:11+00:00 | Down Jones Up, S&P 500 and Nasdaq Down | Closing Bell
-   - U7MAkpIqQPI | ongoing=False | publishedAt=2026-06-25T20:21:01Z | actualEndTime=None | effective=2026-06-25 20:21:01+00:00 | Qualcomm CEO: Never Bet Against Meta
-   - tM7lzlx_1iI | ongoing=False | publishedAt=2026-06-25T20:14:25Z | actualEndTime=None | effective=2026-06-25 20:14:25+00:00 | US Consumer Spending Picks Up, Public vs. Private Credit Mar
-   - v9_lsBKZp84 | ongoing=False | publishedAt=2026-06-25T19:17:36Z | actualEndTime=None | effective=2026-06-25 19:17:36+00:00 | Japan’s Economy Faces Three Major Risks | Presented by CME G
+   - qpFLj7kFaYU | ongoing=False | publishedAt=2026-06-26T23:41:36Z | actualEndTime=None | effective=2026-06-26 23:41:36+00:00 | US Conducts Strikes Against Iran in Response to Thursday Att
+   - 3liklVvcbrs | ongoing=False | publishedAt=2026-06-26T23:30:15Z | actualEndTime=None | effective=2026-06-26 23:30:15+00:00 | S&P 500 Halts Four-Day Drop To End Jittery Week | The Close 
+   - jHSzbPRVXio | ongoing=False | publishedAt=2026-06-26T23:00:33Z | actualEndTime=None | effective=2026-06-26 23:00:33+00:00 | Wall Street Week | USMCA: Can North America’s Trade Deal Sur
+   - szG6j3B8vKM | ongoing=False | publishedAt=2026-06-26T21:44:31Z | actualEndTime=None | effective=2026-06-26 21:44:31+00:00 | Bloomberg Businessweek Daily Live From Uncharted Summit | Bl
+   - g8831pnyLMA | ongoing=False | publishedAt=2026-06-26T21:36:24Z | actualEndTime=None | effective=2026-06-26 21:36:24+00:00 | XXXXX | Closing Bell
+   - l4VeJvyj3tk | ongoing=False | publishedAt=2026-06-26T20:55:05Z | actualEndTime=None | effective=2026-06-26 20:55:05+00:00 | Caroline Wozniacki on revenue sharing for tennis players
+   - r3In7yWwrOI | ongoing=False | publishedAt=2026-06-26T20:41:49Z | actualEndTime=None | effective=2026-06-26 20:41:49+00:00 | Social Security & The Marginal Tax, Alan Greenspan's Legacy 
+   - FNZboUeVNkM | ongoing=False | publishedAt=2026-06-26T20:37:27Z | actualEndTime=None | effective=2026-06-26 20:37:27+00:00 | Trump Says Iran Violated Ceasefire | Balance of Power 6/26/2
+   - HY6hjbd30Pw | ongoing=False | publishedAt=2026-06-26T19:35:15Z | actualEndTime=None | effective=2026-06-26 19:35:15+00:00 | USDA Acreage Report Set to Move Grain Markets | Presented by
+   - vxuTzdI_oSA | ongoing=False | publishedAt=2026-06-26T16:31:32Z | actualEndTime=None | effective=2026-06-26 16:31:32+00:00 | Stocks Slide As Tech Jitters Return | Open Interest 6/26/202
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: SpaceX, Gold, and Bitcoin JUST *ENDED* the Stock Market.
-  URL: https://www.youtube.com/watch?v=xrokp8XBXGI
-  publishedAt: 2026-06-25T21:28:44Z
+  제목: Will Kevin Warsh Destroy The US Economy?
+  URL: https://www.youtube.com/watch?v=IDZMRj48ZcE
+  publishedAt: 2026-06-27T04:00:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - IDZMRj48ZcE | ongoing=False | publishedAt=2026-06-27T04:00:32Z | actualEndTime=None | effective=2026-06-27 04:00:32+00:00 | Will Kevin Warsh Destroy The US Economy?
+   - Hbec26OM4hA | ongoing=False | publishedAt=2026-06-26T20:49:07Z | actualEndTime=None | effective=2026-06-26 20:49:07+00:00 | i f**k'd up
    - xrokp8XBXGI | ongoing=False | publishedAt=2026-06-25T21:28:44Z | actualEndTime=None | effective=2026-06-25 21:28:44+00:00 | SpaceX, Gold, and Bitcoin JUST *ENDED* the Stock Market.
    - EdeNLClj6Tc | ongoing=False | publishedAt=2026-06-25T10:00:22Z | actualEndTime=None | effective=2026-06-25 10:00:22+00:00 | Why Crypto Is Failing…
    - cmpKXj-Zy4w | ongoing=False | publishedAt=2026-06-25T07:00:24Z | actualEndTime=None | effective=2026-06-25 07:00:24+00:00 | If You're Poor, It's Your Fault
-   - SR9A1a53UHA | ongoing=False | publishedAt=2026-06-24T07:00:06Z | actualEndTime=None | effective=2026-06-24 07:00:06+00:00 | Is Meet Kevin a Republican or a Democrat??
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 하이퍼스케일러 덮친 'AI 비용' 딜레마… 마이크론 호재에도 기술주 일제히 하락    -  2026/06/25
-  URL: https://www.youtube.com/watch?v=boaic0Z5skU
-  publishedAt: 2026-06-25T22:21:21Z
+  제목: 【미국 증시 오늘의 요약】 오픈AI IPO 연기 가능성에 반도체 '흔들'… 마이크론 6% 하락   -  2026/06/26
+  URL: https://www.youtube.com/watch?v=BaL2t7YeH8U
+  publishedAt: 2026-06-26T22:32:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - BaL2t7YeH8U | ongoing=False | publishedAt=2026-06-26T22:32:30Z | actualEndTime=None | effective=2026-06-26 22:32:30+00:00 | 【미국 증시 오늘의 요약】 오픈AI IPO 연기 가능성에 반도체 '흔들'… 마이크론 6% 하락   -  20
+   - kjNB3U87vB0 | ongoing=False | publishedAt=2026-06-26T22:15:46Z | actualEndTime=2026-06-26T21:47:49Z | effective=2026-06-26 21:47:49+00:00 | [26년 06월 26일 금]  AI 랠리의 새로운 국면?! ｜ 오픈AI, IPO 속도 조절.. ｜미시간대 기
    - boaic0Z5skU | ongoing=False | publishedAt=2026-06-25T22:21:21Z | actualEndTime=None | effective=2026-06-25 22:21:21+00:00 | 【미국 증시 오늘의 요약】 하이퍼스케일러 덮친 'AI 비용' 딜레마… 마이크론 호재에도 기술주 일제히 하락 
    - UmA5KqY66cQ | ongoing=False | publishedAt=2026-06-25T22:12:57Z | actualEndTime=2026-06-25T21:42:30Z | effective=2026-06-25 21:42:30+00:00 | [26년 06월 25일 목]  5월 PCE 가격지수｜ 마이크론, 어닝서프라이즈 ｜ 퀄컴, 2029년까지 데이
-   - y2KLIlKGgY0 | ongoing=False | publishedAt=2026-06-24T22:30:21Z | actualEndTime=None | effective=2026-06-24 22:30:21+00:00 | 【미국 증시 오늘의 요약】 마이크론 실적 서프라이즈, AI 랠리 재점화! 오늘 밤 PCE 물가지수 대기   
-   - Bk26DpDcjwA | ongoing=False | publishedAt=2026-06-24T22:12:45Z | actualEndTime=2026-06-24T21:50:56Z | effective=2026-06-24 21:50:56+00:00 | [26년 06월 24일 수]  마이크론 실적발표 ｜ SK하이닉스, 7월 10일 나스닥 상장 예정 ｜ 구글, 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 물풍선처럼 부푼 시장, 지금 가장 필요한 전략
-  URL: https://www.youtube.com/watch?v=7hg9NrBDu08
-  publishedAt: 2026-06-26T01:00:24Z
+  제목: 실적도 성장도 없는데 주가만 오른 폭탄이 많습니다
+  URL: https://www.youtube.com/watch?v=Ra8BPxaXw9I
+  publishedAt: 2026-06-27T04:00:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Ra8BPxaXw9I | ongoing=False | publishedAt=2026-06-27T04:00:31Z | actualEndTime=None | effective=2026-06-27 04:00:31+00:00 | 실적도 성장도 없는데 주가만 오른 폭탄이 많습니다
+   - _9J_2yAtR_k | ongoing=False | publishedAt=2026-06-27T01:00:33Z | actualEndTime=None | effective=2026-06-27 01:00:33+00:00 | 국민연금이 국장 비중 줄이는 진짜 이유는?
+   - InIevdYYv0o | ongoing=False | publishedAt=2026-06-26T07:00:10Z | actualEndTime=None | effective=2026-06-26 07:00:10+00:00 | 국민연금 리밸런싱, 시장에 울리는 경고음
    - 7hg9NrBDu08 | ongoing=False | publishedAt=2026-06-26T01:00:24Z | actualEndTime=None | effective=2026-06-26 01:00:24+00:00 | 물풍선처럼 부푼 시장, 지금 가장 필요한 전략
    - AiGsYpDo6jU | ongoing=False | publishedAt=2026-06-26T00:15:59Z | actualEndTime=2026-06-25T23:53:22Z | effective=2026-06-25 23:53:22+00:00 | 마이크론은 살았는데... 나머지가 다 죽었네...??ㅣ[아침뉴스&미국시황] #260626
    - 1kI3nvQaR-w | ongoing=False | publishedAt=2026-06-25T13:00:23Z | actualEndTime=None | effective=2026-06-25 13:00:23+00:00 | 반도체의 장밋빛 시나리오, 깨진다면 무엇으로부터
    - um8PmDb0mr8 | ongoing=False | publishedAt=2026-06-25T06:36:57Z | actualEndTime=None | effective=2026-06-25 06:36:57+00:00 | 구글의 다우지수 편입, 왠지 불안한 이유는
-   - dYqfUUzl4hg | ongoing=False | publishedAt=2026-06-25T00:29:02Z | actualEndTime=2026-06-25T00:14:59Z | effective=2026-06-25 00:14:59+00:00 | 마이크론, 이번에는 다르다!! 신고가 도전 가능할까?ㅣ시장의 세가지 이상징후ㅣ[아침뉴스&미국시황] #2606
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 마이크론 실적 잘 나왔는데 코스피 또 사이드카??
-  URL: https://www.youtube.com/watch?v=19jkMF5QuSc
-  publishedAt: 2026-06-26T02:40:44Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 19jkMF5QuSc | ongoing=False | publishedAt=2026-06-26T02:40:44Z | actualEndTime=None | effective=2026-06-26 02:40:44+00:00 | 마이크론 실적 잘 나왔는데 코스피 또 사이드카??
    - vXIsYWw2-rw | ongoing=False | publishedAt=2026-06-25T16:36:33Z | actualEndTime=None | effective=2026-06-25 16:36:33+00:00 | 나스닥을 집어삼킬 새로운 하락 내러티브?
-   - x1Sdd2s995I | ongoing=False | publishedAt=2026-06-25T00:16:26Z | actualEndTime=None | effective=2026-06-25 00:16:26+00:00 | 메모리는 더 이상 사이클 산업이 아닙니다.
-   - bC8xlSNYYJg | ongoing=False | publishedAt=2026-06-24T23:01:00Z | actualEndTime=None | effective=2026-06-24 23:01:00+00:00 | 메모리 산업은 더 이상 사이클 산업이 아닙니다. (마이크론 미친 실적)
-   - m0vQsBN_V9s | ongoing=False | publishedAt=2026-06-24T05:16:26Z | actualEndTime=None | effective=2026-06-24 05:16:26+00:00 | 삼성전자 다시 주도주 되나? 닉스보다 더 오른 이유
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - UFZgYhy9Tmo | ongoing=False | publishedAt=2026-06-24T12:11:50Z | actualEndTime=None | effective=2026-06-24 12:11:50+00:00 | AI 반도체보다 더 중요한 건 전력? 젠슨 황 폭탄 발언의 수혜주들
+   - oWmhm7Qi5aA | ongoing=False | publishedAt=2026-06-26T10:49:06Z | actualEndTime=None | effective=2026-06-26 10:49:06+00:00 | 급등 급락 반복하는 증시, 혼란 속에서도 주도주 흐름 놓치지 않는 투자법
