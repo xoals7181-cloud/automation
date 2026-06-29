@@ -1,61 +1,66 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-28 14:11 (KST)
-Run: 193 (id=28312195435)
+생성 시각: 2026-06-29 14:23 (KST)
+Run: 194 (id=28350503162)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: US, Iran To Halt Attacks; Korea Looks to Cement AI Lead | The Asia Trade 6/29/2026
+  URL: https://www.youtube.com/watch?v=Fkpyk3EEfyM
+  publishedAt: 2026-06-29T04:28:15Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - vt7Ld-AZlCQ | ongoing=False | publishedAt=2026-06-28T03:38:57Z | actualEndTime=2026-06-27T14:02:47Z | effective=2026-06-27 14:02:47+00:00 | AI Market Volatility, Europe Heat Wave, Venezuela Quakes Dam
-   - MYKAhQs56V0 | ongoing=False | publishedAt=2026-06-27T16:17:28Z | actualEndTime=None | effective=2026-06-27 16:17:28+00:00 | Bloomberg This Weekend | New Strikes on Iran, Devastation in
-   - RD92nEOyNcc | ongoing=False | publishedAt=2026-06-27T15:15:31Z | actualEndTime=None | effective=2026-06-27 15:15:31+00:00 | Pointed News Quiz | Reddit, Music, YA Novels
-   - nv3Z-ZtrSQ0 | ongoing=False | publishedAt=2026-06-27T15:08:52Z | actualEndTime=None | effective=2026-06-27 15:08:52+00:00 | AI Deepfake Political Ads Raise Concerns Ahead of Midterms
-   - hGazMZmwXyE | ongoing=False | publishedAt=2026-06-27T14:14:12Z | actualEndTime=None | effective=2026-06-27 14:14:12+00:00 | Stock Valuations Should Worry Investors: Abby Joseph Cohen
-   - WBRSSyxQayw | ongoing=False | publishedAt=2026-06-27T14:07:29Z | actualEndTime=None | effective=2026-06-27 14:07:29+00:00 | Sen. Armstrong: Permitting Is Key to Lower Energy Costs
-   - boWU8yHmXvM | ongoing=False | publishedAt=2026-06-27T14:00:34Z | actualEndTime=None | effective=2026-06-27 14:00:34+00:00 | Why American Farmers Are Nervous About USMCA
-   - uLux-OgKhyQ | ongoing=False | publishedAt=2026-06-27T13:43:10Z | actualEndTime=None | effective=2026-06-27 13:43:10+00:00 | US Pet Market Set to Surpass $250 Billion
-   - WvgDTK1Vuos | ongoing=False | publishedAt=2026-06-27T13:11:38Z | actualEndTime=None | effective=2026-06-27 13:11:38+00:00 | Venezuela Struggles with Earthquake Rescue Efforts as Death 
-   - PwNZtsAIk8I | ongoing=False | publishedAt=2026-06-27T12:58:11Z | actualEndTime=None | effective=2026-06-27 12:58:11+00:00 | Schrödinger's Strait of Hormuz: Open or Closed?
+   - Fkpyk3EEfyM | ongoing=False | publishedAt=2026-06-29T04:28:15Z | actualEndTime=None | effective=2026-06-29 04:28:15+00:00 | US, Iran To Halt Attacks; Korea Looks to Cement AI Lead | Th
+   - H7iSjvsncoY | ongoing=False | publishedAt=2026-06-29T02:53:20Z | actualEndTime=2026-06-28T14:02:16Z | effective=2026-06-28 14:02:16+00:00 | Hormuz Transit, Trump vs. GOP, Market Volatility & Ukraine S
+   - f7X1YBc4IUE | ongoing=False | publishedAt=2026-06-29T01:43:15Z | actualEndTime=None | effective=2026-06-29 01:43:15+00:00 | Oil Tankers Cross Hormuz Despite Setbacks
+   - lR6iV6Kxg6I | ongoing=False | publishedAt=2026-06-28T17:21:51Z | actualEndTime=None | effective=2026-06-28 17:21:51+00:00 | Bloomberg This Weekend | US, Iran Trade Fire, Looking Ahead 
+   - f0VdRMEoeOY | ongoing=False | publishedAt=2026-06-28T16:12:30Z | actualEndTime=None | effective=2026-06-28 16:12:30+00:00 | World Cup Fever Energizes Boston Ahead of Knockout Stage
+   - hY0uJHfn_Es | ongoing=False | publishedAt=2026-06-28T15:53:14Z | actualEndTime=None | effective=2026-06-28 15:53:14+00:00 | The Uphill Battle Facing Revitalizing Dulles Airport
+   - ONLgXVsRVhI | ongoing=False | publishedAt=2026-06-28T15:38:23Z | actualEndTime=None | effective=2026-06-28 15:38:23+00:00 | Trump Shifts Messaging from Iran to Economy
+   - cS11kppWfnA | ongoing=False | publishedAt=2026-06-28T15:15:34Z | actualEndTime=None | effective=2026-06-28 15:15:34+00:00 | High Schools Emphasizing Personal Finance Education
+   - 3yq9oQB1x04 | ongoing=False | publishedAt=2026-06-28T14:02:01Z | actualEndTime=None | effective=2026-06-28 14:02:01+00:00 | Supreme Court Faces High-Stakes Week
+   - 5T9fkcvDIko | ongoing=False | publishedAt=2026-06-28T14:00:30Z | actualEndTime=None | effective=2026-06-28 14:00:30+00:00 | Can USMCA Survive Trump’s Second Term?
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Saving Money Is NOT Your Problem!
-  URL: https://www.youtube.com/watch?v=MFIyUptdN8s
-  publishedAt: 2026-06-28T04:00:00Z
+  제목: No One Will Buy Homes In 10 Years!
+  URL: https://www.youtube.com/watch?v=Xx0gg997ytQ
+  publishedAt: 2026-06-29T04:00:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Xx0gg997ytQ | ongoing=False | publishedAt=2026-06-29T04:00:27Z | actualEndTime=None | effective=2026-06-29 04:00:27+00:00 | No One Will Buy Homes In 10 Years!
+   - cmIQb8I8A6s | ongoing=False | publishedAt=2026-06-28T10:00:33Z | actualEndTime=None | effective=2026-06-28 10:00:33+00:00 | Why I’d AVOID Moving To Affordable Cities
    - MFIyUptdN8s | ongoing=False | publishedAt=2026-06-28T04:00:00Z | actualEndTime=None | effective=2026-06-28 04:00:00+00:00 | Saving Money Is NOT Your Problem!
    - stO4I3WH6yc | ongoing=False | publishedAt=2026-06-27T10:00:34Z | actualEndTime=None | effective=2026-06-27 10:00:34+00:00 | Why New Real Estate Agents Can’t Sell
-   - IDZMRj48ZcE | ongoing=False | publishedAt=2026-06-27T04:00:32Z | actualEndTime=None | effective=2026-06-27 04:00:32+00:00 | Will Kevin Warsh Destroy The US Economy?
-   - Hbec26OM4hA | ongoing=False | publishedAt=2026-06-26T20:49:07Z | actualEndTime=None | effective=2026-06-26 20:49:07+00:00 | i f**k'd up
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - BaL2t7YeH8U | ongoing=False | publishedAt=2026-06-26T22:32:30Z | actualEndTime=None | effective=2026-06-26 22:32:30+00:00 | 【미국 증시 오늘의 요약】 오픈AI IPO 연기 가능성에 반도체 '흔들'… 마이크론 6% 하락   -  20
-   - kjNB3U87vB0 | ongoing=False | publishedAt=2026-06-26T22:15:46Z | actualEndTime=2026-06-26T21:47:49Z | effective=2026-06-26 21:47:49+00:00 | [26년 06월 26일 금]  AI 랠리의 새로운 국면?! ｜ 오픈AI, IPO 속도 조절.. ｜미시간대 기
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 이번주는 유가, 고용, 반도체ㅣ[아침뉴스&미국시황] #260629
+  URL: https://www.youtube.com/watch?v=IBF4E9fJucs
+  publishedAt: 2026-06-29T00:04:47Z
+  actualEndTime: 2026-06-28T23:55:19Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Ra8BPxaXw9I | ongoing=False | publishedAt=2026-06-27T04:00:31Z | actualEndTime=None | effective=2026-06-27 04:00:31+00:00 | 실적도 성장도 없는데 주가만 오른 폭탄이 많습니다
-   - _9J_2yAtR_k | ongoing=False | publishedAt=2026-06-27T01:00:33Z | actualEndTime=None | effective=2026-06-27 01:00:33+00:00 | 국민연금이 국장 비중 줄이는 진짜 이유는?
-   - InIevdYYv0o | ongoing=False | publishedAt=2026-06-26T07:00:10Z | actualEndTime=None | effective=2026-06-26 07:00:10+00:00 | 국민연금 리밸런싱, 시장에 울리는 경고음
+   - IBF4E9fJucs | ongoing=False | publishedAt=2026-06-29T00:04:47Z | actualEndTime=2026-06-28T23:55:19Z | effective=2026-06-28 23:55:19+00:00 | 이번주는 유가, 고용, 반도체ㅣ[아침뉴스&미국시황] #260629
+   - 8CNdJAXi1g8 | ongoing=False | publishedAt=2026-06-28T10:04:52Z | actualEndTime=None | effective=2026-06-28 10:04:52+00:00 | 멘탈 잡아라!!!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 코스닥 사이드카?? 180도 바뀐 국장ㄷㄷㄷ
+  URL: https://www.youtube.com/watch?v=RK6CokUKILo
+  publishedAt: 2026-06-29T03:03:18Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - RK6CokUKILo | ongoing=False | publishedAt=2026-06-29T03:03:18Z | actualEndTime=None | effective=2026-06-29 03:03:18+00:00 | 코스닥 사이드카?? 180도 바뀐 국장ㄷㄷㄷ
    - fkdvvAzTkds | ongoing=False | publishedAt=2026-06-27T06:58:57Z | actualEndTime=None | effective=2026-06-27 06:58:57+00:00 | 서울대 출신이 만든 수상한 한일 소개팅 사업
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - oWmhm7Qi5aA | ongoing=False | publishedAt=2026-06-26T10:49:06Z | actualEndTime=None | effective=2026-06-26 10:49:06+00:00 | 급등 급락 반복하는 증시, 혼란 속에서도 주도주 흐름 놓치지 않는 투자법
+  비고: 최근 48시간 검색 결과 없음
