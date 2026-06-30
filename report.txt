@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-06-29 14:23 (KST)
-Run: 194 (id=28350503162)
+생성 시각: 2026-06-30 13:56 (KST)
+Run: 195 (id=28421327579)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,59 +8,69 @@ Run: 194 (id=28350503162)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US, Iran To Halt Attacks; Korea Looks to Cement AI Lead | The Asia Trade 6/29/2026
-  URL: https://www.youtube.com/watch?v=Fkpyk3EEfyM
-  publishedAt: 2026-06-29T04:28:15Z
+  제목: Australians' Trust in US Hits Record Low
+  URL: https://www.youtube.com/watch?v=xzdf_YywQkU
+  publishedAt: 2026-06-30T04:19:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Fkpyk3EEfyM | ongoing=False | publishedAt=2026-06-29T04:28:15Z | actualEndTime=None | effective=2026-06-29 04:28:15+00:00 | US, Iran To Halt Attacks; Korea Looks to Cement AI Lead | Th
-   - H7iSjvsncoY | ongoing=False | publishedAt=2026-06-29T02:53:20Z | actualEndTime=2026-06-28T14:02:16Z | effective=2026-06-28 14:02:16+00:00 | Hormuz Transit, Trump vs. GOP, Market Volatility & Ukraine S
-   - f7X1YBc4IUE | ongoing=False | publishedAt=2026-06-29T01:43:15Z | actualEndTime=None | effective=2026-06-29 01:43:15+00:00 | Oil Tankers Cross Hormuz Despite Setbacks
-   - lR6iV6Kxg6I | ongoing=False | publishedAt=2026-06-28T17:21:51Z | actualEndTime=None | effective=2026-06-28 17:21:51+00:00 | Bloomberg This Weekend | US, Iran Trade Fire, Looking Ahead 
-   - f0VdRMEoeOY | ongoing=False | publishedAt=2026-06-28T16:12:30Z | actualEndTime=None | effective=2026-06-28 16:12:30+00:00 | World Cup Fever Energizes Boston Ahead of Knockout Stage
-   - hY0uJHfn_Es | ongoing=False | publishedAt=2026-06-28T15:53:14Z | actualEndTime=None | effective=2026-06-28 15:53:14+00:00 | The Uphill Battle Facing Revitalizing Dulles Airport
-   - ONLgXVsRVhI | ongoing=False | publishedAt=2026-06-28T15:38:23Z | actualEndTime=None | effective=2026-06-28 15:38:23+00:00 | Trump Shifts Messaging from Iran to Economy
-   - cS11kppWfnA | ongoing=False | publishedAt=2026-06-28T15:15:34Z | actualEndTime=None | effective=2026-06-28 15:15:34+00:00 | High Schools Emphasizing Personal Finance Education
-   - 3yq9oQB1x04 | ongoing=False | publishedAt=2026-06-28T14:02:01Z | actualEndTime=None | effective=2026-06-28 14:02:01+00:00 | Supreme Court Faces High-Stakes Week
-   - 5T9fkcvDIko | ongoing=False | publishedAt=2026-06-28T14:00:30Z | actualEndTime=None | effective=2026-06-28 14:00:30+00:00 | Can USMCA Survive Trump’s Second Term?
+   - xzdf_YywQkU | ongoing=False | publishedAt=2026-06-30T04:19:46Z | actualEndTime=None | effective=2026-06-30 04:19:46+00:00 | Australians' Trust in US Hits Record Low
+   - fr9_8LmeysA | ongoing=False | publishedAt=2026-06-30T03:56:48Z | actualEndTime=None | effective=2026-06-30 03:56:48+00:00 | US Tech Rebounds, Traders On Yen Intervention Watch  | The A
+   - s8ZLZWAq4iY | ongoing=False | publishedAt=2026-06-29T23:38:25Z | actualEndTime=None | effective=2026-06-29 23:38:25+00:00 | Trump Calls Bipartisan Housing Bill 'A Big Yawn' | Balance o
+   - j2LTEKRssgQ | ongoing=False | publishedAt=2026-06-29T22:41:26Z | actualEndTime=None | effective=2026-06-29 22:41:26+00:00 | Iran stands to gain more from MOU than JCPOA, says expert#sh
+   - cmEMa5KAO_8 | ongoing=False | publishedAt=2026-06-29T22:34:11Z | actualEndTime=None | effective=2026-06-29 22:34:11+00:00 | Supreme Court Re-Shapes Power of Presidency | The Close 6/29
+   - eh7NTz5Jzms | ongoing=False | publishedAt=2026-06-29T20:58:28Z | actualEndTime=None | effective=2026-06-29 20:58:28+00:00 | Supreme Court Says Fed's Cook Can Stay in Role For Now | Blo
+   - nWe3NHVbqt8 | ongoing=False | publishedAt=2026-06-29T20:29:56Z | actualEndTime=None | effective=2026-06-29 20:29:56+00:00 | Comcast to Spinoff NBCUniversal & Sky | Closing Bell
+   - ifw37r8uz1o | ongoing=False | publishedAt=2026-06-29T19:53:42Z | actualEndTime=None | effective=2026-06-29 19:53:42+00:00 | Cook Stays, Trump Gains Power | Balance of Power 6/29/2026
+   - 6nOVv-zqsCo | ongoing=False | publishedAt=2026-06-29T19:43:15Z | actualEndTime=None | effective=2026-06-29 19:43:15+00:00 | Pimco Sees Fed on Hold for Rest of Year
+   - nUPe8zI1ZSU | ongoing=False | publishedAt=2026-06-29T19:25:37Z | actualEndTime=None | effective=2026-06-29 19:25:37+00:00 | World Cup Frenzy, SpaceX Race In ETFs, Tracking Founder-Led 
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: No One Will Buy Homes In 10 Years!
-  URL: https://www.youtube.com/watch?v=Xx0gg997ytQ
-  publishedAt: 2026-06-29T04:00:27Z
+  제목: Chamath's INSANE "Nash Agent" Hack EXPLAINED (+ 3 Founder Secrets)
+  URL: https://www.youtube.com/watch?v=po6vSfXQSuI
+  publishedAt: 2026-06-30T04:23:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - po6vSfXQSuI | ongoing=False | publishedAt=2026-06-30T04:23:38Z | actualEndTime=None | effective=2026-06-30 04:23:38+00:00 | Chamath's INSANE "Nash Agent" Hack EXPLAINED (+ 3 Founder Se
+   - zedJR9QD5-0 | ongoing=False | publishedAt=2026-06-30T04:00:20Z | actualEndTime=None | effective=2026-06-30 04:00:20+00:00 | How I Got My First Million-Dollar Listing as a New Agent!
+   - 4rErKt7VM0k | ongoing=False | publishedAt=2026-06-30T03:32:06Z | actualEndTime=None | effective=2026-06-30 03:32:06+00:00 | Elon Musk JUST Flipped Tesla FSD
+   - 0AzhGn80958 | ongoing=False | publishedAt=2026-06-29T22:36:57Z | actualEndTime=None | effective=2026-06-29 22:36:57+00:00 | Trump Just Bought MILLIONS in THIS Stock… Should You?
+   - 5jET6C-E3j0 | ongoing=False | publishedAt=2026-06-29T18:45:52Z | actualEndTime=None | effective=2026-06-29 18:45:52+00:00 | Michael Saylor’s Collapsing Strategy
+   - 8rDo0AjV6zI | ongoing=False | publishedAt=2026-06-29T15:02:16Z | actualEndTime=None | effective=2026-06-29 15:02:16+00:00 | The Memory AI Stock Collapse is STARTING
    - Xx0gg997ytQ | ongoing=False | publishedAt=2026-06-29T04:00:27Z | actualEndTime=None | effective=2026-06-29 04:00:27+00:00 | No One Will Buy Homes In 10 Years!
    - cmIQb8I8A6s | ongoing=False | publishedAt=2026-06-28T10:00:33Z | actualEndTime=None | effective=2026-06-28 10:00:33+00:00 | Why I’d AVOID Moving To Affordable Cities
-   - MFIyUptdN8s | ongoing=False | publishedAt=2026-06-28T04:00:00Z | actualEndTime=None | effective=2026-06-28 04:00:00+00:00 | Saving Money Is NOT Your Problem!
-   - stO4I3WH6yc | ongoing=False | publishedAt=2026-06-27T10:00:34Z | actualEndTime=None | effective=2026-06-27 10:00:34+00:00 | Why New Real Estate Agents Can’t Sell
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 다우 사상 첫 52,000 파! AI 투자 붐과 '윈도우 드레싱'이 끌어올린 강력한 랠리   -  2026/06/29
+  URL: https://www.youtube.com/watch?v=TNjIfDPn6k8
+  publishedAt: 2026-06-29T22:09:50Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - TNjIfDPn6k8 | ongoing=False | publishedAt=2026-06-29T22:09:50Z | actualEndTime=None | effective=2026-06-29 22:09:50+00:00 | 【미국 증시 오늘의 요약】 다우 사상 첫 52,000 파! AI 투자 붐과 '윈도우 드레싱'이 끌어올린 강력
+   - q5QOYJm8Sf8 | ongoing=False | publishedAt=2026-06-29T21:49:14Z | actualEndTime=2026-06-29T21:21:06Z | effective=2026-06-29 21:21:06+00:00 | [26년 06월 29일 월]  미국·이란, 화요일 회담 개최 ｜ 스페이스X, 나스닥 100 편입 예정 ｜애플
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 이번주는 유가, 고용, 반도체ㅣ[아침뉴스&미국시황] #260629
-  URL: https://www.youtube.com/watch?v=IBF4E9fJucs
-  publishedAt: 2026-06-29T00:04:47Z
-  actualEndTime: 2026-06-28T23:55:19Z
+  제목: 삼전닉스, '반독점 소송' 떴다...!!ㅣ BofA, 고점경고 '헷지' 보고서 발표ㅣ[아침뉴스&미국시황] #260630
+  URL: https://www.youtube.com/watch?v=i7_WbhyF9Hg
+  publishedAt: 2026-06-30T00:21:51Z
+  actualEndTime: 2026-06-30T00:09:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - i7_WbhyF9Hg | ongoing=False | publishedAt=2026-06-30T00:21:51Z | actualEndTime=2026-06-30T00:09:23Z | effective=2026-06-30 00:09:23+00:00 | 삼전닉스, '반독점 소송' 떴다...!!ㅣ BofA, 고점경고 '헷지' 보고서 발표ㅣ[아침뉴스&미국시황] #
+   - QX1uf77lqu0 | ongoing=False | publishedAt=2026-06-29T15:52:51Z | actualEndTime=2026-06-29T15:37:03Z | effective=2026-06-29 15:37:03+00:00 | [미국주식 LIVE] 가즈아!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 근데 엔화 박살인데
    - IBF4E9fJucs | ongoing=False | publishedAt=2026-06-29T00:04:47Z | actualEndTime=2026-06-28T23:55:19Z | effective=2026-06-28 23:55:19+00:00 | 이번주는 유가, 고용, 반도체ㅣ[아침뉴스&미국시황] #260629
    - 8CNdJAXi1g8 | ongoing=False | publishedAt=2026-06-28T10:04:52Z | actualEndTime=None | effective=2026-06-28 10:04:52+00:00 | 멘탈 잡아라!!!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 코스닥 사이드카?? 180도 바뀐 국장ㄷㄷㄷ
-  URL: https://www.youtube.com/watch?v=RK6CokUKILo
-  publishedAt: 2026-06-29T03:03:18Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - RK6CokUKILo | ongoing=False | publishedAt=2026-06-29T03:03:18Z | actualEndTime=None | effective=2026-06-29 03:03:18+00:00 | 코스닥 사이드카?? 180도 바뀐 국장ㄷㄷㄷ
-   - fkdvvAzTkds | ongoing=False | publishedAt=2026-06-27T06:58:57Z | actualEndTime=None | effective=2026-06-27 06:58:57+00:00 | 서울대 출신이 만든 수상한 한일 소개팅 사업
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - k5e_aAdtUSg | ongoing=False | publishedAt=2026-06-29T12:30:43Z | actualEndTime=None | effective=2026-06-29 12:30:43+00:00 | 빅테크의 메모리 집중 견제 시작? 증시 분위기 반전될까
