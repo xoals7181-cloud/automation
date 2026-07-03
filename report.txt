@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-02 13:52 (KST)
-Run: 197 (id=28566312095)
+생성 시각: 2026-07-03 13:35 (KST)
+Run: 198 (id=28638679044)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,82 +8,76 @@ Run: 197 (id=28566312095)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Tech Selloff Extends, Apple Seeks Chinese Chips | The Asia Trade 7/2/2026
-  URL: https://www.youtube.com/watch?v=Mq7NwGgjOmY
-  publishedAt: 2026-07-02T04:02:18Z
+  제목: Why Tech Talent Is Turning Away From the US
+  URL: https://www.youtube.com/watch?v=tw3Dpp5ws28
+  publishedAt: 2026-07-03T04:00:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Mq7NwGgjOmY | ongoing=False | publishedAt=2026-07-02T04:02:18Z | actualEndTime=None | effective=2026-07-02 04:02:18+00:00 | Tech Selloff Extends, Apple Seeks Chinese Chips | The Asia T
-   - OHU-gROLjSQ | ongoing=False | publishedAt=2026-07-02T04:00:11Z | actualEndTime=None | effective=2026-07-02 04:00:11+00:00 | KKR-Backed Musinsa Eyes 'Fast Growth' in China
-   - jv_0HTgOXTM | ongoing=False | publishedAt=2026-07-01T23:42:57Z | actualEndTime=None | effective=2026-07-01 23:42:57+00:00 | Trump Reports at Least $1.4B in 2025 Crypto Earnings | Balan
-   - sm-QBGoD5F8 | ongoing=False | publishedAt=2026-07-01T22:20:07Z | actualEndTime=None | effective=2026-07-01 22:20:07+00:00 | AI Debt Binge Fueling Private Bond Market | The Close 7/1/20
-   - Xtta_ymK4Sc | ongoing=False | publishedAt=2026-07-01T20:59:59Z | actualEndTime=None | effective=2026-07-01 20:59:59+00:00 | Warsh Signals Optimism on US Growth Potential |Bloomberg Bus
-   - bCkiv5ec3p8 | ongoing=False | publishedAt=2026-07-01T20:39:28Z | actualEndTime=None | effective=2026-07-01 20:39:28+00:00 | What’s Behindthe US Dollar’s 'Explosive' Rally?
-   - rGVzWMmkhkk | ongoing=False | publishedAt=2026-07-01T20:37:33Z | actualEndTime=None | effective=2026-07-01 20:37:33+00:00 | Meta Platforms Getting Into Cloud Infrastructure Business | 
-   - OPoA7oa6dxM | ongoing=False | publishedAt=2026-07-01T20:27:34Z | actualEndTime=None | effective=2026-07-01 20:27:34+00:00 | Bending Spoons CEO on company’s plans to make AOL profitable
-   - ukPbfxC63BA | ongoing=False | publishedAt=2026-07-01T20:17:48Z | actualEndTime=None | effective=2026-07-01 20:17:48+00:00 | Bloomberg Deals 7/1/2026
-   - WeCPWfRlzGY | ongoing=False | publishedAt=2026-07-01T19:58:00Z | actualEndTime=None | effective=2026-07-01 19:58:00+00:00 | Vance Says US Is Worried About 'Nuclear Issue' With Iran
+   - tw3Dpp5ws28 | ongoing=False | publishedAt=2026-07-03T04:00:05Z | actualEndTime=None | effective=2026-07-03 04:00:05+00:00 | Why Tech Talent Is Turning Away From the US
+   - ZKF-TiiFWXc | ongoing=False | publishedAt=2026-07-02T23:29:59Z | actualEndTime=None | effective=2026-07-02 23:29:59+00:00 | Open AI Proposes Handing Trump Admin 5% Stake | Balance of P
+   - Isqn9ZgQ6ZU | ongoing=False | publishedAt=2026-07-02T22:15:06Z | actualEndTime=None | effective=2026-07-02 22:15:06+00:00 | Treasuries Gain on Fed Rate-Hike Bets | The Close 7/2/2026
+   - -64MV-oIkn4 | ongoing=False | publishedAt=2026-07-02T21:46:09Z | actualEndTime=None | effective=2026-07-02 21:46:09+00:00 | US Jobs Data Comes in Under Forecast | Bloomberg Businesswee
+   - U1dCYryYup0 | ongoing=False | publishedAt=2026-07-02T21:30:03Z | actualEndTime=None | effective=2026-07-02 21:30:03+00:00 | World Cup Muni Spending An Accelerator: Kleinman
+   - 4JOthWlJ76I | ongoing=False | publishedAt=2026-07-02T21:00:55Z | actualEndTime=None | effective=2026-07-02 21:00:55+00:00 | Rep. Jason Smith:  I’m concerned about economic data revisio
+   - dY7NCISaQEI | ongoing=False | publishedAt=2026-07-02T20:28:50Z | actualEndTime=None | effective=2026-07-02 20:28:50+00:00 | Will Hawkish Fed Generate Dollar Tailwind? | Presented by CM
+   - V85w10URiGE | ongoing=False | publishedAt=2026-07-02T20:26:50Z | actualEndTime=None | effective=2026-07-02 20:26:50+00:00 | US Hiring Slows Sharply | Balance of Power 7/2/2026
+   - RELYHOQryDM | ongoing=False | publishedAt=2026-07-02T20:25:36Z | actualEndTime=None | effective=2026-07-02 20:25:36+00:00 | Bitcoin Feels Fed’s Hawkish Pivot | Presented by CME Group
+   - xxcU2rqUhuw | ongoing=False | publishedAt=2026-07-02T20:22:51Z | actualEndTime=None | effective=2026-07-02 20:22:51+00:00 | Stocks Give up Jobs Report Gains | Closing Bell
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: How To Buy a House FRESH Out of College!
-  URL: https://www.youtube.com/watch?v=WnOtvW-tc4c
-  publishedAt: 2026-07-02T04:00:09Z
+  제목: I Bought a House With Only $10,500
+  URL: https://www.youtube.com/watch?v=66knnEryjzU
+  publishedAt: 2026-07-03T04:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 66knnEryjzU | ongoing=False | publishedAt=2026-07-03T04:00:37Z | actualEndTime=None | effective=2026-07-03 04:00:37+00:00 | I Bought a House With Only $10,500
+   - tvN67kRp4fE | ongoing=False | publishedAt=2026-07-02T23:01:54Z | actualEndTime=None | effective=2026-07-02 23:01:54+00:00 | Uhg. What Trump JUST *Admitted* about the Economy.
+   - 22AOsKnrDRw | ongoing=False | publishedAt=2026-07-02T20:10:25Z | actualEndTime=2026-07-02T20:07:38Z | effective=2026-07-02 20:07:38+00:00 | WARNING: The AI Stock Market is FLIPPING.
    - WnOtvW-tc4c | ongoing=False | publishedAt=2026-07-02T04:00:09Z | actualEndTime=None | effective=2026-07-02 04:00:09+00:00 | How To Buy a House FRESH Out of College!
    - 8zydsaqeswM | ongoing=False | publishedAt=2026-07-02T02:03:16Z | actualEndTime=2026-07-02T02:00:50Z | effective=2026-07-02 02:00:50+00:00 | Ai Hardware Hits PEAK on Meta's FLIP FLOP
    - eJzLLWc07Ks | ongoing=False | publishedAt=2026-07-01T23:32:22Z | actualEndTime=None | effective=2026-07-01 23:32:22+00:00 | Exposing The Home Price Great Reset.
    - 0jobqtwkT9I | ongoing=False | publishedAt=2026-07-01T19:44:04Z | actualEndTime=None | effective=2026-07-01 19:44:04+00:00 | Elon Loses It | LEAKED SpaceX's NEW AI Device
    - Q66r-YB_9R8 | ongoing=False | publishedAt=2026-07-01T14:31:57Z | actualEndTime=None | effective=2026-07-01 14:31:57+00:00 | What the Fed **JUST** Said | GAME CHANGER
    - 60VuFhABfGo | ongoing=False | publishedAt=2026-07-01T14:29:55Z | actualEndTime=2026-07-01T14:24:44Z | effective=2026-07-01 14:24:44+00:00 | *The Federal Reserve FOMC Presser & Rate Decision | Kevin Wa
-   - LyteEK6q-ZE | ongoing=False | publishedAt=2026-07-01T04:00:01Z | actualEndTime=None | effective=2026-07-01 04:00:01+00:00 | How to Buy Your First House with Low Credit!
-   - LEHSD09P3B4 | ongoing=False | publishedAt=2026-06-30T23:35:04Z | actualEndTime=None | effective=2026-06-30 23:35:04+00:00 | Exposing the "AI Jobpocalypse"
-   - dq6sqwbyB70 | ongoing=False | publishedAt=2026-06-30T18:33:01Z | actualEndTime=None | effective=2026-06-30 18:33:01+00:00 | Wall Street Is NOT Ready for Tomorrow
-   - q3qfXPnn3A8 | ongoing=False | publishedAt=2026-06-30T15:16:48Z | actualEndTime=None | effective=2026-06-30 15:16:48+00:00 | Elon's SpaceX JUST Destroyed *ALL* Banks.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 메타 '클라우드 진출' 소식에 직격탄 맞은 반도체…    -  2026/07/01
-  URL: https://www.youtube.com/watch?v=fVnXTamwGso
-  publishedAt: 2026-07-01T22:18:34Z
+  제목: 【미국 증시 오늘의 요약】 다우 신고가에도 웃지 못한 시장…AI 반도체 재평가 시작?   -  2026/07/02
+  URL: https://www.youtube.com/watch?v=ewa-RO4xKIM
+  publishedAt: 2026-07-02T22:28:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ewa-RO4xKIM | ongoing=False | publishedAt=2026-07-02T22:28:43Z | actualEndTime=None | effective=2026-07-02 22:28:43+00:00 | 【미국 증시 오늘의 요약】 다우 신고가에도 웃지 못한 시장…AI 반도체 재평가 시작?   -  2026/07
+   - P3mdgjVoaXU | ongoing=False | publishedAt=2026-07-02T21:55:52Z | actualEndTime=2026-07-02T21:38:14Z | effective=2026-07-02 21:38:14+00:00 | [26년 07월 02일 목] 비농업 취업자수, 실업률 ｜ 테슬라 2분기 인도량 발표 ｜ 구글, 41억 유로 
    - fVnXTamwGso | ongoing=False | publishedAt=2026-07-01T22:18:34Z | actualEndTime=None | effective=2026-07-01 22:18:34+00:00 | 【미국 증시 오늘의 요약】 메타 '클라우드 진출' 소식에 직격탄 맞은 반도체…    -  2026/07/01
    - 99P538XvL1E | ongoing=False | publishedAt=2026-07-01T21:53:20Z | actualEndTime=2026-07-01T21:34:26Z | effective=2026-07-01 21:34:26+00:00 | [26년 07월 01일 수] 연준 의장 연설, 제조업 PMI ｜ 마이크로소프트, 수천 명 감원 추진 ｜ 앤트
-   - YDKBq4Tntq4 | ongoing=False | publishedAt=2026-06-30T22:20:23Z | actualEndTime=None | effective=2026-06-30 22:20:23+00:00 | 【미국 증시 오늘의 요약】  반도체주 강세 속 S&P500·나스닥 최고 분기 마감    -  2026/06/
-   - Eixb2mwastk | ongoing=False | publishedAt=2026-06-30T22:10:28Z | actualEndTime=2026-06-30T21:35:20Z | effective=2026-06-30 21:35:20+00:00 | [26년 06월 30일 화]  미국·이란, 회담 개최 ｜ 경제지표: 소비자신뢰지수, 구인·이직 건수 ｜분기 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 기회는 놓친것 같고, 돈은 벌고 싶고, 단타는 무섭다면?
-  URL: https://www.youtube.com/watch?v=9HzugtDoRA8
-  publishedAt: 2026-07-02T03:00:13Z
+  제목: 개떡상 먹었다고요?  매도는 하셨습니까?
+  URL: https://www.youtube.com/watch?v=yWrQawNmtOk
+  publishedAt: 2026-07-03T01:00:24Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - yWrQawNmtOk | ongoing=False | publishedAt=2026-07-03T01:00:24Z | actualEndTime=None | effective=2026-07-03 01:00:24+00:00 | 개떡상 먹었다고요?  매도는 하셨습니까?
+   - R5hn7-sLas8 | ongoing=False | publishedAt=2026-07-03T00:31:39Z | actualEndTime=2026-07-03T00:13:56Z | effective=2026-07-03 00:13:56+00:00 | 코스피 7,000pt, 매수기회 맞습니까?ㅣ엔비디아, 새로운 '금융 프로그램' 발표ㅣ메타 클라우드는 악재가 
+   - wjL7t-7zJlI | ongoing=False | publishedAt=2026-07-02T07:00:02Z | actualEndTime=None | effective=2026-07-02 07:00:02+00:00 | 도대체 레버리지에 목표가가 어디 있어?
    - 9HzugtDoRA8 | ongoing=False | publishedAt=2026-07-02T03:00:13Z | actualEndTime=None | effective=2026-07-02 03:00:13+00:00 | 기회는 놓친것 같고, 돈은 벌고 싶고, 단타는 무섭다면?
    - Uu1JPqFMoNE | ongoing=False | publishedAt=2026-07-02T01:00:12Z | actualEndTime=None | effective=2026-07-02 01:00:12+00:00 | 지금 AI 기업들의 핵심은 단가를 낮추는 것
    - Mp2fGfWe820 | ongoing=False | publishedAt=2026-07-02T00:12:08Z | actualEndTime=2026-07-02T00:02:45Z | effective=2026-07-02 00:02:45+00:00 | 반도체 차트... 깨졌냐???ㅣ메타 악재는 좀 개아리 아닌교....?ㅣ[아침뉴스&미국시황] #260702
    - mjTurYykMY8 | ongoing=False | publishedAt=2026-07-01T07:30:06Z | actualEndTime=None | effective=2026-07-01 07:30:06+00:00 | 엔화가 뚫리는 순간 주식시장도 피바람
-   - e_bj0aveP94 | ongoing=False | publishedAt=2026-07-01T04:32:53Z | actualEndTime=None | effective=2026-07-01 04:32:53+00:00 | 삼전닉스와 구글마소의 힘싸움
-   - uf0GVmJxQ-M | ongoing=False | publishedAt=2026-07-01T00:21:44Z | actualEndTime=2026-07-01T00:12:34Z | effective=2026-07-01 00:12:34+00:00 | 반도체도 좋지만 전력도 좋다구!!ㅣ일본(엔화, 공매도, 레버리지)이 심상치 않습니다ㅣ[아침뉴스&미국시황] #
-   - UB1wnmTW0LY | ongoing=False | publishedAt=2026-06-30T23:50:41Z | actualEndTime=None | effective=2026-06-30 23:50:41+00:00 | 빨리 벌려다 빨리 물립니다!
-   - Qlc6KaETkg4 | ongoing=False | publishedAt=2026-06-30T07:36:49Z | actualEndTime=None | effective=2026-06-30 07:36:49+00:00 | 강세장 속 급락 패턴, 이번에도 반복될까?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 마이크론 대폭락! 컴퓨팅이 남아돈다? 코스피의 운명은? #코스피 #마이크론 #메타 #하이닉스 #삼성전자
-  URL: https://www.youtube.com/watch?v=MQOJg4UkMmI
-  publishedAt: 2026-07-01T22:11:19Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - yWggJjPpUrI | ongoing=False | publishedAt=2026-07-02T16:32:55Z | actualEndTime=None | effective=2026-07-02 16:32:55+00:00 | 마이크론 샌디스크 연이틀 하락? 메모리 주식 이제 끝인가?
    - MQOJg4UkMmI | ongoing=False | publishedAt=2026-07-01T22:11:19Z | actualEndTime=None | effective=2026-07-01 22:11:19+00:00 | 마이크론 대폭락! 컴퓨팅이 남아돈다? 코스피의 운명은? #코스피 #마이크론 #메타 #하이닉스 #삼성전자
    - 54ezOCcHpok | ongoing=False | publishedAt=2026-07-01T08:07:05Z | actualEndTime=None | effective=2026-07-01 08:07:05+00:00 | 삼전 닉스만 나락간 진짜 이유 #하이닉스 #삼성전자 #코스피
-   - 1iTCIPsYEXM | ongoing=False | publishedAt=2026-06-30T06:16:38Z | actualEndTime=None | effective=2026-06-30 06:16:38+00:00 | 코스피 오후부터 오른 이유
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - I8CdzVI9snY | ongoing=False | publishedAt=2026-07-01T12:32:53Z | actualEndTime=None | effective=2026-07-01 12:32:53+00:00 | 주식 초고수들의 엇갈린 베팅, 승자는 누가 될까
-   - PUTjVeVvOxE | ongoing=False | publishedAt=2026-06-30T10:42:39Z | actualEndTime=None | effective=2026-06-30 10:42:39+00:00 | 구글의 다우지수 편입은 찜찜한 신호? 다우의 저주 피할 수 있을까
