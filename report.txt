@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-05 13:50 (KST)
-Run: 200 (id=28729926424)
+생성 시각: 2026-07-06 14:02 (KST)
+Run: 201 (id=28768982096)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,45 +8,49 @@ Run: 200 (id=28729926424)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bloomberg This Weekend Celebrates America 250
-  URL: https://www.youtube.com/watch?v=LMbcUFqJSp0
-  publishedAt: 2026-07-04T19:19:28Z
+  제목: Frank Luntz Calls for Common Ground at America 250
+  URL: https://www.youtube.com/watch?v=5O3BoEWtqWU
+  publishedAt: 2026-07-05T23:17:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - LMbcUFqJSp0 | ongoing=False | publishedAt=2026-07-04T19:19:28Z | actualEndTime=None | effective=2026-07-04 19:19:28+00:00 | Bloomberg This Weekend Celebrates America 250
-   - AMgrHoURtwo | ongoing=False | publishedAt=2026-07-04T18:15:19Z | actualEndTime=None | effective=2026-07-04 18:15:19+00:00 | US Flyover Showcases Next-Generation Airpower
-   - SBDQUB82z5I | ongoing=False | publishedAt=2026-07-04T17:40:02Z | actualEndTime=None | effective=2026-07-04 17:40:02+00:00 | Moore: American Dream Still Worth Fighting For
-   - gS8gkYd2yxk | ongoing=False | publishedAt=2026-07-04T17:26:25Z | actualEndTime=None | effective=2026-07-04 17:26:25+00:00 | Coney Island Boardwalk Set for $1 Billion Upgrade
-   - wiV1u4l1zVs | ongoing=False | publishedAt=2026-07-04T16:36:26Z | actualEndTime=None | effective=2026-07-04 16:36:26+00:00 | USO Marks 85 Years Supporting US Troops
-   - 5Qp1P0vIHRU | ongoing=False | publishedAt=2026-07-04T16:20:30Z | actualEndTime=None | effective=2026-07-04 16:20:30+00:00 | Miss Americana and the Football Prince
-   - kEftIvXnrwg | ongoing=False | publishedAt=2026-07-04T15:39:11Z | actualEndTime=None | effective=2026-07-04 15:39:11+00:00 | David Rubenstein's Belief in 'Patriotic Philanthropy'
-   - 6fl0KvnK0iE | ongoing=False | publishedAt=2026-07-04T15:22:10Z | actualEndTime=None | effective=2026-07-04 15:22:10+00:00 | Polls Say American Pride Depends on How You Ask
-   - YI8WmJn6yFU | ongoing=False | publishedAt=2026-07-04T15:15:47Z | actualEndTime=2026-07-04T15:01:02Z | effective=2026-07-04 15:01:02+00:00 | America250: Live from the Intrepid in New York | Bloomberg T
-   - YCD3KPFXCUE | ongoing=False | publishedAt=2026-07-04T14:59:32Z | actualEndTime=None | effective=2026-07-04 14:59:32+00:00 | AI Teddy Roosevelt Greets Library Visitors
+   - VElJbcOdlBM | ongoing=False | publishedAt=2026-07-06T02:47:27Z | actualEndTime=2026-07-05T14:05:37Z | effective=2026-07-05 14:05:37+00:00 | Trump Puts Himself Centerstage; Fewer Ships Passing Hormuz |
+   - 5O3BoEWtqWU | ongoing=False | publishedAt=2026-07-05T23:17:03Z | actualEndTime=None | effective=2026-07-05 23:17:03+00:00 | Frank Luntz Calls for Common Ground at America 250
+   - CQczQcYOCnQ | ongoing=False | publishedAt=2026-07-05T23:17:19Z | actualEndTime=None | effective=2026-07-05 23:17:19+00:00 | Hamburger Costs Rise 14% From Last July 4 Says Wells Fargo
+   - QdCMxjnMeeA | ongoing=False | publishedAt=2026-07-05T23:17:30Z | actualEndTime=None | effective=2026-07-05 23:17:30+00:00 | Iran’s Floating Oil Hoard Swells
+   - yvXbBHQfNFQ | ongoing=False | publishedAt=2026-07-05T23:17:43Z | actualEndTime=None | effective=2026-07-05 23:17:43+00:00 | Robinhood CEO on AI, Expansion & Trump Accounts
+   - pio2rLUIAAE | ongoing=False | publishedAt=2026-07-05T23:16:32Z | actualEndTime=None | effective=2026-07-05 23:16:32+00:00 | Fourth of July Cookout Costs Rise 4% Says Stew Leonard's CEO
+   - ukQrD9tpfBU | ongoing=False | publishedAt=2026-07-05T23:17:54Z | actualEndTime=None | effective=2026-07-05 23:17:54+00:00 | OpenAI Proposes Giving the US Government a 5% Stake, FT Says
+   - BG-qKSCU5Jg | ongoing=False | publishedAt=2026-07-05T23:16:54Z | actualEndTime=None | effective=2026-07-05 23:16:54+00:00 | Krugman Calls Labor Market Soft, Disturbed by Warsh's View
+   - qr1SX5cHTTY | ongoing=False | publishedAt=2026-07-05T16:28:26Z | actualEndTime=None | effective=2026-07-05 16:28:26+00:00 | Bloomberg This Weekend | Upcoming NATO Summit, Chip Stocks L
+   - O9TLy3b6G4c | ongoing=False | publishedAt=2026-07-05T14:48:23Z | actualEndTime=None | effective=2026-07-05 14:48:23+00:00 | Pointed News Quiz | Food & Beverage, Disclosures, Movies
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Kevin Warsh's Planned GREAT RESET | How to Prepare & WIN.
+  URL: https://www.youtube.com/watch?v=maDgqwyra0Q
+  publishedAt: 2026-07-05T23:54:38Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - pet5_hI17OQ | ongoing=False | publishedAt=2026-07-03T19:29:17Z | actualEndTime=None | effective=2026-07-03 19:29:17+00:00 | 4x Your Money w/ THIS Stock & **AVOID THESE** | AI Stock War
+   - maDgqwyra0Q | ongoing=False | publishedAt=2026-07-05T23:54:38Z | actualEndTime=None | effective=2026-07-05 23:54:38+00:00 | Kevin Warsh's Planned GREAT RESET | How to Prepare & WIN.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 반등하니? 전쟁하니?ㅣ이스라엘: 헤즈볼라 공격 계속 할거임!ㅣ러시아: 드론 너무 아프다!!ㅣ[아침뉴스&미국시황] #260706
+  URL: https://www.youtube.com/watch?v=CktdUVnEoPg
+  publishedAt: 2026-07-06T00:25:45Z
+  actualEndTime: 2026-07-06T00:12:00Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - tq5w0yzNCW8 | ongoing=False | publishedAt=2026-07-04T03:44:59Z | actualEndTime=None | effective=2026-07-04 03:44:59+00:00 | META, AI-네오클라우드 대전환!! "#반도체 #네오클라우드 #메타", 누가 악재일까?
-   - tsDUwL1vlyA | ongoing=False | publishedAt=2026-07-03T07:08:41Z | actualEndTime=None | effective=2026-07-03 07:08:41+00:00 | 반도체 수급 공백, 7월 말까지 조심해야!
+   - CktdUVnEoPg | ongoing=False | publishedAt=2026-07-06T00:25:45Z | actualEndTime=2026-07-06T00:12:00Z | effective=2026-07-06 00:12:00+00:00 | 반등하니? 전쟁하니?ㅣ이스라엘: 헤즈볼라 공격 계속 할거임!ㅣ러시아: 드론 너무 아프다!!ㅣ[아침뉴스&미국시
+   - hWlP51QDet0 | ongoing=False | publishedAt=2026-07-05T11:00:31Z | actualEndTime=None | effective=2026-07-05 11:00:31+00:00 | 지금 왜 '매도'해야 할까?
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - _UqhawRBnuo | ongoing=False | publishedAt=2026-07-03T16:44:21Z | actualEndTime=None | effective=2026-07-03 16:44:21+00:00 | 더 이상 자산배분을 하지 않는 이유
-   - AluijCouFX0 | ongoing=False | publishedAt=2026-07-03T06:39:00Z | actualEndTime=None | effective=2026-07-03 06:39:00+00:00 | 코스피 개같이 부활한 이유 #코스피 #삼성전자 #하이닉스
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
