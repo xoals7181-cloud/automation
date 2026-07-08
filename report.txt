@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-07 13:42 (KST)
-Run: 202 (id=28842070076)
+생성 시각: 2026-07-08 13:08 (KST)
+Run: 203 (id=28916789887)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,66 +8,68 @@ Run: 202 (id=28842070076)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Samsung's Record Profit Fails to Impress | The Asia Trade 7/7/2026
-  URL: https://www.youtube.com/watch?v=pYh3q7Ua7s8
-  publishedAt: 2026-07-07T04:38:29Z
+  제목: Farage Quits as MP Vowing To Contest By-Election
+  URL: https://www.youtube.com/watch?v=7VLuB25HDGA
+  publishedAt: 2026-07-08T01:01:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - pYh3q7Ua7s8 | ongoing=False | publishedAt=2026-07-07T04:38:29Z | actualEndTime=None | effective=2026-07-07 04:38:29+00:00 | Samsung's Record Profit Fails to Impress | The Asia Trade 7/
-   - t9ZEBYb98Ts | ongoing=False | publishedAt=2026-07-07T04:00:00Z | actualEndTime=None | effective=2026-07-07 04:00:00+00:00 | Why Can’t Airports Quit Smoking Lounges?
-   - fZ0wpoHxcsk | ongoing=False | publishedAt=2026-07-07T02:00:39Z | actualEndTime=None | effective=2026-07-07 02:00:39+00:00 | How Phone Culture Is Reshaping Chinese Society
-   - XcqjtrC2s7U | ongoing=False | publishedAt=2026-07-06T23:48:45Z | actualEndTime=None | effective=2026-07-06 23:48:45+00:00 | House Dems Investigate Trump's Running of Freedom 250 | Bala
-   - 5KThQ7IJ0As | ongoing=False | publishedAt=2026-07-06T22:24:35Z | actualEndTime=None | effective=2026-07-06 22:24:35+00:00 | Chip Stocks Rally in AI Trade Revival | The Close 7/6/2026
-   - O1WzjUKM4Lc | ongoing=False | publishedAt=2026-07-06T20:43:22Z | actualEndTime=None | effective=2026-07-06 20:43:22+00:00 | SK Hynix Moves to Capitalize on Memory Chip Demand | Bloombe
-   - zL46G05SuOw | ongoing=False | publishedAt=2026-07-06T20:27:11Z | actualEndTime=None | effective=2026-07-06 20:27:11+00:00 | Stocks Push Higher Led by Chipmakers | Closing Bell
-   - KCEw293OtCc | ongoing=False | publishedAt=2026-07-06T20:07:17Z | actualEndTime=None | effective=2026-07-06 20:07:17+00:00 | Microsoft’s Xbox to Cut 3,200 Jobs, Divest Studios in Overha
-   - 1OGnd2EYHKE | ongoing=False | publishedAt=2026-07-06T20:07:04Z | actualEndTime=None | effective=2026-07-06 20:07:04+00:00 | Saudis Slash Main Oil Price to Rare Discount
-   - bGroRN1Nh7U | ongoing=False | publishedAt=2026-07-06T20:05:58Z | actualEndTime=None | effective=2026-07-06 20:05:58+00:00 | ETF IQ 7/6/2026
+   - 7VLuB25HDGA | ongoing=False | publishedAt=2026-07-08T01:01:14Z | actualEndTime=None | effective=2026-07-08 01:01:14+00:00 | Farage Quits as MP Vowing To Contest By-Election
+   - ECG7Y5yDkSU | ongoing=False | publishedAt=2026-07-08T00:39:43Z | actualEndTime=None | effective=2026-07-08 00:39:43+00:00 | Abu Dhabi Ruler’s Family Office Is a Global Dealmaking Force
+   - nU4dz0Wsdds | ongoing=False | publishedAt=2026-07-07T23:26:55Z | actualEndTime=None | effective=2026-07-07 23:26:55+00:00 | Iran: To Take 'Decisive Actions' to Protect Interests | Bala
+   - LMc4Ho_0Otk | ongoing=False | publishedAt=2026-07-07T22:35:55Z | actualEndTime=None | effective=2026-07-07 22:35:55+00:00 | Chip Stocks Tumble on AI Anxiety | The Close 7/7/2026
+   - tFNK0TPU7LI | ongoing=False | publishedAt=2026-07-07T22:10:16Z | actualEndTime=None | effective=2026-07-07 22:10:16+00:00 | Iran Ceasefire Is 'Dead,' Democratic Strategist Hodge Says
+   - xG2t6mLPRyk | ongoing=False | publishedAt=2026-07-07T21:59:31Z | actualEndTime=None | effective=2026-07-07 21:59:31+00:00 | US military says it’s launching new wave of strikes against 
+   - 8eEj0MSkNMY | ongoing=False | publishedAt=2026-07-07T21:33:02Z | actualEndTime=None | effective=2026-07-07 21:33:02+00:00 | US Military Forces Launch New Strikes Against Iran
+   - pp8Buh03bXE | ongoing=False | publishedAt=2026-07-07T21:10:44Z | actualEndTime=None | effective=2026-07-07 21:10:44+00:00 | TeraWulf CEO Excited About Anthropic Data Center Agreement
+   - TZF4JtRk0-c | ongoing=False | publishedAt=2026-07-07T20:47:57Z | actualEndTime=None | effective=2026-07-07 20:47:57+00:00 | SpaceX Joins NASDAQ 100, Chip Stocks Slide | Bloomberg Busin
+   - lPV0CExSoHM | ongoing=False | publishedAt=2026-07-07T20:35:30Z | actualEndTime=None | effective=2026-07-07 20:35:30+00:00 | Bloomberg Crypto 7/7/2026
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - RoT-_O5-1l0 | ongoing=False | publishedAt=2026-07-07T15:41:40Z | actualEndTime=None | effective=2026-07-07 15:41:40+00:00 | THE CRASH BEGINS | DO THIS NOW
    - 8EZdnFSD_AU | ongoing=False | publishedAt=2026-07-06T15:58:35Z | actualEndTime=None | effective=2026-07-06 15:58:35+00:00 | This Stock Doubles NEXT: *MAJOR Stock IPO Warning THIS WEEK*
-   - maDgqwyra0Q | ongoing=False | publishedAt=2026-07-05T23:54:38Z | actualEndTime=None | effective=2026-07-05 23:54:38+00:00 | Kevin Warsh's Planned GREAT RESET | How to Prepare & WIN.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 07월 06일 월]  엔비디아 차세대 AI 서버 지연!? ｜ 삼성전자 2분기 잠정 실적발표 ｜ 폭스콘, 분기 매출 40% 급증 ｜ -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=vGVeHRrCYlY
-  publishedAt: 2026-07-06T23:20:53Z
-  actualEndTime: 2026-07-06T22:47:04Z
+  제목: 【미국 증시 오늘의 요약】 삼성전자 사상 최대 실적에도 반도체주 급락…기술주 눈높이가 너무 높아졌다    -  2026/07/07
+  URL: https://www.youtube.com/watch?v=Ko198ZwjFQA
+  publishedAt: 2026-07-07T22:35:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Ko198ZwjFQA | ongoing=False | publishedAt=2026-07-07T22:35:34Z | actualEndTime=None | effective=2026-07-07 22:35:34+00:00 | 【미국 증시 오늘의 요약】 삼성전자 사상 최대 실적에도 반도체주 급락…기술주 눈높이가 너무 높아졌다    -
+   - N2_D7Yq7thg | ongoing=False | publishedAt=2026-07-07T22:04:53Z | actualEndTime=2026-07-07T21:31:21Z | effective=2026-07-07 21:31:21+00:00 | [26년 07월 07일 화]  딥시크, 자체 AI 추론 칩 개발 ｜ 삼성전자, 이익 급증에도 시장은 실망..
    - vGVeHRrCYlY | ongoing=False | publishedAt=2026-07-06T23:20:53Z | actualEndTime=2026-07-06T22:47:04Z | effective=2026-07-06 22:47:04+00:00 | [26년 07월 06일 월]  엔비디아 차세대 AI 서버 지연!? ｜ 삼성전자 2분기 잠정 실적발표 ｜ 폭스
    - yzPBBh9C2bk | ongoing=False | publishedAt=2026-07-06T22:02:37Z | actualEndTime=None | effective=2026-07-06 22:02:37+00:00 | 【미국 증시 오늘의 요약】 AI 랠리 재시동, 다우 사상 최고치… 내일 삼성전자 실적이 분수령    -  2
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 삼성전자, 실적에 감동이 없다...?ㅣ시진핑, 9월에 미국간다!!ㅣ퐁당퐁당 대응방법은?ㅣ[아침뉴스&미국시황] #260707
-  URL: https://www.youtube.com/watch?v=MM9tYMp3UB8
-  publishedAt: 2026-07-07T00:12:23Z
-  actualEndTime: 2026-07-07T00:05:53Z
+  제목: 삼성전자 고점, 아직은 아니지만....
+  URL: https://www.youtube.com/watch?v=4CIHsgOY4dw
+  publishedAt: 2026-07-08T03:00:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 4CIHsgOY4dw | ongoing=False | publishedAt=2026-07-08T03:00:31Z | actualEndTime=None | effective=2026-07-08 03:00:31+00:00 | 삼성전자 고점, 아직은 아니지만....
+   - 7s1lHYJSfr4 | ongoing=False | publishedAt=2026-07-08T00:53:08Z | actualEndTime=2026-07-08T00:14:13Z | effective=2026-07-08 00:14:13+00:00 | 국제유가 +5%, 휴전 협상 엎어지나...?ㅣ반도체, 지금 사요? 다음주에 사요?ㅣ[아침뉴스&미국시황] #2
+   - yiS_iAhy5Gg | ongoing=False | publishedAt=2026-07-07T16:04:13Z | actualEndTime=2026-07-07T15:36:10Z | effective=2026-07-07 15:36:10+00:00 | [미국주식 LIVE] 조졌나?? #260707
+   - 0wRmHHxPYv4 | ongoing=False | publishedAt=2026-07-07T14:55:20Z | actualEndTime=None | effective=2026-07-07 14:55:20+00:00 | 11월 전엔 못 뚫는다, 박스권에 갇힌 시장!
+   - 7TwyQyvnHwE | ongoing=False | publishedAt=2026-07-07T07:00:08Z | actualEndTime=None | effective=2026-07-07 07:00:08+00:00 | 삼성 실적 잘 나와도 시장은 감동이 없다?
    - MM9tYMp3UB8 | ongoing=False | publishedAt=2026-07-07T00:12:23Z | actualEndTime=2026-07-07T00:05:53Z | effective=2026-07-07 00:05:53+00:00 | 삼성전자, 실적에 감동이 없다...?ㅣ시진핑, 9월에 미국간다!!ㅣ퐁당퐁당 대응방법은?ㅣ[아침뉴스&미국시황]
    - Y-9UGgv2Vzc | ongoing=False | publishedAt=2026-07-06T16:34:24Z | actualEndTime=2026-07-06T15:49:03Z | effective=2026-07-06 15:49:03+00:00 | [미국주식 LIVE] 리밸런싱 끗!! 반도체 또 가니?! #260706
    - uTbsARk29h4 | ongoing=False | publishedAt=2026-07-06T07:00:08Z | actualEndTime=None | effective=2026-07-06 07:00:08+00:00 | 현금 말고 주식 내놔! 미국의 새로운 삥뜯기!
-   - CktdUVnEoPg | ongoing=False | publishedAt=2026-07-06T00:25:45Z | actualEndTime=2026-07-06T00:12:00Z | effective=2026-07-06 00:12:00+00:00 | 반등하니? 전쟁하니?ㅣ이스라엘: 헤즈볼라 공격 계속 할거임!ㅣ러시아: 드론 너무 아프다!!ㅣ[아침뉴스&미국시
-   - hWlP51QDet0 | ongoing=False | publishedAt=2026-07-05T11:00:31Z | actualEndTime=None | effective=2026-07-05 11:00:31+00:00 | 지금 왜 '매도'해야 할까?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 삼전 코스피 폭락의 진짜 이유 #하이닉스 #삼성전자 #잠정실적
-  URL: https://www.youtube.com/watch?v=RSlklk2XV9Y
-  publishedAt: 2026-07-07T04:00:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - RSlklk2XV9Y | ongoing=False | publishedAt=2026-07-07T04:00:01Z | actualEndTime=None | effective=2026-07-07 04:00:01+00:00 | 삼전 코스피 폭락의 진짜 이유 #하이닉스 #삼성전자 #잠정실적
+   - 2gVT1x7Hz7M | ongoing=False | publishedAt=2026-07-07T08:54:51Z | actualEndTime=None | effective=2026-07-07 08:54:51+00:00 | 역대급 실적에도 삼전닉스 폭락한 진짜 이유
+   - RSlklk2XV9Y | ongoing=False | publishedAt=2026-07-07T04:00:01Z | actualEndTime=None | effective=2026-07-07 04:00:01+00:00 | 삼전 역대급 실적에도 코스피 폭락한 진짜 이유 #하이닉스 #삼성전자 #잠정실적
    - J6WTgqFoRH0 | ongoing=False | publishedAt=2026-07-06T06:12:02Z | actualEndTime=None | effective=2026-07-06 06:12:02+00:00 | 결국 코스피의 문제는 '이것' #삼성전자 #하이닉스 #코스피
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - O6EGhMxmoJE | ongoing=False | publishedAt=2026-07-07T12:21:45Z | actualEndTime=None | effective=2026-07-07 12:21:45+00:00 | 트럼프 계좌에 기부해야 밀어준다? 지금부터 주목해야 할 주식들의 공통점
    - 1ChpzZrW0Yo | ongoing=False | publishedAt=2026-07-06T12:20:30Z | actualEndTime=None | effective=2026-07-06 12:20:30+00:00 | AI투자 속도 느려지기 시작? 빅테크의 변심, 불길한 신호일까
