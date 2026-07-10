@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-09 13:51 (KST)
-Run: 204 (id=28994553690)
+생성 시각: 2026-07-10 13:43 (KST)
+Run: 205 (id=29069680898)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,74 +8,74 @@ Run: 204 (id=28994553690)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Chief Future Officer: Kate Gulliver, Wayfair
-  URL: https://www.youtube.com/watch?v=PAJyvapeGyQ
-  publishedAt: 2026-07-09T02:17:29Z
+  제목: Fate of Iran Ceasefire Uncertain After Escalation | Balance of Power 07/09/2026
+  URL: https://www.youtube.com/watch?v=HselgGfTofg
+  publishedAt: 2026-07-09T23:42:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - PAJyvapeGyQ | ongoing=False | publishedAt=2026-07-09T02:17:29Z | actualEndTime=None | effective=2026-07-09 02:17:29+00:00 | Chief Future Officer: Kate Gulliver, Wayfair
-   - 2-ks4FgPWmc | ongoing=False | publishedAt=2026-07-09T01:33:16Z | actualEndTime=None | effective=2026-07-09 01:33:16+00:00 | How Wayfair Has Built AI Into Its Future
-   - s0MR_tWARfc | ongoing=False | publishedAt=2026-07-09T01:33:30Z | actualEndTime=None | effective=2026-07-09 01:33:30+00:00 | Wayfair's Big Bet on Bricks and Mortar
-   - 29goJxAiBCI | ongoing=False | publishedAt=2026-07-08T23:44:14Z | actualEndTime=None | effective=2026-07-08 23:44:14+00:00 | Trump Returns on Old AF1 Instead of Qatari Jet | Balance of 
-   - oblKDDh-NDo | ongoing=False | publishedAt=2026-07-08T22:22:19Z | actualEndTime=None | effective=2026-07-08 22:22:19+00:00 | Nasdaq 100 Fluctuates Amid Geopolitical Tensions | The Close
-   - Ars_1GMsM7Q | ongoing=False | publishedAt=2026-07-08T22:11:25Z | actualEndTime=None | effective=2026-07-08 22:11:25+00:00 | US Launches Strikes on Iran for Second Straight Day
-   - 1csepF-1n_E | ongoing=False | publishedAt=2026-07-08T20:45:34Z | actualEndTime=None | effective=2026-07-08 20:45:34+00:00 | Oil Climbs as Trump Threatens Iran Strikes, Blockade | Bloom
-   - 0xrNxFtcP2A | ongoing=False | publishedAt=2026-07-08T20:36:16Z | actualEndTime=None | effective=2026-07-08 20:36:16+00:00 | Bloomberg Deals 7/8/2026
-   - R0_0IkE3N10 | ongoing=False | publishedAt=2026-07-08T20:27:21Z | actualEndTime=None | effective=2026-07-08 20:27:21+00:00 | Oil Jumps to Two Week High on US-Iran Jitters | Closing Bell
-   - -0V5ZfHmjD0 | ongoing=False | publishedAt=2026-07-08T20:05:11Z | actualEndTime=None | effective=2026-07-08 20:05:11+00:00 | Why youth soccer is unaffordable in the US
+   - HselgGfTofg | ongoing=False | publishedAt=2026-07-09T23:42:39Z | actualEndTime=None | effective=2026-07-09 23:42:39+00:00 | Fate of Iran Ceasefire Uncertain After Escalation | Balance 
+   - 8hk20JnHjdg | ongoing=False | publishedAt=2026-07-09T22:13:48Z | actualEndTime=None | effective=2026-07-09 22:13:48+00:00 | Stocks Get Boost From Chipmakers | The Close 7/9/2026
+   - C4mj9CiL0YA | ongoing=False | publishedAt=2026-07-09T21:15:06Z | actualEndTime=None | effective=2026-07-09 21:15:06+00:00 | Jersey City Shadowed by 15% Tax Hike as Boomtown Faces Recko
+   - gwAM2N2adWc | ongoing=False | publishedAt=2026-07-09T21:08:14Z | actualEndTime=None | effective=2026-07-09 21:08:14+00:00 | Chipmakers Boost Stocks, Meta Explores Cloud Business | Bloo
+   - U1ymApi0sgk | ongoing=False | publishedAt=2026-07-09T20:39:50Z | actualEndTime=None | effective=2026-07-09 20:39:50+00:00 | Chipmakers Boost Stocks as Oil Declines | Closing Bell
+   - 6SRvb_PVahk | ongoing=False | publishedAt=2026-07-09T20:23:11Z | actualEndTime=None | effective=2026-07-09 20:23:11+00:00 | Real Yield 7/9/2026
+   - bxeuclf-dqM | ongoing=False | publishedAt=2026-07-09T19:13:55Z | actualEndTime=None | effective=2026-07-09 19:13:55+00:00 | US, Iran Trade Airstrikes | Balance of Power 7/9/2026
+   - Xwt2onLFzH4 | ongoing=False | publishedAt=2026-07-09T18:12:30Z | actualEndTime=None | effective=2026-07-09 18:12:30+00:00 | Flexport CEO on El Niño threat to Panama Canal shipping
+   - 0mOwqzi5P5Y | ongoing=False | publishedAt=2026-07-09T14:49:26Z | actualEndTime=None | effective=2026-07-09 14:49:26+00:00 | Bloomberg Surveillance 7/9/2026
+   - gsklnDedjA8 | ongoing=False | publishedAt=2026-07-09T14:30:38Z | actualEndTime=None | effective=2026-07-09 14:30:38+00:00 | Wayfair CFO on opening stores
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: My Newborn Had A 50% Chance of Survival…
-  URL: https://www.youtube.com/watch?v=CUNYm3PP7xM
-  publishedAt: 2026-07-09T04:00:04Z
+  제목: Ranking The Top 5 Worst Californians
+  URL: https://www.youtube.com/watch?v=Sm_5YQ4aX6w
+  publishedAt: 2026-07-10T04:00:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Sm_5YQ4aX6w | ongoing=False | publishedAt=2026-07-10T04:00:28Z | actualEndTime=None | effective=2026-07-10 04:00:28+00:00 | Ranking The Top 5 Worst Californians
+   - xaECAHSCV5o | ongoing=False | publishedAt=2026-07-09T20:18:58Z | actualEndTime=None | effective=2026-07-09 20:18:58+00:00 | Kevin Warsh *JUST* Revealed his Plan | and oh my f**k sh9t
+   - FvzcSaPj_RI | ongoing=False | publishedAt=2026-07-09T16:20:10Z | actualEndTime=None | effective=2026-07-09 16:20:10+00:00 | Anthropic Numbers REVEAL Warning: AVOID these Stocks | Buy T
+   - ygNx27naqRo | ongoing=False | publishedAt=2026-07-09T10:00:19Z | actualEndTime=None | effective=2026-07-09 10:00:19+00:00 | Iran Might Start World War 3
    - CUNYm3PP7xM | ongoing=False | publishedAt=2026-07-09T04:00:04Z | actualEndTime=None | effective=2026-07-09 04:00:04+00:00 | My Newborn Had A 50% Chance of Survival…
    - ZoRiHfapPSw | ongoing=False | publishedAt=2026-07-08T16:11:03Z | actualEndTime=None | effective=2026-07-08 16:11:03+00:00 | Elon Musk DESTROYED the Stock Market | The Great SUCKENING.
-   - RoT-_O5-1l0 | ongoing=False | publishedAt=2026-07-07T15:41:40Z | actualEndTime=None | effective=2026-07-07 15:41:40+00:00 | THE CRASH BEGINS | DO THIS NOW
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 전면전 우려에 요동친 월가! 치솟는 유가 속 나스닥 홀로 웃었다   -  2026/07/08
-  URL: https://www.youtube.com/watch?v=mUUr0W6c8Zs
-  publishedAt: 2026-07-08T22:12:02Z
+  제목: 【미국 증시 오늘의 요약】 메타·마이크론·SK하이닉스가 살린 AI 투자심리   -  2026/07/09
+  URL: https://www.youtube.com/watch?v=I3LjJ2FbcjY
+  publishedAt: 2026-07-09T22:19:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - I3LjJ2FbcjY | ongoing=False | publishedAt=2026-07-09T22:19:18Z | actualEndTime=None | effective=2026-07-09 22:19:18+00:00 | 【미국 증시 오늘의 요약】 메타·마이크론·SK하이닉스가 살린 AI 투자심리   -  2026/07/09
+   - ZgGq871q0gA | ongoing=False | publishedAt=2026-07-09T21:37:16Z | actualEndTime=2026-07-09T21:19:42Z | effective=2026-07-09 21:19:42+00:00 | [26년 07월 09일 목]  SK하이닉스 ADR 공모, 청약 경쟁률 7배 넘어  ｜ 메타, 캐나다 데이터센
    - mUUr0W6c8Zs | ongoing=False | publishedAt=2026-07-08T22:12:02Z | actualEndTime=None | effective=2026-07-08 22:12:02+00:00 | 【미국 증시 오늘의 요약】 전면전 우려에 요동친 월가! 치솟는 유가 속 나스닥 홀로 웃었다   -  2026
    - upNzghy4XI4 | ongoing=False | publishedAt=2026-07-08T21:47:50Z | actualEndTime=2026-07-08T21:28:30Z | effective=2026-07-08 21:28:30+00:00 | [26년 07월 08일 수]  트럼프, '이란과 휴전 사실상 끝났다'  ｜ 애플, 브로드컴과 300억 달러 
-   - Ko198ZwjFQA | ongoing=False | publishedAt=2026-07-07T22:35:34Z | actualEndTime=None | effective=2026-07-07 22:35:34+00:00 | 【미국 증시 오늘의 요약】 삼성전자 사상 최대 실적에도 반도체주 급락…기술주 눈높이가 너무 높아졌다    -
-   - N2_D7Yq7thg | ongoing=False | publishedAt=2026-07-07T22:04:53Z | actualEndTime=2026-07-07T21:31:21Z | effective=2026-07-07 21:31:21+00:00 | [26년 07월 07일 화]  딥시크, 자체 AI 추론 칩 개발 ｜ 삼성전자, 이익 급증에도 시장은 실망..
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 삼성전자, SK하이닉스 흔들리는게 레버리지 ETF 때문이다?
-  URL: https://www.youtube.com/watch?v=HNCc0uzS16Y
-  publishedAt: 2026-07-09T03:58:45Z
+  제목: 메타발 악재? 메타발 호재? 반도체 존버는 승리한다!!ㅣ빅테크/반도체, 매수보고서가 쏟아진다ㅣ[아침뉴스&미국시황] #260710
+  URL: https://www.youtube.com/watch?v=Li43zYDYErg
+  publishedAt: 2026-07-10T00:11:52Z
+  actualEndTime: 2026-07-10T00:05:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Li43zYDYErg | ongoing=False | publishedAt=2026-07-10T00:11:52Z | actualEndTime=2026-07-10T00:05:36Z | effective=2026-07-10 00:05:36+00:00 | 메타발 악재? 메타발 호재? 반도체 존버는 승리한다!!ㅣ빅테크/반도체, 매수보고서가 쏟아진다ㅣ[아침뉴스&미국
+   - dBhrZGy9MRU | ongoing=False | publishedAt=2026-07-09T07:00:09Z | actualEndTime=None | effective=2026-07-09 07:00:09+00:00 | 메모리 업체들의 반란, 갑질은 끝났다!
    - HNCc0uzS16Y | ongoing=False | publishedAt=2026-07-09T03:58:45Z | actualEndTime=None | effective=2026-07-09 03:58:45+00:00 | 삼성전자, SK하이닉스 흔들리는게 레버리지 ETF 때문이다?
    - 6wT_5gh3sn0 | ongoing=False | publishedAt=2026-07-09T00:21:51Z | actualEndTime=2026-07-09T00:09:17Z | effective=2026-07-09 00:09:17+00:00 | 제 계좌는 플러스 입니다ㅣ[아침뉴스&미국시황] #260709
    - 7relBWI-6cA | ongoing=False | publishedAt=2026-07-08T07:00:15Z | actualEndTime=None | effective=2026-07-08 07:00:15+00:00 | 하이 리턴 원하면 하이 스트레스도 버텨라!
-   - 4CIHsgOY4dw | ongoing=False | publishedAt=2026-07-08T03:00:31Z | actualEndTime=None | effective=2026-07-08 03:00:31+00:00 | 삼성전자 고점, 아직은 아니지만....
-   - 7s1lHYJSfr4 | ongoing=False | publishedAt=2026-07-08T00:53:08Z | actualEndTime=2026-07-08T00:14:13Z | effective=2026-07-08 00:14:13+00:00 | 국제유가 +5%, 휴전 협상 엎어지나...?ㅣ반도체, 지금 사요? 다음주에 사요?ㅣ[아침뉴스&미국시황] #2
-   - yiS_iAhy5Gg | ongoing=False | publishedAt=2026-07-07T16:04:13Z | actualEndTime=2026-07-07T15:36:10Z | effective=2026-07-07 15:36:10+00:00 | [미국주식 LIVE] 조졌나?? #260707
-   - 0wRmHHxPYv4 | ongoing=False | publishedAt=2026-07-07T14:55:20Z | actualEndTime=None | effective=2026-07-07 14:55:20+00:00 | 11월 전엔 못 뚫는다, 박스권에 갇힌 시장!
-   - 7TwyQyvnHwE | ongoing=False | publishedAt=2026-07-07T07:00:08Z | actualEndTime=None | effective=2026-07-07 07:00:08+00:00 | 삼성 실적 잘 나와도 시장은 감동이 없다?
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 코스피 반등하는 3가지 이유 #하이닉스 #삼성전자 #코스피
-  URL: https://www.youtube.com/watch?v=a19OVHBVEAw
-  publishedAt: 2026-07-09T02:22:34Z
+  제목: 코스피 코스닥 다같이 떡상한 3가지 이유
+  URL: https://www.youtube.com/watch?v=gecSY2gHJBA
+  publishedAt: 2026-07-10T02:35:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - gecSY2gHJBA | ongoing=False | publishedAt=2026-07-10T02:35:27Z | actualEndTime=None | effective=2026-07-10 02:35:27+00:00 | 코스피 코스닥 다같이 떡상한 3가지 이유
+   - H4hCJVNJ_IQ | ongoing=False | publishedAt=2026-07-09T06:34:44Z | actualEndTime=None | effective=2026-07-09 06:34:44+00:00 | 코스피 힘빠진 이유 3가지 #코스피 #하이닉스 #삼성전자
    - a19OVHBVEAw | ongoing=False | publishedAt=2026-07-09T02:22:34Z | actualEndTime=None | effective=2026-07-09 02:22:34+00:00 | 코스피 반등하는 3가지 이유 #하이닉스 #삼성전자 #코스피
    - wJ6ixLLYcuI | ongoing=False | publishedAt=2026-07-08T05:59:53Z | actualEndTime=None | effective=2026-07-08 05:59:53+00:00 | 코스피 연이틀 사이드카의 3가지 이유 #하이닉스 #코스피 #사이드카
-   - 2gVT1x7Hz7M | ongoing=False | publishedAt=2026-07-07T08:54:51Z | actualEndTime=None | effective=2026-07-07 08:54:51+00:00 | 역대급 실적에도 삼전닉스 폭락한 진짜 이유
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - O6EGhMxmoJE | ongoing=False | publishedAt=2026-07-07T12:21:45Z | actualEndTime=None | effective=2026-07-07 12:21:45+00:00 | 트럼프 계좌에 기부해야 밀어준다? 지금부터 주목해야 할 주식들의 공통점
+  비고: 최근 48시간 검색 결과 없음
