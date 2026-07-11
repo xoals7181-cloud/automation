@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-10 13:43 (KST)
-Run: 205 (id=29069680898)
+생성 시각: 2026-07-11 12:59 (KST)
+Run: 206 (id=29138870662)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,74 +8,68 @@ Run: 205 (id=29069680898)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Fate of Iran Ceasefire Uncertain After Escalation | Balance of Power 07/09/2026
-  URL: https://www.youtube.com/watch?v=HselgGfTofg
-  publishedAt: 2026-07-09T23:42:39Z
+  제목: SK Hynix Rises After Record US Offering | The Close 7/10/2026
+  URL: https://www.youtube.com/watch?v=BeBlIGKENM8
+  publishedAt: 2026-07-10T23:58:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - HselgGfTofg | ongoing=False | publishedAt=2026-07-09T23:42:39Z | actualEndTime=None | effective=2026-07-09 23:42:39+00:00 | Fate of Iran Ceasefire Uncertain After Escalation | Balance 
-   - 8hk20JnHjdg | ongoing=False | publishedAt=2026-07-09T22:13:48Z | actualEndTime=None | effective=2026-07-09 22:13:48+00:00 | Stocks Get Boost From Chipmakers | The Close 7/9/2026
-   - C4mj9CiL0YA | ongoing=False | publishedAt=2026-07-09T21:15:06Z | actualEndTime=None | effective=2026-07-09 21:15:06+00:00 | Jersey City Shadowed by 15% Tax Hike as Boomtown Faces Recko
-   - gwAM2N2adWc | ongoing=False | publishedAt=2026-07-09T21:08:14Z | actualEndTime=None | effective=2026-07-09 21:08:14+00:00 | Chipmakers Boost Stocks, Meta Explores Cloud Business | Bloo
-   - U1ymApi0sgk | ongoing=False | publishedAt=2026-07-09T20:39:50Z | actualEndTime=None | effective=2026-07-09 20:39:50+00:00 | Chipmakers Boost Stocks as Oil Declines | Closing Bell
-   - 6SRvb_PVahk | ongoing=False | publishedAt=2026-07-09T20:23:11Z | actualEndTime=None | effective=2026-07-09 20:23:11+00:00 | Real Yield 7/9/2026
-   - bxeuclf-dqM | ongoing=False | publishedAt=2026-07-09T19:13:55Z | actualEndTime=None | effective=2026-07-09 19:13:55+00:00 | US, Iran Trade Airstrikes | Balance of Power 7/9/2026
-   - Xwt2onLFzH4 | ongoing=False | publishedAt=2026-07-09T18:12:30Z | actualEndTime=None | effective=2026-07-09 18:12:30+00:00 | Flexport CEO on El Niño threat to Panama Canal shipping
-   - 0mOwqzi5P5Y | ongoing=False | publishedAt=2026-07-09T14:49:26Z | actualEndTime=None | effective=2026-07-09 14:49:26+00:00 | Bloomberg Surveillance 7/9/2026
-   - gsklnDedjA8 | ongoing=False | publishedAt=2026-07-09T14:30:38Z | actualEndTime=None | effective=2026-07-09 14:30:38+00:00 | Wayfair CFO on opening stores
+   - BeBlIGKENM8 | ongoing=False | publishedAt=2026-07-10T23:58:28Z | actualEndTime=None | effective=2026-07-10 23:58:28+00:00 | SK Hynix Rises After Record US Offering | The Close 7/10/202
+   - jzHXX0j3xtQ | ongoing=False | publishedAt=2026-07-10T23:23:54Z | actualEndTime=None | effective=2026-07-10 23:23:54+00:00 | Housing Bill Set to Become Law Without Trump Signature | Bal
+   - pGchuamBO8o | ongoing=False | publishedAt=2026-07-10T23:05:15Z | actualEndTime=None | effective=2026-07-10 23:05:15+00:00 | Apple sues OpenAI for trade secret theft in blockbuster case
+   - fMwssWEaWDg | ongoing=False | publishedAt=2026-07-10T23:00:24Z | actualEndTime=None | effective=2026-07-10 23:00:24+00:00 | Wall Street Week | The World’s First Trillionaire, Governanc
+   - --8K3bnhqX8 | ongoing=False | publishedAt=2026-07-10T23:00:11Z | actualEndTime=None | effective=2026-07-10 23:00:11+00:00 | Households All-In On Equities: Cameron Dawson
+   - KllEQhJ76Mk | ongoing=False | publishedAt=2026-07-10T21:26:43Z | actualEndTime=None | effective=2026-07-10 21:26:43+00:00 | SK Hynix Climbs in US Debut, CEO Says Memory Crunch to Last 
+   - M21aBjZYTIg | ongoing=False | publishedAt=2026-07-10T21:23:57Z | actualEndTime=None | effective=2026-07-10 21:23:57+00:00 | SK Hynix ADRs Surge After Record $26.5 Billion US Offering
+   - ZdC3-x4gpdo | ongoing=False | publishedAt=2026-07-10T21:25:18Z | actualEndTime=None | effective=2026-07-10 21:25:18+00:00 | More Americans Are Getting Prenups, Even If They Aren't Rich
+   - ZojuzH3eiPw | ongoing=False | publishedAt=2026-07-10T21:24:56Z | actualEndTime=None | effective=2026-07-10 21:24:56+00:00 | More Americans Are Getting Prenups, Even If They Aren't Rich
+   - sDni_EIJ66I | ongoing=False | publishedAt=2026-07-10T21:24:27Z | actualEndTime=None | effective=2026-07-10 21:24:27+00:00 | SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Ranking The Top 5 Worst Californians
-  URL: https://www.youtube.com/watch?v=Sm_5YQ4aX6w
-  publishedAt: 2026-07-10T04:00:28Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - Sm_5YQ4aX6w | ongoing=False | publishedAt=2026-07-10T04:00:28Z | actualEndTime=None | effective=2026-07-10 04:00:28+00:00 | Ranking The Top 5 Worst Californians
    - xaECAHSCV5o | ongoing=False | publishedAt=2026-07-09T20:18:58Z | actualEndTime=None | effective=2026-07-09 20:18:58+00:00 | Kevin Warsh *JUST* Revealed his Plan | and oh my f**k sh9t
    - FvzcSaPj_RI | ongoing=False | publishedAt=2026-07-09T16:20:10Z | actualEndTime=None | effective=2026-07-09 16:20:10+00:00 | Anthropic Numbers REVEAL Warning: AVOID these Stocks | Buy T
    - ygNx27naqRo | ongoing=False | publishedAt=2026-07-09T10:00:19Z | actualEndTime=None | effective=2026-07-09 10:00:19+00:00 | Iran Might Start World War 3
    - CUNYm3PP7xM | ongoing=False | publishedAt=2026-07-09T04:00:04Z | actualEndTime=None | effective=2026-07-09 04:00:04+00:00 | My Newborn Had A 50% Chance of Survival…
-   - ZoRiHfapPSw | ongoing=False | publishedAt=2026-07-08T16:11:03Z | actualEndTime=None | effective=2026-07-08 16:11:03+00:00 | Elon Musk DESTROYED the Stock Market | The Great SUCKENING.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 메타·마이크론·SK하이닉스가 살린 AI 투자심리   -  2026/07/09
-  URL: https://www.youtube.com/watch?v=I3LjJ2FbcjY
-  publishedAt: 2026-07-09T22:19:18Z
+  제목: 【미국 증시 오늘의 요약】 SK하이닉스 화려한 미국 데뷔 & 메타 6% 급등!   -  2026/07/10
+  URL: https://www.youtube.com/watch?v=Khn84wdMeEU
+  publishedAt: 2026-07-10T22:33:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Khn84wdMeEU | ongoing=False | publishedAt=2026-07-10T22:33:03Z | actualEndTime=None | effective=2026-07-10 22:33:03+00:00 | 【미국 증시 오늘의 요약】 SK하이닉스 화려한 미국 데뷔 & 메타 6% 급등!   -  2026/07/10
+   - ihIDOR_c4T0 | ongoing=False | publishedAt=2026-07-10T21:48:18Z | actualEndTime=2026-07-10T21:31:05Z | effective=2026-07-10 21:31:05+00:00 | [26년 07월 10일 금]  SK하이닉스 ADR 상장 ｜ 미국·이란, 기술협상 계속 진행 중 ｜ 서클, 미
    - I3LjJ2FbcjY | ongoing=False | publishedAt=2026-07-09T22:19:18Z | actualEndTime=None | effective=2026-07-09 22:19:18+00:00 | 【미국 증시 오늘의 요약】 메타·마이크론·SK하이닉스가 살린 AI 투자심리   -  2026/07/09
    - ZgGq871q0gA | ongoing=False | publishedAt=2026-07-09T21:37:16Z | actualEndTime=2026-07-09T21:19:42Z | effective=2026-07-09 21:19:42+00:00 | [26년 07월 09일 목]  SK하이닉스 ADR 공모, 청약 경쟁률 7배 넘어  ｜ 메타, 캐나다 데이터센
-   - mUUr0W6c8Zs | ongoing=False | publishedAt=2026-07-08T22:12:02Z | actualEndTime=None | effective=2026-07-08 22:12:02+00:00 | 【미국 증시 오늘의 요약】 전면전 우려에 요동친 월가! 치솟는 유가 속 나스닥 홀로 웃었다   -  2026
-   - upNzghy4XI4 | ongoing=False | publishedAt=2026-07-08T21:47:50Z | actualEndTime=2026-07-08T21:28:30Z | effective=2026-07-08 21:28:30+00:00 | [26년 07월 08일 수]  트럼프, '이란과 휴전 사실상 끝났다'  ｜ 애플, 브로드컴과 300억 달러 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 메타발 악재? 메타발 호재? 반도체 존버는 승리한다!!ㅣ빅테크/반도체, 매수보고서가 쏟아진다ㅣ[아침뉴스&미국시황] #260710
-  URL: https://www.youtube.com/watch?v=Li43zYDYErg
-  publishedAt: 2026-07-10T00:11:52Z
-  actualEndTime: 2026-07-10T00:05:36Z
+  제목: 급락장에 드러난 대장, 결국 반도체였다!
+  URL: https://www.youtube.com/watch?v=2gIbCmzgq4s
+  publishedAt: 2026-07-11T01:00:08Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2gIbCmzgq4s | ongoing=False | publishedAt=2026-07-11T01:00:08Z | actualEndTime=None | effective=2026-07-11 01:00:08+00:00 | 급락장에 드러난 대장, 결국 반도체였다!
    - Li43zYDYErg | ongoing=False | publishedAt=2026-07-10T00:11:52Z | actualEndTime=2026-07-10T00:05:36Z | effective=2026-07-10 00:05:36+00:00 | 메타발 악재? 메타발 호재? 반도체 존버는 승리한다!!ㅣ빅테크/반도체, 매수보고서가 쏟아진다ㅣ[아침뉴스&미국
    - dBhrZGy9MRU | ongoing=False | publishedAt=2026-07-09T07:00:09Z | actualEndTime=None | effective=2026-07-09 07:00:09+00:00 | 메모리 업체들의 반란, 갑질은 끝났다!
-   - HNCc0uzS16Y | ongoing=False | publishedAt=2026-07-09T03:58:45Z | actualEndTime=None | effective=2026-07-09 03:58:45+00:00 | 삼성전자, SK하이닉스 흔들리는게 레버리지 ETF 때문이다?
-   - 6wT_5gh3sn0 | ongoing=False | publishedAt=2026-07-09T00:21:51Z | actualEndTime=2026-07-09T00:09:17Z | effective=2026-07-09 00:09:17+00:00 | 제 계좌는 플러스 입니다ㅣ[아침뉴스&미국시황] #260709
-   - 7relBWI-6cA | ongoing=False | publishedAt=2026-07-08T07:00:15Z | actualEndTime=None | effective=2026-07-08 07:00:15+00:00 | 하이 리턴 원하면 하이 스트레스도 버텨라!
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 코스피 코스닥 다같이 떡상한 3가지 이유
-  URL: https://www.youtube.com/watch?v=gecSY2gHJBA
-  publishedAt: 2026-07-10T02:35:27Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - gecSY2gHJBA | ongoing=False | publishedAt=2026-07-10T02:35:27Z | actualEndTime=None | effective=2026-07-10 02:35:27+00:00 | 코스피 코스닥 다같이 떡상한 3가지 이유
    - H4hCJVNJ_IQ | ongoing=False | publishedAt=2026-07-09T06:34:44Z | actualEndTime=None | effective=2026-07-09 06:34:44+00:00 | 코스피 힘빠진 이유 3가지 #코스피 #하이닉스 #삼성전자
-   - a19OVHBVEAw | ongoing=False | publishedAt=2026-07-09T02:22:34Z | actualEndTime=None | effective=2026-07-09 02:22:34+00:00 | 코스피 반등하는 3가지 이유 #하이닉스 #삼성전자 #코스피
-   - wJ6ixLLYcuI | ongoing=False | publishedAt=2026-07-08T05:59:53Z | actualEndTime=None | effective=2026-07-08 05:59:53+00:00 | 코스피 연이틀 사이드카의 3가지 이유 #하이닉스 #코스피 #사이드카
 
 - 소수몽키
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 월급 인상 대신 AI에 본격 돈 퍼붓는다, 거대한 돈 흐름 변화의 수혜주들
+  URL: https://www.youtube.com/watch?v=exEIt8fdnLM
+  publishedAt: 2026-07-11T01:33:11Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - exEIt8fdnLM | ongoing=False | publishedAt=2026-07-11T01:33:11Z | actualEndTime=None | effective=2026-07-11 01:33:11+00:00 | 월급 인상 대신 AI에 본격 돈 퍼붓는다, 거대한 돈 흐름 변화의 수혜주들
+   - zG4PvcnET_c | ongoing=False | publishedAt=2026-07-10T09:26:09Z | actualEndTime=None | effective=2026-07-10 09:26:09+00:00 | 주도주에 올라타며 월 현금도 챙긴다? 코스피 끝판왕 월배당 투자법
