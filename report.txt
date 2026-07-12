@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-11 12:59 (KST)
-Run: 206 (id=29138870662)
+생성 시각: 2026-07-12 13:20 (KST)
+Run: 207 (id=29179548276)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,68 +8,55 @@ Run: 206 (id=29138870662)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: SK Hynix Rises After Record US Offering | The Close 7/10/2026
-  URL: https://www.youtube.com/watch?v=BeBlIGKENM8
-  publishedAt: 2026-07-10T23:58:28Z
+  제목: How Private Credit is Fueling the Buy-Now-Pay-Later Boom
+  URL: https://www.youtube.com/watch?v=Lfs3E6vo2ow
+  publishedAt: 2026-07-12T04:00:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - BeBlIGKENM8 | ongoing=False | publishedAt=2026-07-10T23:58:28Z | actualEndTime=None | effective=2026-07-10 23:58:28+00:00 | SK Hynix Rises After Record US Offering | The Close 7/10/202
-   - jzHXX0j3xtQ | ongoing=False | publishedAt=2026-07-10T23:23:54Z | actualEndTime=None | effective=2026-07-10 23:23:54+00:00 | Housing Bill Set to Become Law Without Trump Signature | Bal
-   - pGchuamBO8o | ongoing=False | publishedAt=2026-07-10T23:05:15Z | actualEndTime=None | effective=2026-07-10 23:05:15+00:00 | Apple sues OpenAI for trade secret theft in blockbuster case
-   - fMwssWEaWDg | ongoing=False | publishedAt=2026-07-10T23:00:24Z | actualEndTime=None | effective=2026-07-10 23:00:24+00:00 | Wall Street Week | The World’s First Trillionaire, Governanc
-   - --8K3bnhqX8 | ongoing=False | publishedAt=2026-07-10T23:00:11Z | actualEndTime=None | effective=2026-07-10 23:00:11+00:00 | Households All-In On Equities: Cameron Dawson
-   - KllEQhJ76Mk | ongoing=False | publishedAt=2026-07-10T21:26:43Z | actualEndTime=None | effective=2026-07-10 21:26:43+00:00 | SK Hynix Climbs in US Debut, CEO Says Memory Crunch to Last 
-   - M21aBjZYTIg | ongoing=False | publishedAt=2026-07-10T21:23:57Z | actualEndTime=None | effective=2026-07-10 21:23:57+00:00 | SK Hynix ADRs Surge After Record $26.5 Billion US Offering
-   - ZdC3-x4gpdo | ongoing=False | publishedAt=2026-07-10T21:25:18Z | actualEndTime=None | effective=2026-07-10 21:25:18+00:00 | More Americans Are Getting Prenups, Even If They Aren't Rich
-   - ZojuzH3eiPw | ongoing=False | publishedAt=2026-07-10T21:24:56Z | actualEndTime=None | effective=2026-07-10 21:24:56+00:00 | More Americans Are Getting Prenups, Even If They Aren't Rich
-   - sDni_EIJ66I | ongoing=False | publishedAt=2026-07-10T21:24:27Z | actualEndTime=None | effective=2026-07-10 21:24:27+00:00 | SK Chairman Chey Tae-won on SK Hynix Debut, AI Demand and US
+   - Lfs3E6vo2ow | ongoing=False | publishedAt=2026-07-12T04:00:36Z | actualEndTime=None | effective=2026-07-12 04:00:36+00:00 | How Private Credit is Fueling the Buy-Now-Pay-Later Boom
+   - qrzWNLg0I7o | ongoing=False | publishedAt=2026-07-11T20:00:39Z | actualEndTime=None | effective=2026-07-11 20:00:39+00:00 | Can America's tax system keep up with trillionaires? #shorts
+   - HgtOPEbxAjE | ongoing=False | publishedAt=2026-07-11T16:59:13Z | actualEndTime=None | effective=2026-07-11 16:59:13+00:00 | Ukraine Seeks Faster Patriot Production
+   - r-ER83pE_h8 | ongoing=False | publishedAt=2026-07-11T17:00:20Z | actualEndTime=None | effective=2026-07-11 17:00:20+00:00 | Why this expert thinks Fox outperforms in the streaming era 
+   - HQDWoxHF62M | ongoing=False | publishedAt=2026-07-11T16:55:51Z | actualEndTime=None | effective=2026-07-11 16:55:51+00:00 | Bloomberg This Weekend | Trump Threats to “Decimate” Iran, T
+   - xSxCdBb8uY4 | ongoing=False | publishedAt=2026-07-11T16:49:45Z | actualEndTime=None | effective=2026-07-11 16:49:45+00:00 | Tinnitus Takes Toll on Millions
+   - ae3ENgTRavs | ongoing=False | publishedAt=2026-07-11T16:24:35Z | actualEndTime=None | effective=2026-07-11 16:24:35+00:00 | Maine Democrats Face Tight Senate Deadline
+   - Oz0gF3j843M | ongoing=False | publishedAt=2026-07-11T16:16:32Z | actualEndTime=None | effective=2026-07-11 16:16:32+00:00 | Pointed News Quiz | ITALY, REPTILES, BEAUTY
+   - dK9NWTDZM-g | ongoing=False | publishedAt=2026-07-11T15:44:12Z | actualEndTime=None | effective=2026-07-11 15:44:12+00:00 | McCaul Pushes Patriot Production in Ukraine
+   - FyOYYVAOU64 | ongoing=False | publishedAt=2026-07-11T15:21:14Z | actualEndTime=None | effective=2026-07-11 15:21:14+00:00 | Navy Pushes to Rebuild Industrial Base
 
 - Meet Kevin
+  상태: NO_TRANSCRIPT
+  제목: Why Patrick Bet David Retired His Father
+  URL: https://www.youtube.com/watch?v=vgotCVhBERk
+  publishedAt: 2026-07-12T04:00:13Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - vgotCVhBERk | ongoing=False | publishedAt=2026-07-12T04:00:13Z | actualEndTime=None | effective=2026-07-12 04:00:13+00:00 | Why Patrick Bet David Retired His Father
+   - nnnvxZ1pMeQ | ongoing=False | publishedAt=2026-07-11T04:00:10Z | actualEndTime=None | effective=2026-07-11 04:00:10+00:00 | Should Immigrants Be Allowed To Become The President?
+
+- 오선의 미국 증시
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - Sm_5YQ4aX6w | ongoing=False | publishedAt=2026-07-10T04:00:28Z | actualEndTime=None | effective=2026-07-10 04:00:28+00:00 | Ranking The Top 5 Worst Californians
-   - xaECAHSCV5o | ongoing=False | publishedAt=2026-07-09T20:18:58Z | actualEndTime=None | effective=2026-07-09 20:18:58+00:00 | Kevin Warsh *JUST* Revealed his Plan | and oh my f**k sh9t
-   - FvzcSaPj_RI | ongoing=False | publishedAt=2026-07-09T16:20:10Z | actualEndTime=None | effective=2026-07-09 16:20:10+00:00 | Anthropic Numbers REVEAL Warning: AVOID these Stocks | Buy T
-   - ygNx27naqRo | ongoing=False | publishedAt=2026-07-09T10:00:19Z | actualEndTime=None | effective=2026-07-09 10:00:19+00:00 | Iran Might Start World War 3
-   - CUNYm3PP7xM | ongoing=False | publishedAt=2026-07-09T04:00:04Z | actualEndTime=None | effective=2026-07-09 04:00:04+00:00 | My Newborn Had A 50% Chance of Survival…
-
-- 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 SK하이닉스 화려한 미국 데뷔 & 메타 6% 급등!   -  2026/07/10
-  URL: https://www.youtube.com/watch?v=Khn84wdMeEU
-  publishedAt: 2026-07-10T22:33:03Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
    - Khn84wdMeEU | ongoing=False | publishedAt=2026-07-10T22:33:03Z | actualEndTime=None | effective=2026-07-10 22:33:03+00:00 | 【미국 증시 오늘의 요약】 SK하이닉스 화려한 미국 데뷔 & 메타 6% 급등!   -  2026/07/10
    - ihIDOR_c4T0 | ongoing=False | publishedAt=2026-07-10T21:48:18Z | actualEndTime=2026-07-10T21:31:05Z | effective=2026-07-10 21:31:05+00:00 | [26년 07월 10일 금]  SK하이닉스 ADR 상장 ｜ 미국·이란, 기술협상 계속 진행 중 ｜ 서클, 미
-   - I3LjJ2FbcjY | ongoing=False | publishedAt=2026-07-09T22:19:18Z | actualEndTime=None | effective=2026-07-09 22:19:18+00:00 | 【미국 증시 오늘의 요약】 메타·마이크론·SK하이닉스가 살린 AI 투자심리   -  2026/07/09
-   - ZgGq871q0gA | ongoing=False | publishedAt=2026-07-09T21:37:16Z | actualEndTime=2026-07-09T21:19:42Z | effective=2026-07-09 21:19:42+00:00 | [26년 07월 09일 목]  SK하이닉스 ADR 공모, 청약 경쟁률 7배 넘어  ｜ 메타, 캐나다 데이터센
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 급락장에 드러난 대장, 결국 반도체였다!
-  URL: https://www.youtube.com/watch?v=2gIbCmzgq4s
-  publishedAt: 2026-07-11T01:00:08Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - ZzEMPoo2fMA | ongoing=False | publishedAt=2026-07-11T11:00:07Z | actualEndTime=None | effective=2026-07-11 11:00:07+00:00 | 삼전/닉스가 빠지면 구글이 오르는 이유
    - 2gIbCmzgq4s | ongoing=False | publishedAt=2026-07-11T01:00:08Z | actualEndTime=None | effective=2026-07-11 01:00:08+00:00 | 급락장에 드러난 대장, 결국 반도체였다!
-   - Li43zYDYErg | ongoing=False | publishedAt=2026-07-10T00:11:52Z | actualEndTime=2026-07-10T00:05:36Z | effective=2026-07-10 00:05:36+00:00 | 메타발 악재? 메타발 호재? 반도체 존버는 승리한다!!ㅣ빅테크/반도체, 매수보고서가 쏟아진다ㅣ[아침뉴스&미국
-   - dBhrZGy9MRU | ongoing=False | publishedAt=2026-07-09T07:00:09Z | actualEndTime=None | effective=2026-07-09 07:00:09+00:00 | 메모리 업체들의 반란, 갑질은 끝났다!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - gecSY2gHJBA | ongoing=False | publishedAt=2026-07-10T02:35:27Z | actualEndTime=None | effective=2026-07-10 02:35:27+00:00 | 코스피 코스닥 다같이 떡상한 3가지 이유
-   - H4hCJVNJ_IQ | ongoing=False | publishedAt=2026-07-09T06:34:44Z | actualEndTime=None | effective=2026-07-09 06:34:44+00:00 | 코스피 힘빠진 이유 3가지 #코스피 #하이닉스 #삼성전자
+   - z7TBsMb2TIk | ongoing=False | publishedAt=2026-07-11T07:30:13Z | actualEndTime=None | effective=2026-07-11 07:30:13+00:00 | 한국증시 가장 중요한 이벤트
 
 - 소수몽키
-  상태: NO_TRANSCRIPT
-  제목: 월급 인상 대신 AI에 본격 돈 퍼붓는다, 거대한 돈 흐름 변화의 수혜주들
-  URL: https://www.youtube.com/watch?v=exEIt8fdnLM
-  publishedAt: 2026-07-11T01:33:11Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - exEIt8fdnLM | ongoing=False | publishedAt=2026-07-11T01:33:11Z | actualEndTime=None | effective=2026-07-11 01:33:11+00:00 | 월급 인상 대신 AI에 본격 돈 퍼붓는다, 거대한 돈 흐름 변화의 수혜주들
    - zG4PvcnET_c | ongoing=False | publishedAt=2026-07-10T09:26:09Z | actualEndTime=None | effective=2026-07-10 09:26:09+00:00 | 주도주에 올라타며 월 현금도 챙긴다? 코스피 끝판왕 월배당 투자법
