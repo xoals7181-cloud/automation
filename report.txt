@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-12 13:20 (KST)
-Run: 207 (id=29179548276)
+생성 시각: 2026-07-13 13:24 (KST)
+Run: 208 (id=29223844678)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,45 +8,49 @@ Run: 207 (id=29179548276)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How Private Credit is Fueling the Buy-Now-Pay-Later Boom
-  URL: https://www.youtube.com/watch?v=Lfs3E6vo2ow
-  publishedAt: 2026-07-12T04:00:36Z
+  제목: Bloomberg This Weekend | Sen. Lindsey Graham Dead, CENTCOM Launches Strikes on Iran
+  URL: https://www.youtube.com/watch?v=ZRLPljhOL58
+  publishedAt: 2026-07-12T17:39:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Lfs3E6vo2ow | ongoing=False | publishedAt=2026-07-12T04:00:36Z | actualEndTime=None | effective=2026-07-12 04:00:36+00:00 | How Private Credit is Fueling the Buy-Now-Pay-Later Boom
-   - qrzWNLg0I7o | ongoing=False | publishedAt=2026-07-11T20:00:39Z | actualEndTime=None | effective=2026-07-11 20:00:39+00:00 | Can America's tax system keep up with trillionaires? #shorts
-   - HgtOPEbxAjE | ongoing=False | publishedAt=2026-07-11T16:59:13Z | actualEndTime=None | effective=2026-07-11 16:59:13+00:00 | Ukraine Seeks Faster Patriot Production
-   - r-ER83pE_h8 | ongoing=False | publishedAt=2026-07-11T17:00:20Z | actualEndTime=None | effective=2026-07-11 17:00:20+00:00 | Why this expert thinks Fox outperforms in the streaming era 
-   - HQDWoxHF62M | ongoing=False | publishedAt=2026-07-11T16:55:51Z | actualEndTime=None | effective=2026-07-11 16:55:51+00:00 | Bloomberg This Weekend | Trump Threats to “Decimate” Iran, T
-   - xSxCdBb8uY4 | ongoing=False | publishedAt=2026-07-11T16:49:45Z | actualEndTime=None | effective=2026-07-11 16:49:45+00:00 | Tinnitus Takes Toll on Millions
-   - ae3ENgTRavs | ongoing=False | publishedAt=2026-07-11T16:24:35Z | actualEndTime=None | effective=2026-07-11 16:24:35+00:00 | Maine Democrats Face Tight Senate Deadline
-   - Oz0gF3j843M | ongoing=False | publishedAt=2026-07-11T16:16:32Z | actualEndTime=None | effective=2026-07-11 16:16:32+00:00 | Pointed News Quiz | ITALY, REPTILES, BEAUTY
-   - dK9NWTDZM-g | ongoing=False | publishedAt=2026-07-11T15:44:12Z | actualEndTime=None | effective=2026-07-11 15:44:12+00:00 | McCaul Pushes Patriot Production in Ukraine
-   - FyOYYVAOU64 | ongoing=False | publishedAt=2026-07-11T15:21:14Z | actualEndTime=None | effective=2026-07-11 15:21:14+00:00 | Navy Pushes to Rebuild Industrial Base
+   - 2g3rtz5yamI | ongoing=False | publishedAt=2026-07-13T02:44:38Z | actualEndTime=2026-07-12T14:01:24Z | effective=2026-07-12 14:01:24+00:00 | Lindsey Graham Dies at 71;  US, Iran Trade Wave of Attacks |
+   - ZRLPljhOL58 | ongoing=False | publishedAt=2026-07-12T17:39:05Z | actualEndTime=None | effective=2026-07-12 17:39:05+00:00 | Bloomberg This Weekend | Sen. Lindsey Graham Dead, CENTCOM L
+   - svbW1BC4V1o | ongoing=False | publishedAt=2026-07-12T17:28:20Z | actualEndTime=None | effective=2026-07-12 17:28:20+00:00 | Stanton Urges Hormuz Diplomacy
+   - W11AImyHXb4 | ongoing=False | publishedAt=2026-07-12T17:20:24Z | actualEndTime=None | effective=2026-07-12 17:20:24+00:00 | AI May Not Solve Demographic Decline
+   - _UjGqqFiB00 | ongoing=False | publishedAt=2026-07-12T17:00:03Z | actualEndTime=None | effective=2026-07-12 17:00:03+00:00 | Why some investors are wary of SpaceX stock #shorts #spacex 
+   - KMPBubKC3Lo | ongoing=False | publishedAt=2026-07-12T16:35:17Z | actualEndTime=None | effective=2026-07-12 16:35:17+00:00 | Volker Says NATO Sends Strong Message to Putin
+   - BWwGRVRf7sE | ongoing=False | publishedAt=2026-07-12T16:26:50Z | actualEndTime=None | effective=2026-07-12 16:26:50+00:00 | Food Under Fire Highlights Shared Humanity
+   - _DvECnhEN5I | ongoing=False | publishedAt=2026-07-12T16:08:59Z | actualEndTime=None | effective=2026-07-12 16:08:59+00:00 | Oil Supply Adapts to Hormuz Disruptions
+   - yc117bqGDKg | ongoing=False | publishedAt=2026-07-12T15:55:30Z | actualEndTime=None | effective=2026-07-12 15:55:30+00:00 | Navy Expands Autonomous Warfare Capabilities
+   - suki7o619H8 | ongoing=False | publishedAt=2026-07-12T15:29:32Z | actualEndTime=None | effective=2026-07-12 15:29:32+00:00 | Wall Street Banks Brace for Earnings Rush
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Why Patrick Bet David Retired His Father
-  URL: https://www.youtube.com/watch?v=vgotCVhBERk
-  publishedAt: 2026-07-12T04:00:13Z
+  제목: Patrick Bet David Paid $700,000 For THIS Domain
+  URL: https://www.youtube.com/watch?v=Rlv9ODoJAxY
+  publishedAt: 2026-07-13T04:00:24Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Rlv9ODoJAxY | ongoing=False | publishedAt=2026-07-13T04:00:24Z | actualEndTime=None | effective=2026-07-13 04:00:24+00:00 | Patrick Bet David Paid $700,000 For THIS Domain
+   - 6RKVgNxLUM4 | ongoing=False | publishedAt=2026-07-12T11:04:33Z | actualEndTime=None | effective=2026-07-12 11:04:33+00:00 | The Next 5x AI Stock & Sector
    - vgotCVhBERk | ongoing=False | publishedAt=2026-07-12T04:00:13Z | actualEndTime=None | effective=2026-07-12 04:00:13+00:00 | Why Patrick Bet David Retired His Father
-   - nnnvxZ1pMeQ | ongoing=False | publishedAt=2026-07-11T04:00:10Z | actualEndTime=None | effective=2026-07-11 04:00:10+00:00 | Should Immigrants Be Allowed To Become The President?
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Khn84wdMeEU | ongoing=False | publishedAt=2026-07-10T22:33:03Z | actualEndTime=None | effective=2026-07-10 22:33:03+00:00 | 【미국 증시 오늘의 요약】 SK하이닉스 화려한 미국 데뷔 & 메타 6% 급등!   -  2026/07/10
-   - ihIDOR_c4T0 | ongoing=False | publishedAt=2026-07-10T21:48:18Z | actualEndTime=2026-07-10T21:31:05Z | effective=2026-07-10 21:31:05+00:00 | [26년 07월 10일 금]  SK하이닉스 ADR 상장 ｜ 미국·이란, 기술협상 계속 진행 중 ｜ 서클, 미
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 국제유가 또 급등, 구리도 문제있다...?ㅣS&P500, 신고가 못뚫고 밀리나...?ㅣ이번주 주요 일정은?ㅣ[아침뉴스&미국시황] #260713
+  URL: https://www.youtube.com/watch?v=YOFTR38BxHk
+  publishedAt: 2026-07-13T00:29:07Z
+  actualEndTime: 2026-07-13T00:17:52Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - YOFTR38BxHk | ongoing=False | publishedAt=2026-07-13T00:29:07Z | actualEndTime=2026-07-13T00:17:52Z | effective=2026-07-13 00:17:52+00:00 | 국제유가 또 급등, 구리도 문제있다...?ㅣS&P500, 신고가 못뚫고 밀리나...?ㅣ이번주 주요 일정은?ㅣ
+   - bMQ2RTW6dIM | ongoing=False | publishedAt=2026-07-12T09:10:47Z | actualEndTime=None | effective=2026-07-12 09:10:47+00:00 | 한동안 하락 할 수 밖에 없습니다...
+   - tUYlWM5Z93s | ongoing=False | publishedAt=2026-07-12T07:00:34Z | actualEndTime=None | effective=2026-07-12 07:00:34+00:00 | 추격매수 금지 구간, 지금은 트레이드 장세
    - ZzEMPoo2fMA | ongoing=False | publishedAt=2026-07-11T11:00:07Z | actualEndTime=None | effective=2026-07-11 11:00:07+00:00 | 삼전/닉스가 빠지면 구글이 오르는 이유
-   - 2gIbCmzgq4s | ongoing=False | publishedAt=2026-07-11T01:00:08Z | actualEndTime=None | effective=2026-07-11 01:00:08+00:00 | 급락장에 드러난 대장, 결국 반도체였다!
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
@@ -56,7 +60,4 @@ Run: 207 (id=29179548276)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - exEIt8fdnLM | ongoing=False | publishedAt=2026-07-11T01:33:11Z | actualEndTime=None | effective=2026-07-11 01:33:11+00:00 | 월급 인상 대신 AI에 본격 돈 퍼붓는다, 거대한 돈 흐름 변화의 수혜주들
-   - zG4PvcnET_c | ongoing=False | publishedAt=2026-07-10T09:26:09Z | actualEndTime=None | effective=2026-07-10 09:26:09+00:00 | 주도주에 올라타며 월 현금도 챙긴다? 코스피 끝판왕 월배당 투자법
+  비고: 최근 48시간 검색 결과 없음
