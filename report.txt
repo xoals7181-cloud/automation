@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-15 12:52 (KST)
-Run: 210 (id=29387565493)
+생성 시각: 2026-07-16 12:55 (KST)
+Run: 211 (id=29470097513)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,77 +8,72 @@ Run: 210 (id=29387565493)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Backs Off 20% Fee for Strait of Hormuz Shipments | Balance of Power 07/14/2026
-  URL: https://www.youtube.com/watch?v=AKwA0oadd6A
-  publishedAt: 2026-07-14T23:40:09Z
+  제목: US Trade Rep. Greer on China Relations and Section 301 Tariffs
+  URL: https://www.youtube.com/watch?v=lgNKODQUiXY
+  publishedAt: 2026-07-16T00:46:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - AKwA0oadd6A | ongoing=False | publishedAt=2026-07-14T23:40:09Z | actualEndTime=None | effective=2026-07-14 23:40:09+00:00 | Trump Backs Off 20% Fee for Strait of Hormuz Shipments | Bal
-   - nJOUaQfuSR8 | ongoing=False | publishedAt=2026-07-14T23:04:31Z | actualEndTime=None | effective=2026-07-14 23:04:31+00:00 | Trump making "major mistake" with Nvidia chips to China, say
-   - 4ZM67Y5Kltg | ongoing=False | publishedAt=2026-07-14T22:07:14Z | actualEndTime=None | effective=2026-07-14 22:07:14+00:00 | Stocks, Bonds Rise as Soft CPI Curbs Hike Bets | The Close 7
-   - 7TJCWig07js | ongoing=False | publishedAt=2026-07-14T21:48:12Z | actualEndTime=None | effective=2026-07-14 21:48:12+00:00 | PJM Grid Misses Power Supply Target Amid AI Surge
-   - BN_pK-d8FJE | ongoing=False | publishedAt=2026-07-14T21:21:04Z | actualEndTime=None | effective=2026-07-14 21:21:04+00:00 | Trump Shelves 20% Fee for Hormuz Cargo Shipments
-   - b2rBHmaSK3o | ongoing=False | publishedAt=2026-07-14T21:17:26Z | actualEndTime=None | effective=2026-07-14 21:17:26+00:00 | BOE's Bailey Says UK Growth Must Be Prioritized
-   - -I_r7E54bs0 | ongoing=False | publishedAt=2026-07-14T21:18:25Z | actualEndTime=None | effective=2026-07-14 21:18:25+00:00 | Sotheby's Sees Very Strong Performance Across Businesses
-   - 2c8HI16wJWY | ongoing=False | publishedAt=2026-07-14T21:18:19Z | actualEndTime=None | effective=2026-07-14 21:18:19+00:00 | US Said It Resumes Iran Blockade Tuesday
-   - HvL0gM3t4Jo | ongoing=False | publishedAt=2026-07-14T21:13:14Z | actualEndTime=None | effective=2026-07-14 21:13:14+00:00 | Warsh Makes Vow on Inflation, as Big Banks Report Earnings |
-   - oqiof4RmYWg | ongoing=False | publishedAt=2026-07-14T21:06:24Z | actualEndTime=None | effective=2026-07-14 21:06:24+00:00 | We Tried Out Dyson's New Portable Fan
+   - lgNKODQUiXY | ongoing=False | publishedAt=2026-07-16T00:46:23Z | actualEndTime=None | effective=2026-07-16 00:46:23+00:00 | US Trade Rep. Greer on China Relations and Section 301 Tarif
+   - 4TUwO01Hv-M | ongoing=False | publishedAt=2026-07-15T23:25:06Z | actualEndTime=None | effective=2026-07-15 23:25:06+00:00 | Senate Dems Block Defense Authorization Bill | Balance of Po
+   - IumC4vtUdgk | ongoing=False | publishedAt=2026-07-15T22:19:28Z | actualEndTime=None | effective=2026-07-15 22:19:28+00:00 | Chip Stocks Sink on Inflation Surprise | The Close 7/15/2026
+   - 5UOsCi62gpw | ongoing=False | publishedAt=2026-07-15T20:56:16Z | actualEndTime=None | effective=2026-07-15 20:56:16+00:00 | July Beige Book Drops, OpenAI Plans AI Speaker Device | Bloo
+   - lImNJtE02Qw | ongoing=False | publishedAt=2026-07-15T20:36:11Z | actualEndTime=None | effective=2026-07-15 20:36:11+00:00 | Stocks Lack Conviction Despite Strong Bank Results | Closing
+   - maMbyYCI4WI | ongoing=False | publishedAt=2026-07-15T19:41:46Z | actualEndTime=None | effective=2026-07-15 19:41:46+00:00 | Dimon Warns 'Real Issue' Is Broad Access to Mythos
+   - B4VVihq2ils | ongoing=False | publishedAt=2026-07-15T19:13:56Z | actualEndTime=None | effective=2026-07-15 19:13:56+00:00 | Palantir’s CTO sees Chinese AI models posing economic risk t
+   - cZC1t40tYRU | ongoing=False | publishedAt=2026-07-15T19:13:17Z | actualEndTime=None | effective=2026-07-15 19:13:17+00:00 | Senators Push Trump Picks on Independence | Balance of Power
+   - R_LUJJhNOUA | ongoing=False | publishedAt=2026-07-15T18:56:22Z | actualEndTime=None | effective=2026-07-15 18:56:22+00:00 | Bloomberg Deals 7/15/2026
+   - eIKBRC60OG0 | ongoing=False | publishedAt=2026-07-15T17:39:16Z | actualEndTime=None | effective=2026-07-15 17:39:16+00:00 | BNY CFO: Nearly 100% of employees now know how to use AI
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: The AI Stock Flippening is STARTING.
-  URL: https://www.youtube.com/watch?v=1Ysuk8Untq4
-  publishedAt: 2026-07-14T23:23:29Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - pzzUnrdI0JQ | ongoing=False | publishedAt=2026-07-15T04:00:01Z | actualEndTime=None | effective=2026-07-15 04:00:01+00:00 | Is Patrick Bet David's Parenting Style Too Strict??
    - 1Ysuk8Untq4 | ongoing=False | publishedAt=2026-07-14T23:23:29Z | actualEndTime=None | effective=2026-07-14 23:23:29+00:00 | The AI Stock Flippening is STARTING.
    - feuKx4odHwc | ongoing=False | publishedAt=2026-07-14T04:00:23Z | actualEndTime=None | effective=2026-07-14 04:00:23+00:00 | INSANE SpaceX Stock Details
-   - 8Mlhtl1HGaY | ongoing=False | publishedAt=2026-07-13T17:08:19Z | actualEndTime=None | effective=2026-07-13 17:08:19+00:00 | a crap... now what...
-   - Rlv9ODoJAxY | ongoing=False | publishedAt=2026-07-13T04:00:24Z | actualEndTime=None | effective=2026-07-13 04:00:24+00:00 | Patrick Bet David Paid $700,000 For THIS Domain
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 반도체 부활 & JP모건 사상 최대 실적... IBM은 25% 폭락...   -  2026/07/14
-  URL: https://www.youtube.com/watch?v=AJ0Ii52KXP0
-  publishedAt: 2026-07-14T21:55:18Z
+  제목: 【미국 증시 오늘의 요약】  AI 랠리 균열? 반도체 팔고 빅테크 사는 월가  -  2026/07/15
+  URL: https://www.youtube.com/watch?v=rXRk0OIrBbg
+  publishedAt: 2026-07-15T22:21:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - rXRk0OIrBbg | ongoing=False | publishedAt=2026-07-15T22:21:05Z | actualEndTime=None | effective=2026-07-15 22:21:05+00:00 | 【미국 증시 오늘의 요약】  AI 랠리 균열? 반도체 팔고 빅테크 사는 월가  -  2026/07/15
+   - 18L3J9Ttf0w | ongoing=False | publishedAt=2026-07-15T21:57:35Z | actualEndTime=2026-07-15T21:38:44Z | effective=2026-07-15 21:38:44+00:00 | [26년 07월 15일 수]  생산자 물가지수(PPI), 연준 의장｜ ASML, 연간 매출 전망 상향 ｜스트
    - AJ0Ii52KXP0 | ongoing=False | publishedAt=2026-07-14T21:55:18Z | actualEndTime=None | effective=2026-07-14 21:55:18+00:00 | 【미국 증시 오늘의 요약】 반도체 부활 & JP모건 사상 최대 실적... IBM은 25% 폭락...   - 
    - fto_cjPj9HE | ongoing=False | publishedAt=2026-07-14T21:30:23Z | actualEndTime=2026-07-14T21:09:56Z | effective=2026-07-14 21:09:56+00:00 | [26년 07월 14일 화]  소비자 물가지수(CPI)｜ 연준 의장 의회 청문회 ｜ IBM, “고객 CAPE
-   - JDBQiwoeGfo | ongoing=False | publishedAt=2026-07-13T22:30:13Z | actualEndTime=None | effective=2026-07-13 22:30:13+00:00 | 【미국 증시 오늘의 요약】 트럼프 호르무즈 봉쇄 재개 '유가 급등' / 반도체 동반 하락 / CPI·실적시즌
-   - Sj5V32OIa1w | ongoing=False | publishedAt=2026-07-13T21:57:56Z | actualEndTime=2026-07-13T21:29:17Z | effective=2026-07-13 21:29:17+00:00 | [26년 07월 13일 월] 미국·이란, 지정학적 위기 고조 ｜ TSMC, 2분기 매출 36% 증가 ｜ 메타
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 하이닉스 신고가? 지금은 불가능한 이유
-  URL: https://www.youtube.com/watch?v=ShaiA4Gktqg
-  publishedAt: 2026-07-15T03:00:39Z
+  제목: 반도체 대장인 'ASML' 실적발표에 깜짝 놀란 이유
+  URL: https://www.youtube.com/watch?v=UZK7pfUsUzw
+  publishedAt: 2026-07-16T03:00:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ShaiA4Gktqg | ongoing=False | publishedAt=2026-07-15T03:00:39Z | actualEndTime=None | effective=2026-07-15 03:00:39+00:00 | 하이닉스 신고가? 지금은 불가능한 이유
+   - UZK7pfUsUzw | ongoing=False | publishedAt=2026-07-16T03:00:20Z | actualEndTime=None | effective=2026-07-16 03:00:20+00:00 | 반도체 대장인 'ASML' 실적발표에 깜짝 놀란 이유
+   - 3EddsHiVrqo | ongoing=False | publishedAt=2026-07-16T00:31:45Z | actualEndTime=2026-07-16T00:24:49Z | effective=2026-07-16 00:24:49+00:00 | SPCX, 지옥을 보고 왔다...ㅣ반도체 하락의 원인은 CXMT?ㅣ마이크로소프트, 'AI 보안'에 목숨 걸었
+   - t_ndPN62m4A | ongoing=False | publishedAt=2026-07-15T07:00:00Z | actualEndTime=None | effective=2026-07-15 07:00:00+00:00 | 삼전의 진짜 바닥은 감산 얘기 나올 때다!
+   - ShaiA4Gktqg | ongoing=False | publishedAt=2026-07-15T03:00:39Z | actualEndTime=None | effective=2026-07-15 03:00:39+00:00 | 존버하면 피똥쌀 수 있습니다
    - _rwQA98tb9E | ongoing=False | publishedAt=2026-07-15T00:39:34Z | actualEndTime=2026-07-15T00:24:10Z | effective=2026-07-15 00:24:10+00:00 | SK하이닉스 ADR +30%, 2배 ETF도 +30%....??ㅣ트럼프, 하루만에 TACOCOㅣCPI 야~호
    - yn2DRBgKG2c | ongoing=False | publishedAt=2026-07-14T17:09:55Z | actualEndTime=2026-07-14T16:11:15Z | effective=2026-07-14 16:11:15+00:00 | [미국주식LIVE] CPI 야~호 #260714
    - 4kWlCkOHHGo | ongoing=False | publishedAt=2026-07-14T13:35:50Z | actualEndTime=None | effective=2026-07-14 13:35:50+00:00 | 빅테크 주가의 승부처, 결국 ROIC다
    - GLo7YIQb2MA | ongoing=False | publishedAt=2026-07-14T07:00:27Z | actualEndTime=None | effective=2026-07-14 07:00:27+00:00 | AI 데이터센터 전쟁, 결국 치킨게임이다!
-   - zlQofDlROLA | ongoing=False | publishedAt=2026-07-14T03:00:18Z | actualEndTime=None | effective=2026-07-14 03:00:18+00:00 | 매수 드가자!!!
-   - YQxRwKgHFow | ongoing=False | publishedAt=2026-07-14T00:31:55Z | actualEndTime=2026-07-14T00:16:08Z | effective=2026-07-14 00:16:08+00:00 | 통행료 받겠다는 트럼프, 근데 이란보다 더 X아치네...?ㅣ'반대매매'가 끝나면 반등할 수 있을까?ㅣ[아침뉴
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 하이닉스 ADR이 대폭등의 진짜 이유
-  URL: https://www.youtube.com/watch?v=JXgioz8On8w
-  publishedAt: 2026-07-14T17:30:22Z
+  제목: 하이닉스 ADR 개박살난 이유 #하이닉스 #ADR #개박살
+  URL: https://www.youtube.com/watch?v=aykAUGbzpmU
+  publishedAt: 2026-07-15T17:13:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - aykAUGbzpmU | ongoing=False | publishedAt=2026-07-15T17:13:41Z | actualEndTime=None | effective=2026-07-15 17:13:41+00:00 | 하이닉스 ADR 개박살난 이유 #하이닉스 #ADR #개박살
+   - FKZcXyCqE94 | ongoing=False | publishedAt=2026-07-15T16:47:17Z | actualEndTime=None | effective=2026-07-15 16:47:17+00:00 | 하이닉스 ADR 수수께끼의 대폭락
+   - UwTMv6KQLoo | ongoing=False | publishedAt=2026-07-15T04:14:30Z | actualEndTime=None | effective=2026-07-15 04:14:30+00:00 | 코스피 대폭등의 비밀 #하이닉스 #ADR #삼성전자
    - JXgioz8On8w | ongoing=False | publishedAt=2026-07-14T17:30:22Z | actualEndTime=None | effective=2026-07-14 17:30:22+00:00 | 하이닉스 ADR이 대폭등의 진짜 이유
-   - YeizS5_tHuk | ongoing=False | publishedAt=2026-07-13T23:40:17Z | actualEndTime=None | effective=2026-07-13 23:40:17+00:00 | 코스피 힘들지만 희망도 있다? #삼성전자 #코스피 #하이닉스
-   - wa-MMzOPUpc | ongoing=False | publishedAt=2026-07-13T09:45:33Z | actualEndTime=None | effective=2026-07-13 09:45:33+00:00 | 코스피 최악의 날
-   - sIrvcrarEa0 | ongoing=False | publishedAt=2026-07-13T07:22:33Z | actualEndTime=None | effective=2026-07-13 07:22:33+00:00 | 코스피 최악의 날 #코스피 #하이닉스 #서킷브레이커
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - ykHOjL6vkyw | ongoing=False | publishedAt=2026-07-14T12:27:59Z | actualEndTime=None | effective=2026-07-14 12:27:59+00:00 | AI 피크아웃 걱정은 이르다? 반도체 거물들의 발언 적중할까
-   - QAFz50Y__KE | ongoing=False | publishedAt=2026-07-13T11:48:16Z | actualEndTime=None | effective=2026-07-13 11:48:16+00:00 | AI 초저가 가격 경쟁 시작, 월가에 등장한 충격 경고 보고서 현실될까
-   - FxwGf9xQDUo | ongoing=False | publishedAt=2026-07-13T06:56:49Z | actualEndTime=None | effective=2026-07-13 06:56:49+00:00 | 어려워진 장에도 기회는 있다? 초고변동 장세 주목할 투자처
