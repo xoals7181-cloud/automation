@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-18 12:48 (KST)
-Run: 213 (id=29629465299)
+생성 시각: 2026-07-19 13:16 (KST)
+Run: 214 (id=29673075504)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,51 @@ Run: 213 (id=29629465299)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump: Canada Must Pay for ‘Filthy’ Wildfire Smoke | Balance of Power 07/17/2026
-  URL: https://www.youtube.com/watch?v=0cMbbo5OKU4
-  publishedAt: 2026-07-18T00:21:41Z
+  제목: Bloomberg This Weekend | America’s AI Lead Shrink, New Tariff Threat To Canada
+  URL: https://www.youtube.com/watch?v=UeFCWyD-tqE
+  publishedAt: 2026-07-18T17:23:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 0cMbbo5OKU4 | ongoing=False | publishedAt=2026-07-18T00:21:41Z | actualEndTime=None | effective=2026-07-18 00:21:41+00:00 | Trump: Canada Must Pay for ‘Filthy’ Wildfire Smoke | Balance
-   - cYuhBoX-dAw | ongoing=False | publishedAt=2026-07-17T23:51:18Z | actualEndTime=None | effective=2026-07-17 23:51:18+00:00 | Mexico’s New Ambassador on ‘Balance of Power’
-   - MTAHVm8Nvwk | ongoing=False | publishedAt=2026-07-17T23:36:39Z | actualEndTime=None | effective=2026-07-17 23:36:39+00:00 | Covey: Race To Win Control of House Remains Competitive
-   - 6Uqst1CTF-I | ongoing=False | publishedAt=2026-07-17T23:32:41Z | actualEndTime=None | effective=2026-07-17 23:32:41+00:00 | Rep. Joe Morelle on Trump’s Doubts About US Elections
-   - gL6L5f48FGY | ongoing=False | publishedAt=2026-07-17T23:28:29Z | actualEndTime=None | effective=2026-07-17 23:28:29+00:00 | ‘Voice of Soccer’ Andres Cantor on FIFA World Cup Final
-   - f4mihGw9-Yg | ongoing=False | publishedAt=2026-07-17T23:28:51Z | actualEndTime=None | effective=2026-07-17 23:28:51+00:00 | High-Earning Diners Seeking 'Adult Happy Meals'
-   - 3DVUTa_1CN0 | ongoing=False | publishedAt=2026-07-17T23:28:16Z | actualEndTime=None | effective=2026-07-17 23:28:16+00:00 | New York City FC CEO: FIFA Will Expand Soccer Fan Base
-   - 1C2KhGnkT3k | ongoing=False | publishedAt=2026-07-17T23:23:57Z | actualEndTime=None | effective=2026-07-17 23:23:57+00:00 | How Congress Is Dealing With Canadian Wildfires
-   - 9XeIiFE5OtE | ongoing=False | publishedAt=2026-07-17T23:00:24Z | actualEndTime=None | effective=2026-07-17 23:00:24+00:00 | Apple & Nvidia Battle & the Business of the World Cup | The 
-   - fm5aDKkXeWE | ongoing=False | publishedAt=2026-07-17T23:00:38Z | actualEndTime=None | effective=2026-07-17 23:00:38+00:00 | Wall Street Week | Inflation Meets AI, Navy Buildout Challen
+   - hYlNWol_9M8 | ongoing=False | publishedAt=2026-07-19T02:22:32Z | actualEndTime=2026-07-18T14:01:43Z | effective=2026-07-18 14:01:43+00:00 | China AI Selloff, Wildfire Smoke, Trump's Clash With Iran | 
+   - UeFCWyD-tqE | ongoing=False | publishedAt=2026-07-18T17:23:38Z | actualEndTime=None | effective=2026-07-18 17:23:38+00:00 | Bloomberg This Weekend | America’s AI Lead Shrink, New Tarif
+   - Dv1jxkyWCyQ | ongoing=False | publishedAt=2026-07-18T17:00:39Z | actualEndTime=None | effective=2026-07-18 17:00:39+00:00 | Is AI making inflation harder to beat? #shorts #ai #inflatio
+   - -TY6hnJ-UFc | ongoing=False | publishedAt=2026-07-18T16:00:09Z | actualEndTime=None | effective=2026-07-18 16:00:09+00:00 | Law School Limits Laptops as AI Transforms Work
+   - fclh-0r7SXc | ongoing=False | publishedAt=2026-07-18T14:56:54Z | actualEndTime=None | effective=2026-07-18 14:56:54+00:00 | US-Canada Bridge Fuels Political Row
+   - zNBcYTA_lqI | ongoing=False | publishedAt=2026-07-18T14:37:51Z | actualEndTime=None | effective=2026-07-18 14:37:51+00:00 | FIFA Integrity Debate Shadows World Cup
+   - PalAur5zKFs | ongoing=False | publishedAt=2026-07-18T14:11:08Z | actualEndTime=None | effective=2026-07-18 14:11:08+00:00 | Earthquake Deepens Venezuela's Political Crisis
+   - tbkN76xbRB0 | ongoing=False | publishedAt=2026-07-18T14:00:00Z | actualEndTime=None | effective=2026-07-18 14:00:00+00:00 | Can America Actually Build Trump’s Golden Fleet?
+   - uvpFKEUDoNg | ongoing=False | publishedAt=2026-07-18T14:00:03Z | actualEndTime=None | effective=2026-07-18 14:00:03+00:00 | How AI is reshaping the investment landscape #shorts #invest
+   - _0M7OX3_3oQ | ongoing=False | publishedAt=2026-07-18T13:58:45Z | actualEndTime=None | effective=2026-07-18 13:58:45+00:00 | Trump's Endorsement Reshapes South Carolina Race
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: No Amount of Money Can Surpass The Joy of My Family
-  URL: https://www.youtube.com/watch?v=o46rplLQ9yU
-  publishedAt: 2026-07-18T01:08:46Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - o46rplLQ9yU | ongoing=False | publishedAt=2026-07-18T01:08:46Z | actualEndTime=None | effective=2026-07-18 01:08:46+00:00 | No Amount of Money Can Surpass The Joy of My Family
-   - M7dnyVa4dCA | ongoing=False | publishedAt=2026-07-17T14:57:51Z | actualEndTime=None | effective=2026-07-17 14:57:51+00:00 | the stock market is WORSENING | faaaaaaaaaa
-   - t6uk9apfqho | ongoing=False | publishedAt=2026-07-16T14:33:24Z | actualEndTime=None | effective=2026-07-16 14:33:24+00:00 | why the stock market is tanking
-   - o3sqU8LP2G4 | ongoing=False | publishedAt=2026-07-16T04:00:12Z | actualEndTime=None | effective=2026-07-16 04:00:12+00:00 | How to Turn $1,000 into $1 MILLION
-
-- 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  제2의 딥시크 사태? 중국 '키미 K3' 공습...   -  2026/07/17
-  URL: https://www.youtube.com/watch?v=nNOjTob4aFk
-  publishedAt: 2026-07-17T22:45:08Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - nNOjTob4aFk | ongoing=False | publishedAt=2026-07-17T22:45:08Z | actualEndTime=None | effective=2026-07-17 22:45:08+00:00 | 【미국 증시 오늘의 요약】  제2의 딥시크 사태? 중국 '키미 K3' 공습...   -  2026/07/17
-   - tNf0L9Re-8Q | ongoing=False | publishedAt=2026-07-17T22:10:02Z | actualEndTime=2026-07-17T21:47:25Z | effective=2026-07-17 21:47:25+00:00 | [26년 07월 17일 금]  중국 문샷발 충격에 글로벌 기술주 급락..?｜ 트럼프, 중국의 미국 선거 개입
-   - 5EV6szv50dg | ongoing=False | publishedAt=2026-07-17T01:43:31Z | actualEndTime=2026-07-17T01:41:17Z | effective=2026-07-17 01:41:17+00:00 | [특별 방송]   트럼프 대통령 '대국민 연설'  ｜ -  오선의 미국 증시 라이브
-   - HZtBjcrdY6g | ongoing=False | publishedAt=2026-07-16T22:12:09Z | actualEndTime=None | effective=2026-07-16 22:12:09+00:00 | 【미국 증시 오늘의 요약】  TSMC 순이익 77% 급증에도 반도체 급락...   -  2026/07/16
-   - 6iLCQ5HuU6M | ongoing=False | publishedAt=2026-07-16T21:55:59Z | actualEndTime=2026-07-16T21:34:10Z | effective=2026-07-16 21:34:10+00:00 | [26년 07월 16일 목]  소매판매, 실업수당 청구건수｜ 백악관 언론 브리핑 ｜실적: TSMC, 넷플릭스
-
-- 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - wVrzwVEg5Vw | ongoing=False | publishedAt=2026-07-17T04:10:49Z | actualEndTime=None | effective=2026-07-17 04:10:49+00:00 | Ah.... 내 잡주들 조졌네요
-   - as-M-LxQDaY | ongoing=False | publishedAt=2026-07-17T01:05:58Z | actualEndTime=2026-07-17T00:59:45Z | effective=2026-07-17 00:59:45+00:00 | TSMC, NFLX, ISRG 실적발표, 분위기가 왜이래?ㅣ스페이스X, 스타쉽 발사 긴급중단! 주가는 긴급추
-   - RfF5OHv765o | ongoing=False | publishedAt=2026-07-17T01:00:02Z | actualEndTime=None | effective=2026-07-17 01:00:02+00:00 | 지금 숏을 치려는 당신에게 바칩니다
-   - 9IWAE_fOZnU | ongoing=False | publishedAt=2026-07-16T07:00:00Z | actualEndTime=None | effective=2026-07-16 07:00:00+00:00 | 상한가, 하한가 제발 좀 없애줘요!
+   - OFyAUsh3SDI | ongoing=False | publishedAt=2026-07-18T13:00:21Z | actualEndTime=None | effective=2026-07-18 13:00:21+00:00 | I Wish I Bought a Larger Private Jet
+   - Eb3Qz_OKgGc | ongoing=False | publishedAt=2026-07-18T04:00:27Z | actualEndTime=None | effective=2026-07-18 04:00:27+00:00 | The Secret Way Citadel Makes Money
+   - M7dnyVa4dCA | ongoing=False | publishedAt=2026-07-17T14:57:51Z | actualEndTime=None | effective=2026-07-17 14:57:51+00:00 | the stock market is WORSENING | faaaaaaaaaa
 
-- 내일은 투자왕 - 김단테
+- 오선의 미국 증시
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - nNOjTob4aFk | ongoing=False | publishedAt=2026-07-17T22:45:08Z | actualEndTime=None | effective=2026-07-17 22:45:08+00:00 | 【미국 증시 오늘의 요약】  제2의 딥시크 사태? 중국 '키미 K3' 공습...   -  2026/07/17
+   - tNf0L9Re-8Q | ongoing=False | publishedAt=2026-07-17T22:10:02Z | actualEndTime=2026-07-17T21:47:25Z | effective=2026-07-17 21:47:25+00:00 | [26년 07월 17일 금]  중국 문샷발 충격에 글로벌 기술주 급락..?｜ 트럼프, 중국의 미국 선거 개입
+
+- 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 나스닥을 멈춰세운 중국 AI 키미 K3 집중분석 (함정도 있다?)
-  URL: https://www.youtube.com/watch?v=_v6JIMZY6AY
-  publishedAt: 2026-07-17T17:12:45Z
+  제목: Space X 급락하면 Open AI도 위험하다
+  URL: https://www.youtube.com/watch?v=LZN5QzE4GkU
+  publishedAt: 2026-07-19T01:00:33Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - LZN5QzE4GkU | ongoing=False | publishedAt=2026-07-19T01:00:33Z | actualEndTime=None | effective=2026-07-19 01:00:33+00:00 | Space X 급락하면 Open AI도 위험하다
+
+- 내일은 투자왕 - 김단테
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
    - _v6JIMZY6AY | ongoing=False | publishedAt=2026-07-17T17:12:45Z | actualEndTime=None | effective=2026-07-17 17:12:45+00:00 | 나스닥을 멈춰세운 중국 AI 키미 K3 집중분석 (함정도 있다?)
-   - KSBE5-IkMQ4 | ongoing=False | publishedAt=2026-07-16T17:15:31Z | actualEndTime=None | effective=2026-07-16 17:15:31+00:00 | 하이닉스 ADR 연이틀 폭락. 이대로 끝인가?
 
 - 소수몽키
   상태: NO_VIDEO
