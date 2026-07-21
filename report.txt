@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-20 13:31 (KST)
-Run: 215 (id=29717063314)
+생성 시각: 2026-07-21 13:09 (KST)
+Run: 216 (id=29800474222)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,47 +8,66 @@ Run: 215 (id=29717063314)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Chips Selloff Deepens Amid AI Angst | The Asia Trade 7/17/2026
-  URL: https://www.youtube.com/watch?v=xGReILaOHsA
-  publishedAt: 2026-07-20T02:29:48Z
+  제목: US To Impose 50% Tariff on Many Canadian Goods | Balance of Power 07/20/2026
+  URL: https://www.youtube.com/watch?v=gt7qpdCcX6U
+  publishedAt: 2026-07-20T23:47:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 5hbt3X9nnGE | ongoing=False | publishedAt=2026-07-20T03:02:47Z | actualEndTime=2026-07-19T14:00:09Z | effective=2026-07-19 14:00:09+00:00 | US & Iran Trade Attacks, New UK Prime Minister, World Cup Fi
-   - xGReILaOHsA | ongoing=False | publishedAt=2026-07-20T02:29:48Z | actualEndTime=None | effective=2026-07-20 02:29:48+00:00 | Chips Selloff Deepens Amid AI Angst | The Asia Trade 7/17/20
-   - or75wA8DHTo | ongoing=False | publishedAt=2026-07-20T00:47:26Z | actualEndTime=None | effective=2026-07-20 00:47:26+00:00 | Moonshot AI Makes Waves Despite China's Chip Constraints
-   - AEEBHfHTXlY | ongoing=False | publishedAt=2026-07-19T16:56:29Z | actualEndTime=None | effective=2026-07-19 16:56:29+00:00 | Bloomberg This Weekend | Two American Troops Killed, Upcomin
-   - t5lH6MgdScc | ongoing=False | publishedAt=2026-07-19T16:28:39Z | actualEndTime=None | effective=2026-07-19 16:28:39+00:00 | Real Madrid's Rüdiger Says Spain's Team Play Is the Differen
-   - T6JWIQ9HTc8 | ongoing=False | publishedAt=2026-07-19T14:40:41Z | actualEndTime=None | effective=2026-07-19 14:40:41+00:00 | Shaheen Pushes Back on Claim Tying Iran to Russia Sanctions
-   - aZiaIDNnDpI | ongoing=False | publishedAt=2026-07-19T14:16:45Z | actualEndTime=None | effective=2026-07-19 14:16:45+00:00 | Rep. Stutzman Urges Tougher Iran Strategy
-   - 5P6NcR4cx70 | ongoing=False | publishedAt=2026-07-19T14:00:25Z | actualEndTime=None | effective=2026-07-19 14:00:25+00:00 | Can Big Tech’s AI Spending Pay Off?
-   - 1N-bYyPRJRI | ongoing=False | publishedAt=2026-07-19T14:00:16Z | actualEndTime=None | effective=2026-07-19 14:00:16+00:00 | Can the US actually build Trump’s “Golden Fleet?” #shorts #t
-   - D2sekmISGuc | ongoing=False | publishedAt=2026-07-19T13:56:59Z | actualEndTime=None | effective=2026-07-19 13:56:59+00:00 | Dinosaur Fossils Become Wealth Market's New Trophy Asset
+   - gt7qpdCcX6U | ongoing=False | publishedAt=2026-07-20T23:47:53Z | actualEndTime=None | effective=2026-07-20 23:47:53+00:00 | US To Impose 50% Tariff on Many Canadian Goods | Balance of 
+   - IgQfgPPg0KU | ongoing=False | publishedAt=2026-07-20T22:51:34Z | actualEndTime=None | effective=2026-07-20 22:51:34+00:00 | Iran war will not be over by midterm elections, says general
+   - ZUKN745AUgU | ongoing=False | publishedAt=2026-07-20T22:26:24Z | actualEndTime=None | effective=2026-07-20 22:26:24+00:00 | Imax CEO on theater expansion following “The Odyssey” succes
+   - lkrEO4T0Ufw | ongoing=False | publishedAt=2026-07-20T22:24:38Z | actualEndTime=None | effective=2026-07-20 22:24:38+00:00 | Alphabet To Develop Their Own Server Chips | The Close 7/20/
+   - fc8unLzgri0 | ongoing=False | publishedAt=2026-07-20T21:58:37Z | actualEndTime=None | effective=2026-07-20 21:58:37+00:00 | UN’s Baerbock on selecting new secretary-general
+   - TcS4a60yRi0 | ongoing=False | publishedAt=2026-07-20T21:38:36Z | actualEndTime=None | effective=2026-07-20 21:38:36+00:00 | Moonshot Plans IPO in Six Months After China AI Breakthrough
+   - kgcVTlroaq8 | ongoing=False | publishedAt=2026-07-20T21:38:11Z | actualEndTime=None | effective=2026-07-20 21:38:11+00:00 | We Have 'Beat Up' The Word Democratization: Huszczo
+   - fGSDEdU0jD0 | ongoing=False | publishedAt=2026-07-20T21:38:21Z | actualEndTime=None | effective=2026-07-20 21:38:21+00:00 | Israel Needs New Leadership Says Aaron David Miller
+   - nxgWjM50t5Y | ongoing=False | publishedAt=2026-07-20T21:37:54Z | actualEndTime=None | effective=2026-07-20 21:37:54+00:00 | UN's Baerbock on Selecting New Secretary-General, Funding
+   - qVPssZINpwg | ongoing=False | publishedAt=2026-07-20T21:33:22Z | actualEndTime=None | effective=2026-07-20 21:33:22+00:00 | US Launches 10th Day of Airstrikes Against Iran
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: The Craziest Part About Owning A Private Jet 🤯
+  URL: https://www.youtube.com/watch?v=H8dKxWoo8Zg
+  publishedAt: 2026-07-21T04:00:14Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - OFyAUsh3SDI | ongoing=False | publishedAt=2026-07-18T13:00:21Z | actualEndTime=None | effective=2026-07-18 13:00:21+00:00 | I Wish I Bought a Larger Private Jet
+   - H8dKxWoo8Zg | ongoing=False | publishedAt=2026-07-21T04:00:14Z | actualEndTime=None | effective=2026-07-21 04:00:14+00:00 | The Craziest Part About Owning A Private Jet 🤯
+   - spOt7rPBRwY | ongoing=False | publishedAt=2026-07-21T03:30:37Z | actualEndTime=None | effective=2026-07-21 03:30:37+00:00 | The #1 Lesson To Teach Your Kids
+   - dfVB3Oa5Znw | ongoing=False | publishedAt=2026-07-21T03:00:27Z | actualEndTime=None | effective=2026-07-21 03:00:27+00:00 | The WORST Social Media Advice
+   - 2FYYGqlIRAA | ongoing=False | publishedAt=2026-07-21T02:00:39Z | actualEndTime=None | effective=2026-07-21 02:00:39+00:00 | I Made $40 Million on Tesla Stock!
+   - ZcBIEG1Gq9E | ongoing=False | publishedAt=2026-07-20T22:00:15Z | actualEndTime=None | effective=2026-07-20 22:00:15+00:00 | I Met Elon Musk Because I Owned a Private Jet
+   - 8PoEiVacWfE | ongoing=False | publishedAt=2026-07-20T17:51:47Z | actualEndTime=None | effective=2026-07-20 17:51:47+00:00 | How Much Money You Need To Retire EARLY
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  유가가 다시 증시를 눌렀다…반도체주는 약세장 진입 후 반등    -  2026/07/20
+  URL: https://www.youtube.com/watch?v=89anK_lsh-g
+  publishedAt: 2026-07-20T22:18:09Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 89anK_lsh-g | ongoing=False | publishedAt=2026-07-20T22:18:09Z | actualEndTime=None | effective=2026-07-20 22:18:09+00:00 | 【미국 증시 오늘의 요약】  유가가 다시 증시를 눌렀다…반도체주는 약세장 진입 후 반등    -  2026/
+   - g3VNFEZqeQw | ongoing=False | publishedAt=2026-07-20T21:43:57Z | actualEndTime=2026-07-20T21:20:01Z | effective=2026-07-20 21:20:01+00:00 | [26년 07월 20일 월]  키미 K3, 반도체 악재 아닌 호재｜ 트럼프, ' 이란, 대가 치르게 될 것'
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 트렌드 외면하면 주식에서 박살난다!
-  URL: https://www.youtube.com/watch?v=2cNUORu1_Bk
-  publishedAt: 2026-07-20T01:00:09Z
+  제목: 반도체가 오르긴 올랐는데...ㅣ[아침뉴스&미국시황] #260721
+  URL: https://www.youtube.com/watch?v=j2641r44V70
+  publishedAt: 2026-07-21T00:13:33Z
+  actualEndTime: 2026-07-21T00:05:33Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - j2641r44V70 | ongoing=False | publishedAt=2026-07-21T00:13:33Z | actualEndTime=2026-07-21T00:05:33Z | effective=2026-07-21 00:05:33+00:00 | 반도체가 오르긴 올랐는데...ㅣ[아침뉴스&미국시황] #260721
    - 2cNUORu1_Bk | ongoing=False | publishedAt=2026-07-20T01:00:09Z | actualEndTime=None | effective=2026-07-20 01:00:09+00:00 | 트렌드 외면하면 주식에서 박살난다!
    - h8QweLmJxCI | ongoing=False | publishedAt=2026-07-20T00:09:02Z | actualEndTime=2026-07-20T00:04:15Z | effective=2026-07-20 00:04:15+00:00 | 이란전쟁, 얼마나 심각한가?ㅣ이번주 5가지 투자 포인트는?ㅣ[아침뉴스&미국시황] #260720
-   - LZN5QzE4GkU | ongoing=False | publishedAt=2026-07-19T01:00:33Z | actualEndTime=None | effective=2026-07-19 01:00:33+00:00 | Space X 급락하면 Open AI도 위험하다
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - 5LiZJI1l9Yg | ongoing=False | publishedAt=2026-07-20T08:57:50Z | actualEndTime=None | effective=2026-07-20 08:57:50+00:00 | 중국 AI 쇼크의 진실 #코스피 #삼성전자 #하이닉스
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - OgWZKiuoiXg | ongoing=False | publishedAt=2026-07-20T12:47:27Z | actualEndTime=None | effective=2026-07-20 12:47:27+00:00 | 반도체 폭락으로 빚투 빠르게 청산 중? 절호의 기회 올까
