@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-22 13:11 (KST)
-Run: 217 (id=29890395341)
+생성 시각: 2026-07-23 13:08 (KST)
+Run: 218 (id=29978793209)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,79 +8,82 @@ Run: 217 (id=29890395341)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Hegseth Faces Grilling on Costs as Iran War Widens | Balance of Power 07/21/2026
-  URL: https://www.youtube.com/watch?v=KixYt9OVXj4
-  publishedAt: 2026-07-21T23:37:15Z
+  제목: Markets Weigh Widening War, Big Tech Earnings | The Asia Trade 7/23/2026
+  URL: https://www.youtube.com/watch?v=Pa6JfFPVx1c
+  publishedAt: 2026-07-23T04:08:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - KixYt9OVXj4 | ongoing=False | publishedAt=2026-07-21T23:37:15Z | actualEndTime=None | effective=2026-07-21 23:37:15+00:00 | Hegseth Faces Grilling on Costs as Iran War Widens | Balance
-   - S2V-xpLneiM | ongoing=False | publishedAt=2026-07-21T23:32:30Z | actualEndTime=None | effective=2026-07-21 23:32:30+00:00 | Sen. Paul: Increasing military spending is "irresponsible" #
-   - HH0G0pgYd-Q | ongoing=False | publishedAt=2026-07-21T23:29:49Z | actualEndTime=None | effective=2026-07-21 23:29:49+00:00 | Iran is "a war of choice," says Sen. Warner #shorts #iran #i
-   - 4YMj7fERyxE | ongoing=False | publishedAt=2026-07-21T23:13:29Z | actualEndTime=None | effective=2026-07-21 23:13:29+00:00 | Cost of Iran war "is a trade off," says Sen. Scott #shorts #
-   - IX7L7_KL1OM | ongoing=False | publishedAt=2026-07-21T22:10:53Z | actualEndTime=None | effective=2026-07-21 22:10:53+00:00 | Rebound in Chipmakers Gathers Pace | The Close 7/21/2026
-   - 5BE92kVsrlg | ongoing=False | publishedAt=2026-07-21T22:05:31Z | actualEndTime=None | effective=2026-07-21 22:05:31+00:00 | Trump Threatens New Tariffs, Schwab CEO Talks Earnings | Blo
-   - 6yZ3wHm_xI4 | ongoing=False | publishedAt=2026-07-21T22:02:53Z | actualEndTime=None | effective=2026-07-21 22:02:53+00:00 | It Will Take More Bombing to Beat Iran, Sen. Scott Says
-   - AIop05UcK74 | ongoing=False | publishedAt=2026-07-21T21:37:17Z | actualEndTime=None | effective=2026-07-21 21:37:17+00:00 | Cost of Iran War Puts Country at Risk, Paul Says
-   - WGeQA-UNWC4 | ongoing=False | publishedAt=2026-07-21T21:24:37Z | actualEndTime=None | effective=2026-07-21 21:24:37+00:00 | Brouhard on Oil Prices: ‘The Market is Exhausted’
-   - tFnt2HdqYd8 | ongoing=False | publishedAt=2026-07-21T21:22:34Z | actualEndTime=None | effective=2026-07-21 21:22:34+00:00 | House GOP Tries to Line Up Support to Fund Government Throug
+   - Pa6JfFPVx1c | ongoing=False | publishedAt=2026-07-23T04:08:14Z | actualEndTime=None | effective=2026-07-23 04:08:14+00:00 | Markets Weigh Widening War, Big Tech Earnings | The Asia Tra
+   - cxamisqWk5c | ongoing=False | publishedAt=2026-07-22T23:40:00Z | actualEndTime=None | effective=2026-07-22 23:40:00+00:00 | Trump Threatens To Strike Iran Bridges, Power Plants | Balan
+   - 1U8ryIBHJLQ | ongoing=False | publishedAt=2026-07-22T22:45:58Z | actualEndTime=None | effective=2026-07-22 22:45:58+00:00 | Mamdani should be arrested: Israeli ambassador to the UN #sh
+   - WNLQw97Lu8k | ongoing=False | publishedAt=2026-07-22T22:11:38Z | actualEndTime=None | effective=2026-07-22 22:11:38+00:00 | Stocks Churn Before Big-Tech Earnings | The Close 7/22/2026
+   - 3TY0UJf725I | ongoing=False | publishedAt=2026-07-22T21:24:00Z | actualEndTime=None | effective=2026-07-22 21:24:00+00:00 | Trump's New Iran Threats & OpenAI's Accidental Hacking | Blo
+   - FJsrJnmxaxQ | ongoing=False | publishedAt=2026-07-22T21:19:57Z | actualEndTime=None | effective=2026-07-22 21:19:57+00:00 | Tesla Reports Huge Miss on Earnings for Second Quarter
+   - NlNnV6sOTSQ | ongoing=False | publishedAt=2026-07-22T20:24:28Z | actualEndTime=None | effective=2026-07-22 20:24:28+00:00 | Alphabet, Tesla, IBM, Texas Instruments Earnings Reports | C
+   - iKe4H00aYPs | ongoing=False | publishedAt=2026-07-22T20:04:37Z | actualEndTime=None | effective=2026-07-22 20:04:37+00:00 | AI Will Lead to Productivity Gains, Stifel CEO Says
+   - A5Cgv5SvZUY | ongoing=False | publishedAt=2026-07-22T19:28:57Z | actualEndTime=None | effective=2026-07-22 19:28:57+00:00 | Warner Deal Paused, Activism Surges 7/22/2026
+   - lUf_Io-MoSM | ongoing=False | publishedAt=2026-07-22T19:17:24Z | actualEndTime=None | effective=2026-07-22 19:17:24+00:00 | US Widens Strikes on Iran | Balance of Power 7/22/2026
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: My Secret To Getting Six Pack Abs
-  URL: https://www.youtube.com/watch?v=cq5zKkojie0
-  publishedAt: 2026-07-22T04:00:17Z
+  제목: How Each Of My Kids Cost $100k+ Per Year!
+  URL: https://www.youtube.com/watch?v=7FxyaYbEnSA
+  publishedAt: 2026-07-23T04:00:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 7FxyaYbEnSA | ongoing=False | publishedAt=2026-07-23T04:00:32Z | actualEndTime=None | effective=2026-07-23 04:00:32+00:00 | How Each Of My Kids Cost $100k+ Per Year!
+   - fy2HQp6CyDo | ongoing=False | publishedAt=2026-07-22T22:00:26Z | actualEndTime=None | effective=2026-07-22 22:00:26+00:00 | The Biggest Life Lesson
+   - bnzJYtvGC7I | ongoing=False | publishedAt=2026-07-22T19:25:19Z | actualEndTime=None | effective=2026-07-22 19:25:19+00:00 | F**k: Trump's Out of Options on Iran | The Nuclear Bomb.
+   - ocL0OklFt8Q | ongoing=False | publishedAt=2026-07-22T16:06:06Z | actualEndTime=None | effective=2026-07-22 16:06:06+00:00 | Warning: The Kimi K3 Stock Market RESET.
+   - FHXOxySxgO4 | ongoing=False | publishedAt=2026-07-22T10:00:36Z | actualEndTime=None | effective=2026-07-22 10:00:36+00:00 | My #1 Question for Donald Trump
    - cq5zKkojie0 | ongoing=False | publishedAt=2026-07-22T04:00:17Z | actualEndTime=None | effective=2026-07-22 04:00:17+00:00 | My Secret To Getting Six Pack Abs
    - SpkXCXrxPdo | ongoing=False | publishedAt=2026-07-22T03:00:29Z | actualEndTime=None | effective=2026-07-22 03:00:29+00:00 | How To Become a Millionaire Using CAPITALISM
    - e5nsmK_t8T8 | ongoing=False | publishedAt=2026-07-22T01:00:05Z | actualEndTime=None | effective=2026-07-22 01:00:05+00:00 | Private Jets Cost $2 Million Per Year
    - ytZMwGN3GpE | ongoing=False | publishedAt=2026-07-21T10:00:14Z | actualEndTime=None | effective=2026-07-21 10:00:14+00:00 | Europe Uses Solar Panels as FENCES
    - AeWwNweYxRg | ongoing=False | publishedAt=2026-07-21T05:00:00Z | actualEndTime=None | effective=2026-07-21 05:00:00+00:00 | Everybody Takes This For Granted
-   - H8dKxWoo8Zg | ongoing=False | publishedAt=2026-07-21T04:00:14Z | actualEndTime=None | effective=2026-07-21 04:00:14+00:00 | The Craziest Part About Owning A Private Jet 🤯
-   - spOt7rPBRwY | ongoing=False | publishedAt=2026-07-21T03:30:37Z | actualEndTime=None | effective=2026-07-21 03:30:37+00:00 | The #1 Lesson To Teach Your Kids
-   - dfVB3Oa5Znw | ongoing=False | publishedAt=2026-07-21T03:00:27Z | actualEndTime=None | effective=2026-07-21 03:00:27+00:00 | The WORST Social Media Advice
-   - 2FYYGqlIRAA | ongoing=False | publishedAt=2026-07-21T02:00:39Z | actualEndTime=None | effective=2026-07-21 02:00:39+00:00 | I Made $40 Million on Tesla Stock!
-   - ZcBIEG1Gq9E | ongoing=False | publishedAt=2026-07-20T22:00:15Z | actualEndTime=None | effective=2026-07-20 22:00:15+00:00 | I Met Elon Musk Because I Owned a Private Jet
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  다시 불붙은 AI 랠리… 내일 테슬라·구글 실적이 시장 향방 가른다    -  2026/07/21
-  URL: https://www.youtube.com/watch?v=TqpWdwSUq8g
-  publishedAt: 2026-07-21T22:26:39Z
+  제목: 【미국 증시 오늘의 요약】  AI 수요는 폭발하는데 주가는 하락…구글·테슬라 엇갈린 실적    -  2026/07/22
+  URL: https://www.youtube.com/watch?v=a_Vjvec-eaA
+  publishedAt: 2026-07-22T23:14:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - a_Vjvec-eaA | ongoing=False | publishedAt=2026-07-22T23:14:47Z | actualEndTime=None | effective=2026-07-22 23:14:47+00:00 | 【미국 증시 오늘의 요약】  AI 수요는 폭발하는데 주가는 하락…구글·테슬라 엇갈린 실적    -  2026
+   - 189TOvTWjbM | ongoing=False | publishedAt=2026-07-22T22:55:06Z | actualEndTime=2026-07-22T22:26:21Z | effective=2026-07-22 22:26:21+00:00 | [26년 07월 22일 수]  실적: 구글, 테슬라, IBM ｜ 슈퍼마이크로, 잠정 실적 상회 ｜ 트럼프, 
    - TqpWdwSUq8g | ongoing=False | publishedAt=2026-07-21T22:26:39Z | actualEndTime=None | effective=2026-07-21 22:26:39+00:00 | 【미국 증시 오늘의 요약】  다시 불붙은 AI 랠리… 내일 테슬라·구글 실적이 시장 향방 가른다    -  
    - yEMhmu5GFro | ongoing=False | publishedAt=2026-07-21T21:50:11Z | actualEndTime=2026-07-21T21:30:03Z | effective=2026-07-21 21:30:03+00:00 | [26년 07월 21일 화] 트럼프, 기본관세 만료 앞두고 추가 관세 검토｜ 미·중, 9월 AI 회담 개최 
-   - 89anK_lsh-g | ongoing=False | publishedAt=2026-07-20T22:18:09Z | actualEndTime=None | effective=2026-07-20 22:18:09+00:00 | 【미국 증시 오늘의 요약】  유가가 다시 증시를 눌렀다…반도체주는 약세장 진입 후 반등    -  2026/
-   - g3VNFEZqeQw | ongoing=False | publishedAt=2026-07-20T21:43:57Z | actualEndTime=2026-07-20T21:20:01Z | effective=2026-07-20 21:20:01+00:00 | [26년 07월 20일 월]  키미 K3, 반도체 악재 아닌 호재｜ 트럼프, ' 이란, 대가 치르게 될 것'
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 앤 캐리 Again? 역대 최저 엔화가 위험한 이유
-  URL: https://www.youtube.com/watch?v=ilI78y0sLx4
-  publishedAt: 2026-07-22T03:00:31Z
+  제목: 미친 실적! 그런데 하락? 분석해봅시다ㅣ아몰랑! 반도체 레츠꼬!!!ㅣ[아침뉴스&미국시황] #260723
+  URL: https://www.youtube.com/watch?v=bxnXpUbe2W0
+  publishedAt: 2026-07-23T00:17:04Z
+  actualEndTime: 2026-07-23T00:08:17Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - bxnXpUbe2W0 | ongoing=False | publishedAt=2026-07-23T00:17:04Z | actualEndTime=2026-07-23T00:08:17Z | effective=2026-07-23 00:08:17+00:00 | 미친 실적! 그런데 하락? 분석해봅시다ㅣ아몰랑! 반도체 레츠꼬!!!ㅣ[아침뉴스&미국시황] #260723
+   - P6VPH6Snlag | ongoing=False | publishedAt=2026-07-22T07:00:03Z | actualEndTime=None | effective=2026-07-22 07:00:03+00:00 | 인간의 명령을 해킹하는 AI가 등장했다!
    - ilI78y0sLx4 | ongoing=False | publishedAt=2026-07-22T03:00:31Z | actualEndTime=None | effective=2026-07-22 03:00:31+00:00 | 앤 캐리 Again? 역대 최저 엔화가 위험한 이유
    - DyOgu2DZPVw | ongoing=False | publishedAt=2026-07-22T01:00:11Z | actualEndTime=None | effective=2026-07-22 01:00:11+00:00 | AI 저작권 소송! 앤트로픽 큰일났다
    - EvbxAHgmhuc | ongoing=False | publishedAt=2026-07-22T00:13:24Z | actualEndTime=2026-07-22T00:03:22Z | effective=2026-07-22 00:03:22+00:00 | AI가 드디어 사람 말을 안듣는다...?ㅣ애플, 새로운 프로그램 발표ㅣ구글, 제미나이 3.6 공개ㅣ[아침뉴스
    - mXJ-qskE9pA | ongoing=False | publishedAt=2026-07-21T07:00:35Z | actualEndTime=None | effective=2026-07-21 07:00:35+00:00 | 구글 실적 발표, 이 숫자가 중요하다!
-   - j2641r44V70 | ongoing=False | publishedAt=2026-07-21T00:13:33Z | actualEndTime=2026-07-21T00:05:33Z | effective=2026-07-21 00:05:33+00:00 | 반도체가 오르긴 올랐는데...ㅣ[아침뉴스&미국시황] #260721
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 메모리 반도체 폭등의 비밀
-  URL: https://www.youtube.com/watch?v=7cNmibK6-vQ
-  publishedAt: 2026-07-21T18:14:34Z
+  제목: 구글이 살려준 코스피?? 그러나... #삼성전자 #하이닉스 #코스피
+  URL: https://www.youtube.com/watch?v=dg3VVORAYQw
+  publishedAt: 2026-07-23T02:13:51Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - dg3VVORAYQw | ongoing=False | publishedAt=2026-07-23T02:13:51Z | actualEndTime=None | effective=2026-07-23 02:13:51+00:00 | 구글이 살려준 코스피?? 그러나... #삼성전자 #하이닉스 #코스피
+   - DwRqTzrA1Cc | ongoing=False | publishedAt=2026-07-22T06:41:39Z | actualEndTime=None | effective=2026-07-22 06:41:39+00:00 | 코스피 막판 급락 이유 #코스피 #삼성전자 #하이닉스
    - 7cNmibK6-vQ | ongoing=False | publishedAt=2026-07-21T18:14:34Z | actualEndTime=None | effective=2026-07-21 18:14:34+00:00 | 메모리 반도체 폭등의 비밀
    - n2pMI4XqnJk | ongoing=False | publishedAt=2026-07-21T04:20:55Z | actualEndTime=None | effective=2026-07-21 04:20:55+00:00 | 오늘도 코스피 사이드카지만.. #하이닉스 #코스피 #삼성전자
-   - 5LiZJI1l9Yg | ongoing=False | publishedAt=2026-07-20T08:57:50Z | actualEndTime=None | effective=2026-07-20 08:57:50+00:00 | 중국 AI 쇼크의 진실 #코스피 #삼성전자 #하이닉스
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - jTyJO_RfAt8 | ongoing=False | publishedAt=2026-07-22T12:14:52Z | actualEndTime=None | effective=2026-07-22 12:14:52+00:00 | 증시는 지금 큰 오해 중?버핏의 마지막 베팅 또 적중할까
    - KJ7x1q1INpI | ongoing=False | publishedAt=2026-07-21T11:50:05Z | actualEndTime=None | effective=2026-07-21 11:50:05+00:00 | 미국 전역으로 번지는 데이터센터 반대 시위, 새로운 증시 악재될까
-   - OgWZKiuoiXg | ongoing=False | publishedAt=2026-07-20T12:47:27Z | actualEndTime=None | effective=2026-07-20 12:47:27+00:00 | 반도체 폭락으로 빚투 빠르게 청산 중? 절호의 기회 올까
