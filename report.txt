@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-25 12:56 (KST)
-Run: 220 (id=30143137869)
+생성 시각: 2026-07-26 13:20 (KST)
+Run: 221 (id=30187620733)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,71 +8,63 @@ Run: 220 (id=30143137869)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Cambodia PM Pledges to Do More to Tackle Evolving Scam Networks
-  URL: https://www.youtube.com/watch?v=T7Z_EaABQdQ
-  publishedAt: 2026-07-25T01:30:34Z
+  제목: Tucker Carlson on Feminism, Marriage and Power
+  URL: https://www.youtube.com/watch?v=Y1ApwSsWCeA
+  publishedAt: 2026-07-26T04:00:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - T7Z_EaABQdQ | ongoing=False | publishedAt=2026-07-25T01:30:34Z | actualEndTime=None | effective=2026-07-25 01:30:34+00:00 | Cambodia PM Pledges to Do More to Tackle Evolving Scam Netwo
-   - IMWCcm7uDnk | ongoing=False | publishedAt=2026-07-25T01:18:22Z | actualEndTime=None | effective=2026-07-25 01:18:22+00:00 | Nvidia CEO Jensen Huang on the AI Boom in South Korea
-   - 43RasWDVRxo | ongoing=False | publishedAt=2026-07-25T01:04:29Z | actualEndTime=None | effective=2026-07-25 01:04:29+00:00 | Inside Africa's Data Centers Revolution | Bloomberg Next Afr
-   - qF8iECeRL-Q | ongoing=False | publishedAt=2026-07-24T23:26:26Z | actualEndTime=None | effective=2026-07-24 23:26:26+00:00 | Trump: US ‘Locked & Loaded’ for ‘Massive Attack’ | Balance o
-   - 07DHU-j3Wg0 | ongoing=False | publishedAt=2026-07-24T23:15:39Z | actualEndTime=None | effective=2026-07-24 23:15:39+00:00 | Big Take Asia: The Hunt For Cambodia’s Stolen Statues
-   - 4LhP4uPRzM8 | ongoing=False | publishedAt=2026-07-24T23:00:23Z | actualEndTime=None | effective=2026-07-24 23:00:23+00:00 | Ed Yardeni on Investing Strategy
-   - -gG2UOrklV8 | ongoing=False | publishedAt=2026-07-24T22:59:46Z | actualEndTime=None | effective=2026-07-24 22:59:46+00:00 | Retirement Gets More Costly, Health Expenses Spike Higher
-   - l33Oc15kGo4 | ongoing=False | publishedAt=2026-07-24T23:00:21Z | actualEndTime=None | effective=2026-07-24 23:00:21+00:00 | Wall Street Week | AI Debt, Austin Housing Test, Student Loa
-   - Myq_Kdb88is | ongoing=False | publishedAt=2026-07-24T22:59:42Z | actualEndTime=None | effective=2026-07-24 22:59:42+00:00 | Inflation Angst Returns, Micron Millionaires: Money Roundtab
-   - N0pQgrOS6EQ | ongoing=False | publishedAt=2026-07-24T23:00:04Z | actualEndTime=None | effective=2026-07-24 23:00:04+00:00 | Banking on Books: Tom and Scarlet's Must-Read Books
+   - Y1ApwSsWCeA | ongoing=False | publishedAt=2026-07-26T04:00:03Z | actualEndTime=None | effective=2026-07-26 04:00:03+00:00 | Tucker Carlson on Feminism, Marriage and Power
+   - UMaRnityOeo | ongoing=False | publishedAt=2026-07-26T02:29:01Z | actualEndTime=2026-07-25T14:00:28Z | effective=2026-07-25 14:00:28+00:00 | Trump Headlines Press Dinner Redo, Nvidia CEO Jensen Huang |
+   - Rm_75L6-SGs | ongoing=False | publishedAt=2026-07-25T19:01:55Z | actualEndTime=None | effective=2026-07-25 19:01:55+00:00 | Edward Yardeni on Investing, Inflation, Retirement
+   - ratlaAAzOG8 | ongoing=False | publishedAt=2026-07-25T17:00:00Z | actualEndTime=None | effective=2026-07-25 17:00:00+00:00 | Will cheaper Chinese models change the AI race? #shorts #chi
+   - _Ct0ctKbaMk | ongoing=False | publishedAt=2026-07-25T16:54:23Z | actualEndTime=None | effective=2026-07-25 16:54:23+00:00 | Energy Volatility Persists in Middle East
+   - EROGXIM_7BE | ongoing=False | publishedAt=2026-07-25T16:41:09Z | actualEndTime=None | effective=2026-07-25 16:41:09+00:00 | By The Way: Headlines You May Have Missed
+   - EPJl3bTxT3s | ongoing=False | publishedAt=2026-07-25T16:29:43Z | actualEndTime=None | effective=2026-07-25 16:29:43+00:00 | Bloomberg This Weekend | Jensen Huang Exclusive Interview, W
+   - KFJQZFIYvFA | ongoing=False | publishedAt=2026-07-25T16:27:12Z | actualEndTime=None | effective=2026-07-25 16:27:12+00:00 | Odyssey Returns to the Cultural Spotlight
+   - l55_rCTVk4U | ongoing=False | publishedAt=2026-07-25T16:00:40Z | actualEndTime=None | effective=2026-07-25 16:00:40+00:00 | Odd Lots: Why Apple Is Heading Into a Pivotal Moment
+   - UJGQuPJvsIY | ongoing=False | publishedAt=2026-07-25T15:58:38Z | actualEndTime=None | effective=2026-07-25 15:58:38+00:00 | Ukraine Gains Leverage Ahead of Talks
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Hacking the Trump Accounts | The $5,000 Business Trick.
-  URL: https://www.youtube.com/watch?v=ZJIVKCS3TLw
-  publishedAt: 2026-07-24T20:37:47Z
+  제목: Why You Should NOT Save Money
+  URL: https://www.youtube.com/watch?v=jMKpagYWpis
+  publishedAt: 2026-07-26T04:00:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - jMKpagYWpis | ongoing=False | publishedAt=2026-07-26T04:00:27Z | actualEndTime=None | effective=2026-07-26 04:00:27+00:00 | Why You Should NOT Save Money
+   - KXaALy0qiOY | ongoing=False | publishedAt=2026-07-26T01:39:31Z | actualEndTime=None | effective=2026-07-26 01:39:31+00:00 | WTF!!! Trump JUST Cancelled “Major” Attack - Because we’re L
+   - dcqnIrMy2a8 | ongoing=False | publishedAt=2026-07-25T22:16:01Z | actualEndTime=None | effective=2026-07-25 22:16:01+00:00 | BUY ALERT: When I’m Buying SpaceX & Tesla Stock
+   - W5mgVMwEXnA | ongoing=False | publishedAt=2026-07-25T14:54:23Z | actualEndTime=None | effective=2026-07-25 14:54:23+00:00 | The Iran Crisis is WORSENING | WW3 Nuclear Threats.
+   - W__mFeXpf_0 | ongoing=False | publishedAt=2026-07-25T10:00:06Z | actualEndTime=None | effective=2026-07-25 10:00:06+00:00 | Why Kevin O'Leary Owns ZERO Chinese Dollars
+   - YWxBbDJzYzY | ongoing=False | publishedAt=2026-07-25T06:45:18Z | actualEndTime=None | effective=2026-07-25 06:45:18+00:00 | Nancy Pelosi Bought $3 MILLION Of NVIDIA in 2022!
+   - kA_Rbsq3AAA | ongoing=False | publishedAt=2026-07-25T04:00:04Z | actualEndTime=None | effective=2026-07-25 04:00:04+00:00 | Kevin O'Leary Explains Why Bitcoin is CRASHING
    - ZJIVKCS3TLw | ongoing=False | publishedAt=2026-07-24T20:37:47Z | actualEndTime=None | effective=2026-07-24 20:37:47+00:00 | Hacking the Trump Accounts | The $5,000 Business Trick.
    - 02K-Z4l6Ojo | ongoing=False | publishedAt=2026-07-24T17:42:29Z | actualEndTime=None | effective=2026-07-24 17:42:29+00:00 | Why Tesla Stock Is CRASHING
    - 78Xg31Tina0 | ongoing=False | publishedAt=2026-07-24T13:16:01Z | actualEndTime=None | effective=2026-07-24 13:16:01+00:00 | the *uckening 
-   - i00fX5Z5kt4 | ongoing=False | publishedAt=2026-07-24T10:00:10Z | actualEndTime=None | effective=2026-07-24 10:00:10+00:00 | How To Make $1M Year With AI
-   - bmNqFfUw9iw | ongoing=False | publishedAt=2026-07-24T04:00:14Z | actualEndTime=None | effective=2026-07-24 04:00:14+00:00 | Why Having 20 Kids Is Possible
-   - tyqD8Xer2s8 | ongoing=False | publishedAt=2026-07-24T01:50:35Z | actualEndTime=None | effective=2026-07-24 01:50:35+00:00 | The Economy JUST Started FALTERING | DANGEROUS Report
-   - GWUMX6S5fHE | ongoing=False | publishedAt=2026-07-23T16:56:55Z | actualEndTime=None | effective=2026-07-23 16:56:55+00:00 | WARNING: The Tesla & Google Stock COLLAPSE.
-   - URfJ1hhvUh4 | ongoing=False | publishedAt=2026-07-23T10:00:03Z | actualEndTime=None | effective=2026-07-23 10:00:03+00:00 | I Spend $800k Per Year on Overnight Babysitters
-   - 7FxyaYbEnSA | ongoing=False | publishedAt=2026-07-23T04:00:32Z | actualEndTime=None | effective=2026-07-23 04:00:32+00:00 | How Each Of My Kids Cost $100k+ Per Year!
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   AI 랠리' 청구서 날아오나... 빅테크 실적 앞두고 짙어진 경계감...    -  2026/07/24
-  URL: https://www.youtube.com/watch?v=SMyVCROuy-Q
-  publishedAt: 2026-07-24T22:17:44Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - SMyVCROuy-Q | ongoing=False | publishedAt=2026-07-24T22:17:44Z | actualEndTime=None | effective=2026-07-24 22:17:44+00:00 | 【미국 증시 오늘의 요약】   AI 랠리' 청구서 날아오나... 빅테크 실적 앞두고 짙어진 경계감...   
    - pWE9oP5ZjqY | ongoing=False | publishedAt=2026-07-24T21:40:07Z | actualEndTime=2026-07-24T21:21:16Z | effective=2026-07-24 21:21:16+00:00 | [26년 07월 24일 금] S&P글로벌 제조업·서비스업 PMI｜ 인텔, 매출 전망 상향 조정 ｜미국, 한국
-   - S8UNJwuWBdQ | ongoing=False | publishedAt=2026-07-23T22:44:55Z | actualEndTime=None | effective=2026-07-23 22:44:55+00:00 | 【미국 증시 오늘의 요약】  이란 전쟁 격화에 유가 폭등…구글 7%·테슬라 15% 급락    -  2026/
-   - iZ_T-bqwUcY | ongoing=False | publishedAt=2026-07-23T22:19:47Z | actualEndTime=2026-07-23T21:59:20Z | effective=2026-07-23 21:59:20+00:00 | [26년 07월 23일 목] 실적발표: 인텔, 맥스리니어｜ 구글, 자본지출 전망 상향 ｜SK하이닉스 ADR 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 그래서 인버스는 언제 잡아야 할까
-  URL: https://www.youtube.com/watch?v=BWlWCj6DVak
-  publishedAt: 2026-07-25T01:00:01Z
+  제목: 미국 주식이 무조건 상승하는 이유
+  URL: https://www.youtube.com/watch?v=LM1xqcz3lcE
+  publishedAt: 2026-07-26T01:00:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - LM1xqcz3lcE | ongoing=False | publishedAt=2026-07-26T01:00:03Z | actualEndTime=None | effective=2026-07-26 01:00:03+00:00 | 미국 주식이 무조건 상승하는 이유
    - BWlWCj6DVak | ongoing=False | publishedAt=2026-07-25T01:00:01Z | actualEndTime=None | effective=2026-07-25 01:00:01+00:00 | 그래서 인버스는 언제 잡아야 할까
    - 9hCdpjOBfmo | ongoing=False | publishedAt=2026-07-24T07:00:19Z | actualEndTime=None | effective=2026-07-24 07:00:19+00:00 | ETF 투자, 꼭 알아야할 2가지
-   - pUcLE7vLyZg | ongoing=False | publishedAt=2026-07-24T03:00:10Z | actualEndTime=None | effective=2026-07-24 03:00:10+00:00 | 망가진 주식계좌 살리는 법
-   - Sl3ILj5O310 | ongoing=False | publishedAt=2026-07-24T01:00:23Z | actualEndTime=None | effective=2026-07-24 01:00:23+00:00 | 앤트로픽이 정부 로비를 하는 이유
-   - T2UGnaOZ77c | ongoing=False | publishedAt=2026-07-24T00:26:24Z | actualEndTime=2026-07-24T00:15:17Z | effective=2026-07-24 00:15:17+00:00 | 오늘 밤 마지막 방송 함께 해주세요ㅣ[아침뉴스&미국시황] #260724
-   - DjGs-jyTN9U | ongoing=False | publishedAt=2026-07-23T13:00:20Z | actualEndTime=None | effective=2026-07-23 13:00:20+00:00 | 구글은 되고, 테슬라는 안된다?
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - Jdww7DFUWvE | ongoing=False | publishedAt=2026-07-24T05:16:49Z | actualEndTime=None | effective=2026-07-24 05:16:49+00:00 | 마이크론 올라도 전자닉스 떨어진 이유 #삼성전자 #하이닉스 #마이크론
-   - twIrpaNt3cU | ongoing=False | publishedAt=2026-07-23T18:11:36Z | actualEndTime=None | effective=2026-07-23 18:11:36+00:00 | 빅테크 최악의 날
 
 - 소수몽키
   상태: NO_VIDEO
