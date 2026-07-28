@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-27 13:31 (KST)
-Run: 222 (id=30237279767)
+생성 시각: 2026-07-28 12:54 (KST)
+Run: 223 (id=30327207157)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,52 +8,70 @@ Run: 222 (id=30237279767)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Tricia Scarlata on Saving For College Tuition
-  URL: https://www.youtube.com/watch?v=fjyf5tagijE
-  publishedAt: 2026-07-26T17:56:58Z
+  제목: Trump: ‘Good Chance’ of an Iran Deal Amid Pause | Balance of Power 07/27/2026
+  URL: https://www.youtube.com/watch?v=eLwqnNGqrEw
+  publishedAt: 2026-07-27T23:32:18Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - qn4xQH0YuQk | ongoing=False | publishedAt=2026-07-27T02:19:40Z | actualEndTime=2026-07-26T14:00:43Z | effective=2026-07-26 14:00:43+00:00 | US Pauses Iran Strikes for Second Night, Big Tech Week Ahead
-   - fjyf5tagijE | ongoing=False | publishedAt=2026-07-26T17:56:58Z | actualEndTime=None | effective=2026-07-26 17:56:58+00:00 | Tricia Scarlata on Saving For College Tuition
-   - z9QVOM8WVko | ongoing=False | publishedAt=2026-07-26T17:00:32Z | actualEndTime=None | effective=2026-07-26 17:00:32+00:00 | How Austin is beating the affordable housing crisis #shorts 
-   - Z-HMCClcMkY | ongoing=False | publishedAt=2026-07-26T16:28:59Z | actualEndTime=None | effective=2026-07-26 16:28:59+00:00 | Bloomberg This Weekend | Concerns Over US Defense Stockpiles
-   - QSExtiGCoRQ | ongoing=False | publishedAt=2026-07-26T15:53:34Z | actualEndTime=None | effective=2026-07-26 15:53:34+00:00 | Canada, US Open Long Awaited Bridge
-   - mnYfWabUpsU | ongoing=False | publishedAt=2026-07-26T15:46:36Z | actualEndTime=None | effective=2026-07-26 15:46:36+00:00 | Conflict Stretches US Military Resources
-   - CUD9wWDjwq8 | ongoing=False | publishedAt=2026-07-26T15:29:44Z | actualEndTime=None | effective=2026-07-26 15:29:44+00:00 | Miami's Boom Drives Up Cost of Living
-   - TDyHMZ7m93k | ongoing=False | publishedAt=2026-07-26T15:15:01Z | actualEndTime=None | effective=2026-07-26 15:15:01+00:00 | Russian Politics and Vodka Stay Intertwined
-   - hp0RYALOC2o | ongoing=False | publishedAt=2026-07-26T15:06:09Z | actualEndTime=None | effective=2026-07-26 15:06:09+00:00 | Coates Sees Ukraine Shifting Trump's View
-   - 04SJWK4f_NQ | ongoing=False | publishedAt=2026-07-26T15:00:27Z | actualEndTime=None | effective=2026-07-26 15:00:27+00:00 | Lori Heinel on a Career in Finance
+   - eLwqnNGqrEw | ongoing=False | publishedAt=2026-07-27T23:32:18Z | actualEndTime=None | effective=2026-07-27 23:32:18+00:00 | Trump: ‘Good Chance’ of an Iran Deal Amid Pause | Balance of
+   - t1wpz19A_Hc | ongoing=False | publishedAt=2026-07-27T23:11:10Z | actualEndTime=None | effective=2026-07-27 23:11:10+00:00 | Stocks in the Red Amid Geopolitical Uncertainty | The Close 
+   - kfC4uHo8fdY | ongoing=False | publishedAt=2026-07-27T22:49:42Z | actualEndTime=None | effective=2026-07-27 22:49:42+00:00 | Beshear Demands Transparency on Sen. McConnell’s Health
+   - dSP5IEt5cNw | ongoing=False | publishedAt=2026-07-27T22:34:32Z | actualEndTime=None | effective=2026-07-27 22:34:32+00:00 | Kentucky Gov. demands “verbal proof” from Mitch McConnell #s
+   - Dfif3op1UtY | ongoing=False | publishedAt=2026-07-27T22:32:11Z | actualEndTime=None | effective=2026-07-27 22:32:11+00:00 | UN Town Hall: Choosing the Next Secretary-General
+   - EH5oR79phQ8 | ongoing=False | publishedAt=2026-07-27T22:27:50Z | actualEndTime=None | effective=2026-07-27 22:27:50+00:00 | Taylor Morrison CEO: 'Lot of runway' with Berkshire
+   - gYfQod24JGk | ongoing=False | publishedAt=2026-07-27T21:37:15Z | actualEndTime=None | effective=2026-07-27 21:37:15+00:00 | Supergoop! CEO: Only 12% of US consumers use sunscreen every
+   - -yriU5usatI | ongoing=False | publishedAt=2026-07-27T21:33:08Z | actualEndTime=None | effective=2026-07-27 21:33:08+00:00 | Hakeem Jeffries on DSA and state of the Democratic Party #sh
+   - g_MPMZRW0Uk | ongoing=False | publishedAt=2026-07-27T21:18:27Z | actualEndTime=None | effective=2026-07-27 21:18:27+00:00 | Trump Has No Exit Strategy in Iran, Jeffries Says
+   - NkUSbnYKyh8 | ongoing=False | publishedAt=2026-07-27T21:08:57Z | actualEndTime=None | effective=2026-07-27 21:08:57+00:00 | Five Guys CEO on why the company hasn’t gone public
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: The Beginning of WW3
+  URL: https://www.youtube.com/watch?v=PFVDphW2rek
+  publishedAt: 2026-07-27T23:40:49Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - PFVDphW2rek | ongoing=False | publishedAt=2026-07-27T23:40:49Z | actualEndTime=None | effective=2026-07-27 23:40:49+00:00 | The Beginning of WW3
+   - X7pKCMoPi6U | ongoing=False | publishedAt=2026-07-27T22:47:38Z | actualEndTime=None | effective=2026-07-27 22:47:38+00:00 | The Coming Surprise Rate HIKE | F**K
+   - FgYp4O5gVeU | ongoing=False | publishedAt=2026-07-27T22:30:21Z | actualEndTime=None | effective=2026-07-27 22:30:21+00:00 | Elon Musk Wants To Merge SpaceX and Tesla!
+   - 8feYMQ3ibVY | ongoing=False | publishedAt=2026-07-27T14:03:03Z | actualEndTime=None | effective=2026-07-27 14:03:03+00:00 | The Realistic Warning on AI Stocks | All-In Podcast 
    - jMKpagYWpis | ongoing=False | publishedAt=2026-07-26T04:00:27Z | actualEndTime=None | effective=2026-07-26 04:00:27+00:00 | Why You Should NOT Save Money
-   - KXaALy0qiOY | ongoing=False | publishedAt=2026-07-26T01:39:31Z | actualEndTime=None | effective=2026-07-26 01:39:31+00:00 | WTF!!! Trump JUST Cancelled “Major” Attack - Because we’re L
-   - dcqnIrMy2a8 | ongoing=False | publishedAt=2026-07-25T22:16:01Z | actualEndTime=None | effective=2026-07-25 22:16:01+00:00 | BUY ALERT: When I’m Buying SpaceX & Tesla Stock
-   - W5mgVMwEXnA | ongoing=False | publishedAt=2026-07-25T14:54:23Z | actualEndTime=None | effective=2026-07-25 14:54:23+00:00 | The Iran Crisis is WORSENING | WW3 Nuclear Threats.
-   - W__mFeXpf_0 | ongoing=False | publishedAt=2026-07-25T10:00:06Z | actualEndTime=None | effective=2026-07-25 10:00:06+00:00 | Why Kevin O'Leary Owns ZERO Chinese Dollars
-   - YWxBbDJzYzY | ongoing=False | publishedAt=2026-07-25T06:45:18Z | actualEndTime=None | effective=2026-07-25 06:45:18+00:00 | Nancy Pelosi Bought $3 MILLION Of NVIDIA in 2022!
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】   엔비디아 5% 급락·시총 1위 반납… AI 순환금융 경고등과 중국의 반도체 공습    -  2026/07/27
+  URL: https://www.youtube.com/watch?v=4s85zkBQYIQ
+  publishedAt: 2026-07-27T22:39:39Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 4s85zkBQYIQ | ongoing=False | publishedAt=2026-07-27T22:39:39Z | actualEndTime=None | effective=2026-07-27 22:39:39+00:00 | 【미국 증시 오늘의 요약】   엔비디아 5% 급락·시총 1위 반납… AI 순환금융 경고등과 중국의 반도체 공
+   - G3Fj6QL3b8c | ongoing=False | publishedAt=2026-07-27T21:54:37Z | actualEndTime=2026-07-27T21:36:22Z | effective=2026-07-27 21:36:22+00:00 | [26년 07월 27일 월]  미국, 이란 공습 이틀째 중단 ｜ 엔비디아, 오픈AI에 $2500억 금융보증 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 네이버, 1조 4000억 엔비디아 투자!ㅣ주말 공격 쉬었음 = TACO...? 아 몰랑 가즈아! ㅣ마이클버리, 숏포지션 더 늘렸다ㅣ[아침뉴스&미국시황] #260727
-  URL: https://www.youtube.com/watch?v=1X7NONekE2c
-  publishedAt: 2026-07-27T00:16:22Z
-  actualEndTime: 2026-07-27T00:03:14Z
+  제목: 그래서 반도체 바닥이 어딘데?
+  URL: https://www.youtube.com/watch?v=A5JYbN3-Mzg
+  publishedAt: 2026-07-28T01:00:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - A5JYbN3-Mzg | ongoing=False | publishedAt=2026-07-28T01:00:25Z | actualEndTime=None | effective=2026-07-28 01:00:25+00:00 | 그래서 반도체 바닥이 어딘데?
+   - mTpAH3UmrxE | ongoing=False | publishedAt=2026-07-28T00:15:58Z | actualEndTime=2026-07-27T23:57:08Z | effective=2026-07-27 23:57:08+00:00 | 엔비디아에 대한 전방위 공격, 그래도 시장은 버텼다!!ㅣCXMT, 진짜 악재인가? 조심해야할 시기는?ㅣ[아침
+   - 36HZo1pNqRo | ongoing=False | publishedAt=2026-07-27T09:00:00Z | actualEndTime=None | effective=2026-07-27 09:00:00+00:00 | 올 겨울, 선물 시장은 이미 움직이고 있습니다...
    - 1X7NONekE2c | ongoing=False | publishedAt=2026-07-27T00:16:22Z | actualEndTime=2026-07-27T00:03:14Z | effective=2026-07-27 00:03:14+00:00 | 네이버, 1조 4000억 엔비디아 투자!ㅣ주말 공격 쉬었음 = TACO...? 아 몰랑 가즈아! ㅣ마이클버리
-   - LM1xqcz3lcE | ongoing=False | publishedAt=2026-07-26T01:00:03Z | actualEndTime=None | effective=2026-07-26 01:00:03+00:00 | 미국 주식이 무조건 상승하는 이유
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 미국 반도체 나락가는 이유 #마이크론 #하이닉스 #엔비디아
+  URL: https://www.youtube.com/watch?v=HfVD9Itynr0
+  publishedAt: 2026-07-27T17:09:44Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - HfVD9Itynr0 | ongoing=False | publishedAt=2026-07-27T17:09:44Z | actualEndTime=None | effective=2026-07-27 17:09:44+00:00 | 미국 반도체 나락가는 이유 #마이크론 #하이닉스 #엔비디아
+   - 2izWvQNpF5s | ongoing=False | publishedAt=2026-07-27T16:24:20Z | actualEndTime=None | effective=2026-07-27 16:24:20+00:00 | 반도체 주식 또 박살난 진짜 이유
+   - uKNQNSsn5lI | ongoing=False | publishedAt=2026-07-27T07:52:23Z | actualEndTime=None | effective=2026-07-27 07:52:23+00:00 | 코스피 구사일생의 이유 #코스피 #하이닉스 #CXMT #네이버
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - tgkOPV7pU7k | ongoing=False | publishedAt=2026-07-27T11:14:35Z | actualEndTime=None | effective=2026-07-27 11:14:35+00:00 | 현금 부자 주식만 살아남는 장 시작? 지금부터 주목할 1가지 리스크
