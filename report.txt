@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-07-31 13:16 (KST)
-Run: 226 (id=30603717152)
+생성 시각: 2026-08-01 13:16 (KST)
+Run: 227 (id=30683590080)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,58 @@ Run: 226 (id=30603717152)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Mulls Pulling Blanche Nomination Temporarily | Balance of Power 07/30/2026
-  URL: https://www.youtube.com/watch?v=Iidx7SOVwgM
-  publishedAt: 2026-07-30T23:04:46Z
+  제목: Trump Announces Agreement To Disarm Hamas | Balance of Power 07/31/2026
+  URL: https://www.youtube.com/watch?v=EGxhFs80BiM
+  publishedAt: 2026-07-31T23:14:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Iidx7SOVwgM | ongoing=False | publishedAt=2026-07-30T23:04:46Z | actualEndTime=None | effective=2026-07-30 23:04:46+00:00 | Trump Mulls Pulling Blanche Nomination Temporarily | Balance
-   - mAzwHVmPJAI | ongoing=False | publishedAt=2026-07-30T22:54:25Z | actualEndTime=None | effective=2026-07-30 22:54:25+00:00 | Fed Decision Fallout, Jersey Mike's Goes public | Bloomberg 
-   - fSaL8I_qXoI | ongoing=False | publishedAt=2026-07-30T22:45:06Z | actualEndTime=None | effective=2026-07-30 22:45:06+00:00 | Trump Unveils $20 Billion Plan for Washington Dulles Revamp
-   - GGUQKlZ2hfc | ongoing=False | publishedAt=2026-07-30T22:19:29Z | actualEndTime=None | effective=2026-07-30 22:19:29+00:00 | Esper says US needs to "globalize this conflict" with Iran #
-   - mv4dY-U9UwA | ongoing=False | publishedAt=2026-07-30T22:15:23Z | actualEndTime=None | effective=2026-07-30 22:15:23+00:00 | Amazon & Apple Both Report Earnings | The Close 7/30/2026
-   - QUfzYyAxxy4 | ongoing=False | publishedAt=2026-07-30T22:08:40Z | actualEndTime=None | effective=2026-07-30 22:08:40+00:00 | Amazon's AWS Result Is 'Remarkable,' Analyst Luria Says
-   - oAJQh56k_ME | ongoing=False | publishedAt=2026-07-30T21:53:28Z | actualEndTime=None | effective=2026-07-30 21:53:28+00:00 | Breaking Down Apple's Q3 Results and Outlook
-   - 09tZL5BmJEI | ongoing=False | publishedAt=2026-07-30T21:28:44Z | actualEndTime=None | effective=2026-07-30 21:28:44+00:00 | Amazon Tops Estimates | Closing Bell
-   - jAiirf0CrOE | ongoing=False | publishedAt=2026-07-30T20:23:50Z | actualEndTime=None | effective=2026-07-30 20:23:50+00:00 | Robinhood CEO says prediction markets is firm’s fastest-grow
-   - oullfqq7G6k | ongoing=False | publishedAt=2026-07-30T20:12:00Z | actualEndTime=None | effective=2026-07-30 20:12:00+00:00 | Could Increased Supply From the UAE Move Oil Markets? | Pres
+   - EGxhFs80BiM | ongoing=False | publishedAt=2026-07-31T23:14:28Z | actualEndTime=None | effective=2026-07-31 23:14:28+00:00 | Trump Announces Agreement To Disarm Hamas | Balance of Power
+   - twWhV4txRqw | ongoing=False | publishedAt=2026-07-31T23:00:30Z | actualEndTime=None | effective=2026-07-31 23:00:30+00:00 | Wall Street Week | Warsh’s Waiting Game, EU Merger Rules, Ro
+   - A5Ua_U-6Lhk | ongoing=False | publishedAt=2026-07-31T22:41:24Z | actualEndTime=None | effective=2026-07-31 22:41:24+00:00 | Galante Warns Iran Could Target US Infrastructure
+   - OarWEaXnZY8 | ongoing=False | publishedAt=2026-07-31T22:32:45Z | actualEndTime=None | effective=2026-07-31 22:32:45+00:00 | Miller Warns of 'Drastic Expansion' of Iran War
+   - xy9H3mIAcRU | ongoing=False | publishedAt=2026-07-31T22:07:31Z | actualEndTime=None | effective=2026-07-31 22:07:31+00:00 | US Stocks Rally To End Turbulent Month | The Close 7/31/2026
+   - -y1sVtXQTTc | ongoing=False | publishedAt=2026-07-31T21:48:46Z | actualEndTime=None | effective=2026-07-31 21:48:46+00:00 | Trump orders Iran attack as soon as this weekend, WSJ says #
+   - _WEl7-aYjd4 | ongoing=False | publishedAt=2026-07-31T21:07:06Z | actualEndTime=None | effective=2026-07-31 21:07:06+00:00 | Mortgage Rates Rise, 'Boomerang' Kids, Clarida on Warsh | Bl
+   - 5COyjpZnO60 | ongoing=False | publishedAt=2026-07-31T20:30:25Z | actualEndTime=None | effective=2026-07-31 20:30:25+00:00 | Chevron CFO on 2Q Earnings, Growth Plan and Iraq Accord
+   - NtgAm3vhRGc | ongoing=False | publishedAt=2026-07-31T20:24:11Z | actualEndTime=None | effective=2026-07-31 20:24:11+00:00 | AI Hedge Fund Collapses as Earnings Hit Tech Giants | Bloomb
+   - nLWsuC29jGE | ongoing=False | publishedAt=2026-07-31T20:19:35Z | actualEndTime=None | effective=2026-07-31 20:19:35+00:00 | Amazon Has Best Day Since 2012 | Closing Bell
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Why $7M is NOT Enough To Retire
-  URL: https://www.youtube.com/watch?v=HgaF0Aw0OcA
-  publishedAt: 2026-07-31T01:00:13Z
+  제목: Unpopular Investing Advice To Get Rich
+  URL: https://www.youtube.com/watch?v=hSH8bE2h2GM
+  publishedAt: 2026-08-01T01:00:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - hSH8bE2h2GM | ongoing=False | publishedAt=2026-08-01T01:00:30Z | actualEndTime=None | effective=2026-08-01 01:00:30+00:00 | Unpopular Investing Advice To Get Rich
+   - O-h2leITtkA | ongoing=False | publishedAt=2026-07-31T13:10:49Z | actualEndTime=None | effective=2026-07-31 13:10:49+00:00 | Elon's Denial that (Probably) Isn't FAKE NEWS
    - HgaF0Aw0OcA | ongoing=False | publishedAt=2026-07-31T01:00:13Z | actualEndTime=None | effective=2026-07-31 01:00:13+00:00 | Why $7M is NOT Enough To Retire
    - _tS3r41R04U | ongoing=False | publishedAt=2026-07-30T16:38:48Z | actualEndTime=None | effective=2026-07-30 16:38:48+00:00 | We JUST had Archegos Collapse 2.0 | Situational Awareness LI
-   - VUwqQGFle1g | ongoing=False | publishedAt=2026-07-29T22:45:02Z | actualEndTime=None | effective=2026-07-29 22:45:02+00:00 | The Fed's Dirty Secret
-   - NtSE4QLiVRw | ongoing=False | publishedAt=2026-07-29T22:30:29Z | actualEndTime=None | effective=2026-07-29 22:30:29+00:00 | Is Trump Controlling the Fed?
-   - TmEvF7SCnAE | ongoing=False | publishedAt=2026-07-29T22:18:03Z | actualEndTime=None | effective=2026-07-29 22:18:03+00:00 | The Feds SHOCKING Reaction
-   - X0Xsk9MjDC4 | ongoing=False | publishedAt=2026-07-29T22:00:21Z | actualEndTime=None | effective=2026-07-29 22:00:21+00:00 | This Investment Will Make Me $1M+
-   - ugK-I7oAT48 | ongoing=False | publishedAt=2026-07-29T21:26:14Z | actualEndTime=None | effective=2026-07-29 21:26:14+00:00 | Why the Fed *JUST* Rugged Us | Fed FOMC Breakdown.
-   - aXr6ZQjVqT4 | ongoing=False | publishedAt=2026-07-29T19:00:08Z | actualEndTime=None | effective=2026-07-29 19:00:08+00:00 | Taylor Swift Vs MrBeast As President
-   - xOW2YjAISUg | ongoing=False | publishedAt=2026-07-29T16:15:38Z | actualEndTime=None | effective=2026-07-29 16:15:38+00:00 | The Memory Stock CRASH
-   - 4dLKEEp_Luk | ongoing=False | publishedAt=2026-07-29T16:00:02Z | actualEndTime=None | effective=2026-07-29 16:00:02+00:00 | URGENT: Why Stocks are CRASHING
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  마이크로소프트 시총 하루 4,500억 달러 증가…반도체주까지 대폭등   -  2026/07/30
-  URL: https://www.youtube.com/watch?v=wDs1CWWZZQs
-  publishedAt: 2026-07-30T23:12:04Z
+  제목: 【미국 증시 오늘의 요약】  AI 랠리 구한 아마존 vs 치솟는 국채 금리…   -  2026/07/31
+  URL: https://www.youtube.com/watch?v=QNpeL-C08Fg
+  publishedAt: 2026-07-31T23:05:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QNpeL-C08Fg | ongoing=False | publishedAt=2026-07-31T23:05:01Z | actualEndTime=None | effective=2026-07-31 23:05:01+00:00 | 【미국 증시 오늘의 요약】  AI 랠리 구한 아마존 vs 치솟는 국채 금리…   -  2026/07/31
+   - -qCZi1nh3HQ | ongoing=False | publishedAt=2026-07-31T22:15:56Z | actualEndTime=2026-07-31T21:59:32Z | effective=2026-07-31 21:59:32+00:00 | [26년 07월 31일 금]  아마존, 클라우드 매출 37% 급증 ｜ 경제지표: 고용비용 지수, 기대인플레이
    - wDs1CWWZZQs | ongoing=False | publishedAt=2026-07-30T23:12:04Z | actualEndTime=None | effective=2026-07-30 23:12:04+00:00 | 【미국 증시 오늘의 요약】  마이크로소프트 시총 하루 4,500억 달러 증가…반도체주까지 대폭등   -  2
    - 4rydoO_d_GU | ongoing=False | publishedAt=2026-07-30T22:48:37Z | actualEndTime=2026-07-30T22:26:50Z | effective=2026-07-30 22:26:50+00:00 | [26년 07월 30일 목]  실적발표: 애플, 아마존 ｜ PCE 가격지수, 2분기 GDP｜마이크로소프트 클
-   - N1zCJsFR_9w | ongoing=False | publishedAt=2026-07-29T23:23:32Z | actualEndTime=None | effective=2026-07-29 23:23:32+00:00 | 【미국 증시 오늘의 요약】   연준 동결에 채권시장 ‘경고’…나스닥100 결국 조정 진입   -  2026/
-   - UJ3NutKvcis | ongoing=False | publishedAt=2026-07-29T22:51:51Z | actualEndTime=2026-07-29T22:35:24Z | effective=2026-07-29 22:35:24+00:00 | [26년 07월 29일 수]  실적: 마이크로소프트, 메타, 퀄컴 ｜ 미국 기준금리 결정, FOMC 기자회견
 
 - 설명왕 테이버
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - dyJnfj5XXu0 | ongoing=False | publishedAt=2026-07-30T16:08:41Z | actualEndTime=2026-07-30T15:38:20Z | effective=2026-07-30 15:38:20+00:00 | [미국주식 LIVE] 유튜브 없어지면 새로 파면 되는거고, 미국시장은 반등하면 되는거고!! #260730
-   - N4L1lmtrT3I | ongoing=False | publishedAt=2026-07-30T00:17:32Z | actualEndTime=2026-07-30T00:04:29Z | effective=2026-07-30 00:04:29+00:00 | 문제는 금리라고 바보야!!ㅣ[아침뉴스&미국시황] #260730
+  비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 마진콜에 코스피 야간선물 상한가? #하이닉스 #마진콜 #코스피
-  URL: https://www.youtube.com/watch?v=gBvKob5kJe4
-  publishedAt: 2026-07-30T17:21:14Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - nUI16fWLzUQ | ongoing=False | publishedAt=2026-07-31T05:18:00Z | actualEndTime=None | effective=2026-07-31 05:18:00+00:00 | 코스피 역대급 폭등? 바닥의 신호? #코스피 #하이닉스 #삼성전자
    - gBvKob5kJe4 | ongoing=False | publishedAt=2026-07-30T17:21:14Z | actualEndTime=None | effective=2026-07-30 17:21:14+00:00 | 마진콜에 코스피 야간선물 상한가? #하이닉스 #마진콜 #코스피
    - 9cPQh6AgTrM | ongoing=False | publishedAt=2026-07-30T16:27:47Z | actualEndTime=None | effective=2026-07-30 16:27:47+00:00 | 마진콜에 코스피 야간선물 상한가? 나스닥 대폭등?
    - -bLGI22aGTY | ongoing=False | publishedAt=2026-07-30T06:38:05Z | actualEndTime=None | effective=2026-07-30 06:38:05+00:00 | 잘 나가던 코스피 급락한 이유 #삼성전자 #코스피 #하이닉스
-   - O5PJmXPZ0eU | ongoing=False | publishedAt=2026-07-29T17:51:07Z | actualEndTime=None | effective=2026-07-29 17:51:07+00:00 | AI 주식 공포. 한국을 넘어 전세계로 퍼지나?
 
 - 소수몽키
   상태: NO_VIDEO
