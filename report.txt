@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-01 13:16 (KST)
-Run: 227 (id=30683590080)
+생성 시각: 2026-08-02 13:18 (KST)
+Run: 228 (id=30732143230)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,45 +8,39 @@ Run: 227 (id=30683590080)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Announces Agreement To Disarm Hamas | Balance of Power 07/31/2026
-  URL: https://www.youtube.com/watch?v=EGxhFs80BiM
-  publishedAt: 2026-07-31T23:14:28Z
+  제목: The billion dollar business of think tanks #shorts #thinktanks #business
+  URL: https://www.youtube.com/watch?v=Shq0TsxTK8E
+  publishedAt: 2026-08-01T17:00:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - EGxhFs80BiM | ongoing=False | publishedAt=2026-07-31T23:14:28Z | actualEndTime=None | effective=2026-07-31 23:14:28+00:00 | Trump Announces Agreement To Disarm Hamas | Balance of Power
-   - twWhV4txRqw | ongoing=False | publishedAt=2026-07-31T23:00:30Z | actualEndTime=None | effective=2026-07-31 23:00:30+00:00 | Wall Street Week | Warsh’s Waiting Game, EU Merger Rules, Ro
-   - A5Ua_U-6Lhk | ongoing=False | publishedAt=2026-07-31T22:41:24Z | actualEndTime=None | effective=2026-07-31 22:41:24+00:00 | Galante Warns Iran Could Target US Infrastructure
-   - OarWEaXnZY8 | ongoing=False | publishedAt=2026-07-31T22:32:45Z | actualEndTime=None | effective=2026-07-31 22:32:45+00:00 | Miller Warns of 'Drastic Expansion' of Iran War
-   - xy9H3mIAcRU | ongoing=False | publishedAt=2026-07-31T22:07:31Z | actualEndTime=None | effective=2026-07-31 22:07:31+00:00 | US Stocks Rally To End Turbulent Month | The Close 7/31/2026
-   - -y1sVtXQTTc | ongoing=False | publishedAt=2026-07-31T21:48:46Z | actualEndTime=None | effective=2026-07-31 21:48:46+00:00 | Trump orders Iran attack as soon as this weekend, WSJ says #
-   - _WEl7-aYjd4 | ongoing=False | publishedAt=2026-07-31T21:07:06Z | actualEndTime=None | effective=2026-07-31 21:07:06+00:00 | Mortgage Rates Rise, 'Boomerang' Kids, Clarida on Warsh | Bl
-   - 5COyjpZnO60 | ongoing=False | publishedAt=2026-07-31T20:30:25Z | actualEndTime=None | effective=2026-07-31 20:30:25+00:00 | Chevron CFO on 2Q Earnings, Growth Plan and Iraq Accord
-   - NtgAm3vhRGc | ongoing=False | publishedAt=2026-07-31T20:24:11Z | actualEndTime=None | effective=2026-07-31 20:24:11+00:00 | AI Hedge Fund Collapses as Earnings Hit Tech Giants | Bloomb
-   - nLWsuC29jGE | ongoing=False | publishedAt=2026-07-31T20:19:35Z | actualEndTime=None | effective=2026-07-31 20:19:35+00:00 | Amazon Has Best Day Since 2012 | Closing Bell
+   - wOyk8BhDPkE | ongoing=False | publishedAt=2026-08-02T02:27:18Z | actualEndTime=2026-08-01T14:03:56Z | effective=2026-08-01 14:03:56+00:00 | Fed & Tech Upend Markets,  Mideast Turmoil, Immigration Refo
+   - Shq0TsxTK8E | ongoing=False | publishedAt=2026-08-01T17:00:01Z | actualEndTime=None | effective=2026-08-01 17:00:01+00:00 | The billion dollar business of think tanks #shorts #thinktan
+   - hXobG5SIcTA | ongoing=False | publishedAt=2026-08-01T16:30:30Z | actualEndTime=None | effective=2026-08-01 16:30:30+00:00 | Bloomberg This Weekend | Major Change at the Fed, Immigratio
+   - z9eIyKiKtpM | ongoing=False | publishedAt=2026-08-01T15:03:46Z | actualEndTime=None | effective=2026-08-01 15:03:46+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - xgcaGKBsLRc | ongoing=False | publishedAt=2026-08-01T14:36:40Z | actualEndTime=None | effective=2026-08-01 14:36:40+00:00 | The Father of 401(k) Has A New Retirement Plan
+   - q0Nu1fZTXqE | ongoing=False | publishedAt=2026-08-01T14:11:40Z | actualEndTime=None | effective=2026-08-01 14:11:40+00:00 | Ukraine Gains Ground as Putin Faces Pressure
+   - 5hJ-GzZN1Ms | ongoing=False | publishedAt=2026-08-01T14:00:04Z | actualEndTime=None | effective=2026-08-01 14:00:04+00:00 | Wildfires Spread Across Southern Europe
+   - gUDEhG1CZTY | ongoing=False | publishedAt=2026-08-01T14:00:00Z | actualEndTime=None | effective=2026-08-01 14:00:00+00:00 | Will New Merger Rules Save the EU in the AI Race?
+   - I7XodkPJOt8 | ongoing=False | publishedAt=2026-08-01T14:00:22Z | actualEndTime=None | effective=2026-08-01 14:00:22+00:00 | J&J’s surgical robot could transform the operating room#shor
+   - 10iu8UtwErI | ongoing=False | publishedAt=2026-08-01T13:56:32Z | actualEndTime=None | effective=2026-08-01 13:56:32+00:00 | Americans Are Richer Than Ever. Why Are They So Angry?
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Unpopular Investing Advice To Get Rich
-  URL: https://www.youtube.com/watch?v=hSH8bE2h2GM
-  publishedAt: 2026-08-01T01:00:30Z
+  제목: How Much Money Do You NEED To Retire
+  URL: https://www.youtube.com/watch?v=9Sy8dAjRzkY
+  publishedAt: 2026-08-02T01:00:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 9Sy8dAjRzkY | ongoing=False | publishedAt=2026-08-02T01:00:09Z | actualEndTime=None | effective=2026-08-02 01:00:09+00:00 | How Much Money Do You NEED To Retire
    - hSH8bE2h2GM | ongoing=False | publishedAt=2026-08-01T01:00:30Z | actualEndTime=None | effective=2026-08-01 01:00:30+00:00 | Unpopular Investing Advice To Get Rich
    - O-h2leITtkA | ongoing=False | publishedAt=2026-07-31T13:10:49Z | actualEndTime=None | effective=2026-07-31 13:10:49+00:00 | Elon's Denial that (Probably) Isn't FAKE NEWS
-   - HgaF0Aw0OcA | ongoing=False | publishedAt=2026-07-31T01:00:13Z | actualEndTime=None | effective=2026-07-31 01:00:13+00:00 | Why $7M is NOT Enough To Retire
-   - _tS3r41R04U | ongoing=False | publishedAt=2026-07-30T16:38:48Z | actualEndTime=None | effective=2026-07-30 16:38:48+00:00 | We JUST had Archegos Collapse 2.0 | Situational Awareness LI
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  AI 랠리 구한 아마존 vs 치솟는 국채 금리…   -  2026/07/31
-  URL: https://www.youtube.com/watch?v=QNpeL-C08Fg
-  publishedAt: 2026-07-31T23:05:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - QNpeL-C08Fg | ongoing=False | publishedAt=2026-07-31T23:05:01Z | actualEndTime=None | effective=2026-07-31 23:05:01+00:00 | 【미국 증시 오늘의 요약】  AI 랠리 구한 아마존 vs 치솟는 국채 금리…   -  2026/07/31
    - -qCZi1nh3HQ | ongoing=False | publishedAt=2026-07-31T22:15:56Z | actualEndTime=2026-07-31T21:59:32Z | effective=2026-07-31 21:59:32+00:00 | [26년 07월 31일 금]  아마존, 클라우드 매출 37% 급증 ｜ 경제지표: 고용비용 지수, 기대인플레이
-   - wDs1CWWZZQs | ongoing=False | publishedAt=2026-07-30T23:12:04Z | actualEndTime=None | effective=2026-07-30 23:12:04+00:00 | 【미국 증시 오늘의 요약】  마이크로소프트 시총 하루 4,500억 달러 증가…반도체주까지 대폭등   -  2
-   - 4rydoO_d_GU | ongoing=False | publishedAt=2026-07-30T22:48:37Z | actualEndTime=2026-07-30T22:26:50Z | effective=2026-07-30 22:26:50+00:00 | [26년 07월 30일 목]  실적발표: 애플, 아마존 ｜ PCE 가격지수, 2분기 GDP｜마이크로소프트 클
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -57,9 +51,6 @@ Run: 227 (id=30683590080)
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - nUI16fWLzUQ | ongoing=False | publishedAt=2026-07-31T05:18:00Z | actualEndTime=None | effective=2026-07-31 05:18:00+00:00 | 코스피 역대급 폭등? 바닥의 신호? #코스피 #하이닉스 #삼성전자
-   - gBvKob5kJe4 | ongoing=False | publishedAt=2026-07-30T17:21:14Z | actualEndTime=None | effective=2026-07-30 17:21:14+00:00 | 마진콜에 코스피 야간선물 상한가? #하이닉스 #마진콜 #코스피
-   - 9cPQh6AgTrM | ongoing=False | publishedAt=2026-07-30T16:27:47Z | actualEndTime=None | effective=2026-07-30 16:27:47+00:00 | 마진콜에 코스피 야간선물 상한가? 나스닥 대폭등?
-   - -bLGI22aGTY | ongoing=False | publishedAt=2026-07-30T06:38:05Z | actualEndTime=None | effective=2026-07-30 06:38:05+00:00 | 잘 나가던 코스피 급락한 이유 #삼성전자 #코스피 #하이닉스
 
 - 소수몽키
   상태: NO_VIDEO
