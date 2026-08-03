@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-02 13:18 (KST)
-Run: 228 (id=30732143230)
+생성 시각: 2026-08-03 13:23 (KST)
+Run: 229 (id=30784287921)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,49 +8,48 @@ Run: 228 (id=30732143230)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: The billion dollar business of think tanks #shorts #thinktanks #business
-  URL: https://www.youtube.com/watch?v=Shq0TsxTK8E
-  publishedAt: 2026-08-01T17:00:01Z
+  제목: What’s Behind South Korea’s Stock Market Whiplash
+  URL: https://www.youtube.com/watch?v=czhfwfrxPrQ
+  publishedAt: 2026-08-03T01:03:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - wOyk8BhDPkE | ongoing=False | publishedAt=2026-08-02T02:27:18Z | actualEndTime=2026-08-01T14:03:56Z | effective=2026-08-01 14:03:56+00:00 | Fed & Tech Upend Markets,  Mideast Turmoil, Immigration Refo
-   - Shq0TsxTK8E | ongoing=False | publishedAt=2026-08-01T17:00:01Z | actualEndTime=None | effective=2026-08-01 17:00:01+00:00 | The billion dollar business of think tanks #shorts #thinktan
-   - hXobG5SIcTA | ongoing=False | publishedAt=2026-08-01T16:30:30Z | actualEndTime=None | effective=2026-08-01 16:30:30+00:00 | Bloomberg This Weekend | Major Change at the Fed, Immigratio
-   - z9eIyKiKtpM | ongoing=False | publishedAt=2026-08-01T15:03:46Z | actualEndTime=None | effective=2026-08-01 15:03:46+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - xgcaGKBsLRc | ongoing=False | publishedAt=2026-08-01T14:36:40Z | actualEndTime=None | effective=2026-08-01 14:36:40+00:00 | The Father of 401(k) Has A New Retirement Plan
-   - q0Nu1fZTXqE | ongoing=False | publishedAt=2026-08-01T14:11:40Z | actualEndTime=None | effective=2026-08-01 14:11:40+00:00 | Ukraine Gains Ground as Putin Faces Pressure
-   - 5hJ-GzZN1Ms | ongoing=False | publishedAt=2026-08-01T14:00:04Z | actualEndTime=None | effective=2026-08-01 14:00:04+00:00 | Wildfires Spread Across Southern Europe
-   - gUDEhG1CZTY | ongoing=False | publishedAt=2026-08-01T14:00:00Z | actualEndTime=None | effective=2026-08-01 14:00:00+00:00 | Will New Merger Rules Save the EU in the AI Race?
-   - I7XodkPJOt8 | ongoing=False | publishedAt=2026-08-01T14:00:22Z | actualEndTime=None | effective=2026-08-01 14:00:22+00:00 | J&J’s surgical robot could transform the operating room#shor
-   - 10iu8UtwErI | ongoing=False | publishedAt=2026-08-01T13:56:32Z | actualEndTime=None | effective=2026-08-01 13:56:32+00:00 | Americans Are Richer Than Ever. Why Are They So Angry?
+   - 0kXPuJndNiU | ongoing=False | publishedAt=2026-08-03T02:21:12Z | actualEndTime=2026-08-02T14:00:14Z | effective=2026-08-02 14:00:14+00:00 | SpaceX Reports First Earnings, Mideast Turmoil, FIFA Fallout
+   - czhfwfrxPrQ | ongoing=False | publishedAt=2026-08-03T01:03:50Z | actualEndTime=None | effective=2026-08-03 01:03:50+00:00 | What’s Behind South Korea’s Stock Market Whiplash
+   - kDE-xm3M7gI | ongoing=False | publishedAt=2026-08-02T17:00:06Z | actualEndTime=None | effective=2026-08-02 17:00:06+00:00 | How long will the Fed's credibility last? #shorts #fed #fede
+   - YOWKF2mGYWA | ongoing=False | publishedAt=2026-08-02T16:50:30Z | actualEndTime=None | effective=2026-08-02 16:50:30+00:00 | Bloomberg This Weekend | Iran Strikes On Hold, the Digital D
+   - vs37ES9gRxs | ongoing=False | publishedAt=2026-08-02T16:17:25Z | actualEndTime=None | effective=2026-08-02 16:17:25+00:00 | Shorts Debate Challenges Office Dress Codes
+   - PSGfdnhysWA | ongoing=False | publishedAt=2026-08-02T15:58:00Z | actualEndTime=None | effective=2026-08-02 15:58:00+00:00 | Major Dulles Makeover Pushed By Trump
+   - jIjr2B3-WxI | ongoing=False | publishedAt=2026-08-02T15:27:19Z | actualEndTime=None | effective=2026-08-02 15:27:19+00:00 | Jackson Urges New Approach to Caribbean
+   - VFzzfrRANuE | ongoing=False | publishedAt=2026-08-02T15:22:07Z | actualEndTime=None | effective=2026-08-02 15:22:07+00:00 | Running Becomes Fashion Statement
+   - RRwrOSz5G4c | ongoing=False | publishedAt=2026-08-02T15:00:34Z | actualEndTime=None | effective=2026-08-02 15:00:34+00:00 | Furman: AI Transition Needs a New Tax System
+   - 6CdTFGCdbZo | ongoing=False | publishedAt=2026-08-02T14:50:27Z | actualEndTime=None | effective=2026-08-02 14:50:27+00:00 | Democrats Divided By Michigan Senate Primary
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: How Much Money Do You NEED To Retire
-  URL: https://www.youtube.com/watch?v=9Sy8dAjRzkY
-  publishedAt: 2026-08-02T01:00:09Z
+  제목: Why AI Stocks are COLLAPSING
+  URL: https://www.youtube.com/watch?v=Ff_3nWiMKmo
+  publishedAt: 2026-08-03T01:00:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Ff_3nWiMKmo | ongoing=False | publishedAt=2026-08-03T01:00:31Z | actualEndTime=None | effective=2026-08-03 01:00:31+00:00 | Why AI Stocks are COLLAPSING
    - 9Sy8dAjRzkY | ongoing=False | publishedAt=2026-08-02T01:00:09Z | actualEndTime=None | effective=2026-08-02 01:00:09+00:00 | How Much Money Do You NEED To Retire
-   - hSH8bE2h2GM | ongoing=False | publishedAt=2026-08-01T01:00:30Z | actualEndTime=None | effective=2026-08-01 01:00:30+00:00 | Unpopular Investing Advice To Get Rich
-   - O-h2leITtkA | ongoing=False | publishedAt=2026-07-31T13:10:49Z | actualEndTime=None | effective=2026-07-31 13:10:49+00:00 | Elon's Denial that (Probably) Isn't FAKE NEWS
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - QNpeL-C08Fg | ongoing=False | publishedAt=2026-07-31T23:05:01Z | actualEndTime=None | effective=2026-07-31 23:05:01+00:00 | 【미국 증시 오늘의 요약】  AI 랠리 구한 아마존 vs 치솟는 국채 금리…   -  2026/07/31
-   - -qCZi1nh3HQ | ongoing=False | publishedAt=2026-07-31T22:15:56Z | actualEndTime=2026-07-31T21:59:32Z | effective=2026-07-31 21:59:32+00:00 | [26년 07월 31일 금]  아마존, 클라우드 매출 37% 급증 ｜ 경제지표: 고용비용 지수, 기대인플레이
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 삼전닉스 상한가 이후 폭락한 이유 #삼성전자 #하이닉스 #코스피
+  URL: https://www.youtube.com/watch?v=uzBB1JilFL4
+  publishedAt: 2026-08-03T04:07:18Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - nUI16fWLzUQ | ongoing=False | publishedAt=2026-07-31T05:18:00Z | actualEndTime=None | effective=2026-07-31 05:18:00+00:00 | 코스피 역대급 폭등? 바닥의 신호? #코스피 #하이닉스 #삼성전자
+   - uzBB1JilFL4 | ongoing=False | publishedAt=2026-08-03T04:07:18Z | actualEndTime=None | effective=2026-08-03 04:07:18+00:00 | 삼전닉스 상한가 이후 폭락한 이유 #삼성전자 #하이닉스 #코스피
 
 - 소수몽키
   상태: NO_VIDEO
