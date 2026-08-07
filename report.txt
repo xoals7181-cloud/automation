@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-06 12:58 (KST)
-Run: 232 (id=31069894550)
+생성 시각: 2026-08-07 12:42 (KST)
+Run: 233 (id=31145167937)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,47 +8,47 @@ Run: 232 (id=31069894550)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: El-Sayed Takes on Conservative Critics | Balance of Power 08/05/2026
-  URL: https://www.youtube.com/watch?v=WbSStN0ptH0
-  publishedAt: 2026-08-05T23:34:57Z
+  제목: Who Will Inherit the MAGA Movement in 2028? | Balance of Power: 08/06/2026
+  URL: https://www.youtube.com/watch?v=a7RYxDJL8EI
+  publishedAt: 2026-08-06T23:33:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - WbSStN0ptH0 | ongoing=False | publishedAt=2026-08-05T23:34:57Z | actualEndTime=None | effective=2026-08-05 23:34:57+00:00 | El-Sayed Takes on Conservative Critics | Balance of Power 08
-   - LMeteKAzO50 | ongoing=False | publishedAt=2026-08-05T22:43:32Z | actualEndTime=None | effective=2026-08-05 22:43:32+00:00 | Democratic Party "waging a battle for its very soul," says Y
-   - rCqzfhK-J5g | ongoing=False | publishedAt=2026-08-05T22:34:24Z | actualEndTime=None | effective=2026-08-05 22:34:24+00:00 | SpaceX Earnings Fallout, Kalshi Talks NY Lawsuit | Bloomberg
-   - OhQjv80h5sY | ongoing=False | publishedAt=2026-08-05T22:14:10Z | actualEndTime=None | effective=2026-08-05 22:14:10+00:00 | The Close 8/5/2026
-   - zGwZBjxEs0o | ongoing=False | publishedAt=2026-08-05T21:58:15Z | actualEndTime=None | effective=2026-08-05 21:58:15+00:00 | Can Oman Reach a Deal With Iran to Open the Strait?
-   - X_t6-mze0J4 | ongoing=False | publishedAt=2026-08-05T20:58:30Z | actualEndTime=None | effective=2026-08-05 20:58:30+00:00 | Starboard Reveals Shake Shack Stake | Bloomberg Deals 8/5/20
-   - 022_Uni96XM | ongoing=False | publishedAt=2026-08-05T20:47:15Z | actualEndTime=None | effective=2026-08-05 20:47:15+00:00 | Apollo’s Deal Spree Drives Fee-Related Revenue to a Record
-   - urq_ypCzwKg | ongoing=False | publishedAt=2026-08-05T20:48:41Z | actualEndTime=None | effective=2026-08-05 20:48:41+00:00 | Abdul El-Sayed Defeats Stevens in Michigan Democratic Primar
-   - XUydTsuFyoA | ongoing=False | publishedAt=2026-08-05T20:47:25Z | actualEndTime=None | effective=2026-08-05 20:47:25+00:00 | SpaceX's AI Cloud Business Is Taking Off, Says Deutsche Bank
-   - RpFXZ8Dil1s | ongoing=False | publishedAt=2026-08-05T20:25:30Z | actualEndTime=None | effective=2026-08-05 20:25:30+00:00 | Kalshi Says It's Not Running a Casino, Responds to NY Attorn
+   - a7RYxDJL8EI | ongoing=False | publishedAt=2026-08-06T23:33:56Z | actualEndTime=None | effective=2026-08-06 23:33:56+00:00 | Who Will Inherit the MAGA Movement in 2028? | Balance of Pow
+   - 9h5RDpQ2GjI | ongoing=False | publishedAt=2026-08-06T22:11:08Z | actualEndTime=None | effective=2026-08-06 22:11:08+00:00 | Markets Slip as Rising Yields Pressure Tech | The Close 8/6/
+   - 8vD8yGwvg_0 | ongoing=False | publishedAt=2026-08-06T21:35:48Z | actualEndTime=None | effective=2026-08-06 21:35:48+00:00 | Elf Beauty CEO on price testing products
+   - 4u5t_0T3Zyg | ongoing=False | publishedAt=2026-08-06T19:46:11Z | actualEndTime=None | effective=2026-08-06 19:46:11+00:00 | Sequoia's Pat Grady weighs in on Leopold Aschenbrenner's AI 
+   - jMH9eEbuEGE | ongoing=False | publishedAt=2026-08-06T21:31:06Z | actualEndTime=None | effective=2026-08-06 21:31:06+00:00 | Elanco CEO on Boosted Forecast, Surge in Tick Bites
+   - sqtjv5LpDLc | ongoing=False | publishedAt=2026-08-06T20:34:11Z | actualEndTime=None | effective=2026-08-06 20:34:11+00:00 | Instacart, Airbnb, Lyft & Sweetgreen Report Earnings | Closi
+   - iTVmc3-b5KI | ongoing=False | publishedAt=2026-08-06T20:32:07Z | actualEndTime=None | effective=2026-08-06 20:32:07+00:00 | US Yen Intervention Is a Band-Aid Fix for Bonds: Levin
+   - Psz3S-X2S2o | ongoing=False | publishedAt=2026-08-06T20:31:59Z | actualEndTime=None | effective=2026-08-06 20:31:59+00:00 | Trump Backs Hegseth After Report of Dispute Over Stockpiles
+   - -KljLw6Kz2o | ongoing=False | publishedAt=2026-08-06T20:26:04Z | actualEndTime=None | effective=2026-08-06 20:26:04+00:00 | Fed Silence & Tightening Spread Environment | Real Yield 8/6
+   - 1t-EdPygOOo | ongoing=False | publishedAt=2026-08-06T20:11:16Z | actualEndTime=None | effective=2026-08-06 20:11:16+00:00 | Trump Denies Munitions Shortage, Hegseth Tension | Balance o
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: How Japan Almost DESTROYED America’s Economy!
-  URL: https://www.youtube.com/watch?v=Bxqm_DWyHRQ
-  publishedAt: 2026-08-05T23:22:49Z
+  제목: Why TQQQ Will Crash To $0
+  URL: https://www.youtube.com/watch?v=mpWdEdAfCAY
+  publishedAt: 2026-08-06T16:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - mpWdEdAfCAY | ongoing=False | publishedAt=2026-08-06T16:00:37Z | actualEndTime=None | effective=2026-08-06 16:00:37+00:00 | Why TQQQ Will Crash To $0
+   - s8omwT8FkSE | ongoing=False | publishedAt=2026-08-06T15:28:29Z | actualEndTime=None | effective=2026-08-06 15:28:29+00:00 | The Fed *JUST* Warned: We're about to Pop the AI Bubble.
+   - 5LtLGS7Pa6Q | ongoing=False | publishedAt=2026-08-06T04:00:16Z | actualEndTime=None | effective=2026-08-06 04:00:16+00:00 | The Next Dot Com Crash
    - Bxqm_DWyHRQ | ongoing=False | publishedAt=2026-08-05T23:22:49Z | actualEndTime=None | effective=2026-08-05 23:22:49+00:00 | How Japan Almost DESTROYED America’s Economy!
    - 5hc79Tbt4e0 | ongoing=False | publishedAt=2026-08-05T22:07:13Z | actualEndTime=None | effective=2026-08-05 22:07:13+00:00 | Something's Strange: The SpaceX Stock Problem.
    - FFK69mqCcII | ongoing=False | publishedAt=2026-08-05T17:06:59Z | actualEndTime=None | effective=2026-08-05 17:06:59+00:00 | Why I JUST Sold
-   - Op0gHz8CdKY | ongoing=False | publishedAt=2026-08-05T01:19:27Z | actualEndTime=None | effective=2026-08-05 01:19:27+00:00 | My NEW Palantir Stock Price Target & Concerns.
-   - 8qfKKND52xs | ongoing=False | publishedAt=2026-08-04T16:05:21Z | actualEndTime=None | effective=2026-08-04 16:05:21+00:00 | Citadel's Reset Warning: 5 Reasons Stocks are *about* to SKY
-   - s2gnRdGnfoc | ongoing=False | publishedAt=2026-08-04T16:00:18Z | actualEndTime=None | effective=2026-08-04 16:00:18+00:00 | AI Is Stealing Tech JOBS!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  4일 랠리 끝? 호실적에도 팔았다… '뉴스에 팔라' 재개된 월가 -  2026/08/05
-  URL: https://www.youtube.com/watch?v=Agi7fzbzIuY
-  publishedAt: 2026-08-05T23:09:42Z
+  제목: 【미국 증시 오늘의 요약】  유가 급등에 발목 잡힌 증시…운명의 고용보고서 D-1 -  2026/08/06
+  URL: https://www.youtube.com/watch?v=MahTWpTOkl0
+  publishedAt: 2026-08-06T22:30:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - MahTWpTOkl0 | ongoing=False | publishedAt=2026-08-06T22:30:01Z | actualEndTime=None | effective=2026-08-06 22:30:01+00:00 | 【미국 증시 오늘의 요약】  유가 급등에 발목 잡힌 증시…운명의 고용보고서 D-1 -  2026/08/06
+   - zcBWAZcKmEQ | ongoing=False | publishedAt=2026-08-06T22:03:50Z | actualEndTime=2026-08-06T21:43:16Z | effective=2026-08-06 21:43:16+00:00 | [26년 08월 06일 목]   미국·이란, 협상 진전..? ｜ 딥시크, AI 서비스 가격 인상 계획 ｜실적
    - Agi7fzbzIuY | ongoing=False | publishedAt=2026-08-05T23:09:42Z | actualEndTime=None | effective=2026-08-05 23:09:42+00:00 | 【미국 증시 오늘의 요약】  4일 랠리 끝? 호실적에도 팔았다… '뉴스에 팔라' 재개된 월가 -  2026/
    - RW4D9izpXX4 | ongoing=False | publishedAt=2026-08-05T22:56:30Z | actualEndTime=2026-08-05T22:37:00Z | effective=2026-08-05 22:37:00+00:00 | [26년 08월 05일 수]  실적: 샌디스크, 아이온큐, 앱로빈 ｜ 미 재무부 QRA, 서비스업 PMI ｜
-   - eUflBFm91BE | ongoing=False | publishedAt=2026-08-04T23:00:30Z | actualEndTime=None | effective=2026-08-04 23:00:30+00:00 | 【미국 증시 오늘의 요약】  유가 급락에 미 증시 신고가…팔란티어 30% 폭등·반도체주 랠리   -  202
-   - 1_oNtWh92og | ongoing=False | publishedAt=2026-08-04T22:35:28Z | actualEndTime=2026-08-04T22:16:27Z | effective=2026-08-04 22:16:27+00:00 | [26년 08월 04일 화] 스페이스X, AMD  실적발표｜ 카운터포인트, "D램 3분기 추가 인상 전망" 
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -58,12 +58,11 @@ Run: 232 (id=31069894550)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - InT2AcBBwak | ongoing=False | publishedAt=2026-08-06T06:55:15Z | actualEndTime=None | effective=2026-08-06 06:55:15+00:00 | 코스피 폭락의 범인 #코스피 #삼성전자 #하이닉스
    - UQbVfh4vaRw | ongoing=False | publishedAt=2026-08-05T06:58:35Z | actualEndTime=None | effective=2026-08-05 06:58:35+00:00 | 코스피 또 사이드카? #코스피 #하이닉스 #삼성전자
-   - vHZGKCsKulk | ongoing=False | publishedAt=2026-08-04T17:37:31Z | actualEndTime=None | effective=2026-08-04 17:37:31+00:00 | 미국증시 신고가의 비밀
-   - lysY5KXsBok | ongoing=False | publishedAt=2026-08-04T06:53:06Z | actualEndTime=None | effective=2026-08-04 06:53:06+00:00 | 오늘 삼전닉스만 부진한 진짜 이유 #삼성전자 #하이닉스 #코스닥
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - WTfk0OYuY7Q | ongoing=False | publishedAt=2026-08-04T11:14:44Z | actualEndTime=None | effective=2026-08-04 11:14:44+00:00 | 월가 천재 투자자마저 패닉셀, 본격 분위기 반전의 신호일까
+   - dBCJCdi3fEw | ongoing=False | publishedAt=2026-08-06T11:13:45Z | actualEndTime=None | effective=2026-08-06 11:13:45+00:00 | 하락은 기회? AI 에이전트 시대 새롭게 주도주가 될 주식들
