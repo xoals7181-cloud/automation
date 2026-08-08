@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-07 12:42 (KST)
-Run: 233 (id=31145167937)
+생성 시각: 2026-08-08 11:50 (KST)
+Run: 234 (id=31235855288)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,47 +8,49 @@ Run: 233 (id=31145167937)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Who Will Inherit the MAGA Movement in 2028? | Balance of Power: 08/06/2026
-  URL: https://www.youtube.com/watch?v=a7RYxDJL8EI
-  publishedAt: 2026-08-06T23:33:56Z
+  제목: Turkey's Plan to Attract the Wealthy From Dubai, London
+  URL: https://www.youtube.com/watch?v=2PGVZOTw0P8
+  publishedAt: 2026-08-08T01:00:02Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - a7RYxDJL8EI | ongoing=False | publishedAt=2026-08-06T23:33:56Z | actualEndTime=None | effective=2026-08-06 23:33:56+00:00 | Who Will Inherit the MAGA Movement in 2028? | Balance of Pow
-   - 9h5RDpQ2GjI | ongoing=False | publishedAt=2026-08-06T22:11:08Z | actualEndTime=None | effective=2026-08-06 22:11:08+00:00 | Markets Slip as Rising Yields Pressure Tech | The Close 8/6/
-   - 8vD8yGwvg_0 | ongoing=False | publishedAt=2026-08-06T21:35:48Z | actualEndTime=None | effective=2026-08-06 21:35:48+00:00 | Elf Beauty CEO on price testing products
-   - 4u5t_0T3Zyg | ongoing=False | publishedAt=2026-08-06T19:46:11Z | actualEndTime=None | effective=2026-08-06 19:46:11+00:00 | Sequoia's Pat Grady weighs in on Leopold Aschenbrenner's AI 
-   - jMH9eEbuEGE | ongoing=False | publishedAt=2026-08-06T21:31:06Z | actualEndTime=None | effective=2026-08-06 21:31:06+00:00 | Elanco CEO on Boosted Forecast, Surge in Tick Bites
-   - sqtjv5LpDLc | ongoing=False | publishedAt=2026-08-06T20:34:11Z | actualEndTime=None | effective=2026-08-06 20:34:11+00:00 | Instacart, Airbnb, Lyft & Sweetgreen Report Earnings | Closi
-   - iTVmc3-b5KI | ongoing=False | publishedAt=2026-08-06T20:32:07Z | actualEndTime=None | effective=2026-08-06 20:32:07+00:00 | US Yen Intervention Is a Band-Aid Fix for Bonds: Levin
-   - Psz3S-X2S2o | ongoing=False | publishedAt=2026-08-06T20:31:59Z | actualEndTime=None | effective=2026-08-06 20:31:59+00:00 | Trump Backs Hegseth After Report of Dispute Over Stockpiles
-   - -KljLw6Kz2o | ongoing=False | publishedAt=2026-08-06T20:26:04Z | actualEndTime=None | effective=2026-08-06 20:26:04+00:00 | Fed Silence & Tightening Spread Environment | Real Yield 8/6
-   - 1t-EdPygOOo | ongoing=False | publishedAt=2026-08-06T20:11:16Z | actualEndTime=None | effective=2026-08-06 20:11:16+00:00 | Trump Denies Munitions Shortage, Hegseth Tension | Balance o
+   - 2PGVZOTw0P8 | ongoing=False | publishedAt=2026-08-08T01:00:02Z | actualEndTime=None | effective=2026-08-08 01:00:02+00:00 | Turkey's Plan to Attract the Wealthy From Dubai, London
+   - gYgI0_G8pSw | ongoing=False | publishedAt=2026-08-07T23:59:17Z | actualEndTime=None | effective=2026-08-07 23:59:17+00:00 | Senate Delays Clarity Act Vote Until After August Recess | B
+   - De-8x7kTSzc | ongoing=False | publishedAt=2026-08-07T23:17:49Z | actualEndTime=None | effective=2026-08-07 23:17:49+00:00 | Rep. Landsman on Senate Passes Bipartisan Russia Sanctions B
+   - L88LTf2AqYQ | ongoing=False | publishedAt=2026-08-07T23:09:30Z | actualEndTime=None | effective=2026-08-07 23:09:30+00:00 | Rep. Dusty Johnson: ’Shutdowns are Stupid’
+   - WuyHPsKqULk | ongoing=False | publishedAt=2026-08-07T23:02:49Z | actualEndTime=None | effective=2026-08-07 23:02:49+00:00 | Sen. Coons: Think We Can Get Senate Votes Done
+   - VEESAcKqDhU | ongoing=False | publishedAt=2026-08-07T22:18:26Z | actualEndTime=None | effective=2026-08-07 22:18:26+00:00 | Republicans will “regret voting” for Blanche, says Sen. Coon
+   - Ci0Xh0ZsN1I | ongoing=False | publishedAt=2026-08-07T21:55:56Z | actualEndTime=None | effective=2026-08-07 21:55:56+00:00 | Weak Jobs Report Fuels Record-High Stock Rally | The Close 8
+   - WXqqbZ1jn-g | ongoing=False | publishedAt=2026-08-07T21:41:28Z | actualEndTime=None | effective=2026-08-07 21:41:28+00:00 | Spelman President on Federal Funding, AI Popularity
+   - wy8duOQEGrs | ongoing=False | publishedAt=2026-08-07T21:37:34Z | actualEndTime=None | effective=2026-08-07 21:37:34+00:00 | Weak Jobs Report Fuels Rate Hike Skeptics | Bloomberg Busine
+   - j2sYG7Y6ebk | ongoing=False | publishedAt=2026-08-07T20:21:37Z | actualEndTime=None | effective=2026-08-07 20:21:37+00:00 | Money Roundtable: US Jobs Data & Michigan's Primary
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Why TQQQ Will Crash To $0
-  URL: https://www.youtube.com/watch?v=mpWdEdAfCAY
-  publishedAt: 2026-08-06T16:00:37Z
+  제목: SpaceX just stopped paying People at X
+  URL: https://www.youtube.com/watch?v=uKd_h4Z6YxE
+  publishedAt: 2026-08-07T23:58:19Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - uKd_h4Z6YxE | ongoing=False | publishedAt=2026-08-07T23:58:19Z | actualEndTime=None | effective=2026-08-07 23:58:19+00:00 | SpaceX just stopped paying People at X
+   - rzmFeXTljFc | ongoing=False | publishedAt=2026-08-07T18:07:40Z | actualEndTime=None | effective=2026-08-07 18:07:40+00:00 | The Danger of the SpaceX Stock Bounce [The Hidden Failure]
+   - Qvqvr5Crhpk | ongoing=False | publishedAt=2026-08-07T16:00:19Z | actualEndTime=None | effective=2026-08-07 16:00:19+00:00 | Why You NEED To Lose Money
+   - ZFdcAdO7LIU | ongoing=False | publishedAt=2026-08-07T13:18:21Z | actualEndTime=None | effective=2026-08-07 13:18:21+00:00 | The NEW Jobs Data is HORRIBLE | CNBC HIDING DATA
+   - D__LslMWe0s | ongoing=False | publishedAt=2026-08-07T04:00:32Z | actualEndTime=None | effective=2026-08-07 04:00:32+00:00 | The #1 Way To Win In Negotiations
    - mpWdEdAfCAY | ongoing=False | publishedAt=2026-08-06T16:00:37Z | actualEndTime=None | effective=2026-08-06 16:00:37+00:00 | Why TQQQ Will Crash To $0
    - s8omwT8FkSE | ongoing=False | publishedAt=2026-08-06T15:28:29Z | actualEndTime=None | effective=2026-08-06 15:28:29+00:00 | The Fed *JUST* Warned: We're about to Pop the AI Bubble.
    - 5LtLGS7Pa6Q | ongoing=False | publishedAt=2026-08-06T04:00:16Z | actualEndTime=None | effective=2026-08-06 04:00:16+00:00 | The Next Dot Com Crash
-   - Bxqm_DWyHRQ | ongoing=False | publishedAt=2026-08-05T23:22:49Z | actualEndTime=None | effective=2026-08-05 23:22:49+00:00 | How Japan Almost DESTROYED America’s Economy!
-   - 5hc79Tbt4e0 | ongoing=False | publishedAt=2026-08-05T22:07:13Z | actualEndTime=None | effective=2026-08-05 22:07:13+00:00 | Something's Strange: The SpaceX Stock Problem.
-   - FFK69mqCcII | ongoing=False | publishedAt=2026-08-05T17:06:59Z | actualEndTime=None | effective=2026-08-05 17:06:59+00:00 | Why I JUST Sold
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  유가 급등에 발목 잡힌 증시…운명의 고용보고서 D-1 -  2026/08/06
-  URL: https://www.youtube.com/watch?v=MahTWpTOkl0
-  publishedAt: 2026-08-06T22:30:01Z
+  제목: 【미국 증시 오늘의 요약】  일자리는 줄었는데 증시는 폭등? 연준 긴축 우려 지우며 S&P 500 신고가 -  2026/08/07
+  URL: https://www.youtube.com/watch?v=myW7pbz0z80
+  publishedAt: 2026-08-07T22:20:20Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - myW7pbz0z80 | ongoing=False | publishedAt=2026-08-07T22:20:20Z | actualEndTime=None | effective=2026-08-07 22:20:20+00:00 | 【미국 증시 오늘의 요약】  일자리는 줄었는데 증시는 폭등? 연준 긴축 우려 지우며 S&P 500 신고가 -
+   - yFPUuTb_WIM | ongoing=False | publishedAt=2026-08-07T21:45:46Z | actualEndTime=2026-08-07T21:25:13Z | effective=2026-08-07 21:25:13+00:00 | [26년 08월 07일 금]  비농업 취업자수, 실업률 ｜ 트럼프, ‘이란과 협상 진전’ ｜  알리바바, 오
    - MahTWpTOkl0 | ongoing=False | publishedAt=2026-08-06T22:30:01Z | actualEndTime=None | effective=2026-08-06 22:30:01+00:00 | 【미국 증시 오늘의 요약】  유가 급등에 발목 잡힌 증시…운명의 고용보고서 D-1 -  2026/08/06
    - zcBWAZcKmEQ | ongoing=False | publishedAt=2026-08-06T22:03:50Z | actualEndTime=2026-08-06T21:43:16Z | effective=2026-08-06 21:43:16+00:00 | [26년 08월 06일 목]   미국·이란, 협상 진전..? ｜ 딥시크, AI 서비스 가격 인상 계획 ｜실적
-   - Agi7fzbzIuY | ongoing=False | publishedAt=2026-08-05T23:09:42Z | actualEndTime=None | effective=2026-08-05 23:09:42+00:00 | 【미국 증시 오늘의 요약】  4일 랠리 끝? 호실적에도 팔았다… '뉴스에 팔라' 재개된 월가 -  2026/
-   - RW4D9izpXX4 | ongoing=False | publishedAt=2026-08-05T22:56:30Z | actualEndTime=2026-08-05T22:37:00Z | effective=2026-08-05 22:37:00+00:00 | [26년 08월 05일 수]  실적: 샌디스크, 아이온큐, 앱로빈 ｜ 미 재무부 QRA, 서비스업 PMI ｜
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -59,7 +61,6 @@ Run: 233 (id=31145167937)
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - InT2AcBBwak | ongoing=False | publishedAt=2026-08-06T06:55:15Z | actualEndTime=None | effective=2026-08-06 06:55:15+00:00 | 코스피 폭락의 범인 #코스피 #삼성전자 #하이닉스
-   - UQbVfh4vaRw | ongoing=False | publishedAt=2026-08-05T06:58:35Z | actualEndTime=None | effective=2026-08-05 06:58:35+00:00 | 코스피 또 사이드카? #코스피 #하이닉스 #삼성전자
 
 - 소수몽키
   상태: NO_VIDEO
