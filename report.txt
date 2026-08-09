@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-08 11:50 (KST)
-Run: 234 (id=31235855288)
+생성 시각: 2026-08-09 11:57 (KST)
+Run: 235 (id=31291428683)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,49 +8,43 @@ Run: 234 (id=31235855288)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Turkey's Plan to Attract the Wealthy From Dubai, London
-  URL: https://www.youtube.com/watch?v=2PGVZOTw0P8
-  publishedAt: 2026-08-08T01:00:02Z
+  제목: Hong Kong's Iconic Diners Go Global
+  URL: https://www.youtube.com/watch?v=N6xR_jyRO1E
+  publishedAt: 2026-08-09T00:00:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 2PGVZOTw0P8 | ongoing=False | publishedAt=2026-08-08T01:00:02Z | actualEndTime=None | effective=2026-08-08 01:00:02+00:00 | Turkey's Plan to Attract the Wealthy From Dubai, London
-   - gYgI0_G8pSw | ongoing=False | publishedAt=2026-08-07T23:59:17Z | actualEndTime=None | effective=2026-08-07 23:59:17+00:00 | Senate Delays Clarity Act Vote Until After August Recess | B
-   - De-8x7kTSzc | ongoing=False | publishedAt=2026-08-07T23:17:49Z | actualEndTime=None | effective=2026-08-07 23:17:49+00:00 | Rep. Landsman on Senate Passes Bipartisan Russia Sanctions B
-   - L88LTf2AqYQ | ongoing=False | publishedAt=2026-08-07T23:09:30Z | actualEndTime=None | effective=2026-08-07 23:09:30+00:00 | Rep. Dusty Johnson: ’Shutdowns are Stupid’
-   - WuyHPsKqULk | ongoing=False | publishedAt=2026-08-07T23:02:49Z | actualEndTime=None | effective=2026-08-07 23:02:49+00:00 | Sen. Coons: Think We Can Get Senate Votes Done
-   - VEESAcKqDhU | ongoing=False | publishedAt=2026-08-07T22:18:26Z | actualEndTime=None | effective=2026-08-07 22:18:26+00:00 | Republicans will “regret voting” for Blanche, says Sen. Coon
-   - Ci0Xh0ZsN1I | ongoing=False | publishedAt=2026-08-07T21:55:56Z | actualEndTime=None | effective=2026-08-07 21:55:56+00:00 | Weak Jobs Report Fuels Record-High Stock Rally | The Close 8
-   - WXqqbZ1jn-g | ongoing=False | publishedAt=2026-08-07T21:41:28Z | actualEndTime=None | effective=2026-08-07 21:41:28+00:00 | Spelman President on Federal Funding, AI Popularity
-   - wy8duOQEGrs | ongoing=False | publishedAt=2026-08-07T21:37:34Z | actualEndTime=None | effective=2026-08-07 21:37:34+00:00 | Weak Jobs Report Fuels Rate Hike Skeptics | Bloomberg Busine
-   - j2sYG7Y6ebk | ongoing=False | publishedAt=2026-08-07T20:21:37Z | actualEndTime=None | effective=2026-08-07 20:21:37+00:00 | Money Roundtable: US Jobs Data & Michigan's Primary
+   - N6xR_jyRO1E | ongoing=False | publishedAt=2026-08-09T00:00:27Z | actualEndTime=None | effective=2026-08-09 00:00:27+00:00 | Hong Kong's Iconic Diners Go Global
+   - zEsUkFeq5E4 | ongoing=False | publishedAt=2026-08-08T16:52:07Z | actualEndTime=None | effective=2026-08-08 16:52:07+00:00 | Bloomberg This Weekend | Todd Blanche Confirmed as AG, Jobs 
+   - HbBrWkaxy1Q | ongoing=False | publishedAt=2026-08-08T14:52:50Z | actualEndTime=None | effective=2026-08-08 14:52:50+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - 9AsvOT8DmnU | ongoing=False | publishedAt=2026-08-08T14:40:37Z | actualEndTime=None | effective=2026-08-08 14:40:37+00:00 | LIV Golf Tries to Survive Without Saudi Billions
+   - mM6J--ndDJI | ongoing=False | publishedAt=2026-08-08T14:31:13Z | actualEndTime=None | effective=2026-08-08 14:31:13+00:00 | China’s AI Push Reshapes Its Economic Future
+   - _d5UJQWWXUM | ongoing=False | publishedAt=2026-08-08T14:00:20Z | actualEndTime=None | effective=2026-08-08 14:00:20+00:00 | US Munitions Strain Complicates Iran Strategy
+   - lGuAzm4eiTQ | ongoing=False | publishedAt=2026-08-08T13:48:32Z | actualEndTime=None | effective=2026-08-08 13:48:32+00:00 | Hunting Camo Moves From the Woods to Runways
+   - ogpRuLf9SVE | ongoing=False | publishedAt=2026-08-08T13:39:44Z | actualEndTime=None | effective=2026-08-08 13:39:44+00:00 | University of California Faculty Push to Bring Back SAT and 
+   - TkRRuPJg3Z4 | ongoing=False | publishedAt=2026-08-08T13:01:29Z | actualEndTime=None | effective=2026-08-08 13:01:29+00:00 | CEO Greg Abel Starts Making His Mark at Berkshire
+   - R6jYOZFzkaE | ongoing=False | publishedAt=2026-08-08T12:47:04Z | actualEndTime=None | effective=2026-08-08 12:47:04+00:00 | AI Buildout Keeps Quinlan Bullish on US Stocks
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: SpaceX just stopped paying People at X
-  URL: https://www.youtube.com/watch?v=uKd_h4Z6YxE
-  publishedAt: 2026-08-07T23:58:19Z
+  제목: These Documents EXPOSED Grant Cardone!
+  URL: https://www.youtube.com/watch?v=8_vz_M8NbPY
+  publishedAt: 2026-08-08T23:58:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 8_vz_M8NbPY | ongoing=False | publishedAt=2026-08-08T23:58:38Z | actualEndTime=None | effective=2026-08-08 23:58:38+00:00 | These Documents EXPOSED Grant Cardone!
+   - CTuBzMhaF8s | ongoing=False | publishedAt=2026-08-08T21:45:08Z | actualEndTime=None | effective=2026-08-08 21:45:08+00:00 | Bullish on Elon: 9 Mega AI Hardware Stocks | NOW 
    - uKd_h4Z6YxE | ongoing=False | publishedAt=2026-08-07T23:58:19Z | actualEndTime=None | effective=2026-08-07 23:58:19+00:00 | SpaceX just stopped paying People at X
    - rzmFeXTljFc | ongoing=False | publishedAt=2026-08-07T18:07:40Z | actualEndTime=None | effective=2026-08-07 18:07:40+00:00 | The Danger of the SpaceX Stock Bounce [The Hidden Failure]
    - Qvqvr5Crhpk | ongoing=False | publishedAt=2026-08-07T16:00:19Z | actualEndTime=None | effective=2026-08-07 16:00:19+00:00 | Why You NEED To Lose Money
    - ZFdcAdO7LIU | ongoing=False | publishedAt=2026-08-07T13:18:21Z | actualEndTime=None | effective=2026-08-07 13:18:21+00:00 | The NEW Jobs Data is HORRIBLE | CNBC HIDING DATA
    - D__LslMWe0s | ongoing=False | publishedAt=2026-08-07T04:00:32Z | actualEndTime=None | effective=2026-08-07 04:00:32+00:00 | The #1 Way To Win In Negotiations
-   - mpWdEdAfCAY | ongoing=False | publishedAt=2026-08-06T16:00:37Z | actualEndTime=None | effective=2026-08-06 16:00:37+00:00 | Why TQQQ Will Crash To $0
-   - s8omwT8FkSE | ongoing=False | publishedAt=2026-08-06T15:28:29Z | actualEndTime=None | effective=2026-08-06 15:28:29+00:00 | The Fed *JUST* Warned: We're about to Pop the AI Bubble.
-   - 5LtLGS7Pa6Q | ongoing=False | publishedAt=2026-08-06T04:00:16Z | actualEndTime=None | effective=2026-08-06 04:00:16+00:00 | The Next Dot Com Crash
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  일자리는 줄었는데 증시는 폭등? 연준 긴축 우려 지우며 S&P 500 신고가 -  2026/08/07
-  URL: https://www.youtube.com/watch?v=myW7pbz0z80
-  publishedAt: 2026-08-07T22:20:20Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - myW7pbz0z80 | ongoing=False | publishedAt=2026-08-07T22:20:20Z | actualEndTime=None | effective=2026-08-07 22:20:20+00:00 | 【미국 증시 오늘의 요약】  일자리는 줄었는데 증시는 폭등? 연준 긴축 우려 지우며 S&P 500 신고가 -
    - yFPUuTb_WIM | ongoing=False | publishedAt=2026-08-07T21:45:46Z | actualEndTime=2026-08-07T21:25:13Z | effective=2026-08-07 21:25:13+00:00 | [26년 08월 07일 금]  비농업 취업자수, 실업률 ｜ 트럼프, ‘이란과 협상 진전’ ｜  알리바바, 오
-   - MahTWpTOkl0 | ongoing=False | publishedAt=2026-08-06T22:30:01Z | actualEndTime=None | effective=2026-08-06 22:30:01+00:00 | 【미국 증시 오늘의 요약】  유가 급등에 발목 잡힌 증시…운명의 고용보고서 D-1 -  2026/08/06
-   - zcBWAZcKmEQ | ongoing=False | publishedAt=2026-08-06T22:03:50Z | actualEndTime=2026-08-06T21:43:16Z | effective=2026-08-06 21:43:16+00:00 | [26년 08월 06일 목]   미국·이란, 협상 진전..? ｜ 딥시크, AI 서비스 가격 인상 계획 ｜실적
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -60,10 +54,8 @@ Run: 234 (id=31235855288)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - InT2AcBBwak | ongoing=False | publishedAt=2026-08-06T06:55:15Z | actualEndTime=None | effective=2026-08-06 06:55:15+00:00 | 코스피 폭락의 범인 #코스피 #삼성전자 #하이닉스
+   - K06m1h2_gWI | ongoing=False | publishedAt=2026-08-08T07:52:52Z | actualEndTime=None | effective=2026-08-08 07:52:52+00:00 | 국장투자자의 하루요약 #코스피 #하이닉스 #삼성전자
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - dBCJCdi3fEw | ongoing=False | publishedAt=2026-08-06T11:13:45Z | actualEndTime=None | effective=2026-08-06 11:13:45+00:00 | 하락은 기회? AI 에이전트 시대 새롭게 주도주가 될 주식들
+  비고: 최근 48시간 검색 결과 없음
