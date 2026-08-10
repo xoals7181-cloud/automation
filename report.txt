@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-09 11:57 (KST)
-Run: 235 (id=31291428683)
+생성 시각: 2026-08-10 12:06 (KST)
+Run: 236 (id=31351644847)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,43 +8,36 @@ Run: 235 (id=31291428683)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Hong Kong's Iconic Diners Go Global
-  URL: https://www.youtube.com/watch?v=N6xR_jyRO1E
-  publishedAt: 2026-08-09T00:00:27Z
+  제목: Bloomberg This Weekend | Iran’s New Hormuz Demands, How OpenAI Agents Broke Out, PR’s Water Crisis
+  URL: https://www.youtube.com/watch?v=ZxlTXxok0xQ
+  publishedAt: 2026-08-09T15:58:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - N6xR_jyRO1E | ongoing=False | publishedAt=2026-08-09T00:00:27Z | actualEndTime=None | effective=2026-08-09 00:00:27+00:00 | Hong Kong's Iconic Diners Go Global
-   - zEsUkFeq5E4 | ongoing=False | publishedAt=2026-08-08T16:52:07Z | actualEndTime=None | effective=2026-08-08 16:52:07+00:00 | Bloomberg This Weekend | Todd Blanche Confirmed as AG, Jobs 
-   - HbBrWkaxy1Q | ongoing=False | publishedAt=2026-08-08T14:52:50Z | actualEndTime=None | effective=2026-08-08 14:52:50+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - 9AsvOT8DmnU | ongoing=False | publishedAt=2026-08-08T14:40:37Z | actualEndTime=None | effective=2026-08-08 14:40:37+00:00 | LIV Golf Tries to Survive Without Saudi Billions
-   - mM6J--ndDJI | ongoing=False | publishedAt=2026-08-08T14:31:13Z | actualEndTime=None | effective=2026-08-08 14:31:13+00:00 | China’s AI Push Reshapes Its Economic Future
-   - _d5UJQWWXUM | ongoing=False | publishedAt=2026-08-08T14:00:20Z | actualEndTime=None | effective=2026-08-08 14:00:20+00:00 | US Munitions Strain Complicates Iran Strategy
-   - lGuAzm4eiTQ | ongoing=False | publishedAt=2026-08-08T13:48:32Z | actualEndTime=None | effective=2026-08-08 13:48:32+00:00 | Hunting Camo Moves From the Woods to Runways
-   - ogpRuLf9SVE | ongoing=False | publishedAt=2026-08-08T13:39:44Z | actualEndTime=None | effective=2026-08-08 13:39:44+00:00 | University of California Faculty Push to Bring Back SAT and 
-   - TkRRuPJg3Z4 | ongoing=False | publishedAt=2026-08-08T13:01:29Z | actualEndTime=None | effective=2026-08-08 13:01:29+00:00 | CEO Greg Abel Starts Making His Mark at Berkshire
-   - R6jYOZFzkaE | ongoing=False | publishedAt=2026-08-08T12:47:04Z | actualEndTime=None | effective=2026-08-08 12:47:04+00:00 | AI Buildout Keeps Quinlan Bullish on US Stocks
+   - ZxlTXxok0xQ | ongoing=False | publishedAt=2026-08-09T15:58:31Z | actualEndTime=None | effective=2026-08-09 15:58:31+00:00 | Bloomberg This Weekend | Iran’s New Hormuz Demands, How Open
+   - nPW0ZZC4S4o | ongoing=False | publishedAt=2026-08-09T15:28:39Z | actualEndTime=None | effective=2026-08-09 15:28:39+00:00 | By The Way: Headline You May Have Missed
+   - gvptqHlaDpc | ongoing=False | publishedAt=2026-08-09T15:17:03Z | actualEndTime=None | effective=2026-08-09 15:17:03+00:00 | El-Sayed Win Fuels Democratic Identity Debate
+   - EmjWLDru1kw | ongoing=False | publishedAt=2026-08-09T14:59:03Z | actualEndTime=None | effective=2026-08-09 14:59:03+00:00 | DC Crime Crackdown Tests Federal Prosecutors
+   - yuKnY-yb5jI | ongoing=False | publishedAt=2026-08-09T14:41:54Z | actualEndTime=None | effective=2026-08-09 14:41:54+00:00 | Food Safety Fears Rattle Restaurants and Diners
+   - Erp8obUDpXE | ongoing=False | publishedAt=2026-08-09T14:31:30Z | actualEndTime=None | effective=2026-08-09 14:31:30+00:00 | Inflation Data Keeps Fed Rate Hike in Play
+   - b68pabnClkU | ongoing=False | publishedAt=2026-08-09T13:57:27Z | actualEndTime=None | effective=2026-08-09 13:57:27+00:00 | After Bitter Michigan Primary Stevens Backs El-Sayed
+   - xLYgW1SzX1o | ongoing=False | publishedAt=2026-08-09T13:08:08Z | actualEndTime=None | effective=2026-08-09 13:08:08+00:00 | Ukraine Faces New Strain as US Backing Falters
+   - EwDK2T07LSM | ongoing=False | publishedAt=2026-08-09T12:49:38Z | actualEndTime=None | effective=2026-08-09 12:49:38+00:00 | US Weapons Crunch Raises Risks Beyond Iran
+   - gNKQww7JWeM | ongoing=False | publishedAt=2026-08-09T12:38:11Z | actualEndTime=None | effective=2026-08-09 12:38:11+00:00 | Europe Looks Up for First Total Eclipse Since 1999
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: These Documents EXPOSED Grant Cardone!
-  URL: https://www.youtube.com/watch?v=8_vz_M8NbPY
-  publishedAt: 2026-08-08T23:58:38Z
+  제목: Serious Iran Deterioration & War Stock Analysis.
+  URL: https://www.youtube.com/watch?v=u-LrHCmFmBY
+  publishedAt: 2026-08-10T00:11:51Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - u-LrHCmFmBY | ongoing=False | publishedAt=2026-08-10T00:11:51Z | actualEndTime=None | effective=2026-08-10 00:11:51+00:00 | Serious Iran Deterioration & War Stock Analysis.
    - 8_vz_M8NbPY | ongoing=False | publishedAt=2026-08-08T23:58:38Z | actualEndTime=None | effective=2026-08-08 23:58:38+00:00 | These Documents EXPOSED Grant Cardone!
    - CTuBzMhaF8s | ongoing=False | publishedAt=2026-08-08T21:45:08Z | actualEndTime=None | effective=2026-08-08 21:45:08+00:00 | Bullish on Elon: 9 Mega AI Hardware Stocks | NOW 
-   - uKd_h4Z6YxE | ongoing=False | publishedAt=2026-08-07T23:58:19Z | actualEndTime=None | effective=2026-08-07 23:58:19+00:00 | SpaceX just stopped paying People at X
-   - rzmFeXTljFc | ongoing=False | publishedAt=2026-08-07T18:07:40Z | actualEndTime=None | effective=2026-08-07 18:07:40+00:00 | The Danger of the SpaceX Stock Bounce [The Hidden Failure]
-   - Qvqvr5Crhpk | ongoing=False | publishedAt=2026-08-07T16:00:19Z | actualEndTime=None | effective=2026-08-07 16:00:19+00:00 | Why You NEED To Lose Money
-   - ZFdcAdO7LIU | ongoing=False | publishedAt=2026-08-07T13:18:21Z | actualEndTime=None | effective=2026-08-07 13:18:21+00:00 | The NEW Jobs Data is HORRIBLE | CNBC HIDING DATA
-   - D__LslMWe0s | ongoing=False | publishedAt=2026-08-07T04:00:32Z | actualEndTime=None | effective=2026-08-07 04:00:32+00:00 | The #1 Way To Win In Negotiations
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - myW7pbz0z80 | ongoing=False | publishedAt=2026-08-07T22:20:20Z | actualEndTime=None | effective=2026-08-07 22:20:20+00:00 | 【미국 증시 오늘의 요약】  일자리는 줄었는데 증시는 폭등? 연준 긴축 우려 지우며 S&P 500 신고가 -
-   - yFPUuTb_WIM | ongoing=False | publishedAt=2026-08-07T21:45:46Z | actualEndTime=2026-08-07T21:25:13Z | effective=2026-08-07 21:25:13+00:00 | [26년 08월 07일 금]  비농업 취업자수, 실업률 ｜ 트럼프, ‘이란과 협상 진전’ ｜  알리바바, 오
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_VIDEO
