@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-11 11:59 (KST)
-Run: 237 (id=31454025295)
+생성 시각: 2026-08-12 12:17 (KST)
+Run: 238 (id=31559616373)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,41 +8,45 @@ Run: 237 (id=31454025295)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Demands Compensation From Iran | Balance of Power 08/10/2026
-  URL: https://www.youtube.com/watch?v=hTCbxl5agFQ
-  publishedAt: 2026-08-10T23:34:16Z
+  제목: The US Is Running Out of Weapons It Needs Most | Balance of Power 08/11/2026
+  URL: https://www.youtube.com/watch?v=EfPGXZgZqN0
+  publishedAt: 2026-08-11T23:38:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - hTCbxl5agFQ | ongoing=False | publishedAt=2026-08-10T23:34:16Z | actualEndTime=None | effective=2026-08-10 23:34:16+00:00 | Trump Demands Compensation From Iran | Balance of Power 08/1
-   - fBP6biKA8vU | ongoing=False | publishedAt=2026-08-10T22:59:51Z | actualEndTime=None | effective=2026-08-10 22:59:51+00:00 | Meta releases AI at-home model, faces backlash#shorts #meta 
-   - aXse1kf8olA | ongoing=False | publishedAt=2026-08-10T22:15:24Z | actualEndTime=None | effective=2026-08-10 22:15:24+00:00 | ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10
-   - EA80nMtuPCk | ongoing=False | publishedAt=2026-08-10T22:08:01Z | actualEndTime=None | effective=2026-08-10 22:08:01+00:00 | Markets Open the Week Flat as Oil Prices Rise | The Close 8/
-   - a-uYxvtbBDA | ongoing=False | publishedAt=2026-08-10T20:39:00Z | actualEndTime=None | effective=2026-08-10 20:39:00+00:00 | Microsoft Copilot reaches 30 million paid users
-   - JIvvgPeBFs4 | ongoing=False | publishedAt=2026-08-10T20:31:25Z | actualEndTime=None | effective=2026-08-10 20:31:25+00:00 | Jones Act Relief Extended, Iran War Presses On | Bloomberg B
-   - ERLRyAuWnTI | ongoing=False | publishedAt=2026-08-10T20:24:47Z | actualEndTime=None | effective=2026-08-10 20:24:47+00:00 | Oil Jumps as Markets Await Middle East Clarity | Closing Bel
-   - BINaYcT1JyA | ongoing=False | publishedAt=2026-08-10T20:06:10Z | actualEndTime=None | effective=2026-08-10 20:06:10+00:00 | Trump Wants to Split Up the MMR Vaccine
-   - 5p0cQ8HZd-g | ongoing=False | publishedAt=2026-08-10T19:47:58Z | actualEndTime=None | effective=2026-08-10 19:47:58+00:00 | There Is 'Overwhelming Demand' for Crypto ETFs, Mitchnick Sa
-   - ubgNKhehVYo | ongoing=False | publishedAt=2026-08-10T19:47:55Z | actualEndTime=None | effective=2026-08-10 19:47:55+00:00 | ETFs Are 'Absolutely' Mainstream: Maier
+   - EfPGXZgZqN0 | ongoing=False | publishedAt=2026-08-11T23:38:25Z | actualEndTime=None | effective=2026-08-11 23:38:25+00:00 | The US Is Running Out of Weapons It Needs Most | Balance of 
+   - GsW8pOz03Q8 | ongoing=False | publishedAt=2026-08-11T21:57:57Z | actualEndTime=None | effective=2026-08-11 21:57:57+00:00 | Apple's Glass-Centric iPhone Is Still on Schedule to Mark De
+   - MgzyZCqh7uU | ongoing=False | publishedAt=2026-08-11T21:59:12Z | actualEndTime=None | effective=2026-08-11 21:59:12+00:00 | Markets Await CPI as AI Trade Faces Another Test | The Close
+   - FuuY7t_ZCIk | ongoing=False | publishedAt=2026-08-11T21:55:18Z | actualEndTime=None | effective=2026-08-11 21:55:18+00:00 | May Be At Bottom of Crypto Winter: Bitwise's Hougan
+   - 3A5DwkYJwog | ongoing=False | publishedAt=2026-08-11T21:55:27Z | actualEndTime=None | effective=2026-08-11 21:55:27+00:00 | Nvidia Taps Wall Street for $500 Billion Funding Commitment
+   - xTKdoPdrIZs | ongoing=False | publishedAt=2026-08-11T21:55:02Z | actualEndTime=None | effective=2026-08-11 21:55:02+00:00 | Fmr. FDA, CDC Official on Cyclospora, Food Safety Issues
+   - Iwu5wHaw_Vc | ongoing=False | publishedAt=2026-08-11T21:46:34Z | actualEndTime=None | effective=2026-08-11 21:46:34+00:00 | Crypto Hacks Easier With AI: Ledger's Rogers
+   - fJJfdw-oFPY | ongoing=False | publishedAt=2026-08-11T21:45:24Z | actualEndTime=None | effective=2026-08-11 21:45:24+00:00 | Bitcoin 'A Canary In The Coal Mine' For Hacks: Rubenfeld
+   - prvLP2aGuug | ongoing=False | publishedAt=2026-08-11T21:46:40Z | actualEndTime=None | effective=2026-08-11 21:46:40+00:00 | Don't See Evidence That US is on 'Back Heels' Against Iran, 
+   - zuBAqJr1z6s | ongoing=False | publishedAt=2026-08-11T21:45:13Z | actualEndTime=None | effective=2026-08-11 21:45:13+00:00 | Khosla Ventures' New Bet on Policy Data Company State Affair
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: SpaceX is Half a Trillion Short | My Stock Plan.
-  URL: https://www.youtube.com/watch?v=TQGrlgZpEgs
-  publishedAt: 2026-08-11T01:15:48Z
+  제목: I Can't Believe Elon Musk Did THIS  to Tesla Shareholders
+  URL: https://www.youtube.com/watch?v=qT-gBg08bMI
+  publishedAt: 2026-08-11T18:42:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - qT-gBg08bMI | ongoing=False | publishedAt=2026-08-11T18:42:53Z | actualEndTime=None | effective=2026-08-11 18:42:53+00:00 | I Can't Believe Elon Musk Did THIS  to Tesla Shareholders
+   - qmthOcInLZc | ongoing=False | publishedAt=2026-08-11T17:29:30Z | actualEndTime=None | effective=2026-08-11 17:29:30+00:00 | Did Elon Musk JUST Scam Shareholders? The Dirty SpaceX Tesla
+   - lEWTVxR11Ps | ongoing=False | publishedAt=2026-08-11T06:12:06Z | actualEndTime=None | effective=2026-08-11 06:12:06+00:00 | Starting Over, the Lying Job Market, AI Collapse, & Investin
    - TQGrlgZpEgs | ongoing=False | publishedAt=2026-08-11T01:15:48Z | actualEndTime=None | effective=2026-08-11 01:15:48+00:00 | SpaceX is Half a Trillion Short | My Stock Plan.
    - cXynn5HaxYw | ongoing=False | publishedAt=2026-08-10T21:20:55Z | actualEndTime=None | effective=2026-08-10 21:20:55+00:00 | Elon Musk Is INTENTIONALLY Crashing Tesla Stock!
    - SC0ckiweCZ8 | ongoing=False | publishedAt=2026-08-10T17:41:15Z | actualEndTime=None | effective=2026-08-10 17:41:15+00:00 | The AI Cataclysm JUST Started | AI Stock Analysis.
-   - u-LrHCmFmBY | ongoing=False | publishedAt=2026-08-10T00:11:51Z | actualEndTime=None | effective=2026-08-10 00:11:51+00:00 | Serious Iran Deterioration & War Stock Analysis.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   호르무즈 협상 난항에 유가 급등…엔비디아·인텔도 동반 하락 -  2026/08/10
-  URL: https://www.youtube.com/watch?v=RTXq80SY9tA
-  publishedAt: 2026-08-10T22:26:23Z
+  제목: 【미국 증시 오늘의 요약】   호르무즈 교착 + CPI 대기... 구글 또 급락...  -  2026/08/11
+  URL: https://www.youtube.com/watch?v=15ZWULbIrI4
+  publishedAt: 2026-08-11T22:30:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 15ZWULbIrI4 | ongoing=False | publishedAt=2026-08-11T22:30:03Z | actualEndTime=None | effective=2026-08-11 22:30:03+00:00 | 【미국 증시 오늘의 요약】   호르무즈 교착 + CPI 대기... 구글 또 급락...  -  2026/08/
+   - skKZ-Kv5xWw | ongoing=False | publishedAt=2026-08-11T22:04:04Z | actualEndTime=2026-08-11T21:49:13Z | effective=2026-08-11 21:49:13+00:00 | [26년 08월 11일 화] 실적: 슈퍼마이크로, 코어위브 등  ｜ 카타르, "이란·오만 협상, 상당히 진전
    - RTXq80SY9tA | ongoing=False | publishedAt=2026-08-10T22:26:23Z | actualEndTime=None | effective=2026-08-10 22:26:23+00:00 | 【미국 증시 오늘의 요약】   호르무즈 협상 난항에 유가 급등…엔비디아·인텔도 동반 하락 -  2026/08
    - jOTC_G8p60Q | ongoing=False | publishedAt=2026-08-10T22:06:02Z | actualEndTime=2026-08-10T21:48:04Z | effective=2026-08-10 21:48:04+00:00 | [26년 08월 10일 월]  실적: 로켓랩, 힘스앤허스 ｜ 트럼프, “이란 추가 공격보다 경제 압박에 무게
 
@@ -51,13 +55,20 @@ Run: 237 (id=31454025295)
   비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 엔비디아 이젠 올인?! 판돈이 너무 커졌습니다 ㄷㄷㄷ
+  URL: https://www.youtube.com/watch?v=UrM9JNqZs_E
+  publishedAt: 2026-08-11T16:59:21Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UrM9JNqZs_E | ongoing=False | publishedAt=2026-08-11T16:59:21Z | actualEndTime=None | effective=2026-08-11 16:59:21+00:00 | 엔비디아 이젠 올인?! 판돈이 너무 커졌습니다 ㄷㄷㄷ
+   - Npfo9poVqfo | ongoing=False | publishedAt=2026-08-12T02:36:08Z | actualEndTime=None | effective=2026-08-12 02:36:08+00:00 | 코스피 급등의 진짜 이유 #코스피 #삼성전자 #하이닉스
+   - b9yDk1E3yrA | ongoing=False | publishedAt=2026-08-11T04:34:10Z | actualEndTime=None | effective=2026-08-11 04:34:10+00:00 | 삼성전자만 오르는 진짜 이유 #코스피 #삼성전자 #하이닉스
    - krGXBybNoGg | ongoing=False | publishedAt=2026-08-10T06:18:06Z | actualEndTime=None | effective=2026-08-10 06:18:06+00:00 | 코스닥만 대폭등한 이유! #코스닥 #코스피 #하이닉스
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 4NMpSHP72C8 | ongoing=False | publishedAt=2026-08-11T10:44:50Z | actualEndTime=None | effective=2026-08-11 10:44:50+00:00 | 트럼프 칼 갈았다? 9월 미중회담 대격돌의수혜주들
    - FDSevM8o4gY | ongoing=False | publishedAt=2026-08-10T12:21:22Z | actualEndTime=None | effective=2026-08-10 12:21:22+00:00 | 긴축 우려 완화에 다시 들썩이는 증시, 8월 랠리 주인공이 될 주식들
