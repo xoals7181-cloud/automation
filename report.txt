@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-15 11:08 (KST)
-Run: 241 (id=31858376761)
+생성 시각: 2026-08-16 11:15 (KST)
+Run: 242 (id=31921463988)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,45 +8,41 @@ Run: 241 (id=31858376761)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Can Dogs Transform Cancer Screening?
-  URL: https://www.youtube.com/watch?v=N-iYkJFViqE
-  publishedAt: 2026-08-15T00:00:20Z
+  제목: Bloomberg This Weekend | Conditions Aboard the USS Abraham Lincoln, Up Close with a Drone Swarm
+  URL: https://www.youtube.com/watch?v=Z9v_NDKVkjU
+  publishedAt: 2026-08-15T16:58:55Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - N-iYkJFViqE | ongoing=False | publishedAt=2026-08-15T00:00:20Z | actualEndTime=None | effective=2026-08-15 00:00:20+00:00 | Can Dogs Transform Cancer Screening?
-   - 1GWcsTKkBXg | ongoing=False | publishedAt=2026-08-14T23:50:35Z | actualEndTime=None | effective=2026-08-14 23:50:35+00:00 | Trump on Higher Gas Prices: 'I'll Never Apologize' | Balance
-   - dN0e5vwLz_8 | ongoing=False | publishedAt=2026-08-14T23:00:31Z | actualEndTime=None | effective=2026-08-14 23:00:31+00:00 | Wall Street Week | Inflation Meets Debt, Rerouting Global Tr
-   - SgxFpB_XQPo | ongoing=False | publishedAt=2026-08-14T22:54:05Z | actualEndTime=None | effective=2026-08-14 22:54:05+00:00 | Rep. Flood: Affordability at Center of Reelection Campaign
-   - EgfYJqoeFE8 | ongoing=False | publishedAt=2026-08-14T22:41:04Z | actualEndTime=None | effective=2026-08-14 22:41:04+00:00 | Higher Gas Costs Are ‘Busting’ Budgets: Moore
-   - FR0S6HE0v0Q | ongoing=False | publishedAt=2026-08-14T22:26:53Z | actualEndTime=None | effective=2026-08-14 22:26:53+00:00 | American Dream Squeezed in K-Shaped Economy | Bloomberg Mone
-   - GQdA3xb64EQ | ongoing=False | publishedAt=2026-08-14T22:19:34Z | actualEndTime=None | effective=2026-08-14 22:19:34+00:00 | Stocks Halt Rally After Signs of Consumer Slowdown | The Clo
-   - Hd1teUjuZ2A | ongoing=False | publishedAt=2026-08-14T22:18:06Z | actualEndTime=None | effective=2026-08-14 22:18:06+00:00 | OpenAI Barrels Toward IPO, US Readies Iran Econ Attack | Blo
-   - uoNSRCFxSb8 | ongoing=False | publishedAt=2026-08-14T21:53:30Z | actualEndTime=None | effective=2026-08-14 21:53:30+00:00 | Cyclospora outbreak puts food safety to the test
-   - WfAv8nrsp9M | ongoing=False | publishedAt=2026-08-14T21:42:56Z | actualEndTime=None | effective=2026-08-14 21:42:56+00:00 | Aston Martin unveils $2 million supercar to revive fortunes
+   - Z9v_NDKVkjU | ongoing=False | publishedAt=2026-08-15T16:58:55Z | actualEndTime=None | effective=2026-08-15 16:58:55+00:00 | Bloomberg This Weekend | Conditions Aboard the USS Abraham L
+   - un4qFA_b7Io | ongoing=False | publishedAt=2026-08-15T15:39:28Z | actualEndTime=None | effective=2026-08-15 15:39:28+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - UrQjTpuYU2U | ongoing=False | publishedAt=2026-08-15T15:20:16Z | actualEndTime=None | effective=2026-08-15 15:20:16+00:00 | Colombia Quake Tests New President Days Into Term
+   - vHuqyRoIO0o | ongoing=False | publishedAt=2026-08-15T15:04:53Z | actualEndTime=None | effective=2026-08-15 15:04:53+00:00 | Drone Swarms Push AI Deeper Into Modern Warfare
+   - o03XPVQY0PI | ongoing=False | publishedAt=2026-08-15T14:52:13Z | actualEndTime=None | effective=2026-08-15 14:52:13+00:00 | Riggleman Warns Private Cyberattacks Could Backfire
+   - 1gH_O11sdJM | ongoing=False | publishedAt=2026-08-15T14:02:47Z | actualEndTime=None | effective=2026-08-15 14:02:47+00:00 | Lakers Deal Caps Billionaire Rush Into Sports
+   - 70W5_4dpPkw | ongoing=False | publishedAt=2026-08-15T14:00:12Z | actualEndTime=None | effective=2026-08-15 14:00:12+00:00 | Inside Mexico’s Pitch for an Alternative Trade Corridor
+   - sWiA7LZFQS4 | ongoing=False | publishedAt=2026-08-15T13:51:17Z | actualEndTime=None | effective=2026-08-15 13:51:17+00:00 | Strong Earnings Keep PNC’s Agati Bullish on Stocks
+   - ngqqJrOdYVE | ongoing=False | publishedAt=2026-08-15T13:36:15Z | actualEndTime=None | effective=2026-08-15 13:36:15+00:00 | US-Iran War Risks Repeated Cycles of Fighting
+   - BdBLKhNF7Y8 | ongoing=False | publishedAt=2026-08-15T13:19:38Z | actualEndTime=None | effective=2026-08-15 13:19:38+00:00 | By The Way: Headline You May Have Missed
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Trump is ABOUT to Unleash Liberation Day 2.0 to Solve IRAN | Crap.
-  URL: https://www.youtube.com/watch?v=HRVZtKNI1dA
-  publishedAt: 2026-08-14T19:01:32Z
+  제목: Why this AI Software Stock is an EASY 3x from HERE.
+  URL: https://www.youtube.com/watch?v=_AFHCJqONyk
+  publishedAt: 2026-08-15T20:06:19Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - _AFHCJqONyk | ongoing=False | publishedAt=2026-08-15T20:06:19Z | actualEndTime=None | effective=2026-08-15 20:06:19+00:00 | Why this AI Software Stock is an EASY 3x from HERE.
+   - WgLO5iBMlnY | ongoing=False | publishedAt=2026-08-15T02:59:00Z | actualEndTime=None | effective=2026-08-15 02:59:00+00:00 | The Housing Market JUST Bottomed | $200,000 Profit Deal
    - HRVZtKNI1dA | ongoing=False | publishedAt=2026-08-14T19:01:32Z | actualEndTime=None | effective=2026-08-14 19:01:32+00:00 | Trump is ABOUT to Unleash Liberation Day 2.0 to Solve IRAN |
    - 7lOJLymVMjs | ongoing=False | publishedAt=2026-08-14T17:15:28Z | actualEndTime=None | effective=2026-08-14 17:15:28+00:00 | The Tesla Flying Roadster Launch Event & SPCX Merger Price.
    - qeOdoumCX_Q | ongoing=False | publishedAt=2026-08-14T16:24:23Z | actualEndTime=None | effective=2026-08-14 16:24:23+00:00 | The AI Debt Bubble is POPPING
-   - 0st1nrd-Qw4 | ongoing=False | publishedAt=2026-08-13T15:47:19Z | actualEndTime=None | effective=2026-08-13 15:47:19+00:00 | The SEC *JUST* Flipped the AI Bubble | Bullish on Fraud.
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   최고치 찍고 후퇴한 미 증시… '금리 동결' 호재도 못 막은 소비 둔화 우려   -  2026/08/14
-  URL: https://www.youtube.com/watch?v=20isK5Gc8ds
-  publishedAt: 2026-08-14T22:40:04Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 20isK5Gc8ds | ongoing=False | publishedAt=2026-08-14T22:40:04Z | actualEndTime=None | effective=2026-08-14 22:40:04+00:00 | 【미국 증시 오늘의 요약】   최고치 찍고 후퇴한 미 증시… '금리 동결' 호재도 못 막은 소비 둔화 우려 
    - nQg3FHbhlvo | ongoing=False | publishedAt=2026-08-14T22:08:57Z | actualEndTime=2026-08-14T21:50:27Z | effective=2026-08-14 21:50:27+00:00 | [26년 08월 14일 금]  소매판매, 기대인플레이션 ｜ 2분기 13F 제출 마감일 ｜ 미국, "이란, 경
-   - RNqOywglP_M | ongoing=False | publishedAt=2026-08-13T22:35:12Z | actualEndTime=None | effective=2026-08-13 22:35:12+00:00 | 【미국 증시 오늘의 요약】   물가 둔화에 환호한 월가… 샌디스크 12% 폭등이 이끈 반도체 랠리   -  
-   - 2KYLM1DONRs | ongoing=False | publishedAt=2026-08-13T22:09:26Z | actualEndTime=2026-08-13T21:51:46Z | effective=2026-08-13 21:51:46+00:00 | [26년 08월 13일 목]  생산자 물가지수(PPI), 30년물 국채 경매 ｜ 샌디스크, '인베스터 데이'
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -56,9 +52,7 @@ Run: 241 (id=31858376761)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 5fLVQ7nTGiE | ongoing=False | publishedAt=2026-08-13T18:07:15Z | actualEndTime=None | effective=2026-08-13 18:07:15+00:00 | 메모리 주식 다시 폭등하는 이유
    - rndoZoZmJRs | ongoing=False | publishedAt=2026-08-14T05:52:05Z | actualEndTime=None | effective=2026-08-14 05:52:05+00:00 | 삼전닉스 재평가 시작? #하이닉스 #삼성전자 #코스피
-   - QF0D8XVq8G0 | ongoing=False | publishedAt=2026-08-13T03:34:27Z | actualEndTime=None | effective=2026-08-13 03:34:27+00:00 | 닉스전자에 삼성전기까지?? 대폭등의 이유? #삼성전기 #삼성전자 #하이닉스
 
 - 소수몽키
   상태: NO_VIDEO
