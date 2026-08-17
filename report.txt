@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-16 11:15 (KST)
-Run: 242 (id=31921463988)
+생성 시각: 2026-08-17 11:13 (KST)
+Run: 243 (id=31987340826)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,41 +8,32 @@ Run: 242 (id=31921463988)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bloomberg This Weekend | Conditions Aboard the USS Abraham Lincoln, Up Close with a Drone Swarm
-  URL: https://www.youtube.com/watch?v=Z9v_NDKVkjU
-  publishedAt: 2026-08-15T16:58:55Z
+  제목: Bloomberg This Weekend | Meta on Trial, the Race To Replace Gov. DeSantis, and Pet Longevity
+  URL: https://www.youtube.com/watch?v=yQxxcI4xGkc
+  publishedAt: 2026-08-16T16:41:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Z9v_NDKVkjU | ongoing=False | publishedAt=2026-08-15T16:58:55Z | actualEndTime=None | effective=2026-08-15 16:58:55+00:00 | Bloomberg This Weekend | Conditions Aboard the USS Abraham L
-   - un4qFA_b7Io | ongoing=False | publishedAt=2026-08-15T15:39:28Z | actualEndTime=None | effective=2026-08-15 15:39:28+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - UrQjTpuYU2U | ongoing=False | publishedAt=2026-08-15T15:20:16Z | actualEndTime=None | effective=2026-08-15 15:20:16+00:00 | Colombia Quake Tests New President Days Into Term
-   - vHuqyRoIO0o | ongoing=False | publishedAt=2026-08-15T15:04:53Z | actualEndTime=None | effective=2026-08-15 15:04:53+00:00 | Drone Swarms Push AI Deeper Into Modern Warfare
-   - o03XPVQY0PI | ongoing=False | publishedAt=2026-08-15T14:52:13Z | actualEndTime=None | effective=2026-08-15 14:52:13+00:00 | Riggleman Warns Private Cyberattacks Could Backfire
-   - 1gH_O11sdJM | ongoing=False | publishedAt=2026-08-15T14:02:47Z | actualEndTime=None | effective=2026-08-15 14:02:47+00:00 | Lakers Deal Caps Billionaire Rush Into Sports
-   - 70W5_4dpPkw | ongoing=False | publishedAt=2026-08-15T14:00:12Z | actualEndTime=None | effective=2026-08-15 14:00:12+00:00 | Inside Mexico’s Pitch for an Alternative Trade Corridor
-   - sWiA7LZFQS4 | ongoing=False | publishedAt=2026-08-15T13:51:17Z | actualEndTime=None | effective=2026-08-15 13:51:17+00:00 | Strong Earnings Keep PNC’s Agati Bullish on Stocks
-   - ngqqJrOdYVE | ongoing=False | publishedAt=2026-08-15T13:36:15Z | actualEndTime=None | effective=2026-08-15 13:36:15+00:00 | US-Iran War Risks Repeated Cycles of Fighting
-   - BdBLKhNF7Y8 | ongoing=False | publishedAt=2026-08-15T13:19:38Z | actualEndTime=None | effective=2026-08-15 13:19:38+00:00 | By The Way: Headline You May Have Missed
+   - yQxxcI4xGkc | ongoing=False | publishedAt=2026-08-16T16:41:39Z | actualEndTime=None | effective=2026-08-16 16:41:39+00:00 | Bloomberg This Weekend | Meta on Trial, the Race To Replace 
+   - MGVI8-3-v4c | ongoing=False | publishedAt=2026-08-16T15:33:27Z | actualEndTime=None | effective=2026-08-16 15:33:27+00:00 | Fed’s Internal Rate Debate Faces New Scrutiny
+   - 3Yls-798AMs | ongoing=False | publishedAt=2026-08-16T15:25:26Z | actualEndTime=None | effective=2026-08-16 15:25:26+00:00 | Inside the Business of Ultra Luxury Travel
+   - 0AyvZ0jiahg | ongoing=False | publishedAt=2026-08-16T15:17:12Z | actualEndTime=None | effective=2026-08-16 15:17:12+00:00 | Donalds Looks to Build on DeSantis Legacy
+   - TT3cAdpPzNc | ongoing=False | publishedAt=2026-08-16T15:05:23Z | actualEndTime=None | effective=2026-08-16 15:05:23+00:00 | Beef Prices Stay High as US Cattle Supply Shrinks
+   - 9noopoMkzpE | ongoing=False | publishedAt=2026-08-16T14:49:01Z | actualEndTime=None | effective=2026-08-16 14:49:01+00:00 | Wisconsin Turnout Fuels Democrats’ Midterm Hopes
+   - HvCn5hPVMbs | ongoing=False | publishedAt=2026-08-16T14:36:08Z | actualEndTime=None | effective=2026-08-16 14:36:08+00:00 | Bonta Says Meta Put Profit Over Children’s Safety
+   - AWMrdf_ToJk | ongoing=False | publishedAt=2026-08-16T14:00:39Z | actualEndTime=None | effective=2026-08-16 14:00:39+00:00 | Is Cuba Finally Ready for Capitalism?
+   - QZYGNj0J4xg | ongoing=False | publishedAt=2026-08-16T13:51:57Z | actualEndTime=None | effective=2026-08-16 13:51:57+00:00 | Longevity Boom Reaches America’s Pets
+   - H_O43fxO1FE | ongoing=False | publishedAt=2026-08-16T13:41:31Z | actualEndTime=None | effective=2026-08-16 13:41:31+00:00 | AI Perfection Fuels a Return to Looking Human
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Why this AI Software Stock is an EASY 3x from HERE.
-  URL: https://www.youtube.com/watch?v=_AFHCJqONyk
-  publishedAt: 2026-08-15T20:06:19Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - _AFHCJqONyk | ongoing=False | publishedAt=2026-08-15T20:06:19Z | actualEndTime=None | effective=2026-08-15 20:06:19+00:00 | Why this AI Software Stock is an EASY 3x from HERE.
-   - WgLO5iBMlnY | ongoing=False | publishedAt=2026-08-15T02:59:00Z | actualEndTime=None | effective=2026-08-15 02:59:00+00:00 | The Housing Market JUST Bottomed | $200,000 Profit Deal
-   - HRVZtKNI1dA | ongoing=False | publishedAt=2026-08-14T19:01:32Z | actualEndTime=None | effective=2026-08-14 19:01:32+00:00 | Trump is ABOUT to Unleash Liberation Day 2.0 to Solve IRAN |
-   - 7lOJLymVMjs | ongoing=False | publishedAt=2026-08-14T17:15:28Z | actualEndTime=None | effective=2026-08-14 17:15:28+00:00 | The Tesla Flying Roadster Launch Event & SPCX Merger Price.
-   - qeOdoumCX_Q | ongoing=False | publishedAt=2026-08-14T16:24:23Z | actualEndTime=None | effective=2026-08-14 16:24:23+00:00 | The AI Debt Bubble is POPPING
-
-- 오선의 미국 증시
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 20isK5Gc8ds | ongoing=False | publishedAt=2026-08-14T22:40:04Z | actualEndTime=None | effective=2026-08-14 22:40:04+00:00 | 【미국 증시 오늘의 요약】   최고치 찍고 후퇴한 미 증시… '금리 동결' 호재도 못 막은 소비 둔화 우려 
-   - nQg3FHbhlvo | ongoing=False | publishedAt=2026-08-14T22:08:57Z | actualEndTime=2026-08-14T21:50:27Z | effective=2026-08-14 21:50:27+00:00 | [26년 08월 14일 금]  소매판매, 기대인플레이션 ｜ 2분기 13F 제출 마감일 ｜ 미국, "이란, 경
+   - _AFHCJqONyk | ongoing=False | publishedAt=2026-08-15T20:06:19Z | actualEndTime=None | effective=2026-08-15 20:06:19+00:00 | Why this AI Software Stock is an EASY 3x from HERE.
+   - WgLO5iBMlnY | ongoing=False | publishedAt=2026-08-15T02:59:00Z | actualEndTime=None | effective=2026-08-15 02:59:00+00:00 | The Housing Market JUST Bottomed | $200,000 Profit Deal
+
+- 오선의 미국 증시
+  상태: NO_VIDEO
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -52,7 +43,7 @@ Run: 242 (id=31921463988)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - rndoZoZmJRs | ongoing=False | publishedAt=2026-08-14T05:52:05Z | actualEndTime=None | effective=2026-08-14 05:52:05+00:00 | 삼전닉스 재평가 시작? #하이닉스 #삼성전자 #코스피
+   - 8JBWRBPIw2A | ongoing=False | publishedAt=2026-08-16T08:14:43Z | actualEndTime=None | effective=2026-08-16 08:14:43+00:00 | 절반을 틀리고도 떼돈을 번다? 세계최고 펀드매니저의 비밀은?
 
 - 소수몽키
   상태: NO_VIDEO
