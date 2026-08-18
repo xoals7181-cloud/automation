@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-17 11:13 (KST)
-Run: 243 (id=31987340826)
+생성 시각: 2026-08-18 11:09 (KST)
+Run: 244 (id=32090813878)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,43 +8,58 @@ Run: 243 (id=31987340826)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bloomberg This Weekend | Meta on Trial, the Race To Replace Gov. DeSantis, and Pet Longevity
-  URL: https://www.youtube.com/watch?v=yQxxcI4xGkc
-  publishedAt: 2026-08-16T16:41:39Z
+  제목: Former AG: Blanche is 'Partly Right' on DOJ Independence
+  URL: https://www.youtube.com/watch?v=Jbgmy2f50Ig
+  publishedAt: 2026-08-18T01:24:57Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - yQxxcI4xGkc | ongoing=False | publishedAt=2026-08-16T16:41:39Z | actualEndTime=None | effective=2026-08-16 16:41:39+00:00 | Bloomberg This Weekend | Meta on Trial, the Race To Replace 
-   - MGVI8-3-v4c | ongoing=False | publishedAt=2026-08-16T15:33:27Z | actualEndTime=None | effective=2026-08-16 15:33:27+00:00 | Fed’s Internal Rate Debate Faces New Scrutiny
-   - 3Yls-798AMs | ongoing=False | publishedAt=2026-08-16T15:25:26Z | actualEndTime=None | effective=2026-08-16 15:25:26+00:00 | Inside the Business of Ultra Luxury Travel
-   - 0AyvZ0jiahg | ongoing=False | publishedAt=2026-08-16T15:17:12Z | actualEndTime=None | effective=2026-08-16 15:17:12+00:00 | Donalds Looks to Build on DeSantis Legacy
-   - TT3cAdpPzNc | ongoing=False | publishedAt=2026-08-16T15:05:23Z | actualEndTime=None | effective=2026-08-16 15:05:23+00:00 | Beef Prices Stay High as US Cattle Supply Shrinks
-   - 9noopoMkzpE | ongoing=False | publishedAt=2026-08-16T14:49:01Z | actualEndTime=None | effective=2026-08-16 14:49:01+00:00 | Wisconsin Turnout Fuels Democrats’ Midterm Hopes
-   - HvCn5hPVMbs | ongoing=False | publishedAt=2026-08-16T14:36:08Z | actualEndTime=None | effective=2026-08-16 14:36:08+00:00 | Bonta Says Meta Put Profit Over Children’s Safety
-   - AWMrdf_ToJk | ongoing=False | publishedAt=2026-08-16T14:00:39Z | actualEndTime=None | effective=2026-08-16 14:00:39+00:00 | Is Cuba Finally Ready for Capitalism?
-   - QZYGNj0J4xg | ongoing=False | publishedAt=2026-08-16T13:51:57Z | actualEndTime=None | effective=2026-08-16 13:51:57+00:00 | Longevity Boom Reaches America’s Pets
-   - H_O43fxO1FE | ongoing=False | publishedAt=2026-08-16T13:41:31Z | actualEndTime=None | effective=2026-08-16 13:41:31+00:00 | AI Perfection Fuels a Return to Looking Human
+   - Jbgmy2f50Ig | ongoing=False | publishedAt=2026-08-18T01:24:57Z | actualEndTime=None | effective=2026-08-18 01:24:57+00:00 | Former AG: Blanche is 'Partly Right' on DOJ Independence
+   - pJZS6acqd7U | ongoing=False | publishedAt=2026-08-18T01:25:02Z | actualEndTime=None | effective=2026-08-18 01:25:02+00:00 | Trump Shouldn't Rush Iran Strategy: Rep. Issa
+   - hjU5lejgp-0 | ongoing=False | publishedAt=2026-08-17T23:52:18Z | actualEndTime=None | effective=2026-08-17 23:52:18+00:00 | Trump on Kim Jong Un: I Get Along With Him | Balance of Powe
+   - Ks9SPcreI_Q | ongoing=False | publishedAt=2026-08-17T22:03:32Z | actualEndTime=None | effective=2026-08-17 22:03:32+00:00 | Stocks & Bonds Fall as Oil Rises on Geopolitical Tensions | 
+   - UFkNJr7mIPU | ongoing=False | publishedAt=2026-08-17T20:51:59Z | actualEndTime=None | effective=2026-08-17 20:51:59+00:00 | Anthropic's Revenue Surges as IPO Speculation Builds
+   - u8tKrFM36X4 | ongoing=False | publishedAt=2026-08-17T20:49:30Z | actualEndTime=None | effective=2026-08-17 20:49:30+00:00 | Iran Feels It Has 'New Leverage' In MidEast Amid War with US
+   - 1G_QUkT9xpg | ongoing=False | publishedAt=2026-08-17T20:48:54Z | actualEndTime=None | effective=2026-08-17 20:48:54+00:00 | Fmr Pepsico Executive: Consumers Are Being Intentional
+   - R5mJr-Kn1oU | ongoing=False | publishedAt=2026-08-17T20:49:03Z | actualEndTime=None | effective=2026-08-17 20:49:03+00:00 | Iran War Update: Trump Says Oman Hasn’t Behaved Very Well (Q
+   - hxbWRGdxGBA | ongoing=False | publishedAt=2026-08-17T20:43:51Z | actualEndTime=None | effective=2026-08-17 20:43:51+00:00 | Anthropic Revenue Boom Boosts AI Stocks | Bloomberg Business
+   - tK70e_c9b9U | ongoing=False | publishedAt=2026-08-17T20:26:54Z | actualEndTime=None | effective=2026-08-17 20:26:54+00:00 | Stocks Slip as Oil and Treasury Yields Rise | Closing Bell
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Avoid Sandisk Stock UNTIL you Understand THIS.
+  URL: https://www.youtube.com/watch?v=fncenq4KmDE
+  publishedAt: 2026-08-17T22:59:03Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - _AFHCJqONyk | ongoing=False | publishedAt=2026-08-15T20:06:19Z | actualEndTime=None | effective=2026-08-15 20:06:19+00:00 | Why this AI Software Stock is an EASY 3x from HERE.
-   - WgLO5iBMlnY | ongoing=False | publishedAt=2026-08-15T02:59:00Z | actualEndTime=None | effective=2026-08-15 02:59:00+00:00 | The Housing Market JUST Bottomed | $200,000 Profit Deal
+   - fncenq4KmDE | ongoing=False | publishedAt=2026-08-17T22:59:03Z | actualEndTime=None | effective=2026-08-17 22:59:03+00:00 | Avoid Sandisk Stock UNTIL you Understand THIS.
+   - FpVxKh9qMIY | ongoing=False | publishedAt=2026-08-17T15:36:14Z | actualEndTime=None | effective=2026-08-17 15:36:14+00:00 | Trump Admin Threatens NUCLEAR STRIKE | Iran and WW3??
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】   이란 협상 다시 교착…유가 91달러·30년물 금리 2007년 이후 최고   -  2026/08/17
+  URL: https://www.youtube.com/watch?v=W2UzQX7assw
+  publishedAt: 2026-08-17T22:17:09Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - W2UzQX7assw | ongoing=False | publishedAt=2026-08-17T22:17:09Z | actualEndTime=None | effective=2026-08-17 22:17:09+00:00 | 【미국 증시 오늘의 요약】   이란 협상 다시 교착…유가 91달러·30년물 금리 2007년 이후 최고   -
+   - kwp4Se4LOMw | ongoing=False | publishedAt=2026-08-17T21:57:07Z | actualEndTime=2026-08-17T21:35:27Z | effective=2026-08-17 21:35:27+00:00 | [26년 08월 17일 월]  앤트로픽, 2분기 매출 전년 대비 14배 급증 ｜ BofA, '메모리 현물가 
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 빅테크의 숨겨진 부채 3조달러? WSJ 충격의 보도
+  URL: https://www.youtube.com/watch?v=58-w7YceFss
+  publishedAt: 2026-08-17T17:33:58Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 58-w7YceFss | ongoing=False | publishedAt=2026-08-17T17:33:58Z | actualEndTime=None | effective=2026-08-17 17:33:58+00:00 | 빅테크의 숨겨진 부채 3조달러? WSJ 충격의 보도
    - 8JBWRBPIw2A | ongoing=False | publishedAt=2026-08-16T08:14:43Z | actualEndTime=None | effective=2026-08-16 08:14:43+00:00 | 절반을 틀리고도 떼돈을 번다? 세계최고 펀드매니저의 비밀은?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - EBrpasxcrQk | ongoing=False | publishedAt=2026-08-17T10:50:13Z | actualEndTime=None | effective=2026-08-17 10:50:13+00:00 | 미국의 중국 메모리 때리기 본격 시작? AI랠리 다시 시작될까
