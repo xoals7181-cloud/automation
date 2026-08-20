@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-19 11:12 (KST)
-Run: 245 (id=32207687793)
+생성 시각: 2026-08-20 11:10 (KST)
+Run: 246 (id=32323706134)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,61 @@ Run: 245 (id=32207687793)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Roz Brewer says US retail needs global partners#shorts #consumer #economy #globaleconomy
-  URL: https://www.youtube.com/watch?v=cY1e965KH24
-  publishedAt: 2026-08-18T23:46:04Z
+  제목: Democratic Socialist Wins Upset in FL Senate Primary | Balance of Power 08/19/2026
+  URL: https://www.youtube.com/watch?v=hMuzmC_L0o0
+  publishedAt: 2026-08-19T23:17:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - cY1e965KH24 | ongoing=False | publishedAt=2026-08-18T23:46:04Z | actualEndTime=None | effective=2026-08-18 23:46:04+00:00 | Roz Brewer says US retail needs global partners#shorts #cons
-   - GsBChsuJRoc | ongoing=False | publishedAt=2026-08-18T23:42:15Z | actualEndTime=None | effective=2026-08-18 23:42:15+00:00 | US National Debt on Brink of Passing $40 Trillion | Balance 
-   - L2jkKJnwb-k | ongoing=False | publishedAt=2026-08-18T23:35:19Z | actualEndTime=None | effective=2026-08-18 23:35:19+00:00 | Leaning into AI helps VC founders, says Revolution's Hall #s
-   - ksdnRjEwLtY | ongoing=False | publishedAt=2026-08-18T22:27:28Z | actualEndTime=None | effective=2026-08-18 22:27:28+00:00 | Roz Brewer Talks College Aid, Walgreens and Retail
-   - j-61xcBNGew | ongoing=False | publishedAt=2026-08-18T22:21:44Z | actualEndTime=None | effective=2026-08-18 22:21:44+00:00 | Chip Stocks Slide as Global Bond Anxiety Builds | The Close 
-   - N8Ak5CqBdDk | ongoing=False | publishedAt=2026-08-18T22:10:53Z | actualEndTime=None | effective=2026-08-18 22:10:53+00:00 | Global Bond Slump Raises Fed Questions | Bloomberg Businessw
-   - 6VpG3nuykoY | ongoing=False | publishedAt=2026-08-18T21:30:24Z | actualEndTime=None | effective=2026-08-18 21:30:24+00:00 | Crypto CEOs, Surviving Crypto Winter | Bloomberg Crypto 8/18
-   - j9LKs33HDr0 | ongoing=False | publishedAt=2026-08-18T21:23:50Z | actualEndTime=None | effective=2026-08-18 21:23:50+00:00 | Long-Term Debt Costs Soar to Highest in Decades as Bonds Slu
-   - P_sKdmpP9Bs | ongoing=False | publishedAt=2026-08-18T21:09:47Z | actualEndTime=None | effective=2026-08-18 21:09:47+00:00 | What to Expect When China's Xi Goes to Washington Next Month
-   - 3EywxJnV8tk | ongoing=False | publishedAt=2026-08-18T21:10:21Z | actualEndTime=None | effective=2026-08-18 21:10:21+00:00 | Texas Has 'No Real Protections' Against Data Center Impact, 
+   - hMuzmC_L0o0 | ongoing=False | publishedAt=2026-08-19T23:17:01Z | actualEndTime=None | effective=2026-08-19 23:17:01+00:00 | Democratic Socialist Wins Upset in FL Senate Primary | Balan
+   - atpy7HGGOog | ongoing=False | publishedAt=2026-08-19T22:43:26Z | actualEndTime=None | effective=2026-08-19 22:43:26+00:00 | Fed Minutes Released as Yields Continue Climb | Bloomberg Bu
+   - LFjCsz7fqyw | ongoing=False | publishedAt=2026-08-19T22:13:33Z | actualEndTime=None | effective=2026-08-19 22:13:33+00:00 | Markets Rebound as Treasury Moves to Rein In Yields | The Cl
+   - mArrHOelfqc | ongoing=False | publishedAt=2026-08-19T21:15:23Z | actualEndTime=None | effective=2026-08-19 21:15:23+00:00 | Mark Walter Scrambles for Deals, Shein Readies IPO | Bloombe
+   - RfI3BorI5ps | ongoing=False | publishedAt=2026-08-19T20:49:11Z | actualEndTime=None | effective=2026-08-19 20:49:11+00:00 | SpaceX attempted to acquire AI coding startup Cognition
+   - X7ICjuOsbFA | ongoing=False | publishedAt=2026-08-19T20:39:24Z | actualEndTime=None | effective=2026-08-19 20:39:24+00:00 | Trump Says He May Lower Tariffs on Canada to Other Countries
+   - OOIoNswXVL0 | ongoing=False | publishedAt=2026-08-19T20:39:42Z | actualEndTime=None | effective=2026-08-19 20:39:42+00:00 | Trump Hosts Crypto Leaders at White House (Remarks)
+   - inSCLwwz9x4 | ongoing=False | publishedAt=2026-08-19T20:25:41Z | actualEndTime=None | effective=2026-08-19 20:25:41+00:00 | Moderna Surges as Stocks Rise & Long-Term Yields Retreat | C
+   - L4hcwEKLSaw | ongoing=False | publishedAt=2026-08-19T20:13:34Z | actualEndTime=None | effective=2026-08-19 20:13:34+00:00 | Trump Says Interest Rate System Doesn't Make Sense
+   - Y74d7O8QaTQ | ongoing=False | publishedAt=2026-08-19T20:11:17Z | actualEndTime=None | effective=2026-08-19 20:11:17+00:00 | SpaceX Attempted to Buy AI Coding Startup Cognition
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: We Are Approaching A RECESSION!
-  URL: https://www.youtube.com/watch?v=ldqt59DLUfE
-  publishedAt: 2026-08-18T23:02:31Z
+  제목: Why This Is The BEST Time To Be A Real Estate Agent! 🏡
+  URL: https://www.youtube.com/watch?v=W40FxkGtaUI
+  publishedAt: 2026-08-19T22:00:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - W40FxkGtaUI | ongoing=False | publishedAt=2026-08-19T22:00:38Z | actualEndTime=None | effective=2026-08-19 22:00:38+00:00 | Why This Is The BEST Time To Be A Real Estate Agent! 🏡
    - ldqt59DLUfE | ongoing=False | publishedAt=2026-08-18T23:02:31Z | actualEndTime=None | effective=2026-08-18 23:02:31+00:00 | We Are Approaching A RECESSION!
    - g_X7iywi9Jo | ongoing=False | publishedAt=2026-08-18T16:37:57Z | actualEndTime=None | effective=2026-08-18 16:37:57+00:00 | Prepare for Jackson Hole | Kevin Warsh is SCREWED.
-   - fncenq4KmDE | ongoing=False | publishedAt=2026-08-17T22:59:03Z | actualEndTime=None | effective=2026-08-17 22:59:03+00:00 | Avoid Sandisk Stock UNTIL you Understand THIS.
-   - FpVxKh9qMIY | ongoing=False | publishedAt=2026-08-17T15:36:14Z | actualEndTime=None | effective=2026-08-17 15:36:14+00:00 | Trump Admin Threatens NUCLEAR STRIKE | Iran and WW3??
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   국채금리 급등에 반도체 무너졌다…미 증시 3일 연속 하락  -  2026/08/18
-  URL: https://www.youtube.com/watch?v=g1_F8QEffkA
-  publishedAt: 2026-08-18T22:15:35Z
+  제목: 【미국 증시 오늘의 요약】   모더나 177% 경이적인 폭등! 반면 오픈AI 실망감에 AMD·브로드컴은 울었다  -  2026/08/19
+  URL: https://www.youtube.com/watch?v=Wy2o_dyCuLI
+  publishedAt: 2026-08-19T22:29:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Wy2o_dyCuLI | ongoing=False | publishedAt=2026-08-19T22:29:06Z | actualEndTime=None | effective=2026-08-19 22:29:06+00:00 | 【미국 증시 오늘의 요약】   모더나 177% 경이적인 폭등! 반면 오픈AI 실망감에 AMD·브로드컴은 울었
+   - 4hQ_AoxyzD0 | ongoing=False | publishedAt=2026-08-19T21:56:06Z | actualEndTime=2026-08-19T21:36:36Z | effective=2026-08-19 21:36:36+00:00 | [26년 08월 19일 수]  20년물 국채 경매, FOMC 의사록 ｜ SK하이닉스, 290억 달러 자사주 
    - g1_F8QEffkA | ongoing=False | publishedAt=2026-08-18T22:15:35Z | actualEndTime=None | effective=2026-08-18 22:15:35+00:00 | 【미국 증시 오늘의 요약】   국채금리 급등에 반도체 무너졌다…미 증시 3일 연속 하락  -  2026/08
    - CpWhSBRg92k | ongoing=False | publishedAt=2026-08-18T21:49:05Z | actualEndTime=2026-08-18T21:29:00Z | effective=2026-08-18 21:29:00+00:00 | [26년 08월 18일 화]  장기 국채 금리 급등에 기술주 약세｜ 메타, 주정부와 법정 공방 예정 ｜ Bo
-   - W2UzQX7assw | ongoing=False | publishedAt=2026-08-17T22:17:09Z | actualEndTime=None | effective=2026-08-17 22:17:09+00:00 | 【미국 증시 오늘의 요약】   이란 협상 다시 교착…유가 91달러·30년물 금리 2007년 이후 최고   -
-   - kwp4Se4LOMw | ongoing=False | publishedAt=2026-08-17T21:57:07Z | actualEndTime=2026-08-17T21:35:27Z | effective=2026-08-17 21:35:27+00:00 | [26년 08월 17일 월]  앤트로픽, 2분기 매출 전년 대비 14배 급증 ｜ BofA, '메모리 현물가 
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 삼전닉스 개박살 나는 진짜 이유 #삼성전자 #하이닉스 #코스피
-  URL: https://www.youtube.com/watch?v=DPn3CErrwDw
-  publishedAt: 2026-08-19T01:07:21Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - WdQtcrI2Whc | ongoing=False | publishedAt=2026-08-19T09:23:46Z | actualEndTime=None | effective=2026-08-19 09:23:46+00:00 | 하이닉스 40조원 자사주 소각!? #하이닉스 #삼성전자 #코스피
    - DPn3CErrwDw | ongoing=False | publishedAt=2026-08-19T01:07:21Z | actualEndTime=None | effective=2026-08-19 01:07:21+00:00 | 삼전닉스 개박살 나는 진짜 이유 #삼성전자 #하이닉스 #코스피
    - TqR7mYPkNe4 | ongoing=False | publishedAt=2026-08-18T16:39:26Z | actualEndTime=None | effective=2026-08-18 16:39:26+00:00 | 장기 채권 시장이 개박살난 진짜 이유
    - RE4wiN1qDyw | ongoing=False | publishedAt=2026-08-18T04:01:09Z | actualEndTime=None | effective=2026-08-18 04:01:09+00:00 | 잘나가던 삼전닉스 암초를 만나다... #삼성전자 #하이닉스 #채권금리
-   - 58-w7YceFss | ongoing=False | publishedAt=2026-08-17T17:33:58Z | actualEndTime=None | effective=2026-08-17 17:33:58+00:00 | 빅테크의 숨겨진 부채 3조달러? WSJ 충격의 보도
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 8JAo0OuKLzs | ongoing=False | publishedAt=2026-08-19T11:55:12Z | actualEndTime=None | effective=2026-08-19 11:55:12+00:00 | 월가 초고수들은 뭘 사고 뭘 팔았을까, 동시에 찍은 주식들의 공통점
    - I9c5nDHD_t8 | ongoing=False | publishedAt=2026-08-18T11:35:14Z | actualEndTime=None | effective=2026-08-18 11:35:14+00:00 | 반도체 담보 대출까지 등장? 광기의 AI투자 붐, 불길한 조짐일까
-   - EBrpasxcrQk | ongoing=False | publishedAt=2026-08-17T10:50:13Z | actualEndTime=None | effective=2026-08-17 10:50:13+00:00 | 미국의 중국 메모리 때리기 본격 시작? AI랠리 다시 시작될까
