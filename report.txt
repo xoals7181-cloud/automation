@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-22 11:09 (KST)
-Run: 248 (id=32545458715)
+생성 시각: 2026-08-23 11:18 (KST)
+Run: 249 (id=32612540188)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,56 +8,54 @@ Run: 248 (id=32545458715)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Mixed Data Offers Fed Room to Wait | Presented by CME Group
-  URL: https://www.youtube.com/watch?v=FsZu4mQZdJY
-  publishedAt: 2026-08-22T01:27:08Z
+  제목: Parents Pay $95,000 For Gap Years To Future Proof Their Kids’ Careers
+  URL: https://www.youtube.com/watch?v=Url5THgzYeI
+  publishedAt: 2026-08-22T23:00:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - FsZu4mQZdJY | ongoing=False | publishedAt=2026-08-22T01:27:08Z | actualEndTime=None | effective=2026-08-22 01:27:08+00:00 | Mixed Data Offers Fed Room to Wait | Presented by CME Group
-   - 5bAjtI9xY_M | ongoing=False | publishedAt=2026-08-22T01:08:35Z | actualEndTime=None | effective=2026-08-22 01:08:35+00:00 | Is a September Rate Hike Now Off the Table? | Presented by C
-   - VFMli_AWb04 | ongoing=False | publishedAt=2026-08-22T00:42:50Z | actualEndTime=None | effective=2026-08-22 00:42:50+00:00 | Could El Niño Spark a Global Grain Supply Crunch? | Presente
-   - o3oQkfi4FQA | ongoing=False | publishedAt=2026-08-21T23:00:27Z | actualEndTime=None | effective=2026-08-21 23:00:27+00:00 | Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colo
-   - XoT_4xIGlm4 | ongoing=False | publishedAt=2026-08-21T23:00:17Z | actualEndTime=None | effective=2026-08-21 23:00:17+00:00 | Canada Nears Trump Trade Deal | Balance of Power 8/21/2026
-   - 0nDDFF0V6Z8 | ongoing=False | publishedAt=2026-08-21T21:57:51Z | actualEndTime=None | effective=2026-08-21 21:57:51+00:00 | Stocks Rally but End a Volatile Week Lower | The Close 8/21/
-   - RyIQkL7uXSM | ongoing=False | publishedAt=2026-08-21T21:31:20Z | actualEndTime=None | effective=2026-08-21 21:31:20+00:00 | Parents Spend $95K on Gap Years to Give Their Kids an Edge
-   - iWzC3jx_8qs | ongoing=False | publishedAt=2026-08-21T21:28:24Z | actualEndTime=None | effective=2026-08-21 21:28:24+00:00 | Young Americans Living In 'Treat Economy': Kevin Gordon
-   - RlKcdl84cbo | ongoing=False | publishedAt=2026-08-21T21:28:03Z | actualEndTime=None | effective=2026-08-21 21:28:03+00:00 | 'Something Has To Give' On US Fiscal Policy: Patterson
-   - KM-UliJKPE8 | ongoing=False | publishedAt=2026-08-21T21:28:42Z | actualEndTime=None | effective=2026-08-21 21:28:42+00:00 | Millennials Feel Good About Their Finances, the Data Show Wh
+   - Url5THgzYeI | ongoing=False | publishedAt=2026-08-22T23:00:09Z | actualEndTime=None | effective=2026-08-22 23:00:09+00:00 | Parents Pay $95,000 For Gap Years To Future Proof Their Kids
+   - A3YfPtl04rE | ongoing=False | publishedAt=2026-08-22T20:07:38Z | actualEndTime=None | effective=2026-08-22 20:07:38+00:00 | Bloomberg Previews Jackson Hole Symposium
+   - OD5RweOOqQE | ongoing=False | publishedAt=2026-08-22T16:05:55Z | actualEndTime=None | effective=2026-08-22 16:05:55+00:00 | Bloomberg This Weekend | Trade War Escalates, Pushback on Be
+   - y8gUv5LH8iM | ongoing=False | publishedAt=2026-08-22T15:08:31Z | actualEndTime=None | effective=2026-08-22 15:08:31+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - BDT8ZjHVJdY | ongoing=False | publishedAt=2026-08-22T14:34:55Z | actualEndTime=None | effective=2026-08-22 14:34:55+00:00 | US Colleges Face a Shrinking Student Pipeline
+   - GsK0ZEzUn-c | ongoing=False | publishedAt=2026-08-22T14:21:46Z | actualEndTime=None | effective=2026-08-22 14:21:46+00:00 | Sanctions Target Iran’s Weakened Regional Network
+   - 3-dT_Jw86oI | ongoing=False | publishedAt=2026-08-22T14:04:31Z | actualEndTime=None | effective=2026-08-22 14:04:31+00:00 | Small Dogs, Big Demand as Dachshund Popularity Takes Off
+   - xRTEnjtwgf4 | ongoing=False | publishedAt=2026-08-22T14:00:23Z | actualEndTime=None | effective=2026-08-22 14:00:23+00:00 | Study Shows AI Hitting Paychecks, Not Payrolls
+   - DjNZN_tkBCY | ongoing=False | publishedAt=2026-08-22T13:52:20Z | actualEndTime=None | effective=2026-08-22 13:52:20+00:00 | American Whiskey Pays Price for Canada Trade Rift
+   - pVHb9lpxv_Q | ongoing=False | publishedAt=2026-08-22T13:36:14Z | actualEndTime=None | effective=2026-08-22 13:36:14+00:00 | MI6 Veteran Warns Against Politicizing Intelligence
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Is Tesla Making FLYING Cars   🚀
-  URL: https://www.youtube.com/watch?v=Myc2RLwWWiA
-  publishedAt: 2026-08-22T01:00:15Z
+  제목: The Failed Market Bailout is getting WORSE.
+  URL: https://www.youtube.com/watch?v=V0f1gPAdhW8
+  publishedAt: 2026-08-22T20:55:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - V0f1gPAdhW8 | ongoing=False | publishedAt=2026-08-22T20:55:06Z | actualEndTime=None | effective=2026-08-22 20:55:06+00:00 | The Failed Market Bailout is getting WORSE.
+   - PUx7e8BTpTo | ongoing=False | publishedAt=2026-08-22T17:09:41Z | actualEndTime=None | effective=2026-08-22 17:09:41+00:00 | Mamdani did EXACTLY what Rich Landlords Feared.
+   - CtDHe40mDhg | ongoing=False | publishedAt=2026-08-22T13:00:24Z | actualEndTime=None | effective=2026-08-22 13:00:24+00:00 | Why This Is The BEST Time To Be A Real Estate Agent! 🏡
    - Myc2RLwWWiA | ongoing=False | publishedAt=2026-08-22T01:00:15Z | actualEndTime=None | effective=2026-08-22 01:00:15+00:00 | Is Tesla Making FLYING Cars   🚀
    - BrfvDIeIiXI | ongoing=False | publishedAt=2026-08-21T22:19:05Z | actualEndTime=None | effective=2026-08-21 22:19:05+00:00 | Shocking: Supreme Court ALLOWS Trump To Construct Ballroom
    - C-enH3V5NWw | ongoing=False | publishedAt=2026-08-21T21:51:23Z | actualEndTime=2026-08-21T21:29:07Z | effective=2026-08-21 21:29:07+00:00 | Bailout Lash Out, Anthropic IPO, Memory Stocks [Market Open 
    - efWYw0ruXl8 | ongoing=False | publishedAt=2026-08-21T18:14:56Z | actualEndTime=None | effective=2026-08-21 18:14:56+00:00 | The Next 2008? Why Citadel Just Liquidated 80% Before the $1
    - RKmVf88IXgE | ongoing=False | publishedAt=2026-08-21T16:47:38Z | actualEndTime=None | effective=2026-08-21 16:47:38+00:00 | My Tesla Price Target JUST Went Up. Here's Why.
    - L0tnAO6GTsc | ongoing=False | publishedAt=2026-08-21T15:02:59Z | actualEndTime=None | effective=2026-08-21 15:02:59+00:00 | America’s INSANE Plan To Make Deal With Iran!
-   - A_4DV1jy4Rk | ongoing=False | publishedAt=2026-08-20T15:32:22Z | actualEndTime=None | effective=2026-08-20 15:32:22+00:00 | The U.S. Market Bailout JUST Failed.
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   재무부 바이백에도 못 잡은 금리... 다음 주 엔비디아·잭슨홀 '운명의 한 주'  -  2026/08/21
-  URL: https://www.youtube.com/watch?v=Xo4z3Yx99Ek
-  publishedAt: 2026-08-21T22:30:07Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - Xo4z3Yx99Ek | ongoing=False | publishedAt=2026-08-21T22:30:07Z | actualEndTime=None | effective=2026-08-21 22:30:07+00:00 | 【미국 증시 오늘의 요약】   재무부 바이백에도 못 잡은 금리... 다음 주 엔비디아·잭슨홀 '운명의 한 주
    - GNHoadbvLZU | ongoing=False | publishedAt=2026-08-21T21:55:10Z | actualEndTime=2026-08-21T21:34:14Z | effective=2026-08-21 21:34:14+00:00 | [26년 08월 21일 금]  미 국채 바이백에 달러 약세…금·비트코인 동반 급등 ｜  월간 옵션 만기 ｜ 
-   - At1WtXiOiZY | ongoing=False | publishedAt=2026-08-20T22:33:22Z | actualEndTime=None | effective=2026-08-20 22:33:22+00:00 | 【미국 증시 오늘의 요약】   바이백도 못 막았다…국채금리 다시 4.7%·유가 급등, 월마트 9% 폭락  -
-   - IuMqEC-vDAM | ongoing=False | publishedAt=2026-08-20T22:05:04Z | actualEndTime=2026-08-20T21:46:08Z | effective=2026-08-20 21:46:08+00:00 | [26년 08월 20일 목]  미국 부채 사상 첫 40조달러 돌파 ｜ 트럼프, “이란에 가장 강력한 경제 제
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 아깝지만 어쩔 수 없네요...
-  URL: https://www.youtube.com/watch?v=nCu7qZY55gY
-  publishedAt: 2026-08-22T00:00:13Z
+  제목: 삼성전자 주주환원 발표!! 적정주가는 왜 30만원인가??
+  URL: https://www.youtube.com/watch?v=DQ2MwinHaj4
+  publishedAt: 2026-08-23T00:00:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - DQ2MwinHaj4 | ongoing=False | publishedAt=2026-08-23T00:00:05Z | actualEndTime=None | effective=2026-08-23 00:00:05+00:00 | 삼성전자 주주환원 발표!! 적정주가는 왜 30만원인가??
    - nCu7qZY55gY | ongoing=False | publishedAt=2026-08-22T00:00:13Z | actualEndTime=None | effective=2026-08-22 00:00:13+00:00 | 아깝지만 어쩔 수 없네요...
 
 - 내일은 투자왕 - 김단테
@@ -66,7 +64,6 @@ Run: 248 (id=32545458715)
   후보(최신 10개) 디버그:
    - UNgLTYd__yc | ongoing=False | publishedAt=2026-08-21T09:03:53Z | actualEndTime=None | effective=2026-08-21 09:03:53+00:00 | 삼전 주주환원 실망스러운 이유 #삼성전자 #하이닉스 #주주환원
    - 6hYSZm4hOx8 | ongoing=False | publishedAt=2026-08-21T05:56:20Z | actualEndTime=None | effective=2026-08-21 05:56:20+00:00 | 코스닥은 개박살나는데 코스피는 잘 버티는 이유 #삼성전자 #하이닉스 #주주환원
-   - HoSJYeWdOXc | ongoing=False | publishedAt=2026-08-20T05:24:43Z | actualEndTime=None | effective=2026-08-20 05:24:43+00:00 | 40조 축포의 진정한 주인공 #하이닉스 #삼성전자 #SK증권
 
 - 소수몽키
   상태: NO_VIDEO
