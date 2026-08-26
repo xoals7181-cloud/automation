@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-25 11:12 (KST)
-Run: 251 (id=32800516055)
+생성 시각: 2026-08-26 11:19 (KST)
+Run: 252 (id=32922252820)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,79 @@ Run: 251 (id=32800516055)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bessent Unleashes ‘Operation Economic Outcast’ on Iran | Balance of Power 08/24/2026
-  URL: https://www.youtube.com/watch?v=r6NY13D-Ab4
-  publishedAt: 2026-08-24T23:28:56Z
+  제목: Canada Doubles Tariffs on US Steel Products up to 50% | Balance of Power 08/25/2026
+  URL: https://www.youtube.com/watch?v=nkhi9F14g4c
+  publishedAt: 2026-08-25T23:15:42Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - r6NY13D-Ab4 | ongoing=False | publishedAt=2026-08-24T23:28:56Z | actualEndTime=None | effective=2026-08-24 23:28:56+00:00 | Bessent Unleashes ‘Operation Economic Outcast’ on Iran | Bal
-   - C9Sz4UT8r2E | ongoing=False | publishedAt=2026-08-24T22:46:26Z | actualEndTime=None | effective=2026-08-24 22:46:26+00:00 | Bessent Warns of Economic Asphyxiation | Bloomberg Businessw
-   - WqbFb-4lbZY | ongoing=False | publishedAt=2026-08-24T22:01:33Z | actualEndTime=None | effective=2026-08-24 22:01:33+00:00 | Markets Slip as Nvidia, Yields & the Debasement Trade Loom |
-   - lKcCF1bmilo | ongoing=False | publishedAt=2026-08-24T21:40:48Z | actualEndTime=None | effective=2026-08-24 21:40:48+00:00 | Treasury Buybacks Are a 'Cloud' Over Markets, Apollo's Slok 
-   - ODV6CPifqjA | ongoing=False | publishedAt=2026-08-24T21:40:59Z | actualEndTime=None | effective=2026-08-24 21:40:59+00:00 | Canada Sees US Trade War Dragging Past Midterms
-   - t99mjOuG1Qo | ongoing=False | publishedAt=2026-08-24T21:36:30Z | actualEndTime=None | effective=2026-08-24 21:36:30+00:00 | China Sentences Evergrande’s Hui to Life in Prison
-   - r36toZBD-ik | ongoing=False | publishedAt=2026-08-24T21:36:48Z | actualEndTime=None | effective=2026-08-24 21:36:48+00:00 | US Tells Iran’s Trade Partners to Cut Ties or Face Sanctions
-   - dA-FAx19xBY | ongoing=False | publishedAt=2026-08-24T21:36:44Z | actualEndTime=None | effective=2026-08-24 21:36:44+00:00 | Odd Lots: Why Many Communities Are Skeptical of the AI Boom
-   - cRLkqwqSZzI | ongoing=False | publishedAt=2026-08-24T21:36:38Z | actualEndTime=None | effective=2026-08-24 21:36:38+00:00 | Will Singapore’s Baby Push Work as Births Tumble?
-   - U_MlyRQSI0M | ongoing=False | publishedAt=2026-08-24T21:32:18Z | actualEndTime=None | effective=2026-08-24 21:32:18+00:00 | Ontario's Ford Says Standing Up to Trump Won't Be Easy
+   - nkhi9F14g4c | ongoing=False | publishedAt=2026-08-25T23:15:42Z | actualEndTime=None | effective=2026-08-25 23:15:42+00:00 | Canada Doubles Tariffs on US Steel Products up to 50% | Bala
+   - ca-0sqRRNuY | ongoing=False | publishedAt=2026-08-25T21:55:01Z | actualEndTime=None | effective=2026-08-25 21:55:01+00:00 | Stocks Rise as Oil and Treasury Yields Fall | The Close 8/25
+   - Y2b2pI8g-pU | ongoing=False | publishedAt=2026-08-25T21:48:40Z | actualEndTime=None | effective=2026-08-25 21:48:40+00:00 | Sen. Ted Cruz on Canada Trade, Data Center Backlash and Clar
+   - zvE5u4wo-qo | ongoing=False | publishedAt=2026-08-25T21:22:55Z | actualEndTime=None | effective=2026-08-25 21:22:55+00:00 | Northrop CEO on Defense Spending, Golden Dome System
+   - NSAPBfQcx_M | ongoing=False | publishedAt=2026-08-25T21:11:14Z | actualEndTime=None | effective=2026-08-25 21:11:14+00:00 | Bessent's Bond Buying "Mistake" | Bloomberg Businessweek Dai
+   - UtBNV4wWzFM | ongoing=False | publishedAt=2026-08-25T20:56:01Z | actualEndTime=None | effective=2026-08-25 20:56:01+00:00 | Bitcoin Tops $80K as Bullish Mood Returns to Crypto Market
+   - ZXuYc_5ojxA | ongoing=False | publishedAt=2026-08-25T20:25:42Z | actualEndTime=None | effective=2026-08-25 20:25:42+00:00 | Intuit Sinks 11% on Weak Outlook as Nvidia Earnings Loom | C
+   - Q_sQgM3ioBU | ongoing=False | publishedAt=2026-08-25T20:18:01Z | actualEndTime=None | effective=2026-08-25 20:18:01+00:00 | Canada Ready to Go Tariff-For-Tariff With US, Ford Says
+   - 0YsBOG8Agq0 | ongoing=False | publishedAt=2026-08-25T20:12:18Z | actualEndTime=None | effective=2026-08-25 20:12:18+00:00 | Canada Matches Trump Tariffs | Radio Balance of Power: Early
+   - XKF1_DX2YW8 | ongoing=False | publishedAt=2026-08-25T20:06:36Z | actualEndTime=None | effective=2026-08-25 20:06:36+00:00 | Trump Opens Door to Hyperliquid In 'Unprecedented Move'
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: David Sacks *JUST* Exposed the TOP of the AI Bubble | Critical.
-  URL: https://www.youtube.com/watch?v=vZbeKXfoGqo
-  publishedAt: 2026-08-25T01:40:51Z
+  제목: 85% of our Assets are in THIS.
+  URL: https://www.youtube.com/watch?v=DHsmhs-0jhA
+  publishedAt: 2026-08-26T02:15:01Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - DHsmhs-0jhA | ongoing=False | publishedAt=2026-08-26T02:15:01Z | actualEndTime=None | effective=2026-08-26 02:15:01+00:00 | 85% of our Assets are in THIS.
+   - k8G5q7x2v7E | ongoing=False | publishedAt=2026-08-25T23:18:11Z | actualEndTime=None | effective=2026-08-25 23:18:11+00:00 | Tesla Stock Is About To SKYROCKET! 🚀
+   - hPGGYrkHEp8 | ongoing=False | publishedAt=2026-08-25T21:22:04Z | actualEndTime=None | effective=2026-08-25 21:22:04+00:00 | The SpaceX Starship Game Changer could 5x the Stock.
+   - G8G8f1GYJnY | ongoing=False | publishedAt=2026-08-25T21:01:47Z | actualEndTime=2026-08-25T20:37:29Z | effective=2026-08-25 20:37:29+00:00 | Russia, Markets, Stocks, Recovery
+   - 7Ta_gIGnzHY | ongoing=False | publishedAt=2026-08-25T17:29:44Z | actualEndTime=None | effective=2026-08-25 17:29:44+00:00 | **Prepare** Critical Nvidia Stock Earnings
+   - jvHyWY6-OdY | ongoing=False | publishedAt=2026-08-25T14:59:12Z | actualEndTime=None | effective=2026-08-25 14:59:12+00:00 | Trump Admin *JUST* Went to Russia | ENDING WAR??!?!?!
    - vZbeKXfoGqo | ongoing=False | publishedAt=2026-08-25T01:40:51Z | actualEndTime=None | effective=2026-08-25 01:40:51+00:00 | David Sacks *JUST* Exposed the TOP of the AI Bubble | Critic
    - XOIYWyuZxwE | ongoing=False | publishedAt=2026-08-24T23:11:05Z | actualEndTime=None | effective=2026-08-24 23:11:05+00:00 | Nancy Pelosi Reveals MASSIVE 7-figure AI Stock Purchase
    - 89XwgeVbGqQ | ongoing=False | publishedAt=2026-08-24T21:16:19Z | actualEndTime=2026-08-24T20:52:15Z | effective=2026-08-24 20:52:15+00:00 | Memory Stock Crash, Bessent Bailout, Iran, Stocks & Real Est
    - wjI4dnMex_4 | ongoing=False | publishedAt=2026-08-24T17:42:02Z | actualEndTime=None | effective=2026-08-24 17:42:02+00:00 | *Economic D-Day was JUST Announced: Treasury Sh*t Show.
-   - b8sn14gAOI0 | ongoing=False | publishedAt=2026-08-24T15:05:44Z | actualEndTime=None | effective=2026-08-24 15:05:44+00:00 | The Memory Collapse JUST Started | Here's WHY.
-   - uvn601N26Vw | ongoing=False | publishedAt=2026-08-24T01:00:00Z | actualEndTime=None | effective=2026-08-24 01:00:00+00:00 | Did Elon Musk Just SCAM Shareholders
-   - YFZUJvajve4 | ongoing=False | publishedAt=2026-08-23T21:51:53Z | actualEndTime=None | effective=2026-08-23 21:51:53+00:00 | Avoid these 2 Deadly Home Buyer Mistakes
-   - JCSvFeMsm8A | ongoing=False | publishedAt=2026-08-23T13:30:09Z | actualEndTime=None | effective=2026-08-23 13:30:09+00:00 | Will Palantir 4x In REVENUE
-   - oA6hHPPNTR4 | ongoing=False | publishedAt=2026-08-23T06:30:17Z | actualEndTime=None | effective=2026-08-23 06:30:17+00:00 | Microsoft Just TRICKED The System!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】   엔비디아·워시에 달렸다…이번 주 미국 증시 최대 분수령  -  2026/08/24
-  URL: https://www.youtube.com/watch?v=8qfsjor-atY
-  publishedAt: 2026-08-24T22:18:10Z
+  제목: 【미국 증시 오늘의 요약】   숨죽인 월가, 엔비디아 '운명의 날' 대기… "작은 실수도 용납 안 돼   -  2026/08/25
+  URL: https://www.youtube.com/watch?v=FgaqD3-kpzM
+  publishedAt: 2026-08-25T21:51:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - FgaqD3-kpzM | ongoing=False | publishedAt=2026-08-25T21:51:36Z | actualEndTime=None | effective=2026-08-25 21:51:36+00:00 | 【미국 증시 오늘의 요약】   숨죽인 월가, 엔비디아 '운명의 날' 대기… "작은 실수도 용납 안 돼   -
+   - 0QGli1zKH_Y | ongoing=False | publishedAt=2026-08-25T21:39:59Z | actualEndTime=2026-08-25T21:12:52Z | effective=2026-08-25 21:12:52+00:00 | [26년 08월 25일 화]  미국, 중동 대사관 인력 정상화 착수 ｜ 이란 “파키스탄의 이란 방문 생산적”
    - 8qfsjor-atY | ongoing=False | publishedAt=2026-08-24T22:18:10Z | actualEndTime=None | effective=2026-08-24 22:18:10+00:00 | 【미국 증시 오늘의 요약】   엔비디아·워시에 달렸다…이번 주 미국 증시 최대 분수령  -  2026/08/
    - 94ssTCH4Tts | ongoing=False | publishedAt=2026-08-24T21:50:20Z | actualEndTime=2026-08-24T21:32:43Z | effective=2026-08-24 21:32:43+00:00 | [26년 08월 24일 월]  베센트 재무장관, ‘이란 추가 제재’ 발표｜  캐나다, 무역전쟁 장기전 대비 
-   - hn38XA56MMY | ongoing=False | publishedAt=2026-08-23T13:22:50Z | actualEndTime=2026-08-23T13:18:27Z | effective=2026-08-23 13:18:27+00:00 | [생방송] 주말 노가리 방송 ~~ 야호 v - 오선의 미국 증시 라이브
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 살 기회는 자꾸 주는데, 팔 기회를 안주네요ㅣ[아침뉴스&미국시황] #260825
-  URL: https://www.youtube.com/watch?v=bvrSVQdrcpM
-  publishedAt: 2026-08-25T00:18:28Z
-  actualEndTime: 2026-08-25T00:03:09Z
+  제목: 33만 5,000명 주주님들이 두렵지 않습니까...??ㅣSK아이이테크놀로지에는 무슨일이 벌어지고 있나??
+  URL: https://www.youtube.com/watch?v=OvAy4068Gj8
+  publishedAt: 2026-08-26T00:07:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - OvAy4068Gj8 | ongoing=False | publishedAt=2026-08-26T00:07:47Z | actualEndTime=None | effective=2026-08-26 00:07:47+00:00 | 33만 5,000명 주주님들이 두렵지 않습니까...??ㅣSK아이이테크놀로지에는 무슨일이 벌어지고 있나??
+   - 5o7N8s7-Ogw | ongoing=False | publishedAt=2026-08-25T23:51:48Z | actualEndTime=2026-08-25T23:47:45Z | effective=2026-08-25 23:47:45+00:00 | 긴장 내려간 호르무즈, 협상 다시 시작한다?ㅣ엔비디아 D-1, 어짜피 반도체는 잘팔린다구!!ㅣ[아침뉴스&미국
    - bvrSVQdrcpM | ongoing=False | publishedAt=2026-08-25T00:18:28Z | actualEndTime=2026-08-25T00:03:09Z | effective=2026-08-25 00:03:09+00:00 | 살 기회는 자꾸 주는데, 팔 기회를 안주네요ㅣ[아침뉴스&미국시황] #260825
-   - 9N4T8yIO1RY | ongoing=False | publishedAt=2026-08-24T03:00:20Z | actualEndTime=None | effective=2026-08-24 03:00:20+00:00 | 카카오X, 카카오AI, 카카오모빌리티... 역시 깍까오!!!
-   - vidZ48cBAUc | ongoing=False | publishedAt=2026-08-24T00:31:38Z | actualEndTime=2026-08-24T00:21:07Z | effective=2026-08-24 00:21:07+00:00 | 삼성전자, 주주환원 반응 올까?ㅣK-주식, 오늘도 큰 거 준비했습니다ㅣ[아침뉴스&미국시황] #260824
+   - 9N4T8yIO1RY | ongoing=False | publishedAt=2026-08-24T03:00:20Z | actualEndTime=None | effective=2026-08-24 03:00:20+00:00 | 카카오를 믿었습니까 닝겐?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 6개월만에 움직이기 시작한 피터틸. 여기에 몰빵했네요.
+  URL: https://www.youtube.com/watch?v=TOsfupzFO-0
+  publishedAt: 2026-08-25T15:27:07Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - TOsfupzFO-0 | ongoing=False | publishedAt=2026-08-25T15:27:07Z | actualEndTime=None | effective=2026-08-25 15:27:07+00:00 | 6개월만에 움직이기 시작한 피터틸. 여기에 몰빵했네요.
+   - IiqvNEYh7ZE | ongoing=False | publishedAt=2026-08-25T06:52:45Z | actualEndTime=None | effective=2026-08-25 06:52:45+00:00 | 코스피 부활의 3가지 이유 #하이닉스 #코스피 #삼성전자
+   - cWFyHkM_D_Y | ongoing=False | publishedAt=2026-08-25T02:54:09Z | actualEndTime=None | effective=2026-08-25 02:54:09+00:00 | 삼전닉스 대형악재 3가지
    - a0BWX2Qp6Cs | ongoing=False | publishedAt=2026-08-24T06:13:06Z | actualEndTime=None | effective=2026-08-24 06:13:06+00:00 | 삼성전자 주주환원의 나비효과 #삼성전자 #주주환원 #나비효과
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - p5clxqxGFNw | ongoing=False | publishedAt=2026-08-25T11:40:57Z | actualEndTime=None | effective=2026-08-25 11:40:57+00:00 | 생존 모드 포트폴리오로 다 바꿔라? 월가 초고수의 소름 돋는 경고, 적중할까
    - whg3s-6oRpQ | ongoing=False | publishedAt=2026-08-24T11:50:36Z | actualEndTime=None | effective=2026-08-24 11:50:36+00:00 | 일단 돈 풀어 위기 막고 본다? 달러 붕괴 공포에 빠르게 돈 몰리는 자산들
