@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-28 21:23 (KST)
-Run: 254 (id=33170840514)
+생성 시각: 2026-08-29 16:32 (KST)
+Run: 255 (id=33241067318)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,63 +8,66 @@ Run: 254 (id=33170840514)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Stocks, Bonds Waver Ahead of Warsh Speech | Bloomberg Brief 08/28/2026
-  URL: https://www.youtube.com/watch?v=6x0O9Ekktq8
-  publishedAt: 2026-08-28T11:44:09Z
+  제목: Inside India's AI Ambitions
+  URL: https://www.youtube.com/watch?v=ewNvfLsJPRw
+  publishedAt: 2026-08-29T05:00:10Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 6x0O9Ekktq8 | ongoing=False | publishedAt=2026-08-28T11:44:09Z | actualEndTime=None | effective=2026-08-28 11:44:09+00:00 | Stocks, Bonds Waver Ahead of Warsh Speech | Bloomberg Brief 
-   - fEwO7sGvQlQ | ongoing=False | publishedAt=2026-08-28T10:42:59Z | actualEndTime=None | effective=2026-08-28 10:42:59+00:00 | Venezuela Weighs OPEC Exit; France Just Dodges Recession | T
-   - 1Py7NNldDvI | ongoing=False | publishedAt=2026-08-28T09:30:47Z | actualEndTime=None | effective=2026-08-28 09:30:47+00:00 | Warsh Speech from Jackson Hole on Deck | Opening Trade 8/28/
-   - A9_r23ztjmg | ongoing=False | publishedAt=2026-08-28T07:40:21Z | actualEndTime=None | effective=2026-08-28 07:40:21+00:00 | Dollar and Yields Await Cues From Warsh: 3-Minutes MLIV
-   - xgETmjN-kK8 | ongoing=False | publishedAt=2026-08-28T07:15:46Z | actualEndTime=None | effective=2026-08-28 07:15:46+00:00 | Nepal Looks To Rebuild As Flood Death Toll Rises | Insight w
-   - QtIjdnNEZa4 | ongoing=False | publishedAt=2026-08-28T06:42:43Z | actualEndTime=None | effective=2026-08-28 06:42:43+00:00 | Fed Chairman Kevin Warsh to Speak at Jackson Hole | Daybreak
-   - E4CSRJmsiK8 | ongoing=False | publishedAt=2026-08-28T06:35:29Z | actualEndTime=None | effective=2026-08-28 06:35:29+00:00 | Nvidia's Cracking Outlook Fuels AI Optimism: Market Snapshot
-   - _oIjykm_ZhI | ongoing=False | publishedAt=2026-08-28T06:07:11Z | actualEndTime=None | effective=2026-08-28 06:07:11+00:00 | China's Most Valuable Company Faces First Earnings Test | Th
-   - rVLjaCvM21M | ongoing=False | publishedAt=2026-08-28T05:56:51Z | actualEndTime=None | effective=2026-08-28 05:56:51+00:00 | Hormuz Oil Flows Recover as Supply Fears Ease | Horizons Mid
-   - m8GPfCQYGTY | ongoing=False | publishedAt=2026-08-28T05:52:09Z | actualEndTime=None | effective=2026-08-28 05:52:09+00:00 | Judge Lifts US Ban on Anthropic's Use for Federal Agencies
+   - ewNvfLsJPRw | ongoing=False | publishedAt=2026-08-29T05:00:10Z | actualEndTime=None | effective=2026-08-29 05:00:10+00:00 | Inside India's AI Ambitions
+   - 2GLQKsFTstk | ongoing=False | publishedAt=2026-08-29T04:00:09Z | actualEndTime=None | effective=2026-08-29 04:00:09+00:00 | India’s Cheap Weight-Loss Drugs Get A Reality Check
+   - lwtCOYBATGo | ongoing=False | publishedAt=2026-08-29T02:00:11Z | actualEndTime=None | effective=2026-08-29 02:00:11+00:00 | How China’s Microdramas Became a Billion Dollar Industry
+   - L_gSOV_vgX4 | ongoing=False | publishedAt=2026-08-28T23:52:48Z | actualEndTime=None | effective=2026-08-28 23:52:48+00:00 | US War With Iran Hits Six Month Mark | Balance of Power 08/2
+   - kuovsGgT2hs | ongoing=False | publishedAt=2026-08-28T23:13:40Z | actualEndTime=None | effective=2026-08-28 23:13:40+00:00 | Sec. Panetta: US Is Trapped In Another Forever War
+   - _7jvVMfYsV0 | ongoing=False | publishedAt=2026-08-28T23:07:05Z | actualEndTime=None | effective=2026-08-28 23:07:05+00:00 | Rep. Trahan: Federal AI Governance Is 'Missing'
+   - g85BqSYoI6A | ongoing=False | publishedAt=2026-08-28T23:00:07Z | actualEndTime=None | effective=2026-08-28 23:00:07+00:00 | India Is One of the World’s Most Obese Countries, But Few In
+   - cc9K3NSbxas | ongoing=False | publishedAt=2026-08-28T23:00:09Z | actualEndTime=None | effective=2026-08-28 23:00:09+00:00 | Wall Street Week | Debt & Consequences, Defying Fiscal Gravi
+   - e3ya_gnioP8 | ongoing=False | publishedAt=2026-08-28T23:00:52Z | actualEndTime=None | effective=2026-08-28 23:00:52+00:00 | Duppler: Warsh’s Credit Message Mattered More Than Rates
+   - knpmSP45F7w | ongoing=False | publishedAt=2026-08-28T22:10:12Z | actualEndTime=None | effective=2026-08-28 22:10:12+00:00 | Warsh Says Inflation Isn't Slowing | The Close 8/28/2026
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: SpaceX to $5,000 - Major New Price Target
-  URL: https://www.youtube.com/watch?v=Gh9cHyd-2RE
-  publishedAt: 2026-08-28T01:45:43Z
+  제목: This Mag 7 Stock is About to FACE RIP STRAIGHT UP
+  URL: https://www.youtube.com/watch?v=9hksB8dM9Hs
+  publishedAt: 2026-08-29T05:12:57Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 9hksB8dM9Hs | ongoing=False | publishedAt=2026-08-29T05:12:57Z | actualEndTime=None | effective=2026-08-29 05:12:57+00:00 | This Mag 7 Stock is About to FACE RIP STRAIGHT UP
+   - eLIpo0ngSik | ongoing=False | publishedAt=2026-08-29T02:29:44Z | actualEndTime=None | effective=2026-08-29 02:29:44+00:00 | The Software Stock Bottom is IN: Is it TOO LATE to Buy?
+   - XIWEXfUjHQA | ongoing=False | publishedAt=2026-08-28T22:37:58Z | actualEndTime=None | effective=2026-08-28 22:37:58+00:00 | The FAILED Bailout of Japan JUST got Worse: Treasury LASHES 
+   - 1Rc3iSBa-Yk | ongoing=False | publishedAt=2026-08-28T22:06:19Z | actualEndTime=2026-08-28T22:00:51Z | effective=2026-08-28 22:00:51+00:00 | Hardware AI Stocks Reverse POST Jackson Hole
+   - FTjUH-MaNZ4 | ongoing=False | publishedAt=2026-08-28T19:00:12Z | actualEndTime=None | effective=2026-08-28 19:00:12+00:00 | CIA Director Just Landed In Russia!
+   - sUafm8OMiJI | ongoing=False | publishedAt=2026-08-28T18:03:20Z | actualEndTime=None | effective=2026-08-28 18:03:20+00:00 | Is the AI Trade DEAD? The FULL AI Stock Thesis Break Down.
+   - rQd0t6aIkh8 | ongoing=False | publishedAt=2026-08-28T17:52:00Z | actualEndTime=2026-08-28T17:42:10Z | effective=2026-08-28 17:42:10+00:00 | HERE WE GO. Fed Jackson Hole Speech.
+   - O_Mq7qnOiVg | ongoing=False | publishedAt=2026-08-28T16:49:56Z | actualEndTime=None | effective=2026-08-28 16:49:56+00:00 | Exposing NVIDA's BIGGEST Secret
+   - iPgzXZFYhk8 | ongoing=False | publishedAt=2026-08-28T15:00:39Z | actualEndTime=None | effective=2026-08-28 15:00:39+00:00 | BIG MISTAKE: The Fed's Jackson Hole Meeting
    - Gh9cHyd-2RE | ongoing=False | publishedAt=2026-08-28T01:45:43Z | actualEndTime=None | effective=2026-08-28 01:45:43+00:00 | SpaceX to $5,000 - Major New Price Target
-   - D3x1hRnO6lQ | ongoing=False | publishedAt=2026-08-27T20:44:12Z | actualEndTime=2026-08-27T20:39:48Z | effective=2026-08-27 20:39:48+00:00 | Major Earnings: Marvell, Iren, Autodesk, Affirm, Workday Sto
-   - f5NpZAfP6tQ | ongoing=False | publishedAt=2026-08-27T19:09:02Z | actualEndTime=2026-08-27T18:53:57Z | effective=2026-08-27 18:53:57+00:00 | The AI Stock Rally is BACK. For Now.
-   - eIgv4Jv0M2o | ongoing=False | publishedAt=2026-08-27T18:52:48Z | actualEndTime=None | effective=2026-08-27 18:52:48+00:00 | The NEXT AI 10x Stock Sector I'm BUYING
-   - 7HzWkElE2AI | ongoing=False | publishedAt=2026-08-27T16:00:36Z | actualEndTime=None | effective=2026-08-27 16:00:36+00:00 | My FINAL Warning: Prepare for the Fed Tomorrow.
-   - BDie2OOHRK8 | ongoing=False | publishedAt=2026-08-27T12:37:18Z | actualEndTime=None | effective=2026-08-27 12:37:18+00:00 | Nvidia JUST Proved the AI Stock Bubble is about to Burst.
-   - cUBs63TEmw4 | ongoing=False | publishedAt=2026-08-27T02:00:07Z | actualEndTime=None | effective=2026-08-27 02:00:07+00:00 | Nebius Stock (NBIS) Price Target JUST Jumped
-   - kT6FSjNtQp4 | ongoing=False | publishedAt=2026-08-27T00:15:19Z | actualEndTime=None | effective=2026-08-27 00:15:19+00:00 | An Quick Update on My Startup: Reinvest.
-   - 1eGxXBJ_P1k | ongoing=False | publishedAt=2026-08-26T23:10:50Z | actualEndTime=None | effective=2026-08-26 23:10:50+00:00 | Watch BEFORE Buying More Dell Stock for AI
-   - 11WUDAgareM | ongoing=False | publishedAt=2026-08-26T21:11:10Z | actualEndTime=None | effective=2026-08-26 21:11:10+00:00 | Nvidia Stock CRUSHES | But BAD OMEN INSIDE.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 8OBsb3PVwpg | ongoing=True | publishedAt=2026-08-28T11:58:58Z | actualEndTime=None | effective=2026-08-28 11:58:58+00:00 | [생방송]  연준 의장, 잭슨홀 연설에 시장 관심 집중 ｜ 창신메모리, 상반기 매출 10배 증가 ｜ 소비자심
-   - bMpElckfoJ0 | ongoing=False | publishedAt=2026-08-27T22:45:23Z | actualEndTime=2026-08-27T21:45:44Z | effective=2026-08-27 21:45:44+00:00 | [26년 08월 27일 목]  엔비디아 CEO, “성장세 더 빨라지고 있다” ｜ 미국, 반도체 관세 확대 검
-   - E15s44NFg00 | ongoing=False | publishedAt=2026-08-27T22:27:34Z | actualEndTime=None | effective=2026-08-27 22:27:34+00:00 | 【미국 증시 오늘의 요약】   엔비디아 시총 4,400억 달러 폭증! 다시 시작된 AI 랠리?  -  202
-   - mkuDbZjchxM | ongoing=False | publishedAt=2026-08-26T23:10:00Z | actualEndTime=None | effective=2026-08-26 23:10:00+00:00 | 【미국 증시 오늘의 요약】   엔비디아 시간외 4% 급등! 실적·가이던스 모두 상회  -  2026/08/2
-   - _oEmvtsetsU | ongoing=False | publishedAt=2026-08-26T23:01:18Z | actualEndTime=2026-08-26T22:41:29Z | effective=2026-08-26 22:41:29+00:00 | [26년 08월 26일 수]  엔비디아, 실적발표 및 어닝콜 ｜ 베센트 풋 효과? 국채 금리 하락 ｜ 메타,
-
-- 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - QcVSbZOaWVo | ongoing=False | publishedAt=2026-08-27T01:00:24Z | actualEndTime=None | effective=2026-08-27 01:00:24+00:00 | 이런 종목 잡으면 진짜 골로 간다
-
-- 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 주도 섹터 교체? #하이닉스 #삼성전자 #화장품
-  URL: https://www.youtube.com/watch?v=AaLkwjMohWQ
-  publishedAt: 2026-08-28T06:45:41Z
+  제목: 【미국 증시 오늘의 요약】  워시 "물가 2% 될 때까지 멈추지 않는다"… 9월 금리 인상 확률 50% 넘겼다  -  2026/08/28
+  URL: https://www.youtube.com/watch?v=0IrKZlEsCvM
+  publishedAt: 2026-08-28T22:23:22Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 0IrKZlEsCvM | ongoing=False | publishedAt=2026-08-28T22:23:22Z | actualEndTime=None | effective=2026-08-28 22:23:22+00:00 | 【미국 증시 오늘의 요약】  워시 "물가 2% 될 때까지 멈추지 않는다"… 9월 금리 인상 확률 50% 넘겼
+   - 8OBsb3PVwpg | ongoing=False | publishedAt=2026-08-28T21:28:11Z | actualEndTime=2026-08-28T21:13:10Z | effective=2026-08-28 21:13:10+00:00 | [26년 08월 28일 금]  케빈 워시 연준 의장 잭슨홀 연설 ｜ 창신메모리, 상반기 매출 10배 증가 ｜
+   - bMpElckfoJ0 | ongoing=False | publishedAt=2026-08-27T22:45:23Z | actualEndTime=2026-08-27T21:45:44Z | effective=2026-08-27 21:45:44+00:00 | [26년 08월 27일 목]  엔비디아 CEO, “성장세 더 빨라지고 있다” ｜ 미국, 반도체 관세 확대 검
+   - E15s44NFg00 | ongoing=False | publishedAt=2026-08-27T22:27:34Z | actualEndTime=None | effective=2026-08-27 22:27:34+00:00 | 【미국 증시 오늘의 요약】   엔비디아 시총 4,400억 달러 폭증! 다시 시작된 AI 랠리?  -  202
+
+- 설명왕 테이버
+  상태: NO_TRANSCRIPT
+  제목: 한국 주식은 내려치기🔽, 미국 주식은 올려치기🔼... 이제는 지겹네요...
+  URL: https://www.youtube.com/watch?v=JDTm8EJ2XWw
+  publishedAt: 2026-08-29T00:00:07Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - JDTm8EJ2XWw | ongoing=False | publishedAt=2026-08-29T00:00:07Z | actualEndTime=None | effective=2026-08-29 00:00:07+00:00 | 한국 주식은 내려치기🔽, 미국 주식은 올려치기🔼... 이제는 지겹네요...
+
+- 내일은 투자왕 - 김단테
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - pp670kkW6rU | ongoing=False | publishedAt=2026-08-28T16:10:50Z | actualEndTime=None | effective=2026-08-28 16:10:50+00:00 | 케빈 워시 180도 바꿨습니다 ㄷㄷ (2026 잭슨홀 연설)
    - AaLkwjMohWQ | ongoing=False | publishedAt=2026-08-28T06:45:41Z | actualEndTime=None | effective=2026-08-28 06:45:41+00:00 | 주도 섹터 교체? #하이닉스 #삼성전자 #화장품
    - n2MspK0_39E | ongoing=False | publishedAt=2026-08-27T08:44:50Z | actualEndTime=None | effective=2026-08-27 08:44:50+00:00 | 지구상에서 가장 중요한 실적발표 #삼성전자 #하이닉스 #엔비디아
 
