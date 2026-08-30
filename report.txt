@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-29 16:32 (KST)
-Run: 255 (id=33241067318)
+생성 시각: 2026-08-30 15:05 (KST)
+Run: 256 (id=33296095032)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,30 +8,28 @@ Run: 255 (id=33241067318)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Inside India's AI Ambitions
-  URL: https://www.youtube.com/watch?v=ewNvfLsJPRw
-  publishedAt: 2026-08-29T05:00:10Z
+  제목: AI Influencers Are Shaping Brazil’s Presidential Election
+  URL: https://www.youtube.com/watch?v=PXxFiZlMhlE
+  publishedAt: 2026-08-30T05:00:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ewNvfLsJPRw | ongoing=False | publishedAt=2026-08-29T05:00:10Z | actualEndTime=None | effective=2026-08-29 05:00:10+00:00 | Inside India's AI Ambitions
-   - 2GLQKsFTstk | ongoing=False | publishedAt=2026-08-29T04:00:09Z | actualEndTime=None | effective=2026-08-29 04:00:09+00:00 | India’s Cheap Weight-Loss Drugs Get A Reality Check
-   - lwtCOYBATGo | ongoing=False | publishedAt=2026-08-29T02:00:11Z | actualEndTime=None | effective=2026-08-29 02:00:11+00:00 | How China’s Microdramas Became a Billion Dollar Industry
-   - L_gSOV_vgX4 | ongoing=False | publishedAt=2026-08-28T23:52:48Z | actualEndTime=None | effective=2026-08-28 23:52:48+00:00 | US War With Iran Hits Six Month Mark | Balance of Power 08/2
-   - kuovsGgT2hs | ongoing=False | publishedAt=2026-08-28T23:13:40Z | actualEndTime=None | effective=2026-08-28 23:13:40+00:00 | Sec. Panetta: US Is Trapped In Another Forever War
-   - _7jvVMfYsV0 | ongoing=False | publishedAt=2026-08-28T23:07:05Z | actualEndTime=None | effective=2026-08-28 23:07:05+00:00 | Rep. Trahan: Federal AI Governance Is 'Missing'
-   - g85BqSYoI6A | ongoing=False | publishedAt=2026-08-28T23:00:07Z | actualEndTime=None | effective=2026-08-28 23:00:07+00:00 | India Is One of the World’s Most Obese Countries, But Few In
-   - cc9K3NSbxas | ongoing=False | publishedAt=2026-08-28T23:00:09Z | actualEndTime=None | effective=2026-08-28 23:00:09+00:00 | Wall Street Week | Debt & Consequences, Defying Fiscal Gravi
-   - e3ya_gnioP8 | ongoing=False | publishedAt=2026-08-28T23:00:52Z | actualEndTime=None | effective=2026-08-28 23:00:52+00:00 | Duppler: Warsh’s Credit Message Mattered More Than Rates
-   - knpmSP45F7w | ongoing=False | publishedAt=2026-08-28T22:10:12Z | actualEndTime=None | effective=2026-08-28 22:10:12+00:00 | Warsh Says Inflation Isn't Slowing | The Close 8/28/2026
+   - PXxFiZlMhlE | ongoing=False | publishedAt=2026-08-30T05:00:29Z | actualEndTime=None | effective=2026-08-30 05:00:29+00:00 | AI Influencers Are Shaping Brazil’s Presidential Election
+   - 2qGajiA2J5k | ongoing=False | publishedAt=2026-08-30T02:09:20Z | actualEndTime=2026-08-29T14:00:13Z | effective=2026-08-29 14:00:13+00:00 | Warsh Says Inflation Isn't Slowing, Venezuela Oil Deal | Blo
+   - 3ZO5nRPxU_8 | ongoing=False | publishedAt=2026-08-29T16:26:58Z | actualEndTime=None | effective=2026-08-29 16:26:58+00:00 | Bloomberg This Weekend | Deadly Strikes in Ukraine, ‘Histori
+   - JcQH6BZSUTM | ongoing=False | publishedAt=2026-08-29T14:53:00Z | actualEndTime=None | effective=2026-08-29 14:53:00+00:00 | Supercars Fuel a New Hybrid Boom
+   - 1J2Qjo1S_Bs | ongoing=False | publishedAt=2026-08-29T14:52:08Z | actualEndTime=None | effective=2026-08-29 14:52:08+00:00 | A $2,000 Sweater Reveals Fashion’s True Cost
+   - J5ZwnMRXRTY | ongoing=False | publishedAt=2026-08-29T14:29:34Z | actualEndTime=None | effective=2026-08-29 14:29:34+00:00 | Warsh Sets the Tone for Fed’s Road Ahead
+   - JCAuxVQ3_Hg | ongoing=False | publishedAt=2026-08-29T14:25:01Z | actualEndTime=None | effective=2026-08-29 14:25:01+00:00 | US Canada Trade Fight Shows Few Signs of Easing
+   - vr-cphat_jw | ongoing=False | publishedAt=2026-08-29T14:00:25Z | actualEndTime=None | effective=2026-08-29 14:00:25+00:00 | Can the US Defy Fiscal Gravity?
+   - H8eg07hc0a4 | ongoing=False | publishedAt=2026-08-29T14:00:40Z | actualEndTime=None | effective=2026-08-29 14:00:40+00:00 | $700 Cash Grants Transform Lives in Malawi
+   - 54UfdOWNRDk | ongoing=False | publishedAt=2026-08-29T14:00:31Z | actualEndTime=None | effective=2026-08-29 14:00:31+00:00 | Can the US defy fiscal gravity? #shorts #bonds #yields #trea
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: This Mag 7 Stock is About to FACE RIP STRAIGHT UP
-  URL: https://www.youtube.com/watch?v=9hksB8dM9Hs
-  publishedAt: 2026-08-29T05:12:57Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 9hksB8dM9Hs | ongoing=False | publishedAt=2026-08-29T05:12:57Z | actualEndTime=None | effective=2026-08-29 05:12:57+00:00 | This Mag 7 Stock is About to FACE RIP STRAIGHT UP
+   - 06EqYvmCg3Q | ongoing=False | publishedAt=2026-08-29T17:06:16Z | actualEndTime=None | effective=2026-08-29 17:06:16+00:00 | The $3,000 Catalyst for Apple Stock.
+   - 9hksB8dM9Hs | ongoing=False | publishedAt=2026-08-29T05:12:57Z | actualEndTime=None | effective=2026-08-29 05:12:57+00:00 | THIS Mag 7 Stock is about to VIOLENTLY *Skyrocket*
    - eLIpo0ngSik | ongoing=False | publishedAt=2026-08-29T02:29:44Z | actualEndTime=None | effective=2026-08-29 02:29:44+00:00 | The Software Stock Bottom is IN: Is it TOO LATE to Buy?
    - XIWEXfUjHQA | ongoing=False | publishedAt=2026-08-28T22:37:58Z | actualEndTime=None | effective=2026-08-28 22:37:58+00:00 | The FAILED Bailout of Japan JUST got Worse: Treasury LASHES 
    - 1Rc3iSBa-Yk | ongoing=False | publishedAt=2026-08-28T22:06:19Z | actualEndTime=2026-08-28T22:00:51Z | effective=2026-08-28 22:00:51+00:00 | Hardware AI Stocks Reverse POST Jackson Hole
@@ -40,26 +38,17 @@ Run: 255 (id=33241067318)
    - rQd0t6aIkh8 | ongoing=False | publishedAt=2026-08-28T17:52:00Z | actualEndTime=2026-08-28T17:42:10Z | effective=2026-08-28 17:42:10+00:00 | HERE WE GO. Fed Jackson Hole Speech.
    - O_Mq7qnOiVg | ongoing=False | publishedAt=2026-08-28T16:49:56Z | actualEndTime=None | effective=2026-08-28 16:49:56+00:00 | Exposing NVIDA's BIGGEST Secret
    - iPgzXZFYhk8 | ongoing=False | publishedAt=2026-08-28T15:00:39Z | actualEndTime=None | effective=2026-08-28 15:00:39+00:00 | BIG MISTAKE: The Fed's Jackson Hole Meeting
-   - Gh9cHyd-2RE | ongoing=False | publishedAt=2026-08-28T01:45:43Z | actualEndTime=None | effective=2026-08-28 01:45:43+00:00 | SpaceX to $5,000 - Major New Price Target
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  워시 "물가 2% 될 때까지 멈추지 않는다"… 9월 금리 인상 확률 50% 넘겼다  -  2026/08/28
-  URL: https://www.youtube.com/watch?v=0IrKZlEsCvM
-  publishedAt: 2026-08-28T22:23:22Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 0IrKZlEsCvM | ongoing=False | publishedAt=2026-08-28T22:23:22Z | actualEndTime=None | effective=2026-08-28 22:23:22+00:00 | 【미국 증시 오늘의 요약】  워시 "물가 2% 될 때까지 멈추지 않는다"… 9월 금리 인상 확률 50% 넘겼
    - 8OBsb3PVwpg | ongoing=False | publishedAt=2026-08-28T21:28:11Z | actualEndTime=2026-08-28T21:13:10Z | effective=2026-08-28 21:13:10+00:00 | [26년 08월 28일 금]  케빈 워시 연준 의장 잭슨홀 연설 ｜ 창신메모리, 상반기 매출 10배 증가 ｜
-   - bMpElckfoJ0 | ongoing=False | publishedAt=2026-08-27T22:45:23Z | actualEndTime=2026-08-27T21:45:44Z | effective=2026-08-27 21:45:44+00:00 | [26년 08월 27일 목]  엔비디아 CEO, “성장세 더 빨라지고 있다” ｜ 미국, 반도체 관세 확대 검
-   - E15s44NFg00 | ongoing=False | publishedAt=2026-08-27T22:27:34Z | actualEndTime=None | effective=2026-08-27 22:27:34+00:00 | 【미국 증시 오늘의 요약】   엔비디아 시총 4,400억 달러 폭증! 다시 시작된 AI 랠리?  -  202
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 한국 주식은 내려치기🔽, 미국 주식은 올려치기🔼... 이제는 지겹네요...
-  URL: https://www.youtube.com/watch?v=JDTm8EJ2XWw
-  publishedAt: 2026-08-29T00:00:07Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - JDTm8EJ2XWw | ongoing=False | publishedAt=2026-08-29T00:00:07Z | actualEndTime=None | effective=2026-08-29 00:00:07+00:00 | 한국 주식은 내려치기🔽, 미국 주식은 올려치기🔼... 이제는 지겹네요...
 
@@ -69,10 +58,7 @@ Run: 255 (id=33241067318)
   후보(최신 10개) 디버그:
    - pp670kkW6rU | ongoing=False | publishedAt=2026-08-28T16:10:50Z | actualEndTime=None | effective=2026-08-28 16:10:50+00:00 | 케빈 워시 180도 바꿨습니다 ㄷㄷ (2026 잭슨홀 연설)
    - AaLkwjMohWQ | ongoing=False | publishedAt=2026-08-28T06:45:41Z | actualEndTime=None | effective=2026-08-28 06:45:41+00:00 | 주도 섹터 교체? #하이닉스 #삼성전자 #화장품
-   - n2MspK0_39E | ongoing=False | publishedAt=2026-08-27T08:44:50Z | actualEndTime=None | effective=2026-08-27 08:44:50+00:00 | 지구상에서 가장 중요한 실적발표 #삼성전자 #하이닉스 #엔비디아
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - M43Xh2w0NSk | ongoing=False | publishedAt=2026-08-27T11:52:23Z | actualEndTime=None | effective=2026-08-27 11:52:23+00:00 | 결국 미국 증시로 돈 다시 몰린다? 미국 3대 지수에 쉽게 투자하는 법
+  비고: 최근 48시간 검색 결과 없음
