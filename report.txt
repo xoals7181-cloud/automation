@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-30 15:05 (KST)
-Run: 256 (id=33296095032)
+생성 시각: 2026-08-31 15:25 (KST)
+Run: 257 (id=33364137581)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,56 +8,44 @@ Run: 256 (id=33296095032)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: AI Influencers Are Shaping Brazil’s Presidential Election
-  URL: https://www.youtube.com/watch?v=PXxFiZlMhlE
-  publishedAt: 2026-08-30T05:00:29Z
+  제목: US Resumes Strikes On Iran, Warsh Fans Rate Hike Bets | The Asia Trade 8/31/2026
+  URL: https://www.youtube.com/watch?v=lj0BiBmC1II
+  publishedAt: 2026-08-31T06:15:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - PXxFiZlMhlE | ongoing=False | publishedAt=2026-08-30T05:00:29Z | actualEndTime=None | effective=2026-08-30 05:00:29+00:00 | AI Influencers Are Shaping Brazil’s Presidential Election
-   - 2qGajiA2J5k | ongoing=False | publishedAt=2026-08-30T02:09:20Z | actualEndTime=2026-08-29T14:00:13Z | effective=2026-08-29 14:00:13+00:00 | Warsh Says Inflation Isn't Slowing, Venezuela Oil Deal | Blo
-   - 3ZO5nRPxU_8 | ongoing=False | publishedAt=2026-08-29T16:26:58Z | actualEndTime=None | effective=2026-08-29 16:26:58+00:00 | Bloomberg This Weekend | Deadly Strikes in Ukraine, ‘Histori
-   - JcQH6BZSUTM | ongoing=False | publishedAt=2026-08-29T14:53:00Z | actualEndTime=None | effective=2026-08-29 14:53:00+00:00 | Supercars Fuel a New Hybrid Boom
-   - 1J2Qjo1S_Bs | ongoing=False | publishedAt=2026-08-29T14:52:08Z | actualEndTime=None | effective=2026-08-29 14:52:08+00:00 | A $2,000 Sweater Reveals Fashion’s True Cost
-   - J5ZwnMRXRTY | ongoing=False | publishedAt=2026-08-29T14:29:34Z | actualEndTime=None | effective=2026-08-29 14:29:34+00:00 | Warsh Sets the Tone for Fed’s Road Ahead
-   - JCAuxVQ3_Hg | ongoing=False | publishedAt=2026-08-29T14:25:01Z | actualEndTime=None | effective=2026-08-29 14:25:01+00:00 | US Canada Trade Fight Shows Few Signs of Easing
-   - vr-cphat_jw | ongoing=False | publishedAt=2026-08-29T14:00:25Z | actualEndTime=None | effective=2026-08-29 14:00:25+00:00 | Can the US Defy Fiscal Gravity?
-   - H8eg07hc0a4 | ongoing=False | publishedAt=2026-08-29T14:00:40Z | actualEndTime=None | effective=2026-08-29 14:00:40+00:00 | $700 Cash Grants Transform Lives in Malawi
-   - 54UfdOWNRDk | ongoing=False | publishedAt=2026-08-29T14:00:31Z | actualEndTime=None | effective=2026-08-29 14:00:31+00:00 | Can the US defy fiscal gravity? #shorts #bonds #yields #trea
+   - lj0BiBmC1II | ongoing=False | publishedAt=2026-08-31T06:15:53Z | actualEndTime=None | effective=2026-08-31 06:15:53+00:00 | US Resumes Strikes On Iran, Warsh Fans Rate Hike Bets | The 
+   - che5X3BPw1M | ongoing=False | publishedAt=2026-08-31T02:10:42Z | actualEndTime=2026-08-30T14:01:01Z | effective=2026-08-30 14:01:01+00:00 | Nepal Warns of More Floods, Nancy Grace Telescope Launch | B
+   - ckFiuHeLCPs | ongoing=False | publishedAt=2026-08-30T21:04:15Z | actualEndTime=None | effective=2026-08-30 21:04:15+00:00 | Japan’s NYK CEO on Alternative Routes Amid Iran War
+   - tGhFZwdORVk | ongoing=False | publishedAt=2026-08-30T17:00:05Z | actualEndTime=None | effective=2026-08-30 17:00:05+00:00 | How young creators are shaping Hollywood’s horror renaissanc
+   - eRGQC2jlki4 | ongoing=False | publishedAt=2026-08-30T16:07:29Z | actualEndTime=None | effective=2026-08-30 16:07:29+00:00 | Bloomberg This Weekend | Nepal’s Devastation, Deep Space Exp
+   - gCajB-fzngo | ongoing=False | publishedAt=2026-08-30T15:32:36Z | actualEndTime=None | effective=2026-08-30 15:32:36+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - 4TmQirnayoA | ongoing=False | publishedAt=2026-08-30T14:53:06Z | actualEndTime=None | effective=2026-08-30 14:53:06+00:00 | Author Explores Cybersecurity Risks of Driverless Cars
+   - 4RQ3vHnkDf0 | ongoing=False | publishedAt=2026-08-30T14:40:28Z | actualEndTime=None | effective=2026-08-30 14:40:28+00:00 | Trump Ally Says Fed Should Hold Rates Steady
+   - 8qZOJqMuG3g | ongoing=False | publishedAt=2026-08-30T14:36:31Z | actualEndTime=None | effective=2026-08-30 14:36:31+00:00 | Rep. Krishnamoorthi Warns Iran War Weakens US in Asia
+   - G5S_mulDg3k | ongoing=False | publishedAt=2026-08-30T14:06:14Z | actualEndTime=None | effective=2026-08-30 14:06:14+00:00 | Investors Bet on a Hair Loss Treatment Boom
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: The US & Iran Strikes | War Resumes & The Problem w/ GOLD.
+  URL: https://www.youtube.com/watch?v=HuiUaUjVti8
+  publishedAt: 2026-08-31T03:04:34Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - HuiUaUjVti8 | ongoing=False | publishedAt=2026-08-31T03:04:34Z | actualEndTime=None | effective=2026-08-31 03:04:34+00:00 | The US & Iran Strikes | War Resumes & The Problem w/ GOLD.
+   - yqg-s5DH5xA | ongoing=False | publishedAt=2026-08-30T19:29:14Z | actualEndTime=None | effective=2026-08-30 19:29:14+00:00 | LIES: How the All-In Podcast Lied Again [Cancer Vaccine].
    - 06EqYvmCg3Q | ongoing=False | publishedAt=2026-08-29T17:06:16Z | actualEndTime=None | effective=2026-08-29 17:06:16+00:00 | The $3,000 Catalyst for Apple Stock.
-   - 9hksB8dM9Hs | ongoing=False | publishedAt=2026-08-29T05:12:57Z | actualEndTime=None | effective=2026-08-29 05:12:57+00:00 | THIS Mag 7 Stock is about to VIOLENTLY *Skyrocket*
-   - eLIpo0ngSik | ongoing=False | publishedAt=2026-08-29T02:29:44Z | actualEndTime=None | effective=2026-08-29 02:29:44+00:00 | The Software Stock Bottom is IN: Is it TOO LATE to Buy?
-   - XIWEXfUjHQA | ongoing=False | publishedAt=2026-08-28T22:37:58Z | actualEndTime=None | effective=2026-08-28 22:37:58+00:00 | The FAILED Bailout of Japan JUST got Worse: Treasury LASHES 
-   - 1Rc3iSBa-Yk | ongoing=False | publishedAt=2026-08-28T22:06:19Z | actualEndTime=2026-08-28T22:00:51Z | effective=2026-08-28 22:00:51+00:00 | Hardware AI Stocks Reverse POST Jackson Hole
-   - FTjUH-MaNZ4 | ongoing=False | publishedAt=2026-08-28T19:00:12Z | actualEndTime=None | effective=2026-08-28 19:00:12+00:00 | CIA Director Just Landed In Russia!
-   - sUafm8OMiJI | ongoing=False | publishedAt=2026-08-28T18:03:20Z | actualEndTime=None | effective=2026-08-28 18:03:20+00:00 | Is the AI Trade DEAD? The FULL AI Stock Thesis Break Down.
-   - rQd0t6aIkh8 | ongoing=False | publishedAt=2026-08-28T17:52:00Z | actualEndTime=2026-08-28T17:42:10Z | effective=2026-08-28 17:42:10+00:00 | HERE WE GO. Fed Jackson Hole Speech.
-   - O_Mq7qnOiVg | ongoing=False | publishedAt=2026-08-28T16:49:56Z | actualEndTime=None | effective=2026-08-28 16:49:56+00:00 | Exposing NVIDA's BIGGEST Secret
-   - iPgzXZFYhk8 | ongoing=False | publishedAt=2026-08-28T15:00:39Z | actualEndTime=None | effective=2026-08-28 15:00:39+00:00 | BIG MISTAKE: The Fed's Jackson Hole Meeting
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 0IrKZlEsCvM | ongoing=False | publishedAt=2026-08-28T22:23:22Z | actualEndTime=None | effective=2026-08-28 22:23:22+00:00 | 【미국 증시 오늘의 요약】  워시 "물가 2% 될 때까지 멈추지 않는다"… 9월 금리 인상 확률 50% 넘겼
-   - 8OBsb3PVwpg | ongoing=False | publishedAt=2026-08-28T21:28:11Z | actualEndTime=2026-08-28T21:13:10Z | effective=2026-08-28 21:13:10+00:00 | [26년 08월 28일 금]  케빈 워시 연준 의장 잭슨홀 연설 ｜ 창신메모리, 상반기 매출 10배 증가 ｜
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - JDTm8EJ2XWw | ongoing=False | publishedAt=2026-08-29T00:00:07Z | actualEndTime=None | effective=2026-08-29 00:00:07+00:00 | 한국 주식은 내려치기🔽, 미국 주식은 올려치기🔼... 이제는 지겹네요...
+  비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - pp670kkW6rU | ongoing=False | publishedAt=2026-08-28T16:10:50Z | actualEndTime=None | effective=2026-08-28 16:10:50+00:00 | 케빈 워시 180도 바꿨습니다 ㄷㄷ (2026 잭슨홀 연설)
-   - AaLkwjMohWQ | ongoing=False | publishedAt=2026-08-28T06:45:41Z | actualEndTime=None | effective=2026-08-28 06:45:41+00:00 | 주도 섹터 교체? #하이닉스 #삼성전자 #화장품
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
