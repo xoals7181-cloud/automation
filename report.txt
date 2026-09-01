@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-08-31 15:25 (KST)
-Run: 257 (id=33364137581)
+생성 시각: 2026-09-01 14:52 (KST)
+Run: 258 (id=33475295991)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,36 +8,48 @@ Run: 257 (id=33364137581)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US Resumes Strikes On Iran, Warsh Fans Rate Hike Bets | The Asia Trade 8/31/2026
-  URL: https://www.youtube.com/watch?v=lj0BiBmC1II
-  publishedAt: 2026-08-31T06:15:53Z
+  제목: Higher Oil Hits Risk Sentiment, Nvidia CEO Exclusive | The Asia Trade 9/1/2026
+  URL: https://www.youtube.com/watch?v=2c6UYKNiSSc
+  publishedAt: 2026-09-01T05:02:17Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - lj0BiBmC1II | ongoing=False | publishedAt=2026-08-31T06:15:53Z | actualEndTime=None | effective=2026-08-31 06:15:53+00:00 | US Resumes Strikes On Iran, Warsh Fans Rate Hike Bets | The 
-   - che5X3BPw1M | ongoing=False | publishedAt=2026-08-31T02:10:42Z | actualEndTime=2026-08-30T14:01:01Z | effective=2026-08-30 14:01:01+00:00 | Nepal Warns of More Floods, Nancy Grace Telescope Launch | B
-   - ckFiuHeLCPs | ongoing=False | publishedAt=2026-08-30T21:04:15Z | actualEndTime=None | effective=2026-08-30 21:04:15+00:00 | Japan’s NYK CEO on Alternative Routes Amid Iran War
-   - tGhFZwdORVk | ongoing=False | publishedAt=2026-08-30T17:00:05Z | actualEndTime=None | effective=2026-08-30 17:00:05+00:00 | How young creators are shaping Hollywood’s horror renaissanc
-   - eRGQC2jlki4 | ongoing=False | publishedAt=2026-08-30T16:07:29Z | actualEndTime=None | effective=2026-08-30 16:07:29+00:00 | Bloomberg This Weekend | Nepal’s Devastation, Deep Space Exp
-   - gCajB-fzngo | ongoing=False | publishedAt=2026-08-30T15:32:36Z | actualEndTime=None | effective=2026-08-30 15:32:36+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - 4TmQirnayoA | ongoing=False | publishedAt=2026-08-30T14:53:06Z | actualEndTime=None | effective=2026-08-30 14:53:06+00:00 | Author Explores Cybersecurity Risks of Driverless Cars
-   - 4RQ3vHnkDf0 | ongoing=False | publishedAt=2026-08-30T14:40:28Z | actualEndTime=None | effective=2026-08-30 14:40:28+00:00 | Trump Ally Says Fed Should Hold Rates Steady
-   - 8qZOJqMuG3g | ongoing=False | publishedAt=2026-08-30T14:36:31Z | actualEndTime=None | effective=2026-08-30 14:36:31+00:00 | Rep. Krishnamoorthi Warns Iran War Weakens US in Asia
-   - G5S_mulDg3k | ongoing=False | publishedAt=2026-08-30T14:06:14Z | actualEndTime=None | effective=2026-08-30 14:06:14+00:00 | Investors Bet on a Hair Loss Treatment Boom
+   - 2c6UYKNiSSc | ongoing=False | publishedAt=2026-09-01T05:02:17Z | actualEndTime=None | effective=2026-09-01 05:02:17+00:00 | Higher Oil Hits Risk Sentiment, Nvidia CEO Exclusive | The A
+   - J_gBTjUJUyY | ongoing=False | publishedAt=2026-09-01T05:00:01Z | actualEndTime=None | effective=2026-09-01 05:00:01+00:00 | How LeBron James Scored $300 Million From Insurers
+   - SUc7RCU7Wbw | ongoing=False | publishedAt=2026-09-01T04:16:31Z | actualEndTime=None | effective=2026-09-01 04:16:31+00:00 | Cooking Gas Reveals Extent of Iran War Energy Shock
+   - iZEyiZoBVxo | ongoing=False | publishedAt=2026-09-01T04:00:38Z | actualEndTime=None | effective=2026-09-01 04:00:38+00:00 | How Microdramas Became A Billion-Dollar Industry
+   - CdDwCIfZRso | ongoing=False | publishedAt=2026-09-01T01:00:00Z | actualEndTime=None | effective=2026-09-01 01:00:00+00:00 | Why Southeast Asia Is Bulldozing Its Historic Buildings
+   - lp9bypravMg | ongoing=False | publishedAt=2026-08-31T23:25:55Z | actualEndTime=None | effective=2026-08-31 23:25:55+00:00 | Trump Says Pharma Companies Commit To Lowering Prices | Bala
+   - prVF93S8ZmA | ongoing=False | publishedAt=2026-08-31T23:04:59Z | actualEndTime=None | effective=2026-08-31 23:04:59+00:00 | US Open serves up record $108 million in prize money #shorts
+   - iHZLIXfRE4A | ongoing=False | publishedAt=2026-08-31T23:00:01Z | actualEndTime=None | effective=2026-08-31 23:00:01+00:00 | Big Take: Big Money Isn’t Guaranteeing Wins in the Midterms
+   - lxRmUNgXbyA | ongoing=False | publishedAt=2026-08-31T22:54:42Z | actualEndTime=None | effective=2026-08-31 22:54:42+00:00 | T. Rowe Price’s Uruçi confident inflation will hit 2%#shorts
+   - 0nOvAeSmccM | ongoing=False | publishedAt=2026-08-31T21:59:24Z | actualEndTime=None | effective=2026-08-31 21:59:24+00:00 | Inside T. Rowe Price: Markets, AI & the Future of Investing 
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The US & Iran Strikes | War Resumes & The Problem w/ GOLD.
-  URL: https://www.youtube.com/watch?v=HuiUaUjVti8
-  publishedAt: 2026-08-31T03:04:34Z
+  제목: OpenAI *JUST* Went Mega Deep on Apple's Stock. Should you?
+  URL: https://www.youtube.com/watch?v=bjIK7WpYZFk
+  publishedAt: 2026-09-01T03:29:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - bjIK7WpYZFk | ongoing=False | publishedAt=2026-09-01T03:29:36Z | actualEndTime=None | effective=2026-09-01 03:29:36+00:00 | OpenAI *JUST* Went Mega Deep on Apple's Stock. Should you?
+   - DNUO4kWq4rE | ongoing=False | publishedAt=2026-09-01T00:20:01Z | actualEndTime=None | effective=2026-09-01 00:20:01+00:00 | JP Morgan JUST went Bearish Stocks | Here’s Why
+   - VxlJ7zt8WNE | ongoing=False | publishedAt=2026-08-31T21:38:03Z | actualEndTime=None | effective=2026-08-31 21:38:03+00:00 | Why Tesla Stock and SpaceX JUMPED | LFG
+   - RkqxfAvhdCg | ongoing=False | publishedAt=2026-08-31T20:39:11Z | actualEndTime=2026-08-31T20:35:59Z | effective=2026-08-31 20:35:59+00:00 | Amazon SUED by FTC, Stocks Struggle, Bears are Back - BUY?!?
+   - chw18M7ktUU | ongoing=False | publishedAt=2026-08-31T17:53:46Z | actualEndTime=2026-08-31T17:42:53Z | effective=2026-08-31 17:42:53+00:00 | Stock Bounce?!? The Monday TEST on Hardware, Software, & Bit
+   - v2-amQ24fJ4 | ongoing=False | publishedAt=2026-08-31T17:05:57Z | actualEndTime=None | effective=2026-08-31 17:05:57+00:00 | Trump MORE STRIKES on Iran are Coming | WORSENING Oil Crisis
+   - jYnTM4T4n-0 | ongoing=False | publishedAt=2026-08-31T15:25:37Z | actualEndTime=None | effective=2026-08-31 15:25:37+00:00 | What the Fed AND Treasury JUST Said at G20 | Prepare.
    - HuiUaUjVti8 | ongoing=False | publishedAt=2026-08-31T03:04:34Z | actualEndTime=None | effective=2026-08-31 03:04:34+00:00 | The US & Iran Strikes | War Resumes & The Problem w/ GOLD.
    - yqg-s5DH5xA | ongoing=False | publishedAt=2026-08-30T19:29:14Z | actualEndTime=None | effective=2026-08-30 19:29:14+00:00 | LIES: How the All-In Podcast Lied Again [Cancer Vaccine].
-   - 06EqYvmCg3Q | ongoing=False | publishedAt=2026-08-29T17:06:16Z | actualEndTime=None | effective=2026-08-29 17:06:16+00:00 | The $3,000 Catalyst for Apple Stock.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  미국·이란 무력 충돌에 유가 급등! 커지는 금리 인상 공포... 테슬라는 '사이버캡' 기대감에 홀로 랠리  -  2026/08/31
+  URL: https://www.youtube.com/watch?v=-nitrj6W8xs
+  publishedAt: 2026-08-31T22:00:17Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - -nitrj6W8xs | ongoing=False | publishedAt=2026-08-31T22:00:17Z | actualEndTime=None | effective=2026-08-31 22:00:17+00:00 | 【미국 증시 오늘의 요약】  미국·이란 무력 충돌에 유가 급등! 커지는 금리 인상 공포... 테슬라는 '사이
+   - UW0sbjbUBb0 | ongoing=False | publishedAt=2026-08-31T21:23:37Z | actualEndTime=2026-08-31T21:04:50Z | effective=2026-08-31 21:04:50+00:00 | [26년 08월 31일 월 ]  미·이란 다시 충돌… ｜ 베센트, “이란 관련  2차 제재 내놓을 것” ｜ 
 
 - 설명왕 테이버
   상태: NO_VIDEO
@@ -45,8 +57,12 @@ Run: 257 (id=33364137581)
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - LBwv6iO0wCY | ongoing=False | publishedAt=2026-08-31T07:03:06Z | actualEndTime=None | effective=2026-08-31 07:03:06+00:00 | 코스피 다 말아올린 이유 ㄷㄷㄷ #삼성전자 #하이닉스 #코스피
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - qXuK203LR5Y | ongoing=False | publishedAt=2026-08-31T11:43:00Z | actualEndTime=None | effective=2026-08-31 11:43:00+00:00 | 연준의 깜짝 긴축 선언에 흔들리는 증시, 9월의 악몽 반복될까
