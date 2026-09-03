@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-02 14:15 (KST)
-Run: 259 (id=33593970717)
+생성 시각: 2026-09-03 14:21 (KST)
+Run: 260 (id=33718502084)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,64 @@ Run: 259 (id=33593970717)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: How America Got Hooked On Celsius
-  URL: https://www.youtube.com/watch?v=_dDMfEzxxC4
-  publishedAt: 2026-09-02T04:00:35Z
+  제목: Trump Mulls More Chip Tariffs, Traders on Yen Intervention Watch | The Asia Trade 9/3/2026
+  URL: https://www.youtube.com/watch?v=YCVbud91Jow
+  publishedAt: 2026-09-03T05:09:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - _dDMfEzxxC4 | ongoing=False | publishedAt=2026-09-02T04:00:35Z | actualEndTime=None | effective=2026-09-02 04:00:35+00:00 | How America Got Hooked On Celsius
-   - IYnV--Fmjeg | ongoing=False | publishedAt=2026-09-01T23:44:33Z | actualEndTime=None | effective=2026-09-01 23:44:33+00:00 | House Bill Funds the Govt. Through Election Day
-   - cCamRA1a_x4 | ongoing=False | publishedAt=2026-09-01T22:50:41Z | actualEndTime=None | effective=2026-09-01 22:50:41+00:00 | Duppler: Bessent's AI Outlook Is Optimistic, But Plausible
-   - 3zvvjJAt0dU | ongoing=False | publishedAt=2026-09-01T22:12:55Z | actualEndTime=None | effective=2026-09-01 22:12:55+00:00 | Trump Dismisses ‘Little War’ With Iran as Clashes Resume
-   - MlCHE8e6DMM | ongoing=False | publishedAt=2026-09-01T22:00:14Z | actualEndTime=None | effective=2026-09-01 22:00:14+00:00 | Apple’s Ternus Era Begins After Tim Cook Delivers 2,300% Sto
-   - xZRWxgfm4tI | ongoing=False | publishedAt=2026-09-01T22:01:17Z | actualEndTime=None | effective=2026-09-01 22:01:17+00:00 | Australia Housing Boom Shows Signs of Cracking
-   - x9V_uJSI5jY | ongoing=False | publishedAt=2026-09-01T22:00:31Z | actualEndTime=None | effective=2026-09-01 22:00:31+00:00 | Stocks Slide as Oil Surges & Treasury Yields Rise | The Clos
-   - lJFZe9z76_M | ongoing=False | publishedAt=2026-09-01T22:01:30Z | actualEndTime=None | effective=2026-09-01 22:01:30+00:00 | T. Rowe Price CEO Sharps on Private Assets and AI Adoption
-   - cDVZ6dpJeOA | ongoing=False | publishedAt=2026-09-01T21:03:56Z | actualEndTime=None | effective=2026-09-01 21:03:56+00:00 | Dell Sees Surge in AI Server Sales, Boosts Outlook
-   - kwwwdQghfpE | ongoing=False | publishedAt=2026-09-01T20:47:11Z | actualEndTime=None | effective=2026-09-01 20:47:11+00:00 | Calling Bessent's 'Bluff,' Strategy CEO Buys Again | Bloombe
+   - YCVbud91Jow | ongoing=False | publishedAt=2026-09-03T05:09:58Z | actualEndTime=None | effective=2026-09-03 05:09:58+00:00 | Trump Mulls More Chip Tariffs, Traders on Yen Intervention W
+   - 6qXOZPt9Mks | ongoing=False | publishedAt=2026-09-03T05:00:21Z | actualEndTime=None | effective=2026-09-03 05:00:21+00:00 | Mobile Games Designed to Be Addictive Get More Kid-Friendly
+   - zmjqWkPRl0o | ongoing=False | publishedAt=2026-09-03T04:56:41Z | actualEndTime=None | effective=2026-09-03 04:56:41+00:00 | ByteDance Gets $30B Loan to Fuel AI Ambitions | The China Sh
+   - z48N5Mo0LfA | ongoing=False | publishedAt=2026-09-03T04:00:17Z | actualEndTime=None | effective=2026-09-03 04:00:17+00:00 | India’s Economy Grows Faster Than Expected at 7.8%
+   - 4uIwWYpHd8M | ongoing=False | publishedAt=2026-09-02T23:13:25Z | actualEndTime=None | effective=2026-09-02 23:13:25+00:00 | Trump Admin. Invites Russia To Attend G20 Talks
+   - 4sn6pQGVJjE | ongoing=False | publishedAt=2026-09-02T22:01:27Z | actualEndTime=None | effective=2026-09-02 22:01:27+00:00 | Markets Rebound as Oil, Yields & AI Remain in Focus | The Cl
+   - d57o2b_wpu4 | ongoing=False | publishedAt=2026-09-02T21:33:22Z | actualEndTime=None | effective=2026-09-02 21:33:22+00:00 | Shaquille O’Neal Kicks off College Tour on Credit
+   - ob7F2PZSzuA | ongoing=False | publishedAt=2026-09-02T21:07:33Z | actualEndTime=None | effective=2026-09-02 21:07:33+00:00 | NBA Suspends Clippers Owner Ballmer After Leonard Salary Pro
+   - _i985-SEjYY | ongoing=False | publishedAt=2026-09-02T21:05:13Z | actualEndTime=None | effective=2026-09-02 21:05:13+00:00 | Lutnick: Anthropic  patched relations with US government aft
+   - 1Re_KeTHZJs | ongoing=False | publishedAt=2026-09-02T20:44:39Z | actualEndTime=None | effective=2026-09-02 20:44:39+00:00 | Anthropic’s Mega-IPO Plan Looms Over IPO Market
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: This Is The BEST Time To Buy Real Estate!
-  URL: https://www.youtube.com/watch?v=WzeoO37q5ko
-  publishedAt: 2026-09-02T05:00:23Z
+  제목: AVOID the TRAP in these AI Stocks: The Earnings Divide.
+  URL: https://www.youtube.com/watch?v=9HhW3-mGUCU
+  publishedAt: 2026-09-03T00:37:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - WzeoO37q5ko | ongoing=False | publishedAt=2026-09-02T05:00:23Z | actualEndTime=None | effective=2026-09-02 05:00:23+00:00 | This Is The BEST Time To Buy Real Estate!
-   - TWTBfxQwMaU | ongoing=False | publishedAt=2026-09-02T03:34:19Z | actualEndTime=None | effective=2026-09-02 03:34:19+00:00 | The Collapse of the AI Bubble Starts with Anthropic: Warning
-   - 6706fMdAhYU | ongoing=False | publishedAt=2026-09-02T01:00:26Z | actualEndTime=None | effective=2026-09-02 01:00:26+00:00 | AI Stock JUST **CRUSHED** | Major AI BOOMER!
-   - nUvEdCPidtE | ongoing=False | publishedAt=2026-09-01T22:42:23Z | actualEndTime=None | effective=2026-09-01 22:42:23+00:00 | Iran Attacks US Base! (Claims Americans DEAD)
-   - wCPLPeQUnTI | ongoing=False | publishedAt=2026-09-01T22:31:54Z | actualEndTime=2026-09-01T22:22:34Z | effective=2026-09-01 22:22:34+00:00 | Market Drop, Iran Strikes Continuing, Oil/Yields SKYROCKET
-   - FgkFU0FrcV0 | ongoing=False | publishedAt=2026-09-01T20:15:20Z | actualEndTime=None | effective=2026-09-01 20:15:20+00:00 | Palantir CEO Investing in NEW Military Tech [Buy THIS Stock?
-   - t0SfuouYamI | ongoing=False | publishedAt=2026-09-01T19:11:24Z | actualEndTime=2026-09-01T18:49:42Z | effective=2026-09-01 18:49:42+00:00 | Stocks Down, Yields Up, Iran and AI Fears
-   - FETbh8YjxjY | ongoing=False | publishedAt=2026-09-01T19:00:39Z | actualEndTime=None | effective=2026-09-01 19:00:39+00:00 | Google Raised $36B In 24hrs! 🤯
-   - AhR5UBxdVgk | ongoing=False | publishedAt=2026-09-01T17:03:46Z | actualEndTime=None | effective=2026-09-01 17:03:46+00:00 | US *JUST* Struck Iran | ESCALATION -- Tankers & Military Hit
-   - FyOu7hmZcVs | ongoing=False | publishedAt=2026-09-01T14:29:56Z | actualEndTime=None | effective=2026-09-01 14:29:56+00:00 | Elon Musk *NEW Speech* JUST Left G20 SPEECHLESS
+   - 9HhW3-mGUCU | ongoing=False | publishedAt=2026-09-03T00:37:53Z | actualEndTime=None | effective=2026-09-03 00:37:53+00:00 | AVOID the TRAP in these AI Stocks: The Earnings Divide.
+   - WpxDQROkYrY | ongoing=False | publishedAt=2026-09-02T21:24:00Z | actualEndTime=2026-09-02T21:17:02Z | effective=2026-09-02 21:17:02+00:00 | AI Stocks: Broadcom, Snowflake, HPE Earnings
+   - VUzlDkmHqCI | ongoing=False | publishedAt=2026-09-02T18:57:50Z | actualEndTime=None | effective=2026-09-02 18:57:50+00:00 | Sam Altman JUST Accidentally Exposed the AI Collapse.
+   - X0G2zIyxdS0 | ongoing=False | publishedAt=2026-09-02T18:11:29Z | actualEndTime=2026-09-02T17:55:23Z | effective=2026-09-02 17:55:23+00:00 | Stock Recovery? Dell SKYROCKETS, Yields/Oil Drop
+   - _YmWRsjEkvQ | ongoing=False | publishedAt=2026-09-02T17:09:53Z | actualEndTime=None | effective=2026-09-02 17:09:53+00:00 | Iran MINES Explode Ships & "Strait of Trump" | New Dangers.
+   - Rlj9JBrfGCU | ongoing=False | publishedAt=2026-09-02T15:24:42Z | actualEndTime=None | effective=2026-09-02 15:24:42+00:00 | Why the Trump Economy Hasn’t Crashed Yet (It’s Down to ONE S
+   - pjJgdvTy4Wc | ongoing=False | publishedAt=2026-09-02T10:15:08Z | actualEndTime=None | effective=2026-09-02 10:15:08+00:00 | Goldman Sachs Announced Nebius Price Target!
+   - 47uU9sUc45U | ongoing=False | publishedAt=2026-09-02T10:00:28Z | actualEndTime=None | effective=2026-09-02 10:00:28+00:00 | Why Russia Is AFRAID Of The United States
+   - pp0kUXLQ0Qg | ongoing=False | publishedAt=2026-09-02T09:00:04Z | actualEndTime=None | effective=2026-09-02 09:00:04+00:00 | Donald Trump Just CRASHED Out At Oman!
+   - o2ZfmR_KH2Y | ongoing=False | publishedAt=2026-09-02T08:00:30Z | actualEndTime=None | effective=2026-09-02 08:00:30+00:00 | The Middle East Is A MESS!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 09월 01일 화]  전 세계 국채 금리 급등.. ｜ 마이크론, 대만 직원 보상 확대 방침 ｜ 제조업PMI, JOLTs 구인인원 ｜ -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=6lQ9AWmxkbs
-  publishedAt: 2026-09-01T22:30:05Z
-  actualEndTime: 2026-09-01T21:47:54Z
+  제목: 【미국 증시 오늘의 요약】  윌리엄스 총재 "인플레 둔화 중"... 베이지북도 인정한 경제 연착륙  -  2026/09/02
+  URL: https://www.youtube.com/watch?v=e3ZnXQbUBGE
+  publishedAt: 2026-09-02T22:55:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - e3ZnXQbUBGE | ongoing=False | publishedAt=2026-09-02T22:55:37Z | actualEndTime=None | effective=2026-09-02 22:55:37+00:00 | 【미국 증시 오늘의 요약】  윌리엄스 총재 "인플레 둔화 중"... 베이지북도 인정한 경제 연착륙  -  2
+   - zwYSdLd6JrY | ongoing=False | publishedAt=2026-09-02T22:39:48Z | actualEndTime=2026-09-02T22:13:28Z | effective=2026-09-02 22:13:28+00:00 | [26년 09월 02일 수]  실적발표: 브로드컴, HPE 등 ｜ 이란 전쟁발 유가 급등 ｜ 엔비디아, '허
    - 6lQ9AWmxkbs | ongoing=False | publishedAt=2026-09-01T22:30:05Z | actualEndTime=2026-09-01T21:47:54Z | effective=2026-09-01 21:47:54+00:00 | [26년 09월 01일 화]  전 세계 국채 금리 급등.. ｜ 마이크론, 대만 직원 보상 확대 방침 ｜ 제조
    - n1Hqto_NjH0 | ongoing=False | publishedAt=2026-09-01T22:23:29Z | actualEndTime=None | effective=2026-09-01 22:23:29+00:00 | 【미국 증시 오늘의 요약】  미·이란 다시 충돌…유가 90달러 돌파에 ‘9월 금리인상’ 공포  -  2026
-   - -nitrj6W8xs | ongoing=False | publishedAt=2026-08-31T22:00:17Z | actualEndTime=None | effective=2026-08-31 22:00:17+00:00 | 【미국 증시 오늘의 요약】  미국·이란 무력 충돌에 유가 급등! 커지는 금리 인상 공포... 테슬라는 '사이
-   - UW0sbjbUBb0 | ongoing=False | publishedAt=2026-08-31T21:23:37Z | actualEndTime=2026-08-31T21:04:50Z | effective=2026-08-31 21:04:50+00:00 | [26년 08월 31일 월 ]  미·이란 다시 충돌… ｜ 베센트, “이란 관련  2차 제재 내놓을 것” ｜ 
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 글로벌 채권 시장 박살. 더 큰 문제가 될 수 있습니다.
-  URL: https://www.youtube.com/watch?v=c2cjye2yedM
-  publishedAt: 2026-09-01T17:41:56Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - c2cjye2yedM | ongoing=False | publishedAt=2026-09-01T17:41:56Z | actualEndTime=None | effective=2026-09-01 17:41:56+00:00 | 글로벌 채권 시장 박살. 더 큰 문제가 될 수 있습니다.
-   - VJkCsHr-_7Y | ongoing=False | publishedAt=2026-09-01T07:25:59Z | actualEndTime=None | effective=2026-09-01 07:25:59+00:00 | 원화가 미쳤습니다
-   - LBwv6iO0wCY | ongoing=False | publishedAt=2026-08-31T07:03:06Z | actualEndTime=None | effective=2026-08-31 07:03:06+00:00 | 코스피 다 말아올린 이유 ㄷㄷㄷ #삼성전자 #하이닉스 #코스피
-
-- 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - qXuK203LR5Y | ongoing=False | publishedAt=2026-08-31T11:43:00Z | actualEndTime=None | effective=2026-08-31 11:43:00+00:00 | 연준의 깜짝 긴축 선언에 흔들리는 증시, 9월의 악몽 반복될까
+   - xpuQCl1pFkM | ongoing=False | publishedAt=2026-09-02T05:37:00Z | actualEndTime=None | effective=2026-09-02 05:37:00+00:00 | 코스피 개박살나는 이유 #코스피 #호르무즈 #트럼프
+   - c2cjye2yedM | ongoing=False | publishedAt=2026-09-01T17:41:56Z | actualEndTime=None | effective=2026-09-01 17:41:56+00:00 | 글로벌 채권 시장 박살. 더 큰 문제가 될 수 있습니다.
+   - VJkCsHr-_7Y | ongoing=False | publishedAt=2026-09-01T07:25:59Z | actualEndTime=None | effective=2026-09-01 07:25:59+00:00 | 원화가 미쳤습니다
+
+- 소수몽키
+  상태: NO_VIDEO
+  비고: 최근 48시간 검색 결과 없음
