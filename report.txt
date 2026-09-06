@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-05 14:04 (KST)
-Run: 262 (id=33946214614)
+생성 시각: 2026-09-06 14:18 (KST)
+Run: 263 (id=34013664314)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,58 @@ Run: 262 (id=33946214614)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Demands Rate Cut After Jobs Report
-  URL: https://www.youtube.com/watch?v=BNjbuMhGpVk
-  publishedAt: 2026-09-04T23:12:14Z
+  제목: Trump Renames Lake Ontario, Canada Responds
+  URL: https://www.youtube.com/watch?v=dZ-lY9oHsfY
+  publishedAt: 2026-09-05T19:16:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - BNjbuMhGpVk | ongoing=False | publishedAt=2026-09-04T23:12:14Z | actualEndTime=None | effective=2026-09-04 23:12:14+00:00 | Trump Demands Rate Cut After Jobs Report
-   - gKYIRu8wOgQ | ongoing=False | publishedAt=2026-09-04T22:28:04Z | actualEndTime=None | effective=2026-09-04 22:28:04+00:00 | Rep. Casar: US Needs to Put the Brakes on Advanced AI
-   - -7AHeKXhyBA | ongoing=False | publishedAt=2026-09-04T22:18:25Z | actualEndTime=None | effective=2026-09-04 22:18:25+00:00 | Sabato: RNC Convention Unlikely to Move Midterm Needle
-   - 6vccc6Uy1qE | ongoing=False | publishedAt=2026-09-04T21:57:56Z | actualEndTime=None | effective=2026-09-04 21:57:56+00:00 | Strong Jobs Report Revives Fed Rate-Hike Bets
-   - LsNdkthF-sE | ongoing=False | publishedAt=2026-09-04T21:11:37Z | actualEndTime=None | effective=2026-09-04 21:11:37+00:00 | Travel, Retail, US Open: Labor Day Edition | Bloomberg Money
-   - XtKbhrTlIYk | ongoing=False | publishedAt=2026-09-04T21:03:25Z | actualEndTime=None | effective=2026-09-04 21:03:25+00:00 | Strong Payrolls Fuel Fed Hike Bets | Bloomberg Businessweek 
-   - DV-MCEOdN4A | ongoing=False | publishedAt=2026-09-04T20:34:59Z | actualEndTime=None | effective=2026-09-04 20:34:59+00:00 | Trump Says US Will Host State Dinner for China's Xi
-   - yiD2GySXQT0 | ongoing=False | publishedAt=2026-09-04T20:23:58Z | actualEndTime=None | effective=2026-09-04 20:23:58+00:00 | Trump Calls Iran Conflict 'Small Potatoes'
-   - XBfIbQtvDLQ | ongoing=False | publishedAt=2026-09-04T20:14:08Z | actualEndTime=None | effective=2026-09-04 20:14:08+00:00 | Trump Says Rate Hike Won't Reassure Bond Market
-   - bT8qCNu4JCQ | ongoing=False | publishedAt=2026-09-04T20:11:27Z | actualEndTime=None | effective=2026-09-04 20:11:27+00:00 | Honey Deuces, Tickets, Merch: US Open Spending
+   - Uk9zYAqDClM | ongoing=False | publishedAt=2026-09-06T02:06:21Z | actualEndTime=2026-09-05T14:00:12Z | effective=2026-09-05 14:00:12+00:00 | Iran Conflict 'Small Potatoes'; Trump’s Big Venezuela Deal |
+   - dZ-lY9oHsfY | ongoing=False | publishedAt=2026-09-05T19:16:14Z | actualEndTime=None | effective=2026-09-05 19:16:14+00:00 | Trump Renames Lake Ontario, Canada Responds
+   - _SyV9TQjXZg | ongoing=False | publishedAt=2026-09-05T16:22:57Z | actualEndTime=None | effective=2026-09-05 16:22:57+00:00 | Bloomberg This Weekend | Trump Calls Iran “Small Potatoes”, 
+   - BdAIFEnCu3o | ongoing=False | publishedAt=2026-09-05T15:36:39Z | actualEndTime=None | effective=2026-09-05 15:36:39+00:00 | Jobs Surge Raises Odds of September Fed Hike
+   - 4pp_fYxkw2Q | ongoing=False | publishedAt=2026-09-05T15:14:17Z | actualEndTime=None | effective=2026-09-05 15:14:17+00:00 | The Hidden Cost of America’s Bureaucracy
+   - 8ulVsFOq9dQ | ongoing=False | publishedAt=2026-09-05T14:36:49Z | actualEndTime=None | effective=2026-09-05 14:36:49+00:00 | US Strikes Iranian Tankers After Attack on US Warships
+   - ErR4Hy5cKIU | ongoing=False | publishedAt=2026-09-05T14:24:29Z | actualEndTime=None | effective=2026-09-05 14:24:29+00:00 | Esper Raises Concern Over Pentagon Leadership Loss
+   - 5unkqiECrBY | ongoing=False | publishedAt=2026-09-05T13:54:02Z | actualEndTime=None | effective=2026-09-05 13:54:02+00:00 | EU Envoy Urges Maximum Pressure on Russia
+   - WAEvJFA6L_U | ongoing=False | publishedAt=2026-09-05T13:22:35Z | actualEndTime=None | effective=2026-09-05 13:22:35+00:00 | By The Way: Headlines You Should See
+   - xued57DT-8w | ongoing=False | publishedAt=2026-09-05T13:12:40Z | actualEndTime=None | effective=2026-09-05 13:12:40+00:00 | Trump Oil Deal Blindsides US Energy Companies
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Trump's "Unhinged Rant" TODAY is an Economic Warning.
-  URL: https://www.youtube.com/watch?v=MTLizMUG6Yc
-  publishedAt: 2026-09-05T02:09:46Z
+  제목: Grant Cardone EXPOSED In Class Action Lawsuit
+  URL: https://www.youtube.com/watch?v=2dt3pMrD7FM
+  publishedAt: 2026-09-06T01:00:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2dt3pMrD7FM | ongoing=False | publishedAt=2026-09-06T01:00:04Z | actualEndTime=None | effective=2026-09-06 01:00:04+00:00 | Grant Cardone EXPOSED In Class Action Lawsuit
+   - 2UqXpNfTKco | ongoing=False | publishedAt=2026-09-05T23:40:03Z | actualEndTime=None | effective=2026-09-05 23:40:03+00:00 | The Most-Insane 100-Year Warning: Cathie Wood on Economy.
+   - qRT8DTrVqQw | ongoing=False | publishedAt=2026-09-05T16:30:14Z | actualEndTime=None | effective=2026-09-05 16:30:14+00:00 | How California Just Ambushed Nick Shirley | Lawsuit
+   - zAoVnpXbwkE | ongoing=False | publishedAt=2026-09-05T14:36:52Z | actualEndTime=None | effective=2026-09-05 14:36:52+00:00 | Pentagon Panics | Iran-US Oil Strikes Escalate | Weekend Str
+   - qzDCYeG9gEM | ongoing=False | publishedAt=2026-09-05T05:09:53Z | actualEndTime=None | effective=2026-09-05 05:09:53+00:00 | Major Red Flag IPOs in THIS *New* IPO
    - MTLizMUG6Yc | ongoing=False | publishedAt=2026-09-05T02:09:46Z | actualEndTime=None | effective=2026-09-05 02:09:46+00:00 | Trump's "Unhinged Rant" TODAY is an Economic Warning.
    - OY3b2QOfjwU | ongoing=False | publishedAt=2026-09-05T01:00:02Z | actualEndTime=None | effective=2026-09-05 01:00:02+00:00 | Grant Cardone's Financials EXPOSED
    - k5c1OQKm1yg | ongoing=False | publishedAt=2026-09-04T22:01:50Z | actualEndTime=None | effective=2026-09-04 22:01:50+00:00 | This Chart Signals the END of the AI Stock Bubble.
    - WyxNuIVlE00 | ongoing=False | publishedAt=2026-09-04T20:07:45Z | actualEndTime=None | effective=2026-09-04 20:07:45+00:00 | Major AI Stock is about to FLIP
    - p-Q_bFUoApo | ongoing=False | publishedAt=2026-09-04T19:14:02Z | actualEndTime=None | effective=2026-09-04 19:14:02+00:00 | The Stock Market is BLIND to THIS | 100x Tesla
-   - _4VITiilO50 | ongoing=False | publishedAt=2026-09-04T18:25:02Z | actualEndTime=2026-09-04T18:11:26Z | effective=2026-09-04 18:11:26+00:00 | Jobs BLOWOUT, Nvidia, AI Stocks, Tesla Hangover, Anthropic, 
-   - VkQeHvCnTPo | ongoing=False | publishedAt=2026-09-04T17:50:51Z | actualEndTime=None | effective=2026-09-04 17:50:51+00:00 | WARNING: "Spectacular Attack" from Iran COMING
-   - ZR16P8x0VHs | ongoing=False | publishedAt=2026-09-04T13:40:25Z | actualEndTime=None | effective=2026-09-04 13:40:25+00:00 | Holy WTF: The Jobs Report.
-   - l0KQptcYYPM | ongoing=False | publishedAt=2026-09-04T02:21:44Z | actualEndTime=None | effective=2026-09-04 02:21:44+00:00 | The Tesla Cybercab Launch: Elon No Show'd. What we Know & Te
-   - R45RtYADQZU | ongoing=False | publishedAt=2026-09-04T00:38:41Z | actualEndTime=None | effective=2026-09-04 00:38:41+00:00 | NOW DENIED: FIRED over Trump LEAK: Fox Business Maria Bartir
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  고용이 너무 좋았다… 연준 9월 금리 인상 확률 60% -  2026/09/04
-  URL: https://www.youtube.com/watch?v=ZyeAWqFQIbA
-  publishedAt: 2026-09-04T22:24:49Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - ZyeAWqFQIbA | ongoing=False | publishedAt=2026-09-04T22:24:49Z | actualEndTime=None | effective=2026-09-04 22:24:49+00:00 | 【미국 증시 오늘의 요약】  고용이 너무 좋았다… 연준 9월 금리 인상 확률 60% -  2026/09/04
-   - D13PoZwD3YE | ongoing=False | publishedAt=2026-09-04T22:03:17Z | actualEndTime=2026-09-04T21:47:02Z | effective=2026-09-04 21:47:02+00:00 | [생방송]  비농업 취업자수·실업률 ｜ S&P500 편입/편출 발표  ｜ 노르웨이 국부펀드, 국채 보유 비중
-   - 1kG_xfAMvV0 | ongoing=False | publishedAt=2026-09-03T21:45:25Z | actualEndTime=None | effective=2026-09-03 21:45:25+00:00 | 【미국 증시 오늘의 요약】  "금리 동결 지지" 연준 발언에 환호한 미 증시… 운명의 고용보고서 대기 -  
-   - omVT7S7oso0 | ongoing=False | publishedAt=2026-09-03T21:24:51Z | actualEndTime=2026-09-03T21:05:02Z | effective=2026-09-03 21:05:02+00:00 | [26년 09월 03일 목] 테슬라, '사이버캡' 런칭 행사 ｜ 일본, 금리 인상 전망에 '엔화' 강세 ｜브
+   - D13PoZwD3YE | ongoing=False | publishedAt=2026-09-04T22:03:17Z | actualEndTime=2026-09-04T21:47:02Z | effective=2026-09-04 21:47:02+00:00 | [26년09월04일 금]  비농업 취업자수·실업률 ｜ S&P500 편입/편출 발표  ｜ 노르웨이 국부펀드, 
 
 - 설명왕 테이버
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 푸켓에 솔로지옥 찍으러 갔습니다.
-  URL: https://www.youtube.com/watch?v=1DWGjl-4Eeg
-  publishedAt: 2026-09-05T03:14:04Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 1DWGjl-4Eeg | ongoing=False | publishedAt=2026-09-05T03:14:04Z | actualEndTime=None | effective=2026-09-05 03:14:04+00:00 | 푸켓에 솔로지옥 찍으러 갔습니다.
    - pZmspZaOTkw | ongoing=False | publishedAt=2026-09-04T08:56:46Z | actualEndTime=None | effective=2026-09-04 08:56:46+00:00 | GPT-6 아스트라의 진짜 목표는 바로 사무직ㄷㄷㄷ
    - 6TxtHqIG2ps | ongoing=False | publishedAt=2026-09-04T06:11:17Z | actualEndTime=None | effective=2026-09-04 06:11:17+00:00 | 다시 부활한 코스피의 비밀? #월러 #아스트라 #하이닉스
-   - S0bfGNdlwLk | ongoing=False | publishedAt=2026-09-03T06:44:28Z | actualEndTime=None | effective=2026-09-03 06:44:28+00:00 | 코스피 죽다 살아난 이유 #코스피 #한화오션 #이란
 
 - 소수몽키
   상태: NO_VIDEO
