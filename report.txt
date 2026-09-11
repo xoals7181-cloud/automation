@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-10 14:26 (KST)
-Run: 267 (id=34441064284)
+생성 시각: 2026-09-11 14:26 (KST)
+Run: 268 (id=34565934371)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,75 +8,73 @@ Run: 267 (id=34441064284)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: e.l.f. Beauty Sees Skincare as Growth Engine
-  URL: https://www.youtube.com/watch?v=3vfoYjSlVVg
-  publishedAt: 2026-09-10T01:31:41Z
+  제목: Iran and US Brace for Long War
+  URL: https://www.youtube.com/watch?v=GtQU5BLnGhc
+  publishedAt: 2026-09-11T05:13:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 3vfoYjSlVVg | ongoing=False | publishedAt=2026-09-10T01:31:41Z | actualEndTime=None | effective=2026-09-10 01:31:41+00:00 | e.l.f. Beauty Sees Skincare as Growth Engine
-   - xCI--qXs1wE | ongoing=False | publishedAt=2026-09-10T01:31:48Z | actualEndTime=None | effective=2026-09-10 01:31:48+00:00 | Innovation Propels e.l.f. Beauty's Success
-   - UR1aTuzBYiQ | ongoing=False | publishedAt=2026-09-10T01:00:30Z | actualEndTime=None | effective=2026-09-10 01:00:30+00:00 | The Hot WatchesTurning Heads atGeneva Watch Days
-   - TJAQzxKJvxU | ongoing=False | publishedAt=2026-09-10T00:28:28Z | actualEndTime=None | effective=2026-09-10 00:28:28+00:00 | RNC Day 1 Kicks off in Dallas
-   - zFT1uP2UagM | ongoing=False | publishedAt=2026-09-09T23:42:39Z | actualEndTime=None | effective=2026-09-09 23:42:39+00:00 | Agather: More Texas Stock Exchange Announcements Coming
-   - th-ska7tdt0 | ongoing=False | publishedAt=2026-09-09T23:21:59Z | actualEndTime=None | effective=2026-09-09 23:21:59+00:00 | India's Business Empires Face a Succession Problem
-   - EY5eb2THdYw | ongoing=False | publishedAt=2026-09-09T23:10:16Z | actualEndTime=None | effective=2026-09-09 23:10:16+00:00 | The Man Spending $70,000 To Play 100 Top US Golf Courses
-   - YhKKcO0nZck | ongoing=False | publishedAt=2026-09-09T23:08:20Z | actualEndTime=None | effective=2026-09-09 23:08:20+00:00 | Odd Lots: Why Money Launderers Love $100 Bills
-   - X2F5BUJs0tI | ongoing=False | publishedAt=2026-09-09T23:08:39Z | actualEndTime=None | effective=2026-09-09 23:08:39+00:00 | Odd Lots: How Is Farm Equipment Used for Money Laundering?
-   - UlsxWBqdZIM | ongoing=False | publishedAt=2026-09-09T23:07:18Z | actualEndTime=None | effective=2026-09-09 23:07:18+00:00 | US Treasury Triples Debt Buyback To Stem The Recent Rise in 
+   - GtQU5BLnGhc | ongoing=False | publishedAt=2026-09-11T05:13:03Z | actualEndTime=None | effective=2026-09-11 05:13:03+00:00 | Iran and US Brace for Long War
+   - 9BydgGX67WY | ongoing=False | publishedAt=2026-09-10T23:26:12Z | actualEndTime=None | effective=2026-09-10 23:26:12+00:00 | RNC Day 2 Underway in Dallas
+   - SNwY3USyirI | ongoing=False | publishedAt=2026-09-10T22:45:48Z | actualEndTime=None | effective=2026-09-10 22:45:48+00:00 | Ken Paxton supports Trump’s $5,000 payout promise#shorts #tr
+   - qbVq-k1Jsmk | ongoing=False | publishedAt=2026-09-10T22:45:03Z | actualEndTime=None | effective=2026-09-10 22:45:03+00:00 | Rep. Crow Thinks Congress Should and Can End Iran War
+   - iZbrfVbm2WE | ongoing=False | publishedAt=2026-09-10T22:21:18Z | actualEndTime=None | effective=2026-09-10 22:21:18+00:00 | HUD Secretary Turner on Bringing Down Housing Costs
+   - pAAYlSGrwxs | ongoing=False | publishedAt=2026-09-10T22:16:30Z | actualEndTime=None | effective=2026-09-10 22:16:30+00:00 | UAE plans to invest $46 billion in Germany from AI to energy
+   - eBewLGCkJ6A | ongoing=False | publishedAt=2026-09-10T22:01:47Z | actualEndTime=None | effective=2026-09-10 22:01:47+00:00 | Oracle Earnings Beat as Cloud Revenue Surges
+   - KL60agt1yTk | ongoing=False | publishedAt=2026-09-10T21:52:38Z | actualEndTime=None | effective=2026-09-10 21:52:38+00:00 | Texas AG Paxton on Senate Race, Trump Dividend and AI
+   - zv_-nqd8sIc | ongoing=False | publishedAt=2026-09-10T21:25:55Z | actualEndTime=None | effective=2026-09-10 21:25:55+00:00 | Future of US Sports Investment
+   - QbvU21Sp2jA | ongoing=False | publishedAt=2026-09-10T21:27:09Z | actualEndTime=None | effective=2026-09-10 21:27:09+00:00 | Burgum on Trump Dividend, Gas Prices, Data Centers
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Amazon Prime Crash: *NEW* Cockpit Audio Analysis & Captain Steve's Weight-on-Wheels Breakdown
-  URL: https://www.youtube.com/watch?v=zj_HwUIOUgs
-  publishedAt: 2026-09-10T02:47:00Z
+  제목: WTF: SpaceX Stock is now CHEAP
+  URL: https://www.youtube.com/watch?v=U-HOFWn4wJg
+  publishedAt: 2026-09-11T05:02:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - U-HOFWn4wJg | ongoing=False | publishedAt=2026-09-11T05:02:46Z | actualEndTime=None | effective=2026-09-11 05:02:46+00:00 | WTF: SpaceX Stock is now CHEAP
+   - CDkJ7FXYQnc | ongoing=False | publishedAt=2026-09-11T01:00:04Z | actualEndTime=None | effective=2026-09-11 01:00:04+00:00 | The WORST Investment That Keeps You Poor
+   - Lhudd5BuFQo | ongoing=False | publishedAt=2026-09-10T23:20:10Z | actualEndTime=None | effective=2026-09-10 23:20:10+00:00 | CRITICAL Bubble Warning: OpenAI & Oracle JUST *THREATENED* E
+   - x1oJjXFMndc | ongoing=False | publishedAt=2026-09-10T21:41:32Z | actualEndTime=2026-09-10T21:34:52Z | effective=2026-09-10 21:34:52+00:00 | EARNINGS as Stocks Slip! ORCL and Adobe!
+   - KNOw7zuR00E | ongoing=False | publishedAt=2026-09-10T18:46:38Z | actualEndTime=None | effective=2026-09-10 18:46:38+00:00 | Revealing My Current Stock Thesis & Allocation Framework.
+   - qzyadA7XVos | ongoing=False | publishedAt=2026-09-10T17:18:47Z | actualEndTime=2026-09-10T17:04:52Z | effective=2026-09-10 17:04:52+00:00 | Trump's $5,000 Stimulus Dividend, Apple Morning After, PPI, 
+   - DCg2JQEfL4k | ongoing=False | publishedAt=2026-09-10T16:05:02Z | actualEndTime=None | effective=2026-09-10 16:05:02+00:00 | Iran & The Houthis Just Crossed the Nuclear Red Line
+   - LCoVmGweUaA | ongoing=False | publishedAt=2026-09-10T15:05:50Z | actualEndTime=None | effective=2026-09-10 15:05:50+00:00 | Trump Declares ANOTHER $500 Stimulus Check (ON TOP OF $5000)
+   - l5zta7BGgDU | ongoing=False | publishedAt=2026-09-10T05:29:02Z | actualEndTime=None | effective=2026-09-10 05:29:02+00:00 | Trump's $5,000 Stimulus Check to All Adults [Dividend Check]
    - zj_HwUIOUgs | ongoing=False | publishedAt=2026-09-10T02:47:00Z | actualEndTime=None | effective=2026-09-10 02:47:00+00:00 | Amazon Prime Crash: *NEW* Cockpit Audio Analysis & Captain S
-   - vSvvMNsi1RQ | ongoing=False | publishedAt=2026-09-10T01:00:02Z | actualEndTime=None | effective=2026-09-10 01:00:02+00:00 | The Truth On Getting Rich in 2026
-   - caFEZahjwWs | ongoing=False | publishedAt=2026-09-10T00:46:12Z | actualEndTime=None | effective=2026-09-10 00:46:12+00:00 | Pricing Tesla's Cybercab Revolution | This is Insane [Tesla 
-   - WyltSc3Gnow | ongoing=False | publishedAt=2026-09-09T19:49:41Z | actualEndTime=2026-09-09T19:44:02Z | effective=2026-09-09 19:44:02+00:00 | Apple iPhone Duo Event Reaction, Stocks Fall, Drama.
-   - A6xsRuphkMM | ongoing=False | publishedAt=2026-09-09T19:22:54Z | actualEndTime=None | effective=2026-09-09 19:22:54+00:00 | Apple Stock | After the iPhone Duo Event.
-   - 2KgXs86gbEU | ongoing=False | publishedAt=2026-09-09T17:53:01Z | actualEndTime=2026-09-09T16:58:12Z | effective=2026-09-09 16:58:12+00:00 | Apple Stock, $100 Oil, 4.8% Treasury - PAIN and HOPE
-   - ZWTvtaZPEjE | ongoing=False | publishedAt=2026-09-09T16:21:28Z | actualEndTime=None | effective=2026-09-09 16:21:28+00:00 | *Yikes* The United States JUST Failed a BILLION DOLLAR Bailo
-   - LPiA8pu58zo | ongoing=False | publishedAt=2026-09-09T15:12:08Z | actualEndTime=None | effective=2026-09-09 15:12:08+00:00 | OpenAI is Panicking!
-   - 5wN4Yle5Uls | ongoing=False | publishedAt=2026-09-09T05:12:49Z | actualEndTime=None | effective=2026-09-09 05:12:49+00:00 | Watch BEFORE the Apple Event Today.
-   - ZY_-_T6eNMY | ongoing=False | publishedAt=2026-09-09T01:54:45Z | actualEndTime=None | effective=2026-09-09 01:54:45+00:00 | INSANE New Info Amazon Air Crash: Pilot & Failed Go Around D
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  미 재무부 바이백에 오히려 금리 발작! 유가 100불 돌파에 짓눌린 증시  -  2026/09/09
-  URL: https://www.youtube.com/watch?v=5fEm8_a6z-M
-  publishedAt: 2026-09-09T22:10:06Z
+  제목: 【미국 증시 오늘의 요약】   WTI 100달러 돌파! 수년 만에 최고치 찍은 미 국채금리… 연준의 선택은?  -  2026/09/10
+  URL: https://www.youtube.com/watch?v=NML8V5tH9lM
+  publishedAt: 2026-09-10T22:35:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - NML8V5tH9lM | ongoing=False | publishedAt=2026-09-10T22:35:25Z | actualEndTime=None | effective=2026-09-10 22:35:25+00:00 | 【미국 증시 오늘의 요약】   WTI 100달러 돌파! 수년 만에 최고치 찍은 미 국채금리… 연준의 선택은?
+   - A-6KNpuqNK0 | ongoing=False | publishedAt=2026-09-10T22:14:07Z | actualEndTime=2026-09-10T21:53:50Z | effective=2026-09-10 21:53:50+00:00 | [26년 09월 10일 목]  생산자물가지수, 30년물 국채 경매 ｜ 엔비디아 CEO, 골드만삭스 컨퍼런스 
    - 5fEm8_a6z-M | ongoing=False | publishedAt=2026-09-09T22:10:06Z | actualEndTime=None | effective=2026-09-09 22:10:06+00:00 | 【미국 증시 오늘의 요약】  미 재무부 바이백에 오히려 금리 발작! 유가 100불 돌파에 짓눌린 증시  - 
    - axRg_Pv2Fdk | ongoing=False | publishedAt=2026-09-09T21:47:08Z | actualEndTime=2026-09-09T21:26:43Z | effective=2026-09-09 21:26:43+00:00 | [26년 09월 09일 수]   브렌트유 100달러 돌파 ｜ 애플, 첫 폴더블 '아이폰 듀오' 공개 예정 ｜
-   - oH4Undl7bHY | ongoing=False | publishedAt=2026-09-08T22:07:33Z | actualEndTime=None | effective=2026-09-08 22:07:33+00:00 | 【미국 증시 오늘의 요약】  미군, 이란 유조선 타격…유가 급등에 다시 커진 금리 인상 우려  -  2026
-   - IvVMeuyCmcY | ongoing=False | publishedAt=2026-09-08T21:42:37Z | actualEndTime=2026-09-08T21:18:46Z | effective=2026-09-08 21:18:46+00:00 | [26년 09월 08일 화]  브렌트유 100달러 근접  ｜ 인텔, 오는 10월 CPU 가격 인상 예정 ｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 손절 라인 잡고 구글 매수 해봅니다
-  URL: https://www.youtube.com/watch?v=eysaar6pFOY
-  publishedAt: 2026-09-10T04:00:21Z
+  제목: AI 시대, 사람은 2가지로 구분됩니다... AI 보다 비싼 사람, AI 보다 싼 사람...
+  URL: https://www.youtube.com/watch?v=C-jfTfOweVg
+  publishedAt: 2026-09-11T03:00:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - C-jfTfOweVg | ongoing=False | publishedAt=2026-09-11T03:00:04Z | actualEndTime=None | effective=2026-09-11 03:00:04+00:00 | AI 시대, 사람은 2가지로 구분됩니다... AI 보다 비싼 사람, AI 보다 싼 사람...
+   - zTGfokGfLZY | ongoing=False | publishedAt=2026-09-11T00:12:36Z | actualEndTime=2026-09-11T00:09:48Z | effective=2026-09-11 00:09:48+00:00 | [미국마감&아침시황] 이걸 버텨? 그래서 더 사요??ㅣ#260911
    - eysaar6pFOY | ongoing=False | publishedAt=2026-09-10T04:00:21Z | actualEndTime=None | effective=2026-09-10 04:00:21+00:00 | 손절 라인 잡고 구글 매수 해봅니다
    - IaBB0OMmR_4 | ongoing=False | publishedAt=2026-09-10T00:14:44Z | actualEndTime=2026-09-10T00:11:21Z | effective=2026-09-10 00:11:21+00:00 | [미국마감&아침시황] 유가 상승, 금리 상승, 코인하락, 근데 반도체는 상승...?ㅣ오늘 KRX 리밸런싱, 
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 지상 최고의 AI Agent 나왔다
-  URL: https://www.youtube.com/watch?v=knGTxa-K9zQ
-  publishedAt: 2026-09-09T18:32:15Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - AR89XGntILc | ongoing=False | publishedAt=2026-09-10T06:57:07Z | actualEndTime=None | effective=2026-09-10 06:57:07+00:00 | 코스피 죽었다 살아난 이유 #코스피 #하이닉스 #TSMC
    - knGTxa-K9zQ | ongoing=False | publishedAt=2026-09-09T18:32:15Z | actualEndTime=None | effective=2026-09-09 18:32:15+00:00 | 지상 최고의 AI Agent 나왔다
-   - 91pC1w0TxZ8 | ongoing=False | publishedAt=2026-09-08T12:36:22Z | actualEndTime=None | effective=2026-09-08 12:36:22+00:00 | GPT-6 전지전능? 허접? 팩트체크
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - GMpIu3c-kVc | ongoing=False | publishedAt=2026-09-09T10:34:59Z | actualEndTime=None | effective=2026-09-09 10:34:59+00:00 | 조용히 미국에서 돈 빼기 시작한 주요국들, 거대한 자금 이동에 주목 받는 수혜주들
-   - dGLEg3d6wdw | ongoing=False | publishedAt=2026-09-08T11:58:48Z | actualEndTime=None | effective=2026-09-08 11:58:48+00:00 | 피터 틸, 낸시 펠로시에 내부자까지 조용히 사모으기 시작? 강력한 힌트일까
