@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-13 14:30 (KST)
-Run: 270 (id=34740435625)
+생성 시각: 2026-09-14 14:34 (KST)
+Run: 271 (id=34810103945)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,58 +8,59 @@ Run: 270 (id=34740435625)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Bloomberg This Weekend | Trump in Ireland & Xi, Putin in India, Key Oil Pipeline Attacked
-  URL: https://www.youtube.com/watch?v=9vNiF0SBRnQ
-  publishedAt: 2026-09-12T17:41:55Z
+  제목: Dangote's Fortune Set to Jump $23 Bln on Refinery IPO
+  URL: https://www.youtube.com/watch?v=AAyWcVOam9w
+  publishedAt: 2026-09-14T05:31:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 9vNiF0SBRnQ | ongoing=False | publishedAt=2026-09-12T17:41:55Z | actualEndTime=None | effective=2026-09-12 17:41:55+00:00 | Bloomberg This Weekend | Trump in Ireland & Xi, Putin in Ind
-   - JOsbbK2ttAk | ongoing=False | publishedAt=2026-09-12T17:00:28Z | actualEndTime=None | effective=2026-09-12 17:00:28+00:00 | Silicon Valley’s race to arm America’s military#shorts #mili
-   - vaHd1Kvbs-c | ongoing=False | publishedAt=2026-09-12T15:43:14Z | actualEndTime=None | effective=2026-09-12 15:43:14+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - 6maRm3BgY7k | ongoing=False | publishedAt=2026-09-12T15:29:23Z | actualEndTime=None | effective=2026-09-12 15:29:23+00:00 | Iran War Revives Lessons of Iraq for Fukuyama
-   - JRlVIGyIRR8 | ongoing=False | publishedAt=2026-09-12T15:10:07Z | actualEndTime=None | effective=2026-09-12 15:10:07+00:00 | Energy Driven Inflation Complicates Fed Rate Call
-   - jippuoypSpw | ongoing=False | publishedAt=2026-09-12T14:54:10Z | actualEndTime=None | effective=2026-09-12 14:54:10+00:00 | Iran Nuclear Blind Spot Deepens as IAEA Loses Access
-   - D6zl0MiDdIQ | ongoing=False | publishedAt=2026-09-12T14:35:30Z | actualEndTime=None | effective=2026-09-12 14:35:30+00:00 | Luxury Shoppers Put Value Ahead of Labels
-   - ocV7vOeaXv4 | ongoing=False | publishedAt=2026-09-12T14:20:37Z | actualEndTime=None | effective=2026-09-12 14:20:37+00:00 | AI Agents Test the Limits of Human Control
-   - Y4ZuQiO_XPg | ongoing=False | publishedAt=2026-09-12T14:10:28Z | actualEndTime=None | effective=2026-09-12 14:10:28+00:00 | Higher Interest Rates May Be the New Normal
-   - Xjm-PZCnRkA | ongoing=False | publishedAt=2026-09-12T14:00:34Z | actualEndTime=None | effective=2026-09-12 14:00:34+00:00 | Can Venezuela rescue the oil market?#shorts #oil #venezuela
+   - AAyWcVOam9w | ongoing=False | publishedAt=2026-09-14T05:31:05Z | actualEndTime=None | effective=2026-09-14 05:31:05+00:00 | Dangote's Fortune Set to Jump $23 Bln on Refinery IPO
+   - CifYwuaTtx8 | ongoing=False | publishedAt=2026-09-14T05:26:54Z | actualEndTime=None | effective=2026-09-14 05:26:54+00:00 | Shutdown of Saudi Pipeline Deepens Energy Crisis
+   - rkj9y4onyBU | ongoing=False | publishedAt=2026-09-14T05:15:09Z | actualEndTime=None | effective=2026-09-14 05:15:09+00:00 | Oil Rises as Saudi Arabia Shuts East-West Crude Pipeline
+   - 4-YOe37i644 | ongoing=False | publishedAt=2026-09-14T04:16:34Z | actualEndTime=None | effective=2026-09-14 04:16:34+00:00 | AI Chiefs Call for Slower Model Development
+   - JMaosDwXBlc | ongoing=False | publishedAt=2026-09-13T17:09:18Z | actualEndTime=None | effective=2026-09-13 17:09:18+00:00 | Bloomberg This Weekend | Pacing The AI Frontier, Oil & Gas P
+   - OpeQmWUPkDM | ongoing=False | publishedAt=2026-09-13T17:00:39Z | actualEndTime=None | effective=2026-09-13 17:00:39+00:00 | Can Scotland’s wind turbines power a data center boom?#short
+   - fwv6hvK3t0Q | ongoing=False | publishedAt=2026-09-13T15:44:36Z | actualEndTime=None | effective=2026-09-13 15:44:36+00:00 | By The Way: Headlines You May Have Missed
+   - XVUk8Tmso2E | ongoing=False | publishedAt=2026-09-13T15:37:21Z | actualEndTime=None | effective=2026-09-13 15:37:21+00:00 | Iran Seeks Gulf Support for Hormuz Plan
+   - 10XhXHvwiAg | ongoing=False | publishedAt=2026-09-13T15:21:59Z | actualEndTime=None | effective=2026-09-13 15:21:59+00:00 | Refining Bottleneck Sends Diesel to Record High
+   - DODkXl9V1hg | ongoing=False | publishedAt=2026-09-13T15:01:07Z | actualEndTime=None | effective=2026-09-13 15:01:07+00:00 | Rising Costs Test Republicans Before Midterms
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: I'm Making a Big Bet Everyone is WRONG.
-  URL: https://www.youtube.com/watch?v=1VEjXu0nZ8U
-  publishedAt: 2026-09-13T03:10:17Z
+  제목: the next 72 hours...
+  URL: https://www.youtube.com/watch?v=QCqLHSWhc7c
+  publishedAt: 2026-09-13T23:51:59Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QCqLHSWhc7c | ongoing=False | publishedAt=2026-09-13T23:51:59Z | actualEndTime=None | effective=2026-09-13 23:51:59+00:00 | the next 72 hours...
+   - j0mDc-ADqFU | ongoing=False | publishedAt=2026-09-13T20:00:54Z | actualEndTime=None | effective=2026-09-13 20:00:54+00:00 | They're Wrong about Tesla Stock | Going to $775 Target.
    - 1VEjXu0nZ8U | ongoing=False | publishedAt=2026-09-13T03:10:17Z | actualEndTime=None | effective=2026-09-13 03:10:17+00:00 | I'm Making a Big Bet Everyone is WRONG.
    - qoEt4W64_84 | ongoing=False | publishedAt=2026-09-12T16:24:30Z | actualEndTime=None | effective=2026-09-12 16:24:30+00:00 | Elon Musk's SpaceX: THIS Interview Left me SPEECHLESS
-   - Xar8nmUe9eU | ongoing=False | publishedAt=2026-09-12T01:00:29Z | actualEndTime=None | effective=2026-09-12 01:00:29+00:00 | How To Fix America's Housing Crisis
-   - epE7Sak1I5k | ongoing=False | publishedAt=2026-09-11T18:25:03Z | actualEndTime=None | effective=2026-09-11 18:25:03+00:00 | this is peak fear.
-   - g_1zdPP-wG0 | ongoing=False | publishedAt=2026-09-11T18:21:41Z | actualEndTime=2026-09-11T18:07:07Z | effective=2026-09-11 18:07:07+00:00 | Buy the Dip.
-   - jKs3DyfRjjw | ongoing=False | publishedAt=2026-09-11T17:18:59Z | actualEndTime=None | effective=2026-09-11 17:18:59+00:00 | Claude Is Helping Terrorists Create Weapons!
-   - CiuLOwg95fU | ongoing=False | publishedAt=2026-09-11T16:27:45Z | actualEndTime=None | effective=2026-09-11 16:27:45+00:00 | This AI Fear Mongering Is OUT OF CONTROL
-   - KY9VfQPoo04 | ongoing=False | publishedAt=2026-09-11T16:11:15Z | actualEndTime=None | effective=2026-09-11 16:11:15+00:00 | DANGER: Report Warns 12 Ways AI Being used to KILL Humans
-   - zjeuLeZP9XE | ongoing=False | publishedAt=2026-09-11T12:46:33Z | actualEndTime=2026-09-11T12:44:18Z | effective=2026-09-11 12:44:18+00:00 | YIKES: Critical CPI Inflation Results
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - WP-0veYwiRE | ongoing=False | publishedAt=2026-09-11T22:05:22Z | actualEndTime=None | effective=2026-09-11 22:05:22+00:00 | 【미국 증시 오늘의 요약】   물가 쇼크에도 웃은 월가…유가 하락이 살리고 AI 인프라(델·HPE)가 끌었다
-   - Dvyfd-HPMD8 | ongoing=False | publishedAt=2026-09-11T21:43:38Z | actualEndTime=2026-09-11T21:20:39Z | effective=2026-09-11 21:20:39+00:00 | [26년 09월 11일 금]  소비자물가지수(CPI),  기대인플레이션 ｜  이란·걸프 국가 회동 예정  ｜
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: [미국마감&아침시황] 사우디 동-서 파이프라인 피격, 국제유가 또 급등ㅣFOMC, BOJ 금리인상 확정인가...?ㅣ#260914
+  URL: https://www.youtube.com/watch?v=HHvXEDOeAfk
+  publishedAt: 2026-09-14T00:17:32Z
+  actualEndTime: 2026-09-14T00:14:09Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - HHvXEDOeAfk | ongoing=False | publishedAt=2026-09-14T00:17:32Z | actualEndTime=2026-09-14T00:14:09Z | effective=2026-09-14 00:14:09+00:00 | [미국마감&아침시황] 사우디 동-서 파이프라인 피격, 국제유가 또 급등ㅣFOMC, BOJ 금리인상 확정인가.
+   - Y76T3tfy2RY | ongoing=False | publishedAt=2026-09-13T11:00:12Z | actualEndTime=None | effective=2026-09-13 11:00:12+00:00 | 데이터센터 건설을 못한다...? 현실은 이것이 부족하기 때문입니다.
    - 4LLofZna1lk | ongoing=False | publishedAt=2026-09-12T11:00:26Z | actualEndTime=None | effective=2026-09-12 11:00:26+00:00 | 저 PBR 테마가 옵니다...... ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: AI 개발 속도 정말 늦출 수  있을까? #코스피 #하이닉스 #앤트로픽
+  URL: https://www.youtube.com/watch?v=tGhwATu_hNk
+  publishedAt: 2026-09-14T03:52:40Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - CEaGe1yomSI | ongoing=False | publishedAt=2026-09-11T18:12:43Z | actualEndTime=None | effective=2026-09-11 18:12:43+00:00 | 그들이 AI를 경고하는 진짜 이유
-   - NCtfXsPjkuA | ongoing=False | publishedAt=2026-09-11T07:31:46Z | actualEndTime=None | effective=2026-09-11 07:31:46+00:00 | 이제 시장의 관심은 XXX! #코스피 #하이닉스 #후티반군
+   - tGhwATu_hNk | ongoing=False | publishedAt=2026-09-14T03:52:40Z | actualEndTime=None | effective=2026-09-14 03:52:40+00:00 | AI 개발 속도 정말 늦출 수  있을까? #코스피 #하이닉스 #앤트로픽
+   - G5mOcY8a6d8 | ongoing=False | publishedAt=2026-09-13T17:31:37Z | actualEndTime=None | effective=2026-09-13 17:31:37+00:00 | 인공지능 개발 멈추자?에 하이닉스 무기한 선물 폭락
 
 - 소수몽키
   상태: NO_VIDEO
