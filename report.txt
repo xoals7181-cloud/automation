@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-14 14:34 (KST)
-Run: 271 (id=34810103945)
+생성 시각: 2026-09-15 14:35 (KST)
+Run: 272 (id=34933340934)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,60 +8,70 @@ Run: 271 (id=34810103945)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Dangote's Fortune Set to Jump $23 Bln on Refinery IPO
-  URL: https://www.youtube.com/watch?v=AAyWcVOam9w
-  publishedAt: 2026-09-14T05:31:05Z
+  제목: Australia’s AI Regulation Debate
+  URL: https://www.youtube.com/watch?v=TsLJDWjbFMU
+  publishedAt: 2026-09-15T05:14:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - AAyWcVOam9w | ongoing=False | publishedAt=2026-09-14T05:31:05Z | actualEndTime=None | effective=2026-09-14 05:31:05+00:00 | Dangote's Fortune Set to Jump $23 Bln on Refinery IPO
-   - CifYwuaTtx8 | ongoing=False | publishedAt=2026-09-14T05:26:54Z | actualEndTime=None | effective=2026-09-14 05:26:54+00:00 | Shutdown of Saudi Pipeline Deepens Energy Crisis
-   - rkj9y4onyBU | ongoing=False | publishedAt=2026-09-14T05:15:09Z | actualEndTime=None | effective=2026-09-14 05:15:09+00:00 | Oil Rises as Saudi Arabia Shuts East-West Crude Pipeline
-   - 4-YOe37i644 | ongoing=False | publishedAt=2026-09-14T04:16:34Z | actualEndTime=None | effective=2026-09-14 04:16:34+00:00 | AI Chiefs Call for Slower Model Development
-   - JMaosDwXBlc | ongoing=False | publishedAt=2026-09-13T17:09:18Z | actualEndTime=None | effective=2026-09-13 17:09:18+00:00 | Bloomberg This Weekend | Pacing The AI Frontier, Oil & Gas P
-   - OpeQmWUPkDM | ongoing=False | publishedAt=2026-09-13T17:00:39Z | actualEndTime=None | effective=2026-09-13 17:00:39+00:00 | Can Scotland’s wind turbines power a data center boom?#short
-   - fwv6hvK3t0Q | ongoing=False | publishedAt=2026-09-13T15:44:36Z | actualEndTime=None | effective=2026-09-13 15:44:36+00:00 | By The Way: Headlines You May Have Missed
-   - XVUk8Tmso2E | ongoing=False | publishedAt=2026-09-13T15:37:21Z | actualEndTime=None | effective=2026-09-13 15:37:21+00:00 | Iran Seeks Gulf Support for Hormuz Plan
-   - 10XhXHvwiAg | ongoing=False | publishedAt=2026-09-13T15:21:59Z | actualEndTime=None | effective=2026-09-13 15:21:59+00:00 | Refining Bottleneck Sends Diesel to Record High
-   - DODkXl9V1hg | ongoing=False | publishedAt=2026-09-13T15:01:07Z | actualEndTime=None | effective=2026-09-13 15:01:07+00:00 | Rising Costs Test Republicans Before Midterms
+   - TsLJDWjbFMU | ongoing=False | publishedAt=2026-09-15T05:14:34Z | actualEndTime=None | effective=2026-09-15 05:14:34+00:00 | Australia’s AI Regulation Debate
+   - FAVlNU9kbHA | ongoing=False | publishedAt=2026-09-15T05:10:34Z | actualEndTime=None | effective=2026-09-15 05:10:34+00:00 | China Economic Momentum Stays Weak as Consumption Falters
+   - lQO7vAj1BEg | ongoing=False | publishedAt=2026-09-15T05:12:17Z | actualEndTime=None | effective=2026-09-15 05:12:17+00:00 | How AI is Transforming China's Economy
+   - sVKHNvhzzfM | ongoing=False | publishedAt=2026-09-15T04:50:18Z | actualEndTime=None | effective=2026-09-15 04:50:18+00:00 | US 10-Year Yield Tops 5%, AI Slowdown Concerns Hit Chipmaker
+   - NuvaglYGWj4 | ongoing=False | publishedAt=2026-09-14T23:21:29Z | actualEndTime=None | effective=2026-09-14 23:21:29+00:00 | Trump: AI ‘Taking Over the World...is a Hoax'
+   - 3f8XR7I7YMc | ongoing=False | publishedAt=2026-09-14T22:17:53Z | actualEndTime=None | effective=2026-09-14 22:17:53+00:00 | Chip Stocks Tumble on AI Safety Fears & Rising Yields
+   - KBz_hbWS9-o | ongoing=False | publishedAt=2026-09-14T22:06:59Z | actualEndTime=None | effective=2026-09-14 22:06:59+00:00 | David Sacks: Anthropic, OpenAI should slow AI if deemed nece
+   - fF1ZT5efWHk | ongoing=False | publishedAt=2026-09-14T21:06:46Z | actualEndTime=None | effective=2026-09-14 21:06:46+00:00 | AI Bosses Urge Caution, Bonds Climb
+   - 6xv4YHN0WL4 | ongoing=False | publishedAt=2026-09-14T20:43:08Z | actualEndTime=None | effective=2026-09-14 20:43:08+00:00 | Brian Moynihan on AI’s self-regulation test
+   - QAVI7xYZnrU | ongoing=False | publishedAt=2026-09-14T19:42:42Z | actualEndTime=None | effective=2026-09-14 19:42:42+00:00 | An ETF That Tracks Employees' 'HAPI'-Ness
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: the next 72 hours...
-  URL: https://www.youtube.com/watch?v=QCqLHSWhc7c
-  publishedAt: 2026-09-13T23:51:59Z
+  제목: Prepare for the -83% Market Crash
+  URL: https://www.youtube.com/watch?v=VdSm5QCA3sg
+  publishedAt: 2026-09-15T01:17:41Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - QCqLHSWhc7c | ongoing=False | publishedAt=2026-09-13T23:51:59Z | actualEndTime=None | effective=2026-09-13 23:51:59+00:00 | the next 72 hours...
-   - j0mDc-ADqFU | ongoing=False | publishedAt=2026-09-13T20:00:54Z | actualEndTime=None | effective=2026-09-13 20:00:54+00:00 | They're Wrong about Tesla Stock | Going to $775 Target.
-   - 1VEjXu0nZ8U | ongoing=False | publishedAt=2026-09-13T03:10:17Z | actualEndTime=None | effective=2026-09-13 03:10:17+00:00 | I'm Making a Big Bet Everyone is WRONG.
-   - qoEt4W64_84 | ongoing=False | publishedAt=2026-09-12T16:24:30Z | actualEndTime=None | effective=2026-09-12 16:24:30+00:00 | Elon Musk's SpaceX: THIS Interview Left me SPEECHLESS
+   - VdSm5QCA3sg | ongoing=False | publishedAt=2026-09-15T01:17:41Z | actualEndTime=None | effective=2026-09-15 01:17:41+00:00 | Prepare for the -83% Market Crash
+   - eEAVcIK_53g | ongoing=False | publishedAt=2026-09-15T01:00:15Z | actualEndTime=None | effective=2026-09-15 01:00:15+00:00 | Mark Zuckerberg Is SMARTER Than You Think
+   - IkWPVpey5mA | ongoing=False | publishedAt=2026-09-14T21:20:45Z | actualEndTime=None | effective=2026-09-14 21:20:45+00:00 | This is an INSANE Flip Flop on SpaceX Stock
+   - 9nqYlCBRNNY | ongoing=False | publishedAt=2026-09-14T20:30:03Z | actualEndTime=None | effective=2026-09-14 20:30:03+00:00 | Is GoPro the Next Meme Stock
+   - ZxmczZjLPew | ongoing=False | publishedAt=2026-09-14T19:00:02Z | actualEndTime=None | effective=2026-09-14 19:00:02+00:00 | Elon Musk Says AI Will 10x The Economy
+   - -fZH2mbeI-E | ongoing=False | publishedAt=2026-09-14T18:27:52Z | actualEndTime=None | effective=2026-09-14 18:27:52+00:00 | Markiplier Turned $9 Million Into $15 Million
+   - Up7g8bDUxog | ongoing=False | publishedAt=2026-09-14T17:45:39Z | actualEndTime=None | effective=2026-09-14 17:45:39+00:00 | How AI Can Destroy The World
+   - a1vtiOhXJcw | ongoing=False | publishedAt=2026-09-14T17:04:38Z | actualEndTime=None | effective=2026-09-14 17:04:38+00:00 | Trump is ALREADY *Starting* to TACO!!! HUUUGE
+   - tapxCUHMG2s | ongoing=False | publishedAt=2026-09-14T16:35:01Z | actualEndTime=2026-09-14T16:26:27Z | effective=2026-09-14 16:26:27+00:00 | The Stock Market Dumps | AI Slowdown, Anthropic, Fed.
+   - _1AMCGl_x-U | ongoing=False | publishedAt=2026-09-14T15:09:15Z | actualEndTime=None | effective=2026-09-14 15:09:15+00:00 | What if the Fed does NOT Hike!??!?!
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  AI 개발 속도 늦춰야한다... 반도체주 급락… 미 10년물 금리 5% 돌파   -  2026/09/14
+  URL: https://www.youtube.com/watch?v=UL9edi_qqIw
+  publishedAt: 2026-09-14T22:16:06Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - UL9edi_qqIw | ongoing=False | publishedAt=2026-09-14T22:16:06Z | actualEndTime=None | effective=2026-09-14 22:16:06+00:00 | 【미국 증시 오늘의 요약】  AI 개발 속도 늦춰야한다... 반도체주 급락… 미 10년물 금리 5% 돌파  
+   - 3gKM9aC5Ub4 | ongoing=False | publishedAt=2026-09-14T21:39:10Z | actualEndTime=2026-09-14T21:21:51Z | effective=2026-09-14 21:21:51+00:00 | [26년 09월 14일 월]  AI 개발 속도 조절론에 흔들리는 기술주.. ｜  사우디아라비아, 주요 송유관
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 사우디 동-서 파이프라인 피격, 국제유가 또 급등ㅣFOMC, BOJ 금리인상 확정인가...?ㅣ#260914
-  URL: https://www.youtube.com/watch?v=HHvXEDOeAfk
-  publishedAt: 2026-09-14T00:17:32Z
-  actualEndTime: 2026-09-14T00:14:09Z
+  제목: 단타 쉽게 하는법
+  URL: https://www.youtube.com/watch?v=-EGLXsQdBqo
+  publishedAt: 2026-09-15T03:00:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - HHvXEDOeAfk | ongoing=False | publishedAt=2026-09-14T00:17:32Z | actualEndTime=2026-09-14T00:14:09Z | effective=2026-09-14 00:14:09+00:00 | [미국마감&아침시황] 사우디 동-서 파이프라인 피격, 국제유가 또 급등ㅣFOMC, BOJ 금리인상 확정인가.
+   - -EGLXsQdBqo | ongoing=False | publishedAt=2026-09-15T03:00:38Z | actualEndTime=None | effective=2026-09-15 03:00:38+00:00 | 단타 쉽게 하는법
+   - 9-NPNo5Tgao | ongoing=False | publishedAt=2026-09-15T00:11:31Z | actualEndTime=2026-09-15T00:08:03Z | effective=2026-09-15 00:08:03+00:00 | [미국마감&아침시황] 국채금리 5%, TACO 쏟아낸 트럼프!! 근데 시장 반응이.... 없다...??ㅣ#2
    - Y76T3tfy2RY | ongoing=False | publishedAt=2026-09-13T11:00:12Z | actualEndTime=None | effective=2026-09-13 11:00:12+00:00 | 데이터센터 건설을 못한다...? 현실은 이것이 부족하기 때문입니다.
-   - 4LLofZna1lk | ongoing=False | publishedAt=2026-09-12T11:00:26Z | actualEndTime=None | effective=2026-09-12 11:00:26+00:00 | 저 PBR 테마가 옵니다...... ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: AI 개발 속도 정말 늦출 수  있을까? #코스피 #하이닉스 #앤트로픽
-  URL: https://www.youtube.com/watch?v=tGhwATu_hNk
-  publishedAt: 2026-09-14T03:52:40Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - tGhwATu_hNk | ongoing=False | publishedAt=2026-09-14T03:52:40Z | actualEndTime=None | effective=2026-09-14 03:52:40+00:00 | AI 개발 속도 정말 늦출 수  있을까? #코스피 #하이닉스 #앤트로픽
    - G5mOcY8a6d8 | ongoing=False | publishedAt=2026-09-13T17:31:37Z | actualEndTime=None | effective=2026-09-13 17:31:37+00:00 | 인공지능 개발 멈추자?에 하이닉스 무기한 선물 폭락
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - 3ND2sRBMoNQ | ongoing=False | publishedAt=2026-09-14T09:13:26Z | actualEndTime=None | effective=2026-09-14 09:13:26+00:00 | 다같이 AI 투자 속도 늦추자? AI리더들의 깜짝 제안, 증시 흔들까
