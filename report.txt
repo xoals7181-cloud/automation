@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-15 14:35 (KST)
-Run: 272 (id=34933340934)
+생성 시각: 2026-09-16 14:29 (KST)
+Run: 273 (id=35059705980)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,72 @@ Run: 272 (id=34933340934)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Australia’s AI Regulation Debate
-  URL: https://www.youtube.com/watch?v=TsLJDWjbFMU
-  publishedAt: 2026-09-15T05:14:34Z
+  제목: US 10-Year Yield Hits Two-Decade High as Fed Decision Looms
+  URL: https://www.youtube.com/watch?v=CW7yJTVYwLQ
+  publishedAt: 2026-09-16T04:18:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - TsLJDWjbFMU | ongoing=False | publishedAt=2026-09-15T05:14:34Z | actualEndTime=None | effective=2026-09-15 05:14:34+00:00 | Australia’s AI Regulation Debate
-   - FAVlNU9kbHA | ongoing=False | publishedAt=2026-09-15T05:10:34Z | actualEndTime=None | effective=2026-09-15 05:10:34+00:00 | China Economic Momentum Stays Weak as Consumption Falters
-   - lQO7vAj1BEg | ongoing=False | publishedAt=2026-09-15T05:12:17Z | actualEndTime=None | effective=2026-09-15 05:12:17+00:00 | How AI is Transforming China's Economy
-   - sVKHNvhzzfM | ongoing=False | publishedAt=2026-09-15T04:50:18Z | actualEndTime=None | effective=2026-09-15 04:50:18+00:00 | US 10-Year Yield Tops 5%, AI Slowdown Concerns Hit Chipmaker
-   - NuvaglYGWj4 | ongoing=False | publishedAt=2026-09-14T23:21:29Z | actualEndTime=None | effective=2026-09-14 23:21:29+00:00 | Trump: AI ‘Taking Over the World...is a Hoax'
-   - 3f8XR7I7YMc | ongoing=False | publishedAt=2026-09-14T22:17:53Z | actualEndTime=None | effective=2026-09-14 22:17:53+00:00 | Chip Stocks Tumble on AI Safety Fears & Rising Yields
-   - KBz_hbWS9-o | ongoing=False | publishedAt=2026-09-14T22:06:59Z | actualEndTime=None | effective=2026-09-14 22:06:59+00:00 | David Sacks: Anthropic, OpenAI should slow AI if deemed nece
-   - fF1ZT5efWHk | ongoing=False | publishedAt=2026-09-14T21:06:46Z | actualEndTime=None | effective=2026-09-14 21:06:46+00:00 | AI Bosses Urge Caution, Bonds Climb
-   - 6xv4YHN0WL4 | ongoing=False | publishedAt=2026-09-14T20:43:08Z | actualEndTime=None | effective=2026-09-14 20:43:08+00:00 | Brian Moynihan on AI’s self-regulation test
-   - QAVI7xYZnrU | ongoing=False | publishedAt=2026-09-14T19:42:42Z | actualEndTime=None | effective=2026-09-14 19:42:42+00:00 | An ETF That Tracks Employees' 'HAPI'-Ness
+   - CW7yJTVYwLQ | ongoing=False | publishedAt=2026-09-16T04:18:03Z | actualEndTime=None | effective=2026-09-16 04:18:03+00:00 | US 10-Year Yield Hits Two-Decade High as Fed Decision Looms
+   - JjGenvC3HVU | ongoing=False | publishedAt=2026-09-16T00:20:42Z | actualEndTime=None | effective=2026-09-16 00:20:42+00:00 | US Senate Blocks Clarity Act Crypto Bill
+   - hhqGhp0Rqq8 | ongoing=False | publishedAt=2026-09-15T22:35:28Z | actualEndTime=None | effective=2026-09-15 22:35:28+00:00 | Supreme Court Rejects Trump's Midterm Mail Ballot Curbs
+   - hT9GDECys1E | ongoing=False | publishedAt=2026-09-15T21:59:06Z | actualEndTime=None | effective=2026-09-15 21:59:06+00:00 | Bond Yields Surge Ahead of the Fed Rate Decision
+   - i9NVYWHUqqU | ongoing=False | publishedAt=2026-09-15T20:55:12Z | actualEndTime=None | effective=2026-09-15 20:55:12+00:00 | Gold Isn't Driven by US Inflation Says Jan van Eck
+   - e-t_n88X1XA | ongoing=False | publishedAt=2026-09-15T20:55:18Z | actualEndTime=None | effective=2026-09-15 20:55:18+00:00 | Will Be 'Extremely Difficult' For The FOMC To Not Raise Rate
+   - LD5Dfke5vII | ongoing=False | publishedAt=2026-09-15T20:50:34Z | actualEndTime=None | effective=2026-09-15 20:50:34+00:00 | Canada Is a Sleeping Giant Economically, Says Blackstone's G
+   - r7OxHMhDudY | ongoing=False | publishedAt=2026-09-15T20:48:05Z | actualEndTime=None | effective=2026-09-15 20:48:05+00:00 | Trump Defends AI Amid Voter Unease
+   - gW00dJGI0as | ongoing=False | publishedAt=2026-09-15T20:40:53Z | actualEndTime=None | effective=2026-09-15 20:40:53+00:00 | BlackRock's Fink Says AI Buildout Delays Limit Access to the
+   - --tHHPaBuDY | ongoing=False | publishedAt=2026-09-15T20:21:25Z | actualEndTime=None | effective=2026-09-15 20:21:25+00:00 | Iran Squeezing Saudi Oil on East and West, Schork Says
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Prepare for the -83% Market Crash
-  URL: https://www.youtube.com/watch?v=VdSm5QCA3sg
-  publishedAt: 2026-09-15T01:17:41Z
+  제목: The Iran War JUST Hit Rock Bottom.
+  URL: https://www.youtube.com/watch?v=2pSUF0ITjAk
+  publishedAt: 2026-09-15T23:31:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2pSUF0ITjAk | ongoing=False | publishedAt=2026-09-15T23:31:03Z | actualEndTime=None | effective=2026-09-15 23:31:03+00:00 | The Iran War JUST Hit Rock Bottom.
+   - Rc8kAnF2atI | ongoing=False | publishedAt=2026-09-15T19:22:58Z | actualEndTime=2026-09-15T19:05:44Z | effective=2026-09-15 19:05:44+00:00 | The Stock Market Nervousness, Fed, Elon, AI Chips
+   - iQRLu0ZMmOs | ongoing=False | publishedAt=2026-09-15T19:10:41Z | actualEndTime=None | effective=2026-09-15 19:10:41+00:00 | Clarity Act FAILS | What Now?!?!?!
+   - 27zrqxuFKpQ | ongoing=False | publishedAt=2026-09-15T15:10:30Z | actualEndTime=None | effective=2026-09-15 15:10:30+00:00 | Warning: Fed Chair Warsh is about to Middle Finger Trump.
+   - YwqBhO--b_M | ongoing=False | publishedAt=2026-09-15T06:45:00Z | actualEndTime=None | effective=2026-09-15 06:45:00+00:00 | This Guy Stole $320 Million Worth of BITCOIN
    - VdSm5QCA3sg | ongoing=False | publishedAt=2026-09-15T01:17:41Z | actualEndTime=None | effective=2026-09-15 01:17:41+00:00 | Prepare for the -83% Market Crash
    - eEAVcIK_53g | ongoing=False | publishedAt=2026-09-15T01:00:15Z | actualEndTime=None | effective=2026-09-15 01:00:15+00:00 | Mark Zuckerberg Is SMARTER Than You Think
    - IkWPVpey5mA | ongoing=False | publishedAt=2026-09-14T21:20:45Z | actualEndTime=None | effective=2026-09-14 21:20:45+00:00 | This is an INSANE Flip Flop on SpaceX Stock
    - 9nqYlCBRNNY | ongoing=False | publishedAt=2026-09-14T20:30:03Z | actualEndTime=None | effective=2026-09-14 20:30:03+00:00 | Is GoPro the Next Meme Stock
    - ZxmczZjLPew | ongoing=False | publishedAt=2026-09-14T19:00:02Z | actualEndTime=None | effective=2026-09-14 19:00:02+00:00 | Elon Musk Says AI Will 10x The Economy
-   - -fZH2mbeI-E | ongoing=False | publishedAt=2026-09-14T18:27:52Z | actualEndTime=None | effective=2026-09-14 18:27:52+00:00 | Markiplier Turned $9 Million Into $15 Million
-   - Up7g8bDUxog | ongoing=False | publishedAt=2026-09-14T17:45:39Z | actualEndTime=None | effective=2026-09-14 17:45:39+00:00 | How AI Can Destroy The World
-   - a1vtiOhXJcw | ongoing=False | publishedAt=2026-09-14T17:04:38Z | actualEndTime=None | effective=2026-09-14 17:04:38+00:00 | Trump is ALREADY *Starting* to TACO!!! HUUUGE
-   - tapxCUHMG2s | ongoing=False | publishedAt=2026-09-14T16:35:01Z | actualEndTime=2026-09-14T16:26:27Z | effective=2026-09-14 16:26:27+00:00 | The Stock Market Dumps | AI Slowdown, Anthropic, Fed.
-   - _1AMCGl_x-U | ongoing=False | publishedAt=2026-09-14T15:09:15Z | actualEndTime=None | effective=2026-09-14 15:09:15+00:00 | What if the Fed does NOT Hike!??!?!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  AI 개발 속도 늦춰야한다... 반도체주 급락… 미 10년물 금리 5% 돌파   -  2026/09/14
-  URL: https://www.youtube.com/watch?v=UL9edi_qqIw
-  publishedAt: 2026-09-14T22:16:06Z
+  제목: 【미국 증시 오늘의 요약】  미 10년물 5% 돌파…3년 만의 금리 인상 온다..?   -  2026/09/15
+  URL: https://www.youtube.com/watch?v=S4piPf98MDk
+  publishedAt: 2026-09-15T22:00:39Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - S4piPf98MDk | ongoing=False | publishedAt=2026-09-15T22:00:39Z | actualEndTime=None | effective=2026-09-15 22:00:39+00:00 | 【미국 증시 오늘의 요약】  미 10년물 5% 돌파…3년 만의 금리 인상 온다..?   -  2026/09/
+   - B4k2Z0erhyE | ongoing=False | publishedAt=2026-09-15T21:56:53Z | actualEndTime=2026-09-15T21:22:13Z | effective=2026-09-15 21:22:13+00:00 | [26년 09월 15일 화]  미 10년물 국채 금리 5% 돌파｜ 유가, 9월에만 약 20% 급등 ｜ 브로드
    - UL9edi_qqIw | ongoing=False | publishedAt=2026-09-14T22:16:06Z | actualEndTime=None | effective=2026-09-14 22:16:06+00:00 | 【미국 증시 오늘의 요약】  AI 개발 속도 늦춰야한다... 반도체주 급락… 미 10년물 금리 5% 돌파  
    - 3gKM9aC5Ub4 | ongoing=False | publishedAt=2026-09-14T21:39:10Z | actualEndTime=2026-09-14T21:21:51Z | effective=2026-09-14 21:21:51+00:00 | [26년 09월 14일 월]  AI 개발 속도 조절론에 흔들리는 기술주.. ｜  사우디아라비아, 주요 송유관
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 단타 쉽게 하는법
-  URL: https://www.youtube.com/watch?v=-EGLXsQdBqo
-  publishedAt: 2026-09-15T03:00:38Z
+  제목: 진짜 대단하네요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+  URL: https://www.youtube.com/watch?v=N91XPuZzqe8
+  publishedAt: 2026-09-16T02:00:22Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - N91XPuZzqe8 | ongoing=False | publishedAt=2026-09-16T02:00:22Z | actualEndTime=None | effective=2026-09-16 02:00:22+00:00 | 진짜 대단하네요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+   - AXI2tI1Po_Y | ongoing=False | publishedAt=2026-09-16T00:18:24Z | actualEndTime=2026-09-16T00:13:54Z | effective=2026-09-16 00:13:54+00:00 | [미국마감&아침시황] 홍해 기뢰 설치...? 최악으로 흘러가는 중동상황ㅣ삼성전자 목표가 27만원... 현실적
    - -EGLXsQdBqo | ongoing=False | publishedAt=2026-09-15T03:00:38Z | actualEndTime=None | effective=2026-09-15 03:00:38+00:00 | 단타 쉽게 하는법
-   - 9-NPNo5Tgao | ongoing=False | publishedAt=2026-09-15T00:11:31Z | actualEndTime=2026-09-15T00:08:03Z | effective=2026-09-15 00:08:03+00:00 | [미국마감&아침시황] 국채금리 5%, TACO 쏟아낸 트럼프!! 근데 시장 반응이.... 없다...??ㅣ#2
-   - Y76T3tfy2RY | ongoing=False | publishedAt=2026-09-13T11:00:12Z | actualEndTime=None | effective=2026-09-13 11:00:12+00:00 | 데이터센터 건설을 못한다...? 현실은 이것이 부족하기 때문입니다.
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - tGhwATu_hNk | ongoing=False | publishedAt=2026-09-14T03:52:40Z | actualEndTime=None | effective=2026-09-14 03:52:40+00:00 | AI 개발 속도 정말 늦출 수  있을까? #코스피 #하이닉스 #앤트로픽
-   - G5mOcY8a6d8 | ongoing=False | publishedAt=2026-09-13T17:31:37Z | actualEndTime=None | effective=2026-09-13 17:31:37+00:00 | 인공지능 개발 멈추자?에 하이닉스 무기한 선물 폭락
+   - ohT_LINqWLg | ongoing=False | publishedAt=2026-09-15T07:50:02Z | actualEndTime=None | effective=2026-09-15 07:50:02+00:00 | 잘나가던 코스피 갑자기 떨어진 이유 #코스피 #하이닉스 #후티반군
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - dBY4dYC-yzI | ongoing=False | publishedAt=2026-09-15T09:10:27Z | actualEndTime=None | effective=2026-09-15 09:10:27+00:00 | 선거 앞두고 급하게 돈 뿌린다? 트럼프 초강수의 수혜주들
    - 3ND2sRBMoNQ | ongoing=False | publishedAt=2026-09-14T09:13:26Z | actualEndTime=None | effective=2026-09-14 09:13:26+00:00 | 다같이 AI 투자 속도 늦추자? AI리더들의 깜짝 제안, 증시 흔들까
