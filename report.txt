@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-17 14:36 (KST)
-Run: 274 (id=35186388057)
+생성 시각: 2026-09-18 14:23 (KST)
+Run: 275 (id=35310633369)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,73 +8,76 @@ Run: 274 (id=35186388057)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: LIV Golf’s $5 Billion Path to Bankruptcy
-  URL: https://www.youtube.com/watch?v=OYHHQ4wJWfk
-  publishedAt: 2026-09-17T05:00:18Z
+  제목: The Bank of Japan's Hardest Decision in Decades
+  URL: https://www.youtube.com/watch?v=bRPBnd-9Yg4
+  publishedAt: 2026-09-18T01:46:21Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - OYHHQ4wJWfk | ongoing=False | publishedAt=2026-09-17T05:00:18Z | actualEndTime=None | effective=2026-09-17 05:00:18+00:00 | LIV Golf’s $5 Billion Path to Bankruptcy
-   - 0x6ch_HrMhY | ongoing=False | publishedAt=2026-09-17T00:00:04Z | actualEndTime=None | effective=2026-09-17 00:00:04+00:00 | Visa's Plan for India's Payment Future
-   - nxRuyHPTzWU | ongoing=False | publishedAt=2026-09-17T00:00:24Z | actualEndTime=None | effective=2026-09-17 00:00:24+00:00 | Why the World Is Watching the Yen
-   - p8XIuSLSwBk | ongoing=False | publishedAt=2026-09-16T23:05:42Z | actualEndTime=None | effective=2026-09-16 23:05:42+00:00 | Warsh Declines Comment on Any Discussion With President Trum
-   - djSDQ916pjk | ongoing=False | publishedAt=2026-09-16T22:07:18Z | actualEndTime=None | effective=2026-09-16 22:07:18+00:00 | Trump Calls Fed Rate Hike 'Unfortunate,' Demands a Cut
-   - ETz_JR1TywU | ongoing=False | publishedAt=2026-09-16T21:56:09Z | actualEndTime=None | effective=2026-09-16 21:56:09+00:00 | Highlights From Fed Chairman Warsh’s News Conference
-   - fTKlNrIpNNY | ongoing=False | publishedAt=2026-09-16T21:50:34Z | actualEndTime=None | effective=2026-09-16 21:50:34+00:00 | Carney Courts the World’s Top Investors at Toronto Summit
-   - ohYnH1FJtiI | ongoing=False | publishedAt=2026-09-16T21:50:22Z | actualEndTime=None | effective=2026-09-16 21:50:22+00:00 | Takeaways From Carney's Canada Investor Summit
-   - aw9UrYJiHzc | ongoing=False | publishedAt=2026-09-16T21:46:44Z | actualEndTime=None | effective=2026-09-16 21:46:44+00:00 | Bloomberg Surveillance: The Fed Decides 9/16/2026
-   - A_y0R2YeuKA | ongoing=False | publishedAt=2026-09-16T21:38:55Z | actualEndTime=None | effective=2026-09-16 21:38:55+00:00 | Harold Hamm Signs Deal to Explore Venezuelan Oil Fields
+   - bRPBnd-9Yg4 | ongoing=False | publishedAt=2026-09-18T01:46:21Z | actualEndTime=None | effective=2026-09-18 01:46:21+00:00 | The Bank of Japan's Hardest Decision in Decades
+   - ZDEOzHKyH68 | ongoing=False | publishedAt=2026-09-18T01:47:00Z | actualEndTime=None | effective=2026-09-18 01:47:00+00:00 | The Dutch Village in the Path of Europe’s Energy Transition
+   - zjO0dpW8Exw | ongoing=False | publishedAt=2026-09-18T01:46:47Z | actualEndTime=None | effective=2026-09-18 01:46:47+00:00 | Fender’s War With the Industry It Created
+   - E8EgUmA8QXk | ongoing=False | publishedAt=2026-09-18T01:44:55Z | actualEndTime=None | effective=2026-09-18 01:44:55+00:00 | Snap Makes Its Case for Wearing A Computer On Your Face
+   - 7I6q_IUH6Kw | ongoing=False | publishedAt=2026-09-17T23:16:11Z | actualEndTime=None | effective=2026-09-17 23:16:11+00:00 | Iranian Officials Allowed To Enter US for UNGA
+   - 9vyGxhRYVPw | ongoing=False | publishedAt=2026-09-17T23:05:44Z | actualEndTime=None | effective=2026-09-17 23:05:44+00:00 | India’s Quick-Commerce Architect Takes Long Bet on the Futur
+   - qlwP-jGpCro | ongoing=False | publishedAt=2026-09-17T23:02:02Z | actualEndTime=None | effective=2026-09-17 23:02:02+00:00 | India’s Quick-Commerce Disruptor Stays Calm on AI ‘Myth’
+   - bVbeFYOPJr8 | ongoing=False | publishedAt=2026-09-17T22:35:48Z | actualEndTime=None | effective=2026-09-17 22:35:48+00:00 | AI Doom Drags On, Stocks Rebound
+   - wOJPasQjdgA | ongoing=False | publishedAt=2026-09-17T22:01:17Z | actualEndTime=None | effective=2026-09-17 22:01:17+00:00 | Stocks Rally as Yields Fall After the Fed Rate Hike
+   - 4wkEk7ZzDxg | ongoing=False | publishedAt=2026-09-17T22:00:30Z | actualEndTime=None | effective=2026-09-17 22:00:30+00:00 | TikTok Billionaire Becomes Asia’s Richest Person
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: *This* $5 Trillion Dollar AI Stock is about to 2x.
-  URL: https://www.youtube.com/watch?v=b92Fzo1GkSY
-  publishedAt: 2026-09-17T05:14:58Z
+  제목: Elon Musk's Evil Plan To MERGE Tesla With SpaceX
+  URL: https://www.youtube.com/watch?v=h0QbY1L2ET0
+  publishedAt: 2026-09-18T01:00:08Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - b92Fzo1GkSY | ongoing=False | publishedAt=2026-09-17T05:14:58Z | actualEndTime=None | effective=2026-09-17 05:14:58+00:00 | *This* $5 Trillion Dollar AI Stock is about to 2x.
+   - h0QbY1L2ET0 | ongoing=False | publishedAt=2026-09-18T01:00:08Z | actualEndTime=None | effective=2026-09-18 01:00:08+00:00 | Elon Musk's Evil Plan To MERGE Tesla With SpaceX
+   - 0l4zHxQuiO4 | ongoing=False | publishedAt=2026-09-17T23:36:31Z | actualEndTime=None | effective=2026-09-17 23:36:31+00:00 | Palantir CEO Goes OFF On CNBC
+   - sC95kakTQSI | ongoing=False | publishedAt=2026-09-17T21:29:06Z | actualEndTime=None | effective=2026-09-17 21:29:06+00:00 | Palantir CEO Alex Karp is Goes OFF on CNBC
+   - mOKAVplATpY | ongoing=False | publishedAt=2026-09-17T16:52:39Z | actualEndTime=None | effective=2026-09-17 16:52:39+00:00 | Palantir CEO Leaves CNBC SPEECHLES | UNHINGED INTERVIEW
+   - jvBn2fkvu4A | ongoing=False | publishedAt=2026-09-17T16:10:11Z | actualEndTime=2026-09-17T16:00:05Z | effective=2026-09-17 16:00:05+00:00 | Here we Go | PEAK FEAR IS OVER -- UP WE GO!!!
+   - Y3FOZfOm_mU | ongoing=False | publishedAt=2026-09-17T15:30:10Z | actualEndTime=None | effective=2026-09-17 15:30:10+00:00 | Trump is TACO'ing on Iran!!
+   - b92Fzo1GkSY | ongoing=False | publishedAt=2026-09-17T05:14:58Z | actualEndTime=None | effective=2026-09-17 05:14:58+00:00 | THIS Stock is about to 2x!
    - eUS1QM-w9-Q | ongoing=False | publishedAt=2026-09-17T01:29:08Z | actualEndTime=None | effective=2026-09-17 01:29:08+00:00 | Trump *JUST* Lashed Out | Big Mistakes.
    - 9gYZPgFsawI | ongoing=False | publishedAt=2026-09-17T01:00:30Z | actualEndTime=None | effective=2026-09-17 01:00:30+00:00 | Grant Cardone Bought 1,000 Bitcoin at $90,000 💀
    - Hea88SZszxM | ongoing=False | publishedAt=2026-09-16T22:08:08Z | actualEndTime=None | effective=2026-09-16 22:08:08+00:00 | NBC News Helicopter JUST CRASHED | LIVE FOOTAGE | Analysis
-   - ivfor21qz3U | ongoing=False | publishedAt=2026-09-16T22:00:44Z | actualEndTime=None | effective=2026-09-16 22:00:44+00:00 | Cause of Crash? DEADLY NBC News Helicopter Crash [N358TV]
-   - qISyErK8cd8 | ongoing=False | publishedAt=2026-09-16T19:33:47Z | actualEndTime=None | effective=2026-09-16 19:33:47+00:00 | The Fed is PISSED.
-   - M8pg_KRPmZo | ongoing=False | publishedAt=2026-09-16T19:30:19Z | actualEndTime=2026-09-16T19:25:34Z | effective=2026-09-16 19:25:34+00:00 | The Fed [FOMC] Rate Decision LIVE - Kevin Warsh Rate Hike & 
-   - rqALam0cJ8Q | ongoing=False | publishedAt=2026-09-16T16:28:08Z | actualEndTime=2026-09-16T16:20:09Z | effective=2026-09-16 16:20:09+00:00 | The Fed will Hike Today | Stocks TENTATIVE, AI, Nvidia, Meta
-   - uXS337Waf7w | ongoing=False | publishedAt=2026-09-16T15:05:25Z | actualEndTime=None | effective=2026-09-16 15:05:25+00:00 | Final Warning on Fed [Watch Now]
-   - ZHgxrjR5KgE | ongoing=False | publishedAt=2026-09-16T06:55:07Z | actualEndTime=None | effective=2026-09-16 06:55:07+00:00 | The Fed MUST Hike Today.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  연준, 3년 만에 금리 올렸다… 워시 “인플레 너무 높다”   -  2026/09/16
-  URL: https://www.youtube.com/watch?v=UNuYoueYl-A
-  publishedAt: 2026-09-16T22:00:35Z
+  제목: 【미국 증시 오늘의 요약】  연준 금리인상에도 증시 급반등! 10년물 5% 붕괴·AI주 급등   -  2026/09/17
+  URL: https://www.youtube.com/watch?v=MqvAC4dWaqk
+  publishedAt: 2026-09-17T22:00:33Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - MqvAC4dWaqk | ongoing=False | publishedAt=2026-09-17T22:00:33Z | actualEndTime=None | effective=2026-09-17 22:00:33+00:00 | 【미국 증시 오늘의 요약】  연준 금리인상에도 증시 급반등! 10년물 5% 붕괴·AI주 급등   -  202
+   - OSKjzmRJA5k | ongoing=False | publishedAt=2026-09-17T21:44:37Z | actualEndTime=2026-09-17T21:17:06Z | effective=2026-09-17 21:17:06+00:00 | [26년 09월 17일 목]  연준 금리 인상에도 주식·국채 반등 ｜ 유가 이틀째 하락 ｜ 데이터센터 관련주
    - UNuYoueYl-A | ongoing=False | publishedAt=2026-09-16T22:00:35Z | actualEndTime=None | effective=2026-09-16 22:00:35+00:00 | 【미국 증시 오늘의 요약】  연준, 3년 만에 금리 올렸다… 워시 “인플레 너무 높다”   -  2026/0
    - w--F1VYX_Jk | ongoing=False | publishedAt=2026-09-16T21:37:47Z | actualEndTime=2026-09-16T21:07:02Z | effective=2026-09-16 21:07:02+00:00 | [26년 09월 16일 수]  기준금리 결정, FOMC 기자회견 ｜ 메타, 'AI개발 조절 반대' ｜ 오픈A
-   - S4piPf98MDk | ongoing=False | publishedAt=2026-09-15T22:00:39Z | actualEndTime=None | effective=2026-09-15 22:00:39+00:00 | 【미국 증시 오늘의 요약】  미 10년물 5% 돌파…3년 만의 금리 인상 온다..?   -  2026/09/
-   - B4k2Z0erhyE | ongoing=False | publishedAt=2026-09-15T21:56:53Z | actualEndTime=2026-09-15T21:22:13Z | effective=2026-09-15 21:22:13+00:00 | [26년 09월 15일 화]  미 10년물 국채 금리 5% 돌파｜ 유가, 9월에만 약 20% 급등 ｜ 브로드
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] FOMC 리뷰: 금리 더 올릴 수 있다!ㅣ10년물 5% 재돌파, 달러 강세 전환, 주식시장은 반등 중...!!?ㅣ#260917
-  URL: https://www.youtube.com/watch?v=e8g7xkke5ok
-  publishedAt: 2026-09-17T00:09:42Z
-  actualEndTime: 2026-09-17T00:06:52Z
+  제목: SK하이닉스 한국 주식을 팔고, SK하이닉스 ADR을 투자한다...??
+  URL: https://www.youtube.com/watch?v=Qufsf1tfSV4
+  publishedAt: 2026-09-18T03:00:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - e8g7xkke5ok | ongoing=False | publishedAt=2026-09-17T00:09:42Z | actualEndTime=2026-09-17T00:06:52Z | effective=2026-09-17 00:06:52+00:00 | [미국마감&아침시황] FOMC 리뷰: 금리 더 올릴 수 있다!ㅣ10년물 5% 재돌파, 달러 강세 전환, 주식
-   - N91XPuZzqe8 | ongoing=False | publishedAt=2026-09-16T02:00:22Z | actualEndTime=None | effective=2026-09-16 02:00:22+00:00 | 진짜 대단하네요 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ
+   - Qufsf1tfSV4 | ongoing=False | publishedAt=2026-09-18T03:00:35Z | actualEndTime=None | effective=2026-09-18 03:00:35+00:00 | SK하이닉스 한국 주식을 팔고, SK하이닉스 ADR을 투자한다...??
+   - MYM-IbV2nvk | ongoing=False | publishedAt=2026-09-18T00:15:41Z | actualEndTime=2026-09-18T00:12:22Z | effective=2026-09-18 00:12:22+00:00 | [미국마감&아침시황] 금리인상 받고 주식 레츠고...!?ㅣ이란 대통령, 미국 간다..!!ㅣ#260918
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 금리인상? 오히려 좋아! #하이닉스 #금리인상 #코스피
+  URL: https://www.youtube.com/watch?v=zgWgs1oSyEw
+  publishedAt: 2026-09-18T03:06:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - zgWgs1oSyEw | ongoing=False | publishedAt=2026-09-18T03:06:02Z | actualEndTime=None | effective=2026-09-18 03:06:02+00:00 | 금리인상? 오히려 좋아! #하이닉스 #금리인상 #코스피
+   - 6xAmdmLtFUw | ongoing=False | publishedAt=2026-09-17T18:28:21Z | actualEndTime=None | effective=2026-09-17 18:28:21+00:00 | 금리인상에도 나스닥이 떡상한 진짜 이유
    - xRKyIHA7QW4 | ongoing=False | publishedAt=2026-09-16T08:44:24Z | actualEndTime=None | effective=2026-09-16 08:44:24+00:00 | 코스피가 박스권에 있는 진짜 이유 #코스피 #하이닉스 #OpenAI
-   - ohT_LINqWLg | ongoing=False | publishedAt=2026-09-15T07:50:02Z | actualEndTime=None | effective=2026-09-15 07:50:02+00:00 | 잘나가던 코스피 갑자기 떨어진 이유 #코스피 #하이닉스 #후티반군
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 1eV18vbBzZE | ongoing=False | publishedAt=2026-09-17T09:35:49Z | actualEndTime=None | effective=2026-09-17 09:35:49+00:00 | 챗GPT, 끌로드 더 이상 못믿겠다? 자체 AI 구축 열풍의 새로운 수혜주들
    - mo2ukCmz_uc | ongoing=False | publishedAt=2026-09-16T09:52:42Z | actualEndTime=None | effective=2026-09-16 09:52:42+00:00 | 금리 더 올라도 미 증시 끄떡없다? 월가 초고수의 베팅, 적중할까
-   - dBY4dYC-yzI | ongoing=False | publishedAt=2026-09-15T09:10:27Z | actualEndTime=None | effective=2026-09-15 09:10:27+00:00 | 선거 앞두고 급하게 돈 뿌린다? 트럼프 초강수의 수혜주들
