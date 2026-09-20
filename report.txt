@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-19 14:18 (KST)
-Run: 276 (id=35423582402)
+생성 시각: 2026-09-20 14:32 (KST)
+Run: 277 (id=35491947039)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,29 +8,30 @@ Run: 276 (id=35423582402)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: The New Airport Luxury Is A $5K Private Lounge For Flying Commercial
-  URL: https://www.youtube.com/watch?v=d_w2VgI_TWI
-  publishedAt: 2026-09-19T04:00:11Z
+  제목: Why India’s Big Tech Companies Are Betting on Hyderabad
+  URL: https://www.youtube.com/watch?v=EcelxH5w6x4
+  publishedAt: 2026-09-19T23:04:22Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - d_w2VgI_TWI | ongoing=False | publishedAt=2026-09-19T04:00:11Z | actualEndTime=None | effective=2026-09-19 04:00:11+00:00 | The New Airport Luxury Is A $5K Private Lounge For Flying Co
-   - p3H6i6a4cEI | ongoing=False | publishedAt=2026-09-18T23:32:07Z | actualEndTime=None | effective=2026-09-18 23:32:07+00:00 | Trump: There May Be Other Media Outlet Bans To Follow
-   - eGsVTQW3lrU | ongoing=False | publishedAt=2026-09-18T23:28:11Z | actualEndTime=None | effective=2026-09-18 23:28:11+00:00 | Wall Street Week | India’s Growth Test, Bangalore’s Infrastr
-   - uNcHCCeeUXE | ongoing=False | publishedAt=2026-09-18T22:57:25Z | actualEndTime=None | effective=2026-09-18 22:57:25+00:00 | Allen Says AI Safety Must Keep Pace With Model Releases
-   - 6p0_Iv59AMI | ongoing=False | publishedAt=2026-09-18T22:51:52Z | actualEndTime=None | effective=2026-09-18 22:51:52+00:00 | Budrys: NATO Must Boost Deterrence After Drone Incidents
-   - tp4O1eRu5ys | ongoing=False | publishedAt=2026-09-18T22:44:17Z | actualEndTime=None | effective=2026-09-18 22:44:17+00:00 | Kloza on Diesel Prices Hit Fresh Record-High
-   - bSfSC3h2a3U | ongoing=False | publishedAt=2026-09-18T22:26:06Z | actualEndTime=None | effective=2026-09-18 22:26:06+00:00 | Trump Bans CNN, MS NOW, Politico From White House
-   - _CnhWKIc3l0 | ongoing=False | publishedAt=2026-09-18T22:03:11Z | actualEndTime=None | effective=2026-09-18 22:03:11+00:00 | Markets, Treasury Yields & the Bank of Japan
-   - U1TVTKumrrY | ongoing=False | publishedAt=2026-09-18T22:01:39Z | actualEndTime=None | effective=2026-09-18 22:01:39+00:00 | $370 'Home Alone Sundae' on The Plaza's Menu
-   - GMWM_v6uvJU | ongoing=False | publishedAt=2026-09-18T21:54:18Z | actualEndTime=None | effective=2026-09-18 21:54:18+00:00 | Oil Remains Primary Risk Driving Higher Rates Says Haworth
+   - EcelxH5w6x4 | ongoing=False | publishedAt=2026-09-19T23:04:22Z | actualEndTime=None | effective=2026-09-19 23:04:22+00:00 | Why India’s Big Tech Companies Are Betting on Hyderabad
+   - 0F7nL9Hh8ZA | ongoing=False | publishedAt=2026-09-19T23:03:50Z | actualEndTime=None | effective=2026-09-19 23:03:50+00:00 | US Lead in the AI Race With China Is Rapidly Narrowing
+   - N_u-re_Neoo | ongoing=False | publishedAt=2026-09-19T18:13:55Z | actualEndTime=None | effective=2026-09-19 18:13:55+00:00 | Trump Reignites Kennedy Center Fight
+   - 9Cc-mYo7rbU | ongoing=False | publishedAt=2026-09-19T16:41:23Z | actualEndTime=None | effective=2026-09-19 16:41:23+00:00 | Bloomberg This Weekend | Gemini AI Breakout, Greenland Deal
+   - zdMUZVvENlQ | ongoing=False | publishedAt=2026-09-19T15:43:04Z | actualEndTime=None | effective=2026-09-19 15:43:04+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - aSpCzKR5AMg | ongoing=False | publishedAt=2026-09-19T15:35:24Z | actualEndTime=None | effective=2026-09-19 15:35:24+00:00 | By The Way: Headlines You May Have Missed
+   - oq-GqLpd65o | ongoing=False | publishedAt=2026-09-19T15:17:59Z | actualEndTime=None | effective=2026-09-19 15:17:59+00:00 | New York Builds Data Team to Target Consumer Ripoffs
+   - nBsbp_Hdows | ongoing=False | publishedAt=2026-09-19T15:02:32Z | actualEndTime=None | effective=2026-09-19 15:02:32+00:00 | Governor Cox Says Americans Need Healthier Conflict
+   - _5fj8Bn01c4 | ongoing=False | publishedAt=2026-09-19T14:01:27Z | actualEndTime=None | effective=2026-09-19 14:01:27+00:00 | JD Vance’s Yale Years Offer Clues to His Politics
+   - UWH68aUY6Tg | ongoing=False | publishedAt=2026-09-19T13:51:51Z | actualEndTime=None | effective=2026-09-19 13:51:51+00:00 | MBA Programs Race to Adapt to the AI Era
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: are we f**k'd
-  URL: https://www.youtube.com/watch?v=zVNSiiQbH4s
-  publishedAt: 2026-09-19T02:17:09Z
+  제목: Palantir BLAMED: 123 Children Deaths in Iran [Pentagon Failure]
+  URL: https://www.youtube.com/watch?v=cgW7x3wi6DI
+  publishedAt: 2026-09-19T21:28:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - cgW7x3wi6DI | ongoing=False | publishedAt=2026-09-19T21:28:23Z | actualEndTime=None | effective=2026-09-19 21:28:23+00:00 | Palantir BLAMED: 123 Children Deaths in Iran [Pentagon Failu
    - zVNSiiQbH4s | ongoing=False | publishedAt=2026-09-19T02:17:09Z | actualEndTime=None | effective=2026-09-19 02:17:09+00:00 | are we f**k'd
    - AlMDZy4uSSQ | ongoing=False | publishedAt=2026-09-19T01:00:09Z | actualEndTime=None | effective=2026-09-19 01:00:09+00:00 | Grant Cardone Sued Me AND It Instantly Backfired 💀
    - LV6_d7kaF8I | ongoing=False | publishedAt=2026-09-18T22:17:25Z | actualEndTime=2026-09-18T22:15:16Z | effective=2026-09-18 22:15:16+00:00 | Anthropic *SUDDENLY* Delays IPO & Nscale IPO Looks BAD
@@ -40,37 +41,25 @@ Run: 276 (id=35423582402)
    - URzdHfZQ_cg | ongoing=False | publishedAt=2026-09-18T17:45:10Z | actualEndTime=None | effective=2026-09-18 17:45:10+00:00 | The Houthi's are Causing Problems
    - FVM4MN7raH0 | ongoing=False | publishedAt=2026-09-18T17:04:23Z | actualEndTime=None | effective=2026-09-18 17:04:23+00:00 | How Trump JUST Bailed out All Stocks & Crypto. Again.
    - JifqA70_3Z8 | ongoing=False | publishedAt=2026-09-18T16:38:13Z | actualEndTime=2026-09-18T16:30:09Z | effective=2026-09-18 16:30:09+00:00 | Iran Nerves, Anthropic, Options Witching | Stocks, Housing, 
-   - pLGterZT4ZI | ongoing=False | publishedAt=2026-09-18T16:00:21Z | actualEndTime=None | effective=2026-09-18 16:00:21+00:00 | Why I'm Optimistic About the Iran War Ending
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  반도체주 급반등…국채금리 5%에도 기술주는 버텼다   -  2026/09/18
-  URL: https://www.youtube.com/watch?v=JxInhDNSPl8
-  publishedAt: 2026-09-18T22:24:15Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - JxInhDNSPl8 | ongoing=False | publishedAt=2026-09-18T22:24:15Z | actualEndTime=None | effective=2026-09-18 22:24:15+00:00 | 【미국 증시 오늘의 요약】  반도체주 급반등…국채금리 5%에도 기술주는 버텼다   -  2026/09/18
    - G3TDq7GmkvE | ongoing=False | publishedAt=2026-09-18T21:46:45Z | actualEndTime=2026-09-18T21:29:27Z | effective=2026-09-18 21:29:27+00:00 | [26년 09월 18일 금]  7조달러 옵션 만기·리밸런싱  ｜일본은행 금리 인상에도 엔화 약세 ｜ 솔리다임
    - twspRGF_Ut0 | ongoing=False | publishedAt=2026-09-18T07:58:48Z | actualEndTime=2026-09-18T07:47:09Z | effective=2026-09-18 07:47:09+00:00 | [특별 방송]  일본은행 기준금리 인상, 기자회견 ｜ -  오선의 미국 증시 라이브
-   - MqvAC4dWaqk | ongoing=False | publishedAt=2026-09-17T22:00:33Z | actualEndTime=None | effective=2026-09-17 22:00:33+00:00 | 【미국 증시 오늘의 요약】  연준 금리인상에도 증시 급반등! 10년물 5% 붕괴·AI주 급등   -  202
-   - OSKjzmRJA5k | ongoing=False | publishedAt=2026-09-17T21:44:37Z | actualEndTime=2026-09-17T21:17:06Z | effective=2026-09-17 21:17:06+00:00 | [26년 09월 17일 목]  연준 금리 인상에도 주식·국채 반등 ｜ 유가 이틀째 하락 ｜ 데이터센터 관련주
 
 - 설명왕 테이버
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Qufsf1tfSV4 | ongoing=False | publishedAt=2026-09-18T03:00:35Z | actualEndTime=None | effective=2026-09-18 03:00:35+00:00 | SK하이닉스 한국 주식을 팔고, SK하이닉스 ADR을 투자한다...??
-   - MYM-IbV2nvk | ongoing=False | publishedAt=2026-09-18T00:15:41Z | actualEndTime=2026-09-18T00:12:22Z | effective=2026-09-18 00:12:22+00:00 | [미국마감&아침시황] 금리인상 받고 주식 레츠고...!?ㅣ이란 대통령, 미국 간다..!!ㅣ#260918
+  비고: 최근 48시간 검색 결과 없음
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - zgWgs1oSyEw | ongoing=False | publishedAt=2026-09-18T03:06:02Z | actualEndTime=None | effective=2026-09-18 03:06:02+00:00 | 금리인상? 오히려 좋아! #하이닉스 #금리인상 #코스피
-   - 6xAmdmLtFUw | ongoing=False | publishedAt=2026-09-17T18:28:21Z | actualEndTime=None | effective=2026-09-17 18:28:21+00:00 | 금리인상에도 나스닥이 떡상한 진짜 이유
+   - ZSPklJyjVps | ongoing=False | publishedAt=2026-09-19T07:36:17Z | actualEndTime=None | effective=2026-09-19 07:36:17+00:00 | 소프트뱅크가 역대급 위기라고??
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 1eV18vbBzZE | ongoing=False | publishedAt=2026-09-17T09:35:49Z | actualEndTime=None | effective=2026-09-17 09:35:49+00:00 | 챗GPT, 끌로드 더 이상 못믿겠다? 자체 AI 구축 열풍의 새로운 수혜주들
+  비고: 최근 48시간 검색 결과 없음
