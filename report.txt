@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-21 14:40 (KST)
-Run: 278 (id=35565409529)
+생성 시각: 2026-09-22 14:37 (KST)
+Run: 279 (id=35691448071)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,59 +8,75 @@ Run: 278 (id=35565409529)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US, China Hold AI, Trade Talks Ahead of Trump-Xi Summit
-  URL: https://www.youtube.com/watch?v=586dZMl0hnQ
-  publishedAt: 2026-09-21T05:15:28Z
+  제목: UK to Give Saudi Arabia Defensive Support to Counter Houthis
+  URL: https://www.youtube.com/watch?v=LncEnBGPUjY
+  publishedAt: 2026-09-22T05:36:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 586dZMl0hnQ | ongoing=False | publishedAt=2026-09-21T05:15:28Z | actualEndTime=None | effective=2026-09-21 05:15:28+00:00 | US, China Hold AI, Trade Talks Ahead of Trump-Xi Summit
-   - hVDhnUlntsk | ongoing=False | publishedAt=2026-09-21T05:09:59Z | actualEndTime=None | effective=2026-09-21 05:09:59+00:00 | Bessent-He Talks Set the Stage for Trump-Xi Summit
-   - ZMGir-AMUz8 | ongoing=False | publishedAt=2026-09-21T04:20:35Z | actualEndTime=None | effective=2026-09-21 04:20:35+00:00 | US, China Begin Trade Talks in New York
-   - UYZcy2FAddw | ongoing=False | publishedAt=2026-09-21T01:13:05Z | actualEndTime=None | effective=2026-09-21 01:13:05+00:00 | India’s Quick-Commerce Architect Takes Long Bet on the Futur
-   - _gPk1zHCdk4 | ongoing=False | publishedAt=2026-09-21T01:00:27Z | actualEndTime=None | effective=2026-09-21 01:00:27+00:00 | In Post 9/11 Era, NYC's Downtown Forges Life Beyond Wall Str
-   - qHIPWJ_nOaY | ongoing=False | publishedAt=2026-09-20T19:00:21Z | actualEndTime=None | effective=2026-09-20 19:00:21+00:00 | Wall Street Week | India’s Growth Test, Bangalore’s Infrastr
-   - zDLi0cQKxEU | ongoing=False | publishedAt=2026-09-20T18:00:29Z | actualEndTime=None | effective=2026-09-20 18:00:29+00:00 | Why India’s Big Tech Companies Are Betting on Hyderabad
-   - sUxJzFzLOMQ | ongoing=False | publishedAt=2026-09-20T17:48:13Z | actualEndTime=None | effective=2026-09-20 17:48:13+00:00 | Bloomberg This Weekend | At the 2026 Qatar Economic Forum
-   - 5oMBHWCvvBI | ongoing=False | publishedAt=2026-09-20T16:14:03Z | actualEndTime=None | effective=2026-09-20 16:14:03+00:00 | General Atlantic CEO Sees Long-Term AI Opportunity
-   - wja-8j4C99M | ongoing=False | publishedAt=2026-09-20T16:02:15Z | actualEndTime=None | effective=2026-09-20 16:02:15+00:00 | Qatar Says LNG Damage May Take Years to Repair
+   - LncEnBGPUjY | ongoing=False | publishedAt=2026-09-22T05:36:09Z | actualEndTime=None | effective=2026-09-22 05:36:09+00:00 | UK to Give Saudi Arabia Defensive Support to Counter Houthis
+   - OShYVwOFK9U | ongoing=False | publishedAt=2026-09-22T05:26:50Z | actualEndTime=None | effective=2026-09-22 05:26:50+00:00 | US, China Talks Focus on Trade, AI, Investment
+   - F_FHpMtNwKE | ongoing=False | publishedAt=2026-09-22T04:50:07Z | actualEndTime=None | effective=2026-09-22 04:50:07+00:00 | Alibaba Says It Will Roll Out China's Top AI Chip
+   - yi3Q3bpTnl8 | ongoing=False | publishedAt=2026-09-22T04:06:22Z | actualEndTime=None | effective=2026-09-22 04:06:22+00:00 | Australia Bets on AI to Spur Economic Growth For Decades
+   - YCQ52O38uNc | ongoing=False | publishedAt=2026-09-22T02:43:45Z | actualEndTime=None | effective=2026-09-22 02:43:45+00:00 | Bucks President on Uline Partnership, New NBA Season
+   - 10MkVOdoTXM | ongoing=False | publishedAt=2026-09-22T02:43:12Z | actualEndTime=None | effective=2026-09-22 02:43:12+00:00 | Rep. Issa Warns Oil Companies Against Profiting From US Shor
+   - tcE79sZ--c8 | ongoing=False | publishedAt=2026-09-21T23:33:02Z | actualEndTime=None | effective=2026-09-21 23:33:02+00:00 | Trump, Mamdani Meet Ahead of UN General Assembly
+   - khbRQVoqGBM | ongoing=False | publishedAt=2026-09-21T22:49:38Z | actualEndTime=None | effective=2026-09-21 22:49:38+00:00 | Síkela Says Europe Looks to Expand Development Financing
+   - QSbPFbCTpSQ | ongoing=False | publishedAt=2026-09-21T22:31:43Z | actualEndTime=None | effective=2026-09-21 22:31:43+00:00 | Paramount settles lawsuits, allowing for Warner Bros. deal #
+   - zWb4DDbjweA | ongoing=False | publishedAt=2026-09-21T22:30:34Z | actualEndTime=None | effective=2026-09-21 22:30:34+00:00 | World Leaders Converge on United Nations General Assembly
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Problem With NVIDIA's $14 Billion Acquisition
-  URL: https://www.youtube.com/watch?v=GoIxPtnnlpU
-  publishedAt: 2026-09-21T01:00:08Z
+  제목: Trump's ULTIMATE Middle Finger To Iran
+  URL: https://www.youtube.com/watch?v=bbA5IyRslTU
+  publishedAt: 2026-09-22T04:12:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - GoIxPtnnlpU | ongoing=False | publishedAt=2026-09-21T01:00:08Z | actualEndTime=None | effective=2026-09-21 01:00:08+00:00 | The Problem With NVIDIA's $14 Billion Acquisition
-   - VXfzcEdZhQE | ongoing=False | publishedAt=2026-09-20T14:53:13Z | actualEndTime=None | effective=2026-09-20 14:53:13+00:00 | The Oil & Iran Situation JUST got Really Bad.
-   - uJ1ZYcRLfs0 | ongoing=False | publishedAt=2026-09-20T06:30:11Z | actualEndTime=None | effective=2026-09-20 06:30:11+00:00 | Tesla Robotaxi VS Waymo
-   - cgW7x3wi6DI | ongoing=False | publishedAt=2026-09-19T21:28:23Z | actualEndTime=None | effective=2026-09-19 21:28:23+00:00 | Palantir BLAMED: 123 Children Deaths in Iran [Pentagon Failu
+   - bbA5IyRslTU | ongoing=False | publishedAt=2026-09-22T04:12:43Z | actualEndTime=None | effective=2026-09-22 04:12:43+00:00 | Trump's ULTIMATE Middle Finger To Iran
+   - Bw0aYVlFU8A | ongoing=False | publishedAt=2026-09-22T04:07:04Z | actualEndTime=None | effective=2026-09-22 04:07:04+00:00 | The Nscale Disaster
+   - zKXAcFQGe7s | ongoing=False | publishedAt=2026-09-22T01:00:03Z | actualEndTime=None | effective=2026-09-22 01:00:03+00:00 | How Markiplier Turned $9M into $15M with GOPRO Stock
+   - r8pa1nIhprg | ongoing=False | publishedAt=2026-09-22T00:05:19Z | actualEndTime=None | effective=2026-09-22 00:05:19+00:00 | HOLY BALLS
+   - FWRn6ulkvng | ongoing=False | publishedAt=2026-09-21T22:29:30Z | actualEndTime=2026-09-21T22:21:19Z | effective=2026-09-21 22:21:19+00:00 | SKYROCKETING STOCK MARKET: Meta, AMD, Agentic Compute & IRAN
+   - xUE-7EI2ACE | ongoing=False | publishedAt=2026-09-21T21:19:22Z | actualEndTime=None | effective=2026-09-21 21:19:22+00:00 | *NEW* Trump $5 BILLION Dollar Middle East Bailout! IRAN DEAL
+   - 8_ST3Ow0dmY | ongoing=False | publishedAt=2026-09-21T18:34:02Z | actualEndTime=None | effective=2026-09-21 18:34:02+00:00 | TRUMP JUST BAILED OUT CRYPTO & ROBINHOOD
+   - DbNxFAeugy0 | ongoing=False | publishedAt=2026-09-21T18:25:27Z | actualEndTime=2026-09-21T16:28:33Z | effective=2026-09-21 16:28:33+00:00 | HUGE AI Exports, Hormuz Oil Flows Surge, Rates Slip - BULLIS
+   - 21bJunhHjDQ | ongoing=False | publishedAt=2026-09-21T17:01:48Z | actualEndTime=None | effective=2026-09-21 17:01:48+00:00 | HOLY TESLA SEMI TRUCK | Tesla Stock GAME CHANGER
+   - ImLNQWvwLus | ongoing=False | publishedAt=2026-09-21T15:02:03Z | actualEndTime=None | effective=2026-09-21 15:02:03+00:00 | why stocks are skyrocketing [spoiler: it's just getting star
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  메타 '뮤즈' 효과에 반도체주 폭등, AMD 시총 1조 달러 시대   -  2026/09/21
+  URL: https://www.youtube.com/watch?v=VQPTp1CKIsI
+  publishedAt: 2026-09-21T22:00:08Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - VQPTp1CKIsI | ongoing=False | publishedAt=2026-09-21T22:00:08Z | actualEndTime=None | effective=2026-09-21 22:00:08+00:00 | 【미국 증시 오늘의 요약】  메타 '뮤즈' 효과에 반도체주 폭등, AMD 시총 1조 달러 시대   -  20
+   - QxjQ3_KvhJs | ongoing=False | publishedAt=2026-09-21T21:27:32Z | actualEndTime=2026-09-21T21:11:31Z | effective=2026-09-21 21:11:31+00:00 | [26년 09월 21일 월]  미·중 정상회담 기대감 상승  ｜ 유가 급락에 증시·채권 동반 상승 ｜ 비트코
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 반도체가 벌떡!! 추석 전 삼성전자, 하이닉스 더 사야 할까?ㅣ#260921
-  URL: https://www.youtube.com/watch?v=JehiyNozHpA
-  publishedAt: 2026-09-21T00:07:38Z
-  actualEndTime: 2026-09-21T00:04:33Z
+  제목: [미국마감&아침시황] 메타가 보여준 새로운 AI의 가능성...!ㅣUN총회에서 나온 말말말, 유럽 = 죽겠다...!, 트럼프 = 이란 만날 수도ㅣ#260922
+  URL: https://www.youtube.com/watch?v=OeD0MXAN4sE
+  publishedAt: 2026-09-22T00:07:34Z
+  actualEndTime: 2026-09-22T00:05:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - JehiyNozHpA | ongoing=False | publishedAt=2026-09-21T00:07:38Z | actualEndTime=2026-09-21T00:04:33Z | effective=2026-09-21 00:04:33+00:00 | [미국마감&아침시황] 반도체가 벌떡!! 추석 전 삼성전자, 하이닉스 더 사야 할까?ㅣ#260921
+   - OeD0MXAN4sE | ongoing=False | publishedAt=2026-09-22T00:07:34Z | actualEndTime=2026-09-22T00:05:00Z | effective=2026-09-22 00:05:00+00:00 | [미국마감&아침시황] 메타가 보여준 새로운 AI의 가능성...!ㅣUN총회에서 나온 말말말, 유럽 = 죽겠다.
+   - r1z53GiOr5A | ongoing=False | publishedAt=2026-09-21T07:00:06Z | actualEndTime=None | effective=2026-09-21 07:00:06+00:00 | [추석특집] 미국주식 릴레이 분석 2부 - M7 차트분석 #MSFT #META #AMZN
    - qcWoWyoN5TM | ongoing=False | publishedAt=2026-09-20T10:00:29Z | actualEndTime=None | effective=2026-09-20 10:00:29+00:00 | [추석특집] 이번 추석엔 미국주식과 함께...!! 이걸 왜 시작했지...??
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 미국 국채 금리 걱정할 필요 없는 이유 (성상현 ABP 자산운용 전무)
-  URL: https://www.youtube.com/watch?v=T7AWuOQqK48
-  publishedAt: 2026-09-20T19:00:34Z
+  제목: 챗GPT 이후 정말 큰거 왔다!
+  URL: https://www.youtube.com/watch?v=TymEoUBCTR0
+  publishedAt: 2026-09-21T18:09:59Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - TymEoUBCTR0 | ongoing=False | publishedAt=2026-09-21T18:09:59Z | actualEndTime=None | effective=2026-09-21 18:09:59+00:00 | 챗GPT 이후 정말 큰거 왔다!
+   - i10nJI-tN7U | ongoing=False | publishedAt=2026-09-21T07:31:21Z | actualEndTime=None | effective=2026-09-21 07:31:21+00:00 | 삼전이 닉스보다 주가가 더 오르는 이유 #삼성전자 #하이닉스 #배당
    - T7AWuOQqK48 | ongoing=False | publishedAt=2026-09-20T19:00:34Z | actualEndTime=None | effective=2026-09-20 19:00:34+00:00 | 미국 국채 금리 걱정할 필요 없는 이유 (성상현 ABP 자산운용 전무)
-   - ZSPklJyjVps | ongoing=False | publishedAt=2026-09-19T07:36:17Z | actualEndTime=None | effective=2026-09-19 07:36:17+00:00 | 소프트뱅크가 역대급 위기라고??
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - cNiqvNwYD4U | ongoing=False | publishedAt=2026-09-21T10:43:39Z | actualEndTime=None | effective=2026-09-21 10:43:39+00:00 | 트럼프의 마지막 승부수? 미중회담 빅딜이 증시 살릴까
