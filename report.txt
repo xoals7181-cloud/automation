@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-24 14:39 (KST)
-Run: 281 (id=35960875011)
+생성 시각: 2026-09-25 14:37 (KST)
+Run: 282 (id=36099323919)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,76 +8,76 @@ Run: 281 (id=35960875011)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Xi Arrives in US for High-Stakes Summit With Trump
-  URL: https://www.youtube.com/watch?v=h1m0_VAO7WM
-  publishedAt: 2026-09-24T05:11:37Z
+  제목: Saudi Arabia Ramps Up Oil Exports Via Hormuz
+  URL: https://www.youtube.com/watch?v=PruXC1uuEXg
+  publishedAt: 2026-09-25T05:21:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - h1m0_VAO7WM | ongoing=False | publishedAt=2026-09-24T05:11:37Z | actualEndTime=None | effective=2026-09-24 05:11:37+00:00 | Xi Arrives in US for High-Stakes Summit With Trump
-   - JlveIfa3Xgc | ongoing=False | publishedAt=2026-09-23T23:22:36Z | actualEndTime=None | effective=2026-09-23 23:22:36+00:00 | China Has Sensitive F-35 Parts Diverted to Hong Kong
-   - 6ltNSqZBQAM | ongoing=False | publishedAt=2026-09-23T22:15:49Z | actualEndTime=None | effective=2026-09-23 22:15:49+00:00 | Live From Georgetown: Financial Markets & Regulation
-   - oF0qyyWcPEw | ongoing=False | publishedAt=2026-09-23T21:11:38Z | actualEndTime=None | effective=2026-09-23 21:11:38+00:00 | Trump-Xi Summit Looms & AI in the C-Suite
-   - qW6AP2NS_IA | ongoing=False | publishedAt=2026-09-23T21:08:03Z | actualEndTime=None | effective=2026-09-23 21:08:03+00:00 | Spain PM: We must rebalance our dependencies
-   - 5OkDXhpDoh0 | ongoing=False | publishedAt=2026-09-23T20:15:07Z | actualEndTime=None | effective=2026-09-23 20:15:07+00:00 | Whole Foods CEO: Customers Are Making More Trips
-   - QrQWtByg3V4 | ongoing=False | publishedAt=2026-09-23T19:56:27Z | actualEndTime=None | effective=2026-09-23 19:56:27+00:00 | Canada's Anand on Trade Tensions, Arctic Security, China
-   - zKb-uJ-TIpk | ongoing=False | publishedAt=2026-09-23T19:50:03Z | actualEndTime=None | effective=2026-09-23 19:50:03+00:00 | Meta's Muse Sparks AI Stock Rally
-   - L17BcATTLgA | ongoing=False | publishedAt=2026-09-23T19:49:39Z | actualEndTime=None | effective=2026-09-23 19:49:39+00:00 | Trump at UN Defends Iran War, Rejects AI Risks
-   - u50FNLiBX6k | ongoing=False | publishedAt=2026-09-23T19:50:26Z | actualEndTime=None | effective=2026-09-23 19:50:26+00:00 | Trump Threatens Iran Annihilation in Speech That Disregards 
+   - PruXC1uuEXg | ongoing=False | publishedAt=2026-09-25T05:21:23Z | actualEndTime=None | effective=2026-09-25 05:21:23+00:00 | Saudi Arabia Ramps Up Oil Exports Via Hormuz
+   - ZQlkvf6yu8c | ongoing=False | publishedAt=2026-09-25T05:20:37Z | actualEndTime=None | effective=2026-09-25 05:20:37+00:00 | US, Iran Said to Be Exploring Phased Hormuz Deal
+   - q4YB82Pq8HQ | ongoing=False | publishedAt=2026-09-25T04:17:44Z | actualEndTime=None | effective=2026-09-25 04:17:44+00:00 | Trump, Tech Titans Fete China's Xi at Lavish State Dinner
+   - ln6tYaqW3jI | ongoing=False | publishedAt=2026-09-24T23:41:33Z | actualEndTime=None | effective=2026-09-24 23:41:33+00:00 | Trump, Xi Tout ‘Friendship’ at Lavish Ceremony
+   - 2bgBwdUQdDM | ongoing=False | publishedAt=2026-09-24T23:01:40Z | actualEndTime=None | effective=2026-09-24 23:01:40+00:00 | The Debrief: CNN, MS NOW, Politico Reporters Regain White Ho
+   - N85Mb_zUpgg | ongoing=False | publishedAt=2026-09-24T22:08:01Z | actualEndTime=None | effective=2026-09-24 22:08:01+00:00 | Oil, Treasury Yields & Inflation Pressure Markets
+   - V1hz1d-qCcw | ongoing=False | publishedAt=2026-09-24T21:23:46Z | actualEndTime=None | effective=2026-09-24 21:23:46+00:00 | Half of US Public Schools Report Operating Deficits: S&P Glo
+   - Ov2719AqYFw | ongoing=False | publishedAt=2026-09-24T21:18:38Z | actualEndTime=None | effective=2026-09-24 21:18:38+00:00 | Trump Welcomes Xi With AI Concerns at Forefront
+   - dq-oE539kzU | ongoing=False | publishedAt=2026-09-24T21:06:35Z | actualEndTime=None | effective=2026-09-24 21:06:35+00:00 | Bond Yields Soar, Spiking Fed Rate Hike Bets
+   - HXFC3j_d5FI | ongoing=False | publishedAt=2026-09-24T20:22:06Z | actualEndTime=None | effective=2026-09-24 20:22:06+00:00 | Akamai Surges on $12 Billion Anthropic AI Computing Deal | C
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: my honest opinion about the meta connect event... uhg.
-  URL: https://www.youtube.com/watch?v=a82FAFIxiGg
-  publishedAt: 2026-09-24T05:20:32Z
+  제목: Why Trump NEEDS an Iran Deal Before Midterms!
+  URL: https://www.youtube.com/watch?v=3EEQX3sPc7o
+  publishedAt: 2026-09-25T04:49:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 3EEQX3sPc7o | ongoing=False | publishedAt=2026-09-25T04:49:04Z | actualEndTime=None | effective=2026-09-25 04:49:04+00:00 | Why Trump NEEDS an Iran Deal Before Midterms!
+   - _zV1Rm2QYRU | ongoing=False | publishedAt=2026-09-25T02:11:22Z | actualEndTime=None | effective=2026-09-25 02:11:22+00:00 | We NEED to Talk about the Iran Deal.
+   - oEeNEmWrdxk | ongoing=False | publishedAt=2026-09-25T00:06:43Z | actualEndTime=None | effective=2026-09-25 00:06:43+00:00 | Gold to $10,000.
+   - 6jiqWPyXS-U | ongoing=False | publishedAt=2026-09-24T19:19:50Z | actualEndTime=None | effective=2026-09-24 19:19:50+00:00 | Bitcoin to $150,000.
+   - Or2AGi8Os0g | ongoing=False | publishedAt=2026-09-24T18:31:34Z | actualEndTime=2026-09-24T16:33:28Z | effective=2026-09-24 16:33:28+00:00 | Stocks Fall AGAIN. Oil Up, Yield Pain, 5 Hikes, AI.. uhg
+   - a45-QygvI7k | ongoing=False | publishedAt=2026-09-24T16:38:29Z | actualEndTime=None | effective=2026-09-24 16:38:29+00:00 | iran deal?!?!
+   - FhSD-VB4kGA | ongoing=False | publishedAt=2026-09-24T15:05:35Z | actualEndTime=None | effective=2026-09-24 15:05:35+00:00 | The AI Data Center Collapse Warning
+   - SEN_FyzFffE | ongoing=False | publishedAt=2026-09-24T12:41:21Z | actualEndTime=None | effective=2026-09-24 12:41:21+00:00 | Iran War EXPANSION - Where's the Deal?!??!
    - a82FAFIxiGg | ongoing=False | publishedAt=2026-09-24T05:20:32Z | actualEndTime=None | effective=2026-09-24 05:20:32+00:00 | my honest opinion about the meta connect event... uhg.
    - -C5uAA4O1Nw | ongoing=False | publishedAt=2026-09-24T01:00:15Z | actualEndTime=None | effective=2026-09-24 01:00:15+00:00 | 5 Rate Hikes Now Priced In The Fed Just Got a Middle Finger
-   - Z15pVblrR9w | ongoing=False | publishedAt=2026-09-24T00:45:12Z | actualEndTime=None | effective=2026-09-24 00:45:12+00:00 | Why Amazon Just Blocked Meta Muse!
-   - LiSR2bs9loY | ongoing=False | publishedAt=2026-09-24T00:30:34Z | actualEndTime=None | effective=2026-09-24 00:30:34+00:00 | 1 Billion Barrels of Oil Peak Fear Is OVER
-   - MZwLWKQi3GQ | ongoing=False | publishedAt=2026-09-24T00:15:04Z | actualEndTime=None | effective=2026-09-24 00:15:04+00:00 | AMD’s Margins Just Skyrocketed!
-   - ad3k-l4EALM | ongoing=False | publishedAt=2026-09-24T00:00:33Z | actualEndTime=None | effective=2026-09-24 00:00:33+00:00 | Why AMD Still Has 50% Upside The PEG Math
-   - Od_WtuVn1T4 | ongoing=False | publishedAt=2026-09-23T23:55:31Z | actualEndTime=None | effective=2026-09-23 23:55:31+00:00 | this is BAD... 5 rate hikes!!
-   - Mqy1bUMPXic | ongoing=False | publishedAt=2026-09-23T23:45:34Z | actualEndTime=None | effective=2026-09-23 23:45:34+00:00 | AMD Officially Hit $1 Trillion!
-   - ki_x7Z9KlkY | ongoing=False | publishedAt=2026-09-23T23:30:31Z | actualEndTime=None | effective=2026-09-23 23:30:31+00:00 | Called Meta at $566 Now It Hit $712 And It's Still Dirt Chea
-   - kyuHytW1EGE | ongoing=False | publishedAt=2026-09-23T23:15:27Z | actualEndTime=None | effective=2026-09-23 23:15:27+00:00 | We Need to COOL Demand The Fed’s Warning That Changes Everyt
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  "경제가 너무 좋아서 문제"… 견조함 넘어선 '과열' 징후...   -  2026/09/23
-  URL: https://www.youtube.com/watch?v=lYlebo_-Sn8
-  publishedAt: 2026-09-23T22:15:47Z
+  제목: 【미국 증시 오늘의 요약】 미·이란 호르무즈 재개방 논의! 꺾이지 않는 국채금리와 트럼프·시진핑 정상회담  -  2026/09/23
+  URL: https://www.youtube.com/watch?v=ZSsgmq96gFk
+  publishedAt: 2026-09-24T22:15:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ZSsgmq96gFk | ongoing=False | publishedAt=2026-09-24T22:15:34Z | actualEndTime=None | effective=2026-09-24 22:15:34+00:00 | 【미국 증시 오늘의 요약】 미·이란 호르무즈 재개방 논의! 꺾이지 않는 국채금리와 트럼프·시진핑 정상회담  
+   - IhqvFbgBHF0 | ongoing=False | publishedAt=2026-09-24T21:46:25Z | actualEndTime=2026-09-24T21:27:18Z | effective=2026-09-24 21:27:18+00:00 | [26년 09월 24일 목]  미·중 정상회담 ｜미 30년물 금리 5.44%, 2004년 이후 최고 ｜ 브렌
    - lYlebo_-Sn8 | ongoing=False | publishedAt=2026-09-23T22:15:47Z | actualEndTime=None | effective=2026-09-23 22:15:47+00:00 | 【미국 증시 오늘의 요약】  "경제가 너무 좋아서 문제"… 견조함 넘어선 '과열' 징후...   -  202
    - e-HCbdVBsNM | ongoing=False | publishedAt=2026-09-23T21:34:45Z | actualEndTime=2026-09-23T21:18:50Z | effective=2026-09-23 21:18:50+00:00 | [26년 09월 23일 수]  메타 AI 에이전트 ‘Muse’ 돌풍 ｜ 미·이란 협상 기대 재점화 ｜ 아이온
-   - 18Vx3Pnz83I | ongoing=False | publishedAt=2026-09-22T22:19:29Z | actualEndTime=None | effective=2026-09-22 22:19:29+00:00 | 【미국 증시 오늘의 요약】  트럼프 "이란 초토화 vs 합의" 발언에 유가 뚝↓… AI가 멱살 잡은 나스닥은
-   - tjoaK_p5VzM | ongoing=False | publishedAt=2026-09-22T22:00:59Z | actualEndTime=2026-09-22T21:41:52Z | effective=2026-09-22 21:41:52+00:00 | [26년 09월 22일 화]  트럼프 UN 총회 연설 및 정상회담 예정 ｜ 이란, 미국 봉쇄 해제 시 호르무
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [추석특집] 미국주식 릴레이 분석 4부 - AI의 핵심 전력 인프라 대장 #GEV #ETN
-  URL: https://www.youtube.com/watch?v=6ue0lBF_fkQ
-  publishedAt: 2026-09-24T03:00:22Z
+  제목: [추석특집] 미국주식 릴레이 분석 5부 - 전력설비 & 산업장비 #PH #EMR #CMI #ITW #AME #ROK
+  URL: https://www.youtube.com/watch?v=T_60w7vuOQ8
+  publishedAt: 2026-09-25T03:00:12Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - T_60w7vuOQ8 | ongoing=False | publishedAt=2026-09-25T03:00:12Z | actualEndTime=None | effective=2026-09-25 03:00:12+00:00 | [추석특집] 미국주식 릴레이 분석 5부 - 전력설비 & 산업장비 #PH #EMR #CMI #ITW #AME 
+   - P_F7Qx4M-W0 | ongoing=False | publishedAt=2026-09-25T00:12:54Z | actualEndTime=2026-09-25T00:09:45Z | effective=2026-09-25 00:09:45+00:00 | [미국마감&아침시황] 메타 뮤즈를 보면서 구글과 애플을 기대하는 이유ㅣ국채 시장, 어디까지올라가는거에여?ㅣ#
    - 6ue0lBF_fkQ | ongoing=False | publishedAt=2026-09-24T03:00:22Z | actualEndTime=None | effective=2026-09-24 03:00:22+00:00 | [추석특집] 미국주식 릴레이 분석 4부 - AI의 핵심 전력 인프라 대장 #GEV #ETN
    - F4_hLgA1v6Q | ongoing=False | publishedAt=2026-09-24T00:08:11Z | actualEndTime=2026-09-24T00:05:08Z | effective=2026-09-24 00:05:08+00:00 | [미국마감&아침시황] 연준과 이란의 환장의 콜라보, 채권 5.5% 간다?ㅣ시진핑 미국 도착, 트럼프의 귀여운
-   - cAcMSAPpXYI | ongoing=False | publishedAt=2026-09-23T03:00:14Z | actualEndTime=None | effective=2026-09-23 03:00:14+00:00 | [추석특집] 미국주식 릴레이 분석 3부 - 한국인의 주식들 #TSLA #SPCX #AVGO
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 나스닥 폭락보다 중요한 사건
-  URL: https://www.youtube.com/watch?v=gmiOJPqmd1U
-  publishedAt: 2026-09-23T18:52:33Z
+  제목: 빅테크 판도 전부 바뀐다.
+  URL: https://www.youtube.com/watch?v=B7Xip6epo2E
+  publishedAt: 2026-09-24T18:20:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - gmiOJPqmd1U | ongoing=False | publishedAt=2026-09-23T18:52:33Z | actualEndTime=None | effective=2026-09-23 18:52:33+00:00 | 나스닥 폭락보다 중요한 사건
-   - 5U3plNhlhlc | ongoing=False | publishedAt=2026-09-22T06:54:41Z | actualEndTime=None | effective=2026-09-22 06:54:41+00:00 | 코스피 갑자기 떨어진 이유 #코스피 #하이닉스 #뮤즈
+   - B7Xip6epo2E | ongoing=False | publishedAt=2026-09-24T18:20:50Z | actualEndTime=None | effective=2026-09-24 18:20:50+00:00 | 빅테크 판도 전부 바뀐다.
+   - gmiOJPqmd1U | ongoing=False | publishedAt=2026-09-23T18:52:33Z | actualEndTime=None | effective=2026-09-23 18:52:33+00:00 | 나스닥 하락보다 중요한 사건
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - N8hjfIoLtV8 | ongoing=False | publishedAt=2026-09-23T12:44:32Z | actualEndTime=None | effective=2026-09-23 12:44:32+00:00 | 앤트로픽, 오픈AI가 동시에 찍은 다음 AI 혁명의 수혜주는 여기? 조용히 돈 몰리는 새로운 투자처
-   - uWZtDWUzO94 | ongoing=False | publishedAt=2026-09-22T12:03:00Z | actualEndTime=None | effective=2026-09-22 12:03:00+00:00 | 조용한 3차 대전 시작됐다? 트럼프의 영토확장 선언,신호일까
