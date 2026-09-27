@@ -1,76 +1,63 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-26 14:42 (KST)
-Run: 283 (id=36221561206)
+생성 시각: 2026-09-27 15:00 (KST)
+Run: 284 (id=36298809544)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: What El Niño Could Cost Africa | Bloomberg Next Africa
-  URL: https://www.youtube.com/watch?v=uFYy_rixBaQ
-  publishedAt: 2026-09-26T05:05:04Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - uFYy_rixBaQ | ongoing=False | publishedAt=2026-09-26T05:05:04Z | actualEndTime=None | effective=2026-09-26 05:05:04+00:00 | What El Niño Could Cost Africa | Bloomberg Next Africa
-   - i-ENUhDo7DU | ongoing=False | publishedAt=2026-09-26T00:54:48Z | actualEndTime=None | effective=2026-09-26 00:54:48+00:00 | NSE CEO on Growth After Landmark India Stock Market Listing
-   - XVHgynpPgug | ongoing=False | publishedAt=2026-09-26T00:49:03Z | actualEndTime=None | effective=2026-09-26 00:49:03+00:00 | India's 'Cockroach' Protesters Target Election Chief Next
-   - jbomsb998O4 | ongoing=False | publishedAt=2026-09-25T23:01:24Z | actualEndTime=None | effective=2026-09-25 23:01:24+00:00 | Open AI Models May Have Interfered With Government Sites
-   - rKcd1R8nP70 | ongoing=False | publishedAt=2026-09-25T23:00:34Z | actualEndTime=None | effective=2026-09-25 23:00:34+00:00 | Wall Street Week | China’s Trade Reckoning, Syracuse’s Secon
-   - OJVgD1JxLsM | ongoing=False | publishedAt=2026-09-25T22:56:11Z | actualEndTime=None | effective=2026-09-25 22:56:11+00:00 | China's Economy Unbalanced, AI Deal Hard to Envision, Stephe
-   - O7qznMNAx5c | ongoing=False | publishedAt=2026-09-25T22:56:38Z | actualEndTime=None | effective=2026-09-25 22:56:38+00:00 | Xi Seizes Trump Detente to Seek Lasting Gains
-   - jYEzTROG4IA | ongoing=False | publishedAt=2026-09-25T22:27:15Z | actualEndTime=None | effective=2026-09-25 22:27:15+00:00 | US-China Trade Needs More Stability: NAM CEO
-   - 2bmqh4VBvmQ | ongoing=False | publishedAt=2026-09-25T22:21:11Z | actualEndTime=None | effective=2026-09-25 22:21:11+00:00 | Ivey Calls for More Congressional Action on AI Risks
-   - KxO7M72zqKU | ongoing=False | publishedAt=2026-09-25T22:16:49Z | actualEndTime=None | effective=2026-09-25 22:16:49+00:00 | Panetta Calls Trump-Xi Summit a 'Missed Opportunity'
+   - f1PgF4dn5xo | ongoing=False | publishedAt=2026-09-26T17:16:00Z | actualEndTime=None | effective=2026-09-26 17:16:00+00:00 | Bloomberg This Weekend | Trump Says No Iran Ceasefire, OpenA
+   - cEFqT73oCO8 | ongoing=False | publishedAt=2026-09-26T15:06:49Z | actualEndTime=None | effective=2026-09-26 15:06:49+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - DnY5MK_Okl0 | ongoing=False | publishedAt=2026-09-26T15:03:55Z | actualEndTime=None | effective=2026-09-26 15:03:55+00:00 | US and China Seek Common Ground on AI
+   - zOzALlQYaPM | ongoing=False | publishedAt=2026-09-26T14:00:20Z | actualEndTime=None | effective=2026-09-26 14:00:20+00:00 | Inside the $100 Billion Bet to Bring Manufacturing Back to t
+   - lrF65ptKS-Q | ongoing=False | publishedAt=2026-09-26T13:36:14Z | actualEndTime=None | effective=2026-09-26 13:36:14+00:00 | Birding Apps Bring More People Into the Wild
+   - u8cZ1IJj_bw | ongoing=False | publishedAt=2026-09-26T13:29:06Z | actualEndTime=None | effective=2026-09-26 13:29:06+00:00 | Mexico Stresses Sovereignty in US Cooperation
+   - bSp1RCfriYc | ongoing=False | publishedAt=2026-09-26T13:17:54Z | actualEndTime=None | effective=2026-09-26 13:17:54+00:00 | AI Gives Tech Firms New National Security Power
+   - EvGjQszqXn8 | ongoing=False | publishedAt=2026-09-26T13:09:44Z | actualEndTime=None | effective=2026-09-26 13:09:44+00:00 | Russia Ukraine War Becomes Economic Battle
+   - 7eT0oLSR9O0 | ongoing=False | publishedAt=2026-09-26T12:42:04Z | actualEndTime=None | effective=2026-09-26 12:42:04+00:00 | By The Way: Headlines You May Have Missed
+   - isaPBxQVo8A | ongoing=False | publishedAt=2026-09-26T12:32:38Z | actualEndTime=None | effective=2026-09-26 12:32:38+00:00 | Higher Bond Yields Mark a Return to Normal
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: f**k trump rejects iran deal.. my thoughts 
-  URL: https://www.youtube.com/watch?v=0nlrkvgYtSE
-  publishedAt: 2026-09-26T01:09:08Z
+  제목: The 4 Things Bitcoin Needs For $150K!
+  URL: https://www.youtube.com/watch?v=eLjBCK1MP70
+  publishedAt: 2026-09-27T01:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - eLjBCK1MP70 | ongoing=False | publishedAt=2026-09-27T01:00:37Z | actualEndTime=None | effective=2026-09-27 01:00:37+00:00 | The 4 Things Bitcoin Needs For $150K!
+   - WR8SAA96gmQ | ongoing=False | publishedAt=2026-09-26T16:09:47Z | actualEndTime=None | effective=2026-09-26 16:09:47+00:00 | WARNING:2 Trillion Dollar Housing Collapse.
    - 0nlrkvgYtSE | ongoing=False | publishedAt=2026-09-26T01:09:08Z | actualEndTime=None | effective=2026-09-26 01:09:08+00:00 | f**k trump rejects iran deal.. my thoughts 
    - l0uH1KC-PvA | ongoing=False | publishedAt=2026-09-26T00:46:48Z | actualEndTime=None | effective=2026-09-26 00:46:48+00:00 | Breaking down Bitcoin's Technicals
    - NdAUF0ssCFU | ongoing=False | publishedAt=2026-09-25T20:18:18Z | actualEndTime=None | effective=2026-09-25 20:18:18+00:00 | We NEED to Discuss Tesla Optimus Robots NOW.
    - mpTcIqJX9JA | ongoing=False | publishedAt=2026-09-25T18:56:38Z | actualEndTime=2026-09-25T15:41:56Z | effective=2026-09-25 15:41:56+00:00 | Deal Progress, 5 Rate Hikes, Yields and Oil are a PROBLEM
    - ec4kWqJ1GPU | ongoing=False | publishedAt=2026-09-25T16:06:55Z | actualEndTime=None | effective=2026-09-25 16:06:55+00:00 | The Black Swan FLASH Market Crash Risk.
-   - 3EEQX3sPc7o | ongoing=False | publishedAt=2026-09-25T04:49:04Z | actualEndTime=None | effective=2026-09-25 04:49:04+00:00 | Why Trump NEEDS an Iran Deal Before Midterms!
-   - _zV1Rm2QYRU | ongoing=False | publishedAt=2026-09-25T02:11:22Z | actualEndTime=None | effective=2026-09-25 02:11:22+00:00 | We NEED to Talk about the Iran Deal.
-   - oEeNEmWrdxk | ongoing=False | publishedAt=2026-09-25T00:06:43Z | actualEndTime=None | effective=2026-09-25 00:06:43+00:00 | Gold to $10,000.
-   - 6jiqWPyXS-U | ongoing=False | publishedAt=2026-09-24T19:19:50Z | actualEndTime=None | effective=2026-09-24 19:19:50+00:00 | Bitcoin to $150,000.
-   - Or2AGi8Os0g | ongoing=False | publishedAt=2026-09-24T18:31:34Z | actualEndTime=2026-09-24T16:33:28Z | effective=2026-09-24 16:33:28+00:00 | Stocks Fall AGAIN. Oil Up, Yield Pain, 5 Hikes, AI.. uhg
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 국채 금리 5% 시대에도 증시는 버텼다…유가 2% 하락  -  2026/09/25
-  URL: https://www.youtube.com/watch?v=Xu6ceB6adAQ
-  publishedAt: 2026-09-25T22:01:04Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - Xu6ceB6adAQ | ongoing=False | publishedAt=2026-09-25T22:01:04Z | actualEndTime=None | effective=2026-09-25 22:01:04+00:00 | 【미국 증시 오늘의 요약】 국채 금리 5% 시대에도 증시는 버텼다…유가 2% 하락  -  2026/09/25
-   - dBhLLAgk0cw | ongoing=False | publishedAt=2026-09-25T21:43:58Z | actualEndTime=2026-09-25T21:23:16Z | effective=2026-09-25 21:23:16+00:00 | [26년 09월 25일 금]  미 국채 금리 5% 시대.. ｜ 미·이란, 호르무즈 해협 재개방 협상  ｜  
-   - ZSsgmq96gFk | ongoing=False | publishedAt=2026-09-24T22:15:34Z | actualEndTime=None | effective=2026-09-24 22:15:34+00:00 | 【미국 증시 오늘의 요약】 미·이란 호르무즈 재개방 논의! 꺾이지 않는 국채금리와 트럼프·시진핑 정상회담  
-   - IhqvFbgBHF0 | ongoing=False | publishedAt=2026-09-24T21:46:25Z | actualEndTime=2026-09-24T21:27:18Z | effective=2026-09-24 21:27:18+00:00 | [26년 09월 24일 목]  미·중 정상회담 ｜미 30년물 금리 5.44%, 2004년 이후 최고 ｜ 브렌
-
-- 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: [추석특집 7부] S&P500 릴레이 분석 - 이제 데이터센터에 발전소는 필수입니다 #CEG #VST #NRG #PWR
-  URL: https://www.youtube.com/watch?v=d_eyLAIeJLo
-  publishedAt: 2026-09-26T00:00:13Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - d_eyLAIeJLo | ongoing=False | publishedAt=2026-09-26T00:00:13Z | actualEndTime=None | effective=2026-09-26 00:00:13+00:00 | [추석특집 7부] S&P500 릴레이 분석 - 이제 데이터센터에 발전소는 필수입니다 #CEG #VST #NR
-   - FAPIDUQYQkQ | ongoing=False | publishedAt=2026-09-25T10:00:39Z | actualEndTime=None | effective=2026-09-25 10:00:39+00:00 | [추석특집] S&P500 릴레이 분석 6부 - 블룸에너지 보다 기대하는 주식 #VRT #BE #NVT #HU
-   - T_60w7vuOQ8 | ongoing=False | publishedAt=2026-09-25T03:00:12Z | actualEndTime=None | effective=2026-09-25 03:00:12+00:00 | [추석특집] 미국주식 릴레이 분석 5부 - 전력설비 & 산업장비 #PH #EMR #CMI #ITW #AME 
-   - P_F7Qx4M-W0 | ongoing=False | publishedAt=2026-09-25T00:12:54Z | actualEndTime=2026-09-25T00:09:45Z | effective=2026-09-25 00:09:45+00:00 | [미국마감&아침시황] 메타 뮤즈를 보면서 구글과 애플을 기대하는 이유ㅣ국채 시장, 어디까지올라가는거에여?ㅣ#
-
-- 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - B7Xip6epo2E | ongoing=False | publishedAt=2026-09-24T18:20:50Z | actualEndTime=None | effective=2026-09-24 18:20:50+00:00 | 빅테크 판도 전부 바뀐다.
+   - Xu6ceB6adAQ | ongoing=False | publishedAt=2026-09-25T22:01:04Z | actualEndTime=None | effective=2026-09-25 22:01:04+00:00 | 【미국 증시 오늘의 요약】 국채 금리 5% 시대에도 증시는 버텼다…유가 2% 하락  -  2026/09/25
+   - dBhLLAgk0cw | ongoing=False | publishedAt=2026-09-25T21:43:58Z | actualEndTime=2026-09-25T21:23:16Z | effective=2026-09-25 21:23:16+00:00 | [26년 09월 25일 금]  미 국채 금리 5% 시대.. ｜ 미·이란, 호르무즈 해협 재개방 협상  ｜  
+
+- 설명왕 테이버
+  상태: NO_TRANSCRIPT
+  제목: [추석특집 9부] S&P500 릴레이 분석 - 미국의 경기 방어주를 알아보자! #WMT #COST #TGT #DG #DLTR
+  URL: https://www.youtube.com/watch?v=VGx4EjhZBf8
+  publishedAt: 2026-09-27T04:00:39Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - VGx4EjhZBf8 | ongoing=False | publishedAt=2026-09-27T04:00:39Z | actualEndTime=None | effective=2026-09-27 04:00:39+00:00 | [추석특집 9부] S&P500 릴레이 분석 - 미국의 경기 방어주를 알아보자! #WMT #COST #TGT 
+   - ocyik7f9248 | ongoing=False | publishedAt=2026-09-26T09:00:15Z | actualEndTime=None | effective=2026-09-26 09:00:15+00:00 | [추석특집 8부] S&P500 릴레이 분석 - 데이터센터 건설 열풍!! 수혜 기업은? #FIX #EME #S
+   - d_eyLAIeJLo | ongoing=False | publishedAt=2026-09-26T00:00:13Z | actualEndTime=None | effective=2026-09-26 00:00:13+00:00 | [추석특집 7부] S&P500 릴레이 분석 - 이제 데이터센터에 발전소는 필수입니다 #CEG #VST #NR
+   - FAPIDUQYQkQ | ongoing=False | publishedAt=2026-09-25T10:00:39Z | actualEndTime=None | effective=2026-09-25 10:00:39+00:00 | [추석특집] S&P500 릴레이 분석 6부 - 블룸에너지 보다 기대하는 주식 #VRT #BE #NVT #HU
+
+- 내일은 투자왕 - 김단테
+  상태: NO_VIDEO
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
