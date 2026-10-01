@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-09-30 15:10 (KST)
-Run: 287 (id=36676904877)
+생성 시각: 2026-10-01 15:41 (KST)
+Run: 288 (id=36826103971)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,68 @@ Run: 287 (id=36676904877)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Singapore, Malaysia Cloaked in Haze Before Key Sports Events
-  URL: https://www.youtube.com/watch?v=pXxc9Q8eppk
-  publishedAt: 2026-09-30T05:25:57Z
+  제목: OpenAI Accuses Moonshot of Extracting Data From AI Models
+  URL: https://www.youtube.com/watch?v=loCzOF_ful8
+  publishedAt: 2026-10-01T06:21:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - pXxc9Q8eppk | ongoing=False | publishedAt=2026-09-30T05:25:57Z | actualEndTime=None | effective=2026-09-30 05:25:57+00:00 | Singapore, Malaysia Cloaked in Haze Before Key Sports Events
-   - yxiIzT0CrnA | ongoing=False | publishedAt=2026-09-30T05:00:19Z | actualEndTime=None | effective=2026-09-30 05:00:19+00:00 | Odd Lots: Hollywood Was Cooked Before AI. Now It’s Getting W
-   - yRAmrxJUezE | ongoing=False | publishedAt=2026-09-30T04:55:34Z | actualEndTime=None | effective=2026-09-30 04:55:34+00:00 | China's Mortgage Subsidy Plan Fails to Impress
-   - pGB4wQBrK0A | ongoing=False | publishedAt=2026-09-30T04:44:46Z | actualEndTime=None | effective=2026-09-30 04:44:46+00:00 | Trump Rejects Need for New AI Safety Laws, OpenAI's Altman o
-   - ASedzXd3mIo | ongoing=False | publishedAt=2026-09-30T04:00:16Z | actualEndTime=None | effective=2026-09-30 04:00:16+00:00 | People Are Being Spotted Emerging From New York City Sewers
-   - XBFgG3ZuoJg | ongoing=False | publishedAt=2026-09-30T00:13:31Z | actualEndTime=None | effective=2026-09-30 00:13:31+00:00 | JPMorgan's Dimon Says US Needs to Get Trade Deals Done
-   - bruStQyWmLk | ongoing=False | publishedAt=2026-09-29T23:10:43Z | actualEndTime=None | effective=2026-09-29 23:10:43+00:00 | Trump & Tech Leaders Signed AI Agreement That Is ‘Morally Bi
-   - k7YW-rTV6Cw | ongoing=False | publishedAt=2026-09-29T22:41:27Z | actualEndTime=None | effective=2026-09-29 22:41:27+00:00 | Tech Leaders Agree AI Is Risky, Has to Be Safe
-   - XU5gjyjZ-wA | ongoing=False | publishedAt=2026-09-29T22:35:35Z | actualEndTime=None | effective=2026-09-29 22:35:35+00:00 | Florida Senate Nominee Nixon Draws Lines With DSA, Dems
-   - lZ1HsTomSx0 | ongoing=False | publishedAt=2026-09-29T22:28:04Z | actualEndTime=None | effective=2026-09-29 22:28:04+00:00 | Sen. Paul: 'Too Soon' for 'Crazy' AI Regulation
+   - loCzOF_ful8 | ongoing=False | publishedAt=2026-10-01T06:21:58Z | actualEndTime=None | effective=2026-10-01 06:21:58+00:00 | OpenAI Accuses Moonshot of Extracting Data From AI Models
+   - 9sqSeyJ5VPk | ongoing=False | publishedAt=2026-10-01T06:11:59Z | actualEndTime=None | effective=2026-10-01 06:11:59+00:00 | FlyDubai Incident: What We Know
+   - 7sbrBrDfqXo | ongoing=False | publishedAt=2026-10-01T06:00:07Z | actualEndTime=None | effective=2026-10-01 06:00:07+00:00 | London's Bridge Troubles Spread with Waterloo at Risk of Clo
+   - Yp7eyM63DnQ | ongoing=False | publishedAt=2026-10-01T05:48:54Z | actualEndTime=None | effective=2026-10-01 05:48:54+00:00 | France to Set Out Plan to Narrow Budget Deficit
+   - v2eUsZYE4oc | ongoing=False | publishedAt=2026-10-01T05:00:04Z | actualEndTime=None | effective=2026-10-01 05:00:04+00:00 | Debt Heads Podcaster Says She’s Not Trying to Get to Debt Ze
+   - Mf0haHdyUVY | ongoing=False | publishedAt=2026-10-01T04:18:33Z | actualEndTime=None | effective=2026-10-01 04:18:33+00:00 | AI Boom Powers Micron Earnings, OpenAI Blames Moonshoot for 
+   - GMhjGS7iTTo | ongoing=False | publishedAt=2026-10-01T04:00:24Z | actualEndTime=None | effective=2026-10-01 04:00:24+00:00 | Inflation-Weary Alaskans Put Senate Control in Play
+   - Z2S_S44pqaM | ongoing=False | publishedAt=2026-09-30T23:13:18Z | actualEndTime=None | effective=2026-09-30 23:13:18+00:00 | Trump Touts $54B South Korean LNG Plan in Alaska
+   - gXn-iQmXyXs | ongoing=False | publishedAt=2026-09-30T22:33:22Z | actualEndTime=None | effective=2026-09-30 22:33:22+00:00 | AI Debate Needs Evidence, Not Hopes and Fears: deSouza
+   - s9C59THZxxc | ongoing=False | publishedAt=2026-09-30T22:27:15Z | actualEndTime=None | effective=2026-09-30 22:27:15+00:00 | Rep. Dean: Government Must Play a Role in AI Oversight
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: HOLY SH*T: THE FED RESERVE *JUST* BAILED US OUT
-  URL: https://www.youtube.com/watch?v=Jj6In4c4180
-  publishedAt: 2026-09-30T02:36:53Z
+  제목: The Ultimate Tax Hack for Wealth Compounders.
+  URL: https://www.youtube.com/watch?v=0p8_ou8dUpM
+  publishedAt: 2026-10-01T03:28:45Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 0p8_ou8dUpM | ongoing=False | publishedAt=2026-10-01T03:28:45Z | actualEndTime=None | effective=2026-10-01 03:28:45+00:00 | The Ultimate Tax Hack for Wealth Compounders.
+   - 0Cj-rRA_wog | ongoing=False | publishedAt=2026-09-30T18:49:54Z | actualEndTime=None | effective=2026-09-30 18:49:54+00:00 | The Two BEST Investments *NOW* in THIS Economy.
+   - Zfl3chx9DfA | ongoing=False | publishedAt=2026-09-30T16:09:09Z | actualEndTime=2026-09-30T16:03:39Z | effective=2026-09-30 16:03:39+00:00 | Market Recovery, Fed Bailout, Iran, War, Oil, Micron
+   - p6L7s1BjRgs | ongoing=False | publishedAt=2026-09-30T16:05:21Z | actualEndTime=None | effective=2026-09-30 16:05:21+00:00 | We have Problems.
+   - IVbfu7kzCIE | ongoing=False | publishedAt=2026-09-30T13:09:31Z | actualEndTime=None | effective=2026-09-30 13:09:31+00:00 | 737 Max *JUST* Hijacked: FlyDubai - Israel Aircraft Hijack [
    - Jj6In4c4180 | ongoing=False | publishedAt=2026-09-30T02:36:53Z | actualEndTime=None | effective=2026-09-30 02:36:53+00:00 | HOLY SH*T: THE FED RESERVE *JUST* BAILED US OUT
-   - QEswpKUPn4g | ongoing=False | publishedAt=2026-09-30T00:23:10Z | actualEndTime=None | effective=2026-09-30 00:23:10+00:00 | I'm WORRIED about THESE AI Chip Stocks | Agentic AI Risk
+   - QEswpKUPn4g | ongoing=False | publishedAt=2026-09-30T00:23:10Z | actualEndTime=None | effective=2026-09-30 00:23:10+00:00 | THESE Stocks might Get SCREWED
    - ERTLV7Tr51c | ongoing=False | publishedAt=2026-09-29T21:44:05Z | actualEndTime=2026-09-29T21:37:58Z | effective=2026-09-29 21:37:58+00:00 | stocks and oil drop... ohh man
    - fWvNuaXI5EI | ongoing=False | publishedAt=2026-09-29T21:05:57Z | actualEndTime=None | effective=2026-09-29 21:05:57+00:00 | what Trump *JUST* Said with Elon, Jensen, and AI Execs
    - 4-vUYqlX6v4 | ongoing=False | publishedAt=2026-09-29T16:12:13Z | actualEndTime=None | effective=2026-09-29 16:12:13+00:00 | buy now.
-   - xR_RZ65VUOc | ongoing=False | publishedAt=2026-09-29T16:09:36Z | actualEndTime=2026-09-29T16:02:25Z | effective=2026-09-29 16:02:25+00:00 | Market & Yields, Anthropic IPO, Oura DELAYS IPO...
-   - hUdk2DuTDYM | ongoing=False | publishedAt=2026-09-29T12:27:01Z | actualEndTime=None | effective=2026-09-29 12:27:01+00:00 | the fed JUST warned | hiking could be a big mistake
-   - qJLS_dpVtbU | ongoing=False | publishedAt=2026-09-29T02:07:09Z | actualEndTime=None | effective=2026-09-29 02:07:09+00:00 | holy moly... Anthropic financials JUST dropped
-   - ouENieeI9Xs | ongoing=False | publishedAt=2026-09-28T22:18:26Z | actualEndTime=None | effective=2026-09-28 22:18:26+00:00 | The Warning Signal: The AI Bubble TOP.
-   - KkYpl84auwc | ongoing=False | publishedAt=2026-09-28T21:31:45Z | actualEndTime=2026-09-28T21:25:13Z | effective=2026-09-28 21:25:13+00:00 | Fed Error? More Concern, Yields RISE MORE, Little Iran News,
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  10년물·30년물 동반 급등…유가 하락에도 증시 부담  -  2026/09/29
-  URL: https://www.youtube.com/watch?v=mIa_U-HqaRA
-  publishedAt: 2026-09-29T22:29:16Z
+  제목: 【미국 증시 오늘의 요약】  물가는 식었는데 금리는 올랐다… 마이크론 호실적 발표  -  2026/09/30
+  URL: https://www.youtube.com/watch?v=one4OFrYtuU
+  publishedAt: 2026-09-30T23:10:31Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - one4OFrYtuU | ongoing=False | publishedAt=2026-09-30T23:10:31Z | actualEndTime=None | effective=2026-09-30 23:10:31+00:00 | 【미국 증시 오늘의 요약】  물가는 식었는데 금리는 올랐다… 마이크론 호실적 발표  -  2026/09/30
+   - xzQriWhY3M0 | ongoing=False | publishedAt=2026-09-30T22:39:33Z | actualEndTime=2026-09-30T22:20:16Z | effective=2026-09-30 22:20:16+00:00 | [26년 09월 30일 수]  마이크론, 실적발표/어닝콜 ｜ PCE가격지수, GDP 성장률 ｜ 트럼프·AI 
    - mIa_U-HqaRA | ongoing=False | publishedAt=2026-09-29T22:29:16Z | actualEndTime=None | effective=2026-09-29 22:29:16+00:00 | 【미국 증시 오늘의 요약】  10년물·30년물 동반 급등…유가 하락에도 증시 부담  -  2026/09/29
    - PlxxC_y-Xbs | ongoing=False | publishedAt=2026-09-29T21:43:28Z | actualEndTime=2026-09-29T21:23:33Z | effective=2026-09-29 21:23:33+00:00 | [26년 09월 29일 화]  앤트로픽 IPO 초읽기 ｜ 오픈AI, DevDay 2026 ｜ 경제지표: JO
-   - QvK6VlZvv9E | ongoing=False | publishedAt=2026-09-28T22:28:29Z | actualEndTime=None | effective=2026-09-28 22:28:29+00:00 | 【미국 증시 오늘의 요약】 트럼프, 이란 제안 거부…유가·국채금리 뛰자 기술주 하락  -  2026/09/2
-   - 8ho-atqF_sM | ongoing=False | publishedAt=2026-09-28T21:49:31Z | actualEndTime=2026-09-28T21:28:22Z | effective=2026-09-28 21:28:22+00:00 | [26년 09월 28일 월]  엔비디아, 자사주 매입 1500억 달러 확대 ｜미국·이란 협상 기대 후퇴...
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [추석특집 13부] S&P500 릴레이 분석 - SCHD 터줏대감, 경기방어주 차트분석 #PG #UL #CL #PM
-  URL: https://www.youtube.com/watch?v=kBxFsXjtmt0
-  publishedAt: 2026-09-30T03:00:07Z
+  제목: [미국주식 백과사전-15] 샌디스크, 씨게이트, 웨스턴디지탈은 좋은 주식일까?ㅣ#SNDK #STX #WDC #P
+  URL: https://www.youtube.com/watch?v=Y_dyiHFghqM
+  publishedAt: 2026-10-01T03:00:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - kBxFsXjtmt0 | ongoing=False | publishedAt=2026-09-30T03:00:07Z | actualEndTime=None | effective=2026-09-30 03:00:07+00:00 | [추석특집 13부] S&P500 릴레이 분석 - SCHD 터줏대감, 경기방어주 차트분석 #PG #UL #CL
+   - Y_dyiHFghqM | ongoing=False | publishedAt=2026-10-01T03:00:35Z | actualEndTime=None | effective=2026-10-01 03:00:35+00:00 | [미국주식 백과사전-15] 샌디스크, 씨게이트, 웨스턴디지탈은 좋은 주식일까?ㅣ#SNDK #STX #WDC 
+   - quHKrp90ccY | ongoing=False | publishedAt=2026-10-01T00:08:01Z | actualEndTime=2026-10-01T00:04:13Z | effective=2026-10-01 00:04:13+00:00 | [미국마감&아침시황] 마이크론, 메모리 부족은 계속된다! 12월 추가 자사주 매입 승인 예정ㅣ구글, Gemi
+   - mANP_DiIaBI | ongoing=False | publishedAt=2026-09-30T09:00:29Z | actualEndTime=None | effective=2026-09-30 09:00:29+00:00 | [미국주식 백과사전-14] 전통적 초고배당주 "죄악주"를 알아보자 #BTI #MO #BUD #ABEV #MD
+   - kBxFsXjtmt0 | ongoing=False | publishedAt=2026-09-30T03:00:07Z | actualEndTime=None | effective=2026-09-30 03:00:07+00:00 | [미국주식 백과사전-13] SCHD 터줏대감, 경기방어 필수소비재 #PG #UL #CL #PM
    - DnI0ZXPRU1Y | ongoing=False | publishedAt=2026-09-30T00:04:42Z | actualEndTime=2026-09-30T00:02:01Z | effective=2026-09-30 00:02:01+00:00 | [미국마감&아침시황] OpenAI, AI 에이전트 Dots 발표!!ㅣ마이크론 실적발표 D-1, 시장은 무엇을
-   - 6zEBy1eu4uM | ongoing=False | publishedAt=2026-09-29T06:00:27Z | actualEndTime=None | effective=2026-09-29 06:00:27+00:00 | [추석특집 12부] S&P500 릴레이 분석 - 반도체 장비, 중소형주 TOP-Pick은? #TER #Q #
-   - F2lDAUgVUzw | ongoing=False | publishedAt=2026-09-28T19:30:31Z | actualEndTime=None | effective=2026-09-28 19:30:31+00:00 | 삼성전자 하이닉스는 과연... 젠슨황을 따라갈 수 있을까?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: OpenAI발 에이전트 전쟁이 시작됐다. (2026 DevDay)
-  URL: https://www.youtube.com/watch?v=03UhmOVEZio
-  publishedAt: 2026-09-29T18:48:05Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 03UhmOVEZio | ongoing=False | publishedAt=2026-09-29T18:48:05Z | actualEndTime=None | effective=2026-09-29 18:48:05+00:00 | OpenAI발 에이전트 전쟁이 시작됐다. (2026 DevDay)
    - 0tPDkNP8Dvk | ongoing=False | publishedAt=2026-09-29T07:49:55Z | actualEndTime=None | effective=2026-09-29 07:49:55+00:00 | 인터넷 이제 전부 바뀐다 #메타 #뮤즈 #에이전트
@@ -80,5 +78,5 @@ Run: 287 (id=36676904877)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - kiQ_USot1go | ongoing=False | publishedAt=2026-09-30T11:34:25Z | actualEndTime=None | effective=2026-09-30 11:34:25+00:00 | 사상 첫 우주 데이터센터 시작, 구글 스페이스X의 승부수 먹힐까
    - Cswz8biSRHs | ongoing=False | publishedAt=2026-09-29T12:39:56Z | actualEndTime=None | effective=2026-09-29 12:39:56+00:00 | AI에이전트가 노는 돈 다 찾아내서 옮긴다? 우려가 현실이 된 위기의 주식들
-   - 4muqJe1bX-I | ongoing=False | publishedAt=2026-09-28T12:10:04Z | actualEndTime=None | effective=2026-09-28 12:10:04+00:00 | 메타의 승부수에 깜짝 놀란 증시? AI 3차 변곡점의 새로운 수혜주들
