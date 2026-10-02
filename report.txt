@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-01 15:41 (KST)
-Run: 288 (id=36826103971)
+생성 시각: 2026-10-02 15:28 (KST)
+Run: 289 (id=36973659663)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,75 +8,69 @@ Run: 288 (id=36826103971)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: OpenAI Accuses Moonshot of Extracting Data From AI Models
-  URL: https://www.youtube.com/watch?v=loCzOF_ful8
-  publishedAt: 2026-10-01T06:21:58Z
+  제목: Indonesia's New Finance Minister Vows Fiscal Discipline Amid Questions Over Growth Ambitions
+  URL: https://www.youtube.com/watch?v=AK74WZlQxK4
+  publishedAt: 2026-10-02T05:52:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - loCzOF_ful8 | ongoing=False | publishedAt=2026-10-01T06:21:58Z | actualEndTime=None | effective=2026-10-01 06:21:58+00:00 | OpenAI Accuses Moonshot of Extracting Data From AI Models
-   - 9sqSeyJ5VPk | ongoing=False | publishedAt=2026-10-01T06:11:59Z | actualEndTime=None | effective=2026-10-01 06:11:59+00:00 | FlyDubai Incident: What We Know
-   - 7sbrBrDfqXo | ongoing=False | publishedAt=2026-10-01T06:00:07Z | actualEndTime=None | effective=2026-10-01 06:00:07+00:00 | London's Bridge Troubles Spread with Waterloo at Risk of Clo
-   - Yp7eyM63DnQ | ongoing=False | publishedAt=2026-10-01T05:48:54Z | actualEndTime=None | effective=2026-10-01 05:48:54+00:00 | France to Set Out Plan to Narrow Budget Deficit
-   - v2eUsZYE4oc | ongoing=False | publishedAt=2026-10-01T05:00:04Z | actualEndTime=None | effective=2026-10-01 05:00:04+00:00 | Debt Heads Podcaster Says She’s Not Trying to Get to Debt Ze
-   - Mf0haHdyUVY | ongoing=False | publishedAt=2026-10-01T04:18:33Z | actualEndTime=None | effective=2026-10-01 04:18:33+00:00 | AI Boom Powers Micron Earnings, OpenAI Blames Moonshoot for 
-   - GMhjGS7iTTo | ongoing=False | publishedAt=2026-10-01T04:00:24Z | actualEndTime=None | effective=2026-10-01 04:00:24+00:00 | Inflation-Weary Alaskans Put Senate Control in Play
-   - Z2S_S44pqaM | ongoing=False | publishedAt=2026-09-30T23:13:18Z | actualEndTime=None | effective=2026-09-30 23:13:18+00:00 | Trump Touts $54B South Korean LNG Plan in Alaska
-   - gXn-iQmXyXs | ongoing=False | publishedAt=2026-09-30T22:33:22Z | actualEndTime=None | effective=2026-09-30 22:33:22+00:00 | AI Debate Needs Evidence, Not Hopes and Fears: deSouza
-   - s9C59THZxxc | ongoing=False | publishedAt=2026-09-30T22:27:15Z | actualEndTime=None | effective=2026-09-30 22:27:15+00:00 | Rep. Dean: Government Must Play a Role in AI Oversight
+   - AK74WZlQxK4 | ongoing=False | publishedAt=2026-10-02T05:52:29Z | actualEndTime=None | effective=2026-10-02 05:52:29+00:00 | Indonesia's New Finance Minister Vows Fiscal Discipline Amid
+   - EXwvuo_IrBw | ongoing=False | publishedAt=2026-10-02T05:47:09Z | actualEndTime=None | effective=2026-10-02 05:47:09+00:00 | Nvidia's AI Chips Reach China Despite US Curbs
+   - OPxVePbnt14 | ongoing=False | publishedAt=2026-10-02T05:22:51Z | actualEndTime=None | effective=2026-10-02 05:22:51+00:00 | Hong Kong Stocks Suffer Biggest Slump Since March
+   - -l67iosF8DA | ongoing=False | publishedAt=2026-10-02T04:35:21Z | actualEndTime=None | effective=2026-10-02 04:35:21+00:00 | US Treasury Rebound Pulls Yields Off Multi-Decade Highs
+   - lB_sv5o6KFY | ongoing=False | publishedAt=2026-10-01T23:18:55Z | actualEndTime=None | effective=2026-10-01 23:18:55+00:00 | Trump’s Grip on GOP Slips as Midterm Worry Sets In
+   - d9WtJa8uTeo | ongoing=False | publishedAt=2026-10-01T22:44:49Z | actualEndTime=None | effective=2026-10-01 22:44:49+00:00 | The Debrief With Mario Parker: Trump Hits Trail To Persuade 
+   - PiGHGQsnD18 | ongoing=False | publishedAt=2026-10-01T22:40:24Z | actualEndTime=None | effective=2026-10-01 22:40:24+00:00 | US May Send Third Carrier Strike Group to Middle East
+   - rGWeYQ8cbCw | ongoing=False | publishedAt=2026-10-01T22:35:25Z | actualEndTime=None | effective=2026-10-01 22:35:25+00:00 | Hill Says FDIC Won’t Rule Out Agentic AI Bank-Run Risk
+   - mmFXYkN3Uas | ongoing=False | publishedAt=2026-10-01T22:35:42Z | actualEndTime=None | effective=2026-10-01 22:35:42+00:00 | There Is No End Game in Iran, Dalton Says
+   - Kg_NVxo1PLE | ongoing=False | publishedAt=2026-10-01T22:29:18Z | actualEndTime=None | effective=2026-10-01 22:29:18+00:00 | Dalton: We’ve Gotten Ourselves Into a Forever War
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: The Ultimate Tax Hack for Wealth Compounders.
-  URL: https://www.youtube.com/watch?v=0p8_ou8dUpM
-  publishedAt: 2026-10-01T03:28:45Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - jXST_heT8H0 | ongoing=False | publishedAt=2026-10-01T15:29:44Z | actualEndTime=None | effective=2026-10-01 15:29:44+00:00 | The Market Collapse Shock
+   - XnYgZ-ALI20 | ongoing=False | publishedAt=2026-10-01T15:21:38Z | actualEndTime=2026-10-01T15:15:30Z | effective=2026-10-01 15:15:30+00:00 | The Morning After Micron, Jobs Tomorrow, Iran LACKS Progress
+   - -e9je44Oju8 | ongoing=False | publishedAt=2026-10-01T11:00:16Z | actualEndTime=None | effective=2026-10-01 11:00:16+00:00 | Apple's Next Device.
    - 0p8_ou8dUpM | ongoing=False | publishedAt=2026-10-01T03:28:45Z | actualEndTime=None | effective=2026-10-01 03:28:45+00:00 | The Ultimate Tax Hack for Wealth Compounders.
    - 0Cj-rRA_wog | ongoing=False | publishedAt=2026-09-30T18:49:54Z | actualEndTime=None | effective=2026-09-30 18:49:54+00:00 | The Two BEST Investments *NOW* in THIS Economy.
    - Zfl3chx9DfA | ongoing=False | publishedAt=2026-09-30T16:09:09Z | actualEndTime=2026-09-30T16:03:39Z | effective=2026-09-30 16:03:39+00:00 | Market Recovery, Fed Bailout, Iran, War, Oil, Micron
    - p6L7s1BjRgs | ongoing=False | publishedAt=2026-09-30T16:05:21Z | actualEndTime=None | effective=2026-09-30 16:05:21+00:00 | We have Problems.
    - IVbfu7kzCIE | ongoing=False | publishedAt=2026-09-30T13:09:31Z | actualEndTime=None | effective=2026-09-30 13:09:31+00:00 | 737 Max *JUST* Hijacked: FlyDubai - Israel Aircraft Hijack [
-   - Jj6In4c4180 | ongoing=False | publishedAt=2026-09-30T02:36:53Z | actualEndTime=None | effective=2026-09-30 02:36:53+00:00 | HOLY SH*T: THE FED RESERVE *JUST* BAILED US OUT
-   - QEswpKUPn4g | ongoing=False | publishedAt=2026-09-30T00:23:10Z | actualEndTime=None | effective=2026-09-30 00:23:10+00:00 | THESE Stocks might Get SCREWED
-   - ERTLV7Tr51c | ongoing=False | publishedAt=2026-09-29T21:44:05Z | actualEndTime=2026-09-29T21:37:58Z | effective=2026-09-29 21:37:58+00:00 | stocks and oil drop... ohh man
-   - fWvNuaXI5EI | ongoing=False | publishedAt=2026-09-29T21:05:57Z | actualEndTime=None | effective=2026-09-29 21:05:57+00:00 | what Trump *JUST* Said with Elon, Jensen, and AI Execs
-   - 4-vUYqlX6v4 | ongoing=False | publishedAt=2026-09-29T16:12:13Z | actualEndTime=None | effective=2026-09-29 16:12:13+00:00 | buy now.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  물가는 식었는데 금리는 올랐다… 마이크론 호실적 발표  -  2026/09/30
-  URL: https://www.youtube.com/watch?v=one4OFrYtuU
-  publishedAt: 2026-09-30T23:10:31Z
+  제목: 【미국 증시 오늘의 요약】  연준 “추가 인상 서두르지 않는다”…국채 금리 하락에 미 증시 반등  -  2026/10/01
+  URL: https://www.youtube.com/watch?v=GoLL1FrdQxc
+  publishedAt: 2026-10-01T22:27:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - GoLL1FrdQxc | ongoing=False | publishedAt=2026-10-01T22:27:11Z | actualEndTime=None | effective=2026-10-01 22:27:11+00:00 | 【미국 증시 오늘의 요약】  연준 “추가 인상 서두르지 않는다”…국채 금리 하락에 미 증시 반등  -  20
+   - TzeE-2VbJlg | ongoing=False | publishedAt=2026-10-01T21:58:30Z | actualEndTime=2026-10-01T21:35:01Z | effective=2026-10-01 21:35:01+00:00 | [26년 10월 01일 목]  구글, 제미나이 4 Argon 공개 ｜ 마이크론, 긍정적 전망 제시 ｜ 미 국
    - one4OFrYtuU | ongoing=False | publishedAt=2026-09-30T23:10:31Z | actualEndTime=None | effective=2026-09-30 23:10:31+00:00 | 【미국 증시 오늘의 요약】  물가는 식었는데 금리는 올랐다… 마이크론 호실적 발표  -  2026/09/30
    - xzQriWhY3M0 | ongoing=False | publishedAt=2026-09-30T22:39:33Z | actualEndTime=2026-09-30T22:20:16Z | effective=2026-09-30 22:20:16+00:00 | [26년 09월 30일 수]  마이크론, 실적발표/어닝콜 ｜ PCE가격지수, GDP 성장률 ｜ 트럼프·AI 
-   - mIa_U-HqaRA | ongoing=False | publishedAt=2026-09-29T22:29:16Z | actualEndTime=None | effective=2026-09-29 22:29:16+00:00 | 【미국 증시 오늘의 요약】  10년물·30년물 동반 급등…유가 하락에도 증시 부담  -  2026/09/29
-   - PlxxC_y-Xbs | ongoing=False | publishedAt=2026-09-29T21:43:28Z | actualEndTime=2026-09-29T21:23:33Z | effective=2026-09-29 21:23:33+00:00 | [26년 09월 29일 화]  앤트로픽 IPO 초읽기 ｜ 오픈AI, DevDay 2026 ｜ 경제지표: JO
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-15] 샌디스크, 씨게이트, 웨스턴디지탈은 좋은 주식일까?ㅣ#SNDK #STX #WDC #P
-  URL: https://www.youtube.com/watch?v=Y_dyiHFghqM
-  publishedAt: 2026-10-01T03:00:35Z
+  제목: [미국마감&아침시황] 최악의 9월, 반등의 10월?ㅣ채권 바닥 찍었니? 주식 사도 되니?ㅣ중국, 에너지 수출 금지 + 트럼프, 유럽 디젤 풀어라!ㅣ#261002
+  URL: https://www.youtube.com/watch?v=HEUAKrOs3jk
+  publishedAt: 2026-10-01T23:52:23Z
+  actualEndTime: 2026-10-01T23:50:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - HEUAKrOs3jk | ongoing=False | publishedAt=2026-10-01T23:52:23Z | actualEndTime=2026-10-01T23:50:14Z | effective=2026-10-01 23:50:14+00:00 | [미국마감&아침시황] 최악의 9월, 반등의 10월?ㅣ채권 바닥 찍었니? 주식 사도 되니?ㅣ중국, 에너지 수출
+   - fJKh9JVnwLg | ongoing=False | publishedAt=2026-10-01T09:00:25Z | actualEndTime=None | effective=2026-10-01 09:00:25+00:00 | [미국주식 백과사전-16] 이 주식이 빠지면 반도체가 떨어진다 #DELL #HPE #SMCI
    - Y_dyiHFghqM | ongoing=False | publishedAt=2026-10-01T03:00:35Z | actualEndTime=None | effective=2026-10-01 03:00:35+00:00 | [미국주식 백과사전-15] 샌디스크, 씨게이트, 웨스턴디지탈은 좋은 주식일까?ㅣ#SNDK #STX #WDC 
-   - quHKrp90ccY | ongoing=False | publishedAt=2026-10-01T00:08:01Z | actualEndTime=2026-10-01T00:04:13Z | effective=2026-10-01 00:04:13+00:00 | [미국마감&아침시황] 마이크론, 메모리 부족은 계속된다! 12월 추가 자사주 매입 승인 예정ㅣ구글, Gemi
    - mANP_DiIaBI | ongoing=False | publishedAt=2026-09-30T09:00:29Z | actualEndTime=None | effective=2026-09-30 09:00:29+00:00 | [미국주식 백과사전-14] 전통적 초고배당주 "죄악주"를 알아보자 #BTI #MO #BUD #ABEV #MD
-   - kBxFsXjtmt0 | ongoing=False | publishedAt=2026-09-30T03:00:07Z | actualEndTime=None | effective=2026-09-30 03:00:07+00:00 | [미국주식 백과사전-13] SCHD 터줏대감, 경기방어 필수소비재 #PG #UL #CL #PM
-   - DnI0ZXPRU1Y | ongoing=False | publishedAt=2026-09-30T00:04:42Z | actualEndTime=2026-09-30T00:02:01Z | effective=2026-09-30 00:02:01+00:00 | [미국마감&아침시황] OpenAI, AI 에이전트 Dots 발표!!ㅣ마이크론 실적발표 D-1, 시장은 무엇을
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 03UhmOVEZio | ongoing=False | publishedAt=2026-09-29T18:48:05Z | actualEndTime=None | effective=2026-09-29 18:48:05+00:00 | OpenAI발 에이전트 전쟁이 시작됐다. (2026 DevDay)
-   - 0tPDkNP8Dvk | ongoing=False | publishedAt=2026-09-29T07:49:55Z | actualEndTime=None | effective=2026-09-29 07:49:55+00:00 | 인터넷 이제 전부 바뀐다 #메타 #뮤즈 #에이전트
+   - GBfzxS_DUWM | ongoing=False | publishedAt=2026-10-01T08:58:52Z | actualEndTime=None | effective=2026-10-01 08:58:52+00:00 | 마이크론 실적 보고는 별일 없었는데 코스피 오른 이유 #마이크론 #코스피 #하이닉스
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 2cduC5_rK9I | ongoing=False | publishedAt=2026-10-01T12:02:43Z | actualEndTime=None | effective=2026-10-01 12:02:43+00:00 | 초고금리 뉴노멀 시대에 대비하라? 월가 초고수의 깜짝 예언, 적중할까
    - kiQ_USot1go | ongoing=False | publishedAt=2026-09-30T11:34:25Z | actualEndTime=None | effective=2026-09-30 11:34:25+00:00 | 사상 첫 우주 데이터센터 시작, 구글 스페이스X의 승부수 먹힐까
-   - Cswz8biSRHs | ongoing=False | publishedAt=2026-09-29T12:39:56Z | actualEndTime=None | effective=2026-09-29 12:39:56+00:00 | AI에이전트가 노는 돈 다 찾아내서 옮긴다? 우려가 현실이 된 위기의 주식들
