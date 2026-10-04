@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-03 14:54 (KST)
-Run: 290 (id=37101321058)
+생성 시각: 2026-10-04 15:31 (KST)
+Run: 291 (id=37183037409)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,70 +8,58 @@ Run: 290 (id=37101321058)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Stocks Rise As Jobs Report Eases Fed-Hike Worries
-  URL: https://www.youtube.com/watch?v=oXzUHoz3vI4
-  publishedAt: 2026-10-02T23:40:32Z
+  제목: Stocks Rise, Job Growth Cools, Trump Says No Diesel Export Ban | Bloomberg This Weekend
+  URL: https://www.youtube.com/watch?v=9OwwYtoXZK0
+  publishedAt: 2026-10-03T18:34:02Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - oXzUHoz3vI4 | ongoing=False | publishedAt=2026-10-02T23:40:32Z | actualEndTime=None | effective=2026-10-02 23:40:32+00:00 | Stocks Rise As Jobs Report Eases Fed-Hike Worries
-   - oy_5Tez9fY8 | ongoing=False | publishedAt=2026-10-02T23:19:44Z | actualEndTime=None | effective=2026-10-02 23:19:44+00:00 | Trump: Won’t Do Diesel Export Ban
-   - U6WVBRoI318 | ongoing=False | publishedAt=2026-10-02T23:00:14Z | actualEndTime=None | effective=2026-10-02 23:00:14+00:00 | Wall Street Week | Your Brain on AI, Rare Earth Race, Colleg
-   - S973sTPIAfY | ongoing=False | publishedAt=2026-10-02T22:43:23Z | actualEndTime=None | effective=2026-10-02 22:43:23+00:00 | Swonger Says Trade Barriers Will Hurt Spirits Industry
-   - GYlgSCCaazc | ongoing=False | publishedAt=2026-10-02T22:36:20Z | actualEndTime=None | effective=2026-10-02 22:36:20+00:00 | Rep. Landsman: AI Czar Wouldn’t Provide Enough Oversight
-   - PVK5ht42O_s | ongoing=False | publishedAt=2026-10-02T22:32:43Z | actualEndTime=None | effective=2026-10-02 22:32:43+00:00 | Rediker: Powell Is a ‘Tempering Influence’ on Fed Board
-   - ODfFJBoa5NU | ongoing=False | publishedAt=2026-10-02T21:00:10Z | actualEndTime=None | effective=2026-10-02 21:00:10+00:00 | Consumer Barometer, The Worst Career Advice, Soaring Student
-   - 6tEpqvxCfaM | ongoing=False | publishedAt=2026-10-02T20:42:15Z | actualEndTime=None | effective=2026-10-02 20:42:15+00:00 | Traders Waver on Fed Hike Bets After Jobs Report
-   - gJtXwIdH7-c | ongoing=False | publishedAt=2026-10-02T20:39:18Z | actualEndTime=None | effective=2026-10-02 20:39:18+00:00 | Treasury Yields Climb, Adding to Weekly Gains | Closing Bell
-   - VfPpLKAzcxk | ongoing=False | publishedAt=2026-10-02T20:37:48Z | actualEndTime=None | effective=2026-10-02 20:37:48+00:00 | FAA Says Boeing 737 Max Computer Glitch Is Not Safety Issue
+   - 9OwwYtoXZK0 | ongoing=False | publishedAt=2026-10-03T18:34:02Z | actualEndTime=None | effective=2026-10-03 18:34:02+00:00 | Stocks Rise, Job Growth Cools, Trump Says No Diesel Export B
+   - ZoDdxnvfpiA | ongoing=False | publishedAt=2026-10-03T16:42:05Z | actualEndTime=None | effective=2026-10-03 16:42:05+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - codIDEEpg9M | ongoing=False | publishedAt=2026-10-03T16:35:35Z | actualEndTime=None | effective=2026-10-03 16:35:35+00:00 | Tiny Hotels Are Luxury Travel’s Next Big Thing
+   - XPS0kMB1-0g | ongoing=False | publishedAt=2026-10-03T16:05:51Z | actualEndTime=None | effective=2026-10-03 16:05:51+00:00 | By The Way: Headlines You May Have Missed
+   - 1i5bq-OCVis | ongoing=False | publishedAt=2026-10-03T15:24:47Z | actualEndTime=None | effective=2026-10-03 15:24:47+00:00 | US Military Buildup Raises Iran Escalation Risk
+   - I591wG6jB9E | ongoing=False | publishedAt=2026-10-03T15:15:06Z | actualEndTime=None | effective=2026-10-03 15:15:06+00:00 | Fake Jobs Put Job Seekers at Risk of Identity Theft
+   - zM3zJBVJYok | ongoing=False | publishedAt=2026-10-03T15:08:20Z | actualEndTime=None | effective=2026-10-03 15:08:20+00:00 | Egypt Flagged Hamas Threat Before Oct. 7
+   - 7KKkVnpzePo | ongoing=False | publishedAt=2026-10-03T14:05:43Z | actualEndTime=None | effective=2026-10-03 14:05:43+00:00 | G7 Fuel Release Offers Short Term Price Relief
+   - mUoChnvp6sE | ongoing=False | publishedAt=2026-10-03T14:00:31Z | actualEndTime=None | effective=2026-10-03 14:00:31+00:00 | Why Philosophers Are Worried About AI
+   - gqEEEe1tuvY | ongoing=False | publishedAt=2026-10-03T13:25:43Z | actualEndTime=None | effective=2026-10-03 13:25:43+00:00 | Trump Campaigns Deep in Republican Territory
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: F**K Systemic Risk Is EXPLODING In Financial Markets
-  URL: https://www.youtube.com/watch?v=VUPuNo__yYU
-  publishedAt: 2026-10-02T21:25:12Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - VUPuNo__yYU | ongoing=False | publishedAt=2026-10-02T21:25:12Z | actualEndTime=None | effective=2026-10-02 21:25:12+00:00 | F**K Systemic Risk Is EXPLODING In Financial Markets
    - 1y9JuHMvkyc | ongoing=False | publishedAt=2026-10-02T19:59:47Z | actualEndTime=None | effective=2026-10-02 19:59:47+00:00 | Holy Sh*t Tesla
    - vsLuUMaSZMc | ongoing=False | publishedAt=2026-10-02T17:06:24Z | actualEndTime=2026-10-02T16:57:10Z | effective=2026-10-02 16:57:10+00:00 | well then! LFG! Iran, Stocks, Fed, Rates
    - cevpGyjZfKk | ongoing=False | publishedAt=2026-10-02T17:00:27Z | actualEndTime=None | effective=2026-10-02 17:00:27+00:00 | The Iran War is Flipping | Warning.
    - tbiKJvu-GLw | ongoing=False | publishedAt=2026-10-02T12:49:45Z | actualEndTime=2026-10-02T12:47:12Z | effective=2026-10-02 12:47:12+00:00 | Uh Oh | The Jobs Report
-   - jXST_heT8H0 | ongoing=False | publishedAt=2026-10-01T15:29:44Z | actualEndTime=None | effective=2026-10-01 15:29:44+00:00 | The Market Collapse Shock
-   - XnYgZ-ALI20 | ongoing=False | publishedAt=2026-10-01T15:21:38Z | actualEndTime=2026-10-01T15:15:30Z | effective=2026-10-01 15:15:30+00:00 | The Morning After Micron, Jobs Tomorrow, Iran LACKS Progress
-   - -e9je44Oju8 | ongoing=False | publishedAt=2026-10-01T11:00:16Z | actualEndTime=None | effective=2026-10-01 11:00:16+00:00 | Apple's Next Device.
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  "시장이 딱 원하던 고용지표"… 나스닥 100 사상 최고치 경신  -  2026/10/02
-  URL: https://www.youtube.com/watch?v=lQ1IK3FhiqY
-  publishedAt: 2026-10-02T22:33:26Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 61bj6ceZUDc | ongoing=False | publishedAt=2026-10-03T13:46:04Z | actualEndTime=2025-05-07T12:46:56Z | effective=2025-05-07 12:46:56+00:00 | [25년 5월 7일 월] 미국 기준금리 결정, 연준 파월 의장 기자회견｜미·중 무역협상 재개｜실적발표: 아이
    - lQ1IK3FhiqY | ongoing=False | publishedAt=2026-10-02T22:33:26Z | actualEndTime=None | effective=2026-10-02 22:33:26+00:00 | 【미국 증시 오늘의 요약】  "시장이 딱 원하던 고용지표"… 나스닥 100 사상 최고치 경신  -  2026
    - ndcKsPnU8gE | ongoing=False | publishedAt=2026-10-02T21:44:48Z | actualEndTime=2026-10-02T21:14:15Z | effective=2026-10-02 21:14:15+00:00 | [26년 10월 02일 금]  경제지표: 비농업 취업자수, 실업률 ｜ 테슬라, 3분기 인도량 발표 ｜ 프랑스
-   - GoLL1FrdQxc | ongoing=False | publishedAt=2026-10-01T22:27:11Z | actualEndTime=None | effective=2026-10-01 22:27:11+00:00 | 【미국 증시 오늘의 요약】  연준 “추가 인상 서두르지 않는다”…국채 금리 하락에 미 증시 반등  -  20
-   - TzeE-2VbJlg | ongoing=False | publishedAt=2026-10-01T21:58:30Z | actualEndTime=2026-10-01T21:35:01Z | effective=2026-10-01 21:35:01+00:00 | [26년 10월 01일 목]  구글, 제미나이 4 Argon 공개 ｜ 마이크론, 긍정적 전망 제시 ｜ 미 국
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-18] 데이터센터 관련 S&P500 편입 예상 종목들 #FN #AAOI #ALAB #CRDO
-  URL: https://www.youtube.com/watch?v=yUIftSS-NtM
-  publishedAt: 2026-10-03T00:00:05Z
+  제목: [미국주식 백과사전-20] 코스닥 보다 훨씬 좋은 미국 반도체 소부장 주식들 #MCHP #KEYS #TDY #MKSI #CGNX
+  URL: https://www.youtube.com/watch?v=2V88W6nJse4
+  publishedAt: 2026-10-04T00:00:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2V88W6nJse4 | ongoing=False | publishedAt=2026-10-04T00:00:32Z | actualEndTime=None | effective=2026-10-04 00:00:32+00:00 | [미국주식 백과사전-20] 코스닥 보다 훨씬 좋은 미국 반도체 소부장 주식들 #MCHP #KEYS #TDY 
+   - jTJ15dNqyeE | ongoing=False | publishedAt=2026-10-03T12:00:19Z | actualEndTime=None | effective=2026-10-03 12:00:19+00:00 | [미국주식 백과사전-19] ASIC, 반도체, 광통신 중소형 기업 '마벨'부터 '램버스'까지 #MRVL #R
    - yUIftSS-NtM | ongoing=False | publishedAt=2026-10-03T00:00:05Z | actualEndTime=None | effective=2026-10-03 00:00:05+00:00 | [미국주식 백과사전-18] 데이터센터 관련 S&P500 편입 예상 종목들 #FN #AAOI #ALAB #CR
    - TJpzT1S8AUQ | ongoing=False | publishedAt=2026-10-02T07:00:35Z | actualEndTime=None | effective=2026-10-02 07:00:35+00:00 | [미국주식 백과사전-17] 광통신? 네트워크장비? 루멘텀, 시스코, 아리스타를 알아보자! #ANET #CSC
-   - HEUAKrOs3jk | ongoing=False | publishedAt=2026-10-01T23:52:23Z | actualEndTime=2026-10-01T23:50:14Z | effective=2026-10-01 23:50:14+00:00 | [미국마감&아침시황] 최악의 9월, 반등의 10월?ㅣ채권 바닥 찍었니? 주식 사도 되니?ㅣ중국, 에너지 수출
-   - fJKh9JVnwLg | ongoing=False | publishedAt=2026-10-01T09:00:25Z | actualEndTime=None | effective=2026-10-01 09:00:25+00:00 | [미국주식 백과사전-16] 이 주식이 빠지면 반도체가 떨어진다 #DELL #HPE #SMCI
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - GBfzxS_DUWM | ongoing=False | publishedAt=2026-10-01T08:58:52Z | actualEndTime=None | effective=2026-10-01 08:58:52+00:00 | 마이크론 실적 보고는 별일 없었는데 코스피 오른 이유 #마이크론 #코스피 #하이닉스
+   - UnZF4mvPjMY | ongoing=False | publishedAt=2026-10-03T09:43:31Z | actualEndTime=None | effective=2026-10-03 09:43:31+00:00 | AI 에이전트 최종승자 결국 여기입니다.
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 2cduC5_rK9I | ongoing=False | publishedAt=2026-10-01T12:02:43Z | actualEndTime=None | effective=2026-10-01 12:02:43+00:00 | 초고금리 뉴노멀 시대에 대비하라? 월가 초고수의 깜짝 예언, 적중할까
+  비고: 최근 48시간 검색 결과 없음
