@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-06 16:01 (KST)
-Run: 293 (id=37427061044)
+생성 시각: 2026-10-07 15:41 (KST)
+Run: 294 (id=37582931803)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,65 +8,78 @@ Run: 293 (id=37427061044)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: France Protests Go Nationwide & Europe Gets Tough on China
-  URL: https://www.youtube.com/watch?v=5AtCWSiROe0
-  publishedAt: 2026-10-06T06:57:34Z
+  제목: French School Protests Draw More Than 250,000
+  URL: https://www.youtube.com/watch?v=gvFwIPVvaMo
+  publishedAt: 2026-10-07T06:18:55Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 5AtCWSiROe0 | ongoing=False | publishedAt=2026-10-06T06:57:34Z | actualEndTime=None | effective=2026-10-06 06:57:34+00:00 | France Protests Go Nationwide & Europe Gets Tough on China
-   - XEMoaCAmEX8 | ongoing=False | publishedAt=2026-10-06T06:05:42Z | actualEndTime=None | effective=2026-10-06 06:05:42+00:00 | French Student Unrest Spreads Nationwide
-   - 5Ss3rqP9e-s | ongoing=False | publishedAt=2026-10-06T05:58:35Z | actualEndTime=None | effective=2026-10-06 05:58:35+00:00 | Ray Dalio Warns of US Debt Crisis Within 3 Years
-   - 6OubrvKyJbs | ongoing=False | publishedAt=2026-10-06T05:44:21Z | actualEndTime=None | effective=2026-10-06 05:44:21+00:00 | Moonshot AI Eyes 2027 IPO After Reaching $50B Valuation
-   - Tn2UMyw9I8k | ongoing=False | publishedAt=2026-10-06T05:25:34Z | actualEndTime=None | effective=2026-10-06 05:25:34+00:00 | Yemen Regains City of Mocha on Red Sea
-   - bWE6_VW7-UU | ongoing=False | publishedAt=2026-10-06T04:30:55Z | actualEndTime=None | effective=2026-10-06 04:30:55+00:00 | Bonds Extend Slide, Stocks Edge Up Toward Record Highs
-   - Z9jzyExsnXw | ongoing=False | publishedAt=2026-10-05T23:22:15Z | actualEndTime=None | effective=2026-10-05 23:22:15+00:00 | US Moves Bombers From UK Airbase as Threats Linger
-   - djS8v-bXhfo | ongoing=False | publishedAt=2026-10-05T22:39:55Z | actualEndTime=None | effective=2026-10-05 22:39:55+00:00 | McHenry Says Debt Fight Could Hit Treasuries Harder
-   - tVp9xobxSpU | ongoing=False | publishedAt=2026-10-05T22:31:59Z | actualEndTime=None | effective=2026-10-05 22:31:59+00:00 | Conley: Refined Fuels Remain The Energy Problem
-   - Tuaj4e7ZoEQ | ongoing=False | publishedAt=2026-10-05T22:28:16Z | actualEndTime=None | effective=2026-10-05 22:28:16+00:00 | Sen. Warner Says Senate Not Briefed On B-1 Bomber Move
+   - gvFwIPVvaMo | ongoing=False | publishedAt=2026-10-07T06:18:55Z | actualEndTime=None | effective=2026-10-07 06:18:55+00:00 | French School Protests Draw More Than 250,000
+   - ULuFAHnOIIs | ongoing=False | publishedAt=2026-10-07T06:19:41Z | actualEndTime=None | effective=2026-10-07 06:19:41+00:00 | Iran Ramps Up Ship Attacks in Hormuz as Oil Flows Rise, Ebol
+   - Wc4n0Eb8mpw | ongoing=False | publishedAt=2026-10-07T05:39:53Z | actualEndTime=None | effective=2026-10-07 05:39:53+00:00 | From Bitcoin To Tokenization, Crypto Optimism Returns
+   - JUg-YLLuimk | ongoing=False | publishedAt=2026-10-07T05:39:10Z | actualEndTime=None | effective=2026-10-07 05:39:10+00:00 | SpaceX Eyes $40 Billion Deal to Buy Nvidia Chips
+   - -z4iD8uzRZw | ongoing=False | publishedAt=2026-10-07T05:22:35Z | actualEndTime=None | effective=2026-10-07 05:22:35+00:00 | Kenya Sees First Ebola Case Imported From Congo
+   - DaY6E3PXnzw | ongoing=False | publishedAt=2026-10-07T05:00:18Z | actualEndTime=None | effective=2026-10-07 05:00:18+00:00 | UK’s Burnham Sets Out Change Agenda
+   - 0Ofg5Jv--7s | ongoing=False | publishedAt=2026-10-07T04:18:52Z | actualEndTime=None | effective=2026-10-07 04:18:52+00:00 | SpaceX Eyes $40B for Nvidia Chips, Asian Stocks Hold Near Re
+   - rnyj5pbKjkI | ongoing=False | publishedAt=2026-10-07T04:00:15Z | actualEndTime=None | effective=2026-10-07 04:00:15+00:00 | What Do Entertainment Industry Leaders Look for in a Pitch?
+   - hW6Ml4--2vg | ongoing=False | publishedAt=2026-10-06T23:04:13Z | actualEndTime=None | effective=2026-10-06 23:04:13+00:00 | Trump on Suspected Russia Plague: In Very Deep Discussions
+   - dk9IP19pgwY | ongoing=False | publishedAt=2026-10-06T22:53:49Z | actualEndTime=None | effective=2026-10-06 22:53:49+00:00 | Rising Student Loan Debt Adds to Midterm Voters’ Concerns
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Donald Trump REJECTED Iran Deal!
-  URL: https://www.youtube.com/watch?v=3JWNhzX4cu8
-  publishedAt: 2026-10-06T06:45:02Z
+  제목: Agentic AI Stocks: Avoid THESE, Buy THIS
+  URL: https://www.youtube.com/watch?v=vGgl3jEi70g
+  publishedAt: 2026-10-07T03:51:21Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - vGgl3jEi70g | ongoing=False | publishedAt=2026-10-07T03:51:21Z | actualEndTime=None | effective=2026-10-07 03:51:21+00:00 | Agentic AI Stocks: Avoid THESE, Buy THIS
+   - H1xVMX__KNc | ongoing=False | publishedAt=2026-10-07T01:07:58Z | actualEndTime=None | effective=2026-10-07 01:07:58+00:00 | How Midterms will F**K Up the Stock Market
+   - e-h6qfvdgBY | ongoing=False | publishedAt=2026-10-06T20:24:38Z | actualEndTime=None | effective=2026-10-06 20:24:38+00:00 | Trump JUST *Launched* the GREAT Wealth Transfer
+   - uWTe38ia8Bo | ongoing=False | publishedAt=2026-10-06T17:40:12Z | actualEndTime=2026-10-06T17:29:48Z | effective=2026-10-06 17:29:48+00:00 | holy smaboly the market flip is fracking starting
+   - 6jJaBG0_UkE | ongoing=False | publishedAt=2026-10-06T16:12:02Z | actualEndTime=None | effective=2026-10-06 16:12:02+00:00 | DO THIS NOW
+   - rb0PRFmqcrg | ongoing=False | publishedAt=2026-10-06T13:00:02Z | actualEndTime=None | effective=2026-10-06 13:00:02+00:00 | Palantir CEO Says OpenAI Will Get SUED!
+   - JY9TAjvb4sY | ongoing=False | publishedAt=2026-10-06T10:00:28Z | actualEndTime=None | effective=2026-10-06 10:00:28+00:00 | Donald Trump Left United Nations SPEECHLESS!
    - 3JWNhzX4cu8 | ongoing=False | publishedAt=2026-10-06T06:45:02Z | actualEndTime=None | effective=2026-10-06 06:45:02+00:00 | Donald Trump REJECTED Iran Deal!
    - 2G642xbFBig | ongoing=False | publishedAt=2026-10-06T03:39:35Z | actualEndTime=None | effective=2026-10-06 03:39:35+00:00 | Our Economy is about to EXPLODE | Agentic AI SHOCK
    - TXgQAsRTHyo | ongoing=False | publishedAt=2026-10-06T01:00:16Z | actualEndTime=None | effective=2026-10-06 01:00:16+00:00 | Terrorists HIJACKED This Flight To Tel Aviv!
-   - kCSOWAoCeXs | ongoing=False | publishedAt=2026-10-05T16:02:20Z | actualEndTime=None | effective=2026-10-05 16:02:20+00:00 | Nervous About Economic DOOM
-   - VK1OuRd0bPs | ongoing=False | publishedAt=2026-10-05T15:56:12Z | actualEndTime=2026-10-05T15:49:21Z | effective=2026-10-05 15:49:21+00:00 | Well then.. Rates, Fed, Iran, Jobs...
-   - fTkEQvtakYc | ongoing=False | publishedAt=2026-10-05T13:57:28Z | actualEndTime=None | effective=2026-10-05 13:57:28+00:00 | Flight To Tel Aviv Just Got HIJACKED!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 "금리 발작에도 흔들림 없다" 엔비디아 사상 최고치, 나스닥 100 신고가 돌파!  -  2026/10/05
-  URL: https://www.youtube.com/watch?v=jKegQwtFbNQ
-  publishedAt: 2026-10-05T22:00:18Z
+  제목: 【미국 증시 오늘의 요약】 인플레 우려 압도한 기술주 낙관론… S&P 500 8월 이후 첫 사상 최고치!  -  2026/10/06
+  URL: https://www.youtube.com/watch?v=0cnnlPwoCOM
+  publishedAt: 2026-10-06T22:02:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 0cnnlPwoCOM | ongoing=False | publishedAt=2026-10-06T22:02:06Z | actualEndTime=None | effective=2026-10-06 22:02:06+00:00 | 【미국 증시 오늘의 요약】 인플레 우려 압도한 기술주 낙관론… S&P 500 8월 이후 첫 사상 최고치!  
+   - dBDhlS17J28 | ongoing=False | publishedAt=2026-10-06T22:03:21Z | actualEndTime=2026-10-06T21:17:40Z | effective=2026-10-06 21:17:40+00:00 | [26년 10월 06일 화]  AMD “메모리 공급 여전히 부족” ｜ 르펜, 프랑스 재정적자 감축안 발표 ｜
    - jKegQwtFbNQ | ongoing=False | publishedAt=2026-10-05T22:00:18Z | actualEndTime=None | effective=2026-10-05 22:00:18+00:00 | 【미국 증시 오늘의 요약】 "금리 발작에도 흔들림 없다" 엔비디아 사상 최고치, 나스닥 100 신고가 돌파!
    - 95uKRxoa-W4 | ongoing=False | publishedAt=2026-10-05T21:29:18Z | actualEndTime=2026-10-05T21:13:42Z | effective=2026-10-05 21:13:42+00:00 | [26년 10월 05일 월]  프랑스발 유럽 국채 불안 확산 ｜머스크, 테라팹–TSMC 협력 논의 ｜ 오픈A
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-24] 얼른 도망쳐야 할 미국주식 #INFY #FISV #WIT #CTS
-  URL: https://www.youtube.com/watch?v=T1TgbxETQhU
-  publishedAt: 2026-10-06T07:00:01Z
+  제목: [미국주식 백과사전-25] AI 해킹의 시대! 정부 DATA로 돈 복사하는 SaaS 기업은? #FIS #BR #WIT #LDOS #CDW #CACI #WSE #GIB #IT
+  URL: https://www.youtube.com/watch?v=iItcWhEP__U
+  publishedAt: 2026-10-07T03:00:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - iItcWhEP__U | ongoing=False | publishedAt=2026-10-07T03:00:03Z | actualEndTime=None | effective=2026-10-07 03:00:03+00:00 | [미국주식 백과사전-25] AI 해킹의 시대! 정부 DATA로 돈 복사하는 SaaS 기업은? #FIS #BR
+   - UOUvT-PdHvw | ongoing=False | publishedAt=2026-10-07T00:16:03Z | actualEndTime=2026-10-07T00:12:42Z | effective=2026-10-07 00:12:42+00:00 | [미국마감&아침시황] 에쎈피 신고가! 나스닥 신고가! 엔비디아 신고가! 그런데 삼성전자는 빠진다...? 왜?
    - T1TgbxETQhU | ongoing=False | publishedAt=2026-10-06T07:00:01Z | actualEndTime=None | effective=2026-10-06 07:00:01+00:00 | [미국주식 백과사전-24] 얼른 도망쳐야 할 미국주식 #INFY #FISV #WIT #CTS
-   - jkdW9UI6Skk | ongoing=False | publishedAt=2026-10-06T00:06:12Z | actualEndTime=2026-10-06T00:02:06Z | effective=2026-10-06 00:02:06+00:00 | [미국마감&아침시황] 엔비디아 신고가 ^ㅡ^ 감사합니다ㅣ#261006
    - KyojyYSofac | ongoing=False | publishedAt=2026-10-05T09:30:04Z | actualEndTime=None | effective=2026-10-05 09:30:04+00:00 | [미국주식 백과사전-23] SaaS는 안된다? 그런데 20%나 올랐는데요?? #IBM #ACN
-   - 10RKLQnDLLc | ongoing=False | publishedAt=2026-10-05T03:00:03Z | actualEndTime=None | effective=2026-10-05 03:00:03+00:00 | [미국주식 백과사전-22] GPU 다음은 CPU, 누가 가장 좋은 주식일까? #AMD #INTC #ARM #
-   - GtdEVfrt1Eg | ongoing=False | publishedAt=2026-10-04T11:00:39Z | actualEndTime=None | effective=2026-10-04 11:00:39+00:00 | [미국주식 백과사전-21] 마이크론 차트를 보면 매매 타이밍이 보입니다 #TSM #MU
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 나스닥은 신고가인데 코스피는 왜? #코스피 #후티 #삼성전자
+  URL: https://www.youtube.com/watch?v=JJQMtqmN23Q
+  publishedAt: 2026-10-07T06:31:15Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - JJQMtqmN23Q | ongoing=False | publishedAt=2026-10-07T06:31:15Z | actualEndTime=None | effective=2026-10-07 06:31:15+00:00 | 나스닥은 신고가인데 코스피는 왜? #코스피 #후티 #삼성전자
+   - ffpwNQMKSv4 | ongoing=False | publishedAt=2026-10-06T17:21:21Z | actualEndTime=None | effective=2026-10-06 17:21:21+00:00 | 나스닥 연일 신고가의 진짜 이유
+   - -hO_Np9Ez98 | ongoing=False | publishedAt=2026-10-06T07:55:37Z | actualEndTime=None | effective=2026-10-06 07:55:37+00:00 | 돈이 삼전닉스에서 '여기'로 간다고? #삼성전자 #소부장 #코스닥
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - ha4-lyhvafM | ongoing=False | publishedAt=2026-10-06T08:30:29Z | actualEndTime=None | effective=2026-10-06 08:30:29+00:00 | 2년만에 재결합한 머스크와 트럼프, 두 거물 화해의 수혜주들
    - V3ZQ02Syf5U | ongoing=False | publishedAt=2026-10-05T12:07:39Z | actualEndTime=None | effective=2026-10-05 12:07:39+00:00 | 나스닥 엔비디아는 신고가인데 내 주식은 왜? 역대급 기묘한 랠리 이어질까
