@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-11 15:38 (KST)
-Run: 298 (id=38118697365)
+생성 시각: 2026-10-12 15:47 (KST)
+Run: 299 (id=38214227004)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,45 +8,41 @@ Run: 298 (id=38118697365)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Inside the $815,000 Lamborghini Revuelto
-  URL: https://www.youtube.com/watch?v=9yVlle4YcY8
-  publishedAt: 2026-10-11T04:00:26Z
+  제목: India's Cockroach Janta Party Renews Call for Poll Body Chief to Quit
+  URL: https://www.youtube.com/watch?v=4SYhFnAYJlk
+  publishedAt: 2026-10-12T05:50:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 9yVlle4YcY8 | ongoing=False | publishedAt=2026-10-11T04:00:26Z | actualEndTime=None | effective=2026-10-11 04:00:26+00:00 | Inside the $815,000 Lamborghini Revuelto
-   - 74TNYU5Pi1c | ongoing=False | publishedAt=2026-10-10T17:37:06Z | actualEndTime=None | effective=2026-10-10 17:37:06+00:00 | Strong Earnings Could Revive US Stocks
-   - DKw9ZJgVKyo | ongoing=False | publishedAt=2026-10-10T17:30:57Z | actualEndTime=None | effective=2026-10-10 17:30:57+00:00 | Phenomenal Time To Be Investor, Not Consumer: Amoroso
-   - f-At93Idp04 | ongoing=False | publishedAt=2026-10-10T17:21:07Z | actualEndTime=None | effective=2026-10-10 17:21:07+00:00 | Social Security Has To Be Addressed: Orszag
-   - eamuNzDkU-A | ongoing=False | publishedAt=2026-10-10T17:20:12Z | actualEndTime=None | effective=2026-10-10 17:20:12+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - M2P2ll8MPNU | ongoing=False | publishedAt=2026-10-10T17:14:46Z | actualEndTime=None | effective=2026-10-10 17:14:46+00:00 | Small Designer's Luxury Handbags Turn Viral
-   - Zgrlm6k_XL4 | ongoing=False | publishedAt=2026-10-10T17:04:33Z | actualEndTime=None | effective=2026-10-10 17:04:33+00:00 | By The Way: Headlines You May Have Missed
-   - G1KKEq128VQ | ongoing=False | publishedAt=2026-10-10T16:56:16Z | actualEndTime=None | effective=2026-10-10 16:56:16+00:00 | Some High Earners Stop Maxing Out 401(k)s
-   - VuLT1eP44jI | ongoing=False | publishedAt=2026-10-10T16:19:28Z | actualEndTime=None | effective=2026-10-10 16:19:28+00:00 | Hurricane Isaias Could Cost Insurers Billions
-   - jaslrsJNBOo | ongoing=False | publishedAt=2026-10-10T16:17:13Z | actualEndTime=None | effective=2026-10-10 16:17:13+00:00 | Isaias Makes Landfall, Diesel Deal Struck with Putin
+   - 4SYhFnAYJlk | ongoing=False | publishedAt=2026-10-12T05:50:50Z | actualEndTime=None | effective=2026-10-12 05:50:50+00:00 | India's Cockroach Janta Party Renews Call for Poll Body Chie
+   - X_wvIbE-3nY | ongoing=False | publishedAt=2026-10-12T05:25:58Z | actualEndTime=None | effective=2026-10-12 05:25:58+00:00 | China Reaches Deal with EU on Hybrid Car Shipments
+   - bjwCxsnRg-0 | ongoing=False | publishedAt=2026-10-12T04:38:23Z | actualEndTime=None | effective=2026-10-12 04:38:23+00:00 | Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi 
+   - odKyWIeSyxs | ongoing=False | publishedAt=2026-10-12T04:09:40Z | actualEndTime=None | effective=2026-10-12 04:09:40+00:00 | Why Wall Street Bosses Are Betting on India
+   - cDKEMAwpAMI | ongoing=False | publishedAt=2026-10-11T17:43:55Z | actualEndTime=None | effective=2026-10-11 17:43:55+00:00 | 'Windows of Opportunity' to End War in Ukraine, SACEUR Says
+   - FyrlRpc-qvI | ongoing=False | publishedAt=2026-10-11T17:20:37Z | actualEndTime=None | effective=2026-10-11 17:20:37+00:00 | Bookmarked: Stories That Caught Our Eye This Week
+   - Vn8PpkSNKuM | ongoing=False | publishedAt=2026-10-11T17:10:51Z | actualEndTime=None | effective=2026-10-11 17:10:51+00:00 | Former US Envoy Warns of broader Middle East Conflict
+   - gPY3K0ef5h8 | ongoing=False | publishedAt=2026-10-11T17:02:12Z | actualEndTime=None | effective=2026-10-11 17:02:12+00:00 | Globalization Challenges a Decade of Populist Pushback
+   - LRvstlBeiqo | ongoing=False | publishedAt=2026-10-11T16:57:45Z | actualEndTime=None | effective=2026-10-11 16:57:45+00:00 | Foreign Policy Takes Center Stage in Midterm Elections
+   - rquMc3MDphY | ongoing=False | publishedAt=2026-10-11T16:42:48Z | actualEndTime=None | effective=2026-10-11 16:42:48+00:00 | Riyadh Airport Attack, Trump To Ukraine: “Time To Get A New 
 
 - Meet Kevin
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - vqC6wULvh_A | ongoing=False | publishedAt=2026-10-09T13:00:14Z | actualEndTime=None | effective=2026-10-09 13:00:14+00:00 | America Has The WORST Credit In The World! 😭
-   - 4ZPfCp53vxI | ongoing=False | publishedAt=2026-10-09T08:23:35Z | actualEndTime=None | effective=2026-10-09 08:23:35+00:00 | My $2 Million Dollar Fixer is getting RUINED by California
+  비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Uz455V4egkI | ongoing=False | publishedAt=2026-10-09T22:15:04Z | actualEndTime=None | effective=2026-10-09 22:15:04+00:00 | 【미국 증시 오늘의 요약】 오픈AI 700억 달러 기대에 기술주 반등, 그런데 반도체는 왜 부진했나? -  
-   - LeqgELm-EYc | ongoing=False | publishedAt=2026-10-09T21:44:45Z | actualEndTime=2026-10-09T21:23:08Z | effective=2026-10-09 21:23:08+00:00 | [26년 10월 09일 금]  오픈AI, 연말 연환산 매출 $700억 ｜ 스페이스X, 이동통신 서비스 진출 
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-29] 미국주식 + 반도체 = 우상향? 이런 주식은 피해야 합니다. #UMC #GFS #ON #MCHP #MPWR #TSEM #SWKS #QRVO #LSCC
-  URL: https://www.youtube.com/watch?v=NL67X_0mTPU
-  publishedAt: 2026-10-11T00:00:36Z
+  제목: [미국주식 백과사전-30] 이 기업들은 절대 망하지 않습니다! #ABT #SYK #MDT #BSX #EW #DXCM #GEHC #PHG
+  URL: https://www.youtube.com/watch?v=Agquck3mXuQ
+  publishedAt: 2026-10-12T03:00:35Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Agquck3mXuQ | ongoing=False | publishedAt=2026-10-12T03:00:35Z | actualEndTime=None | effective=2026-10-12 03:00:35+00:00 | [미국주식 백과사전-30] 이 기업들은 절대 망하지 않습니다! #ABT #SYK #MDT #BSX #EW #
+   - I-jUER6Lu2s | ongoing=False | publishedAt=2026-10-12T00:05:37Z | actualEndTime=2026-10-12T00:02:29Z | effective=2026-10-12 00:02:29+00:00 | [미국마감&아침시황] 호르무즈 쉽지 않네요...ㅣ실적시즌 시작, 이번주엔 무엇을 봐야하나?ㅣ#261012
+   - 4PVXhAH-3fY | ongoing=False | publishedAt=2026-10-11T09:00:37Z | actualEndTime=None | effective=2026-10-11 09:00:37+00:00 | 저는 10월에 50% 매도할 예정입니다
    - NL67X_0mTPU | ongoing=False | publishedAt=2026-10-11T00:00:36Z | actualEndTime=None | effective=2026-10-11 00:00:36+00:00 | [미국주식 백과사전-29] 미국주식 + 반도체 = 우상향? 이런 주식은 피해야 합니다. #UMC #GFS #
-   - lTtPRmj58XE | ongoing=False | publishedAt=2026-10-10T00:00:23Z | actualEndTime=None | effective=2026-10-10 00:00:23+00:00 | [미국주식 백과사전-28] AI 보다 로봇 매출이 더 높아질 반도체 기업들은? #TXN #ADI #ASX #
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
@@ -54,6 +50,4 @@ Run: 298 (id=38118697365)
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - Ob5TSrJbxbs | ongoing=False | publishedAt=2026-10-09T09:36:59Z | actualEndTime=None | effective=2026-10-09 09:36:59+00:00 | AI사이클 더 큰 한 방 남았다? 증시 의심의 벽 뚫고 올라갈까
+  비고: 최근 48시간 검색 결과 없음
