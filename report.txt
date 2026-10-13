@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-12 15:47 (KST)
-Run: 299 (id=38214227004)
+생성 시각: 2026-10-13 16:13 (KST)
+Run: 300 (id=38361307312)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,46 +8,62 @@ Run: 299 (id=38214227004)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: India's Cockroach Janta Party Renews Call for Poll Body Chief to Quit
-  URL: https://www.youtube.com/watch?v=4SYhFnAYJlk
-  publishedAt: 2026-10-12T05:50:50Z
+  제목: Saudi Intercepts Houthi Attacks as Pressure Grows on US
+  URL: https://www.youtube.com/watch?v=tkl3CxKyOY4
+  publishedAt: 2026-10-13T07:04:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 4SYhFnAYJlk | ongoing=False | publishedAt=2026-10-12T05:50:50Z | actualEndTime=None | effective=2026-10-12 05:50:50+00:00 | India's Cockroach Janta Party Renews Call for Poll Body Chie
-   - X_wvIbE-3nY | ongoing=False | publishedAt=2026-10-12T05:25:58Z | actualEndTime=None | effective=2026-10-12 05:25:58+00:00 | China Reaches Deal with EU on Hybrid Car Shipments
-   - bjwCxsnRg-0 | ongoing=False | publishedAt=2026-10-12T04:38:23Z | actualEndTime=None | effective=2026-10-12 04:38:23+00:00 | Trump Claims Russia-Ukraine Agree to ‘Energy’ Truce, Houthi 
-   - odKyWIeSyxs | ongoing=False | publishedAt=2026-10-12T04:09:40Z | actualEndTime=None | effective=2026-10-12 04:09:40+00:00 | Why Wall Street Bosses Are Betting on India
-   - cDKEMAwpAMI | ongoing=False | publishedAt=2026-10-11T17:43:55Z | actualEndTime=None | effective=2026-10-11 17:43:55+00:00 | 'Windows of Opportunity' to End War in Ukraine, SACEUR Says
-   - FyrlRpc-qvI | ongoing=False | publishedAt=2026-10-11T17:20:37Z | actualEndTime=None | effective=2026-10-11 17:20:37+00:00 | Bookmarked: Stories That Caught Our Eye This Week
-   - Vn8PpkSNKuM | ongoing=False | publishedAt=2026-10-11T17:10:51Z | actualEndTime=None | effective=2026-10-11 17:10:51+00:00 | Former US Envoy Warns of broader Middle East Conflict
-   - gPY3K0ef5h8 | ongoing=False | publishedAt=2026-10-11T17:02:12Z | actualEndTime=None | effective=2026-10-11 17:02:12+00:00 | Globalization Challenges a Decade of Populist Pushback
-   - LRvstlBeiqo | ongoing=False | publishedAt=2026-10-11T16:57:45Z | actualEndTime=None | effective=2026-10-11 16:57:45+00:00 | Foreign Policy Takes Center Stage in Midterm Elections
-   - rquMc3MDphY | ongoing=False | publishedAt=2026-10-11T16:42:48Z | actualEndTime=None | effective=2026-10-11 16:42:48+00:00 | Riyadh Airport Attack, Trump To Ukraine: “Time To Get A New 
+   - tkl3CxKyOY4 | ongoing=False | publishedAt=2026-10-13T07:04:09Z | actualEndTime=None | effective=2026-10-13 07:04:09+00:00 | Saudi Intercepts Houthi Attacks as Pressure Grows on US
+   - jdEmbdsLJh0 | ongoing=False | publishedAt=2026-10-13T06:54:01Z | actualEndTime=None | effective=2026-10-13 06:54:01+00:00 | Meta's New Muse Wonder AI Model; LVMH Slumps After China Bac
+   - TmqJw4dEtqM | ongoing=False | publishedAt=2026-10-13T06:22:36Z | actualEndTime=None | effective=2026-10-13 06:22:36+00:00 | Asian Chipmakers Fall on Breakthrough by China's CXMT
+   - NG0wP-dKfnA | ongoing=False | publishedAt=2026-10-13T06:17:10Z | actualEndTime=None | effective=2026-10-13 06:17:10+00:00 | Saudi Arabia Reports Fresh Attacks as Wider Conflict Could P
+   - 9e3Lo5xpm-8 | ongoing=False | publishedAt=2026-10-13T05:14:17Z | actualEndTime=None | effective=2026-10-13 05:14:17+00:00 | Chip Selloff bleeds into Asia
+   - rvRYLdFGfY4 | ongoing=False | publishedAt=2026-10-13T05:09:07Z | actualEndTime=None | effective=2026-10-13 05:09:07+00:00 | Firmus IPO Flop Raises Data Center Funding Questions
+   - fULh3askfXM | ongoing=False | publishedAt=2026-10-13T01:09:52Z | actualEndTime=None | effective=2026-10-13 01:09:52+00:00 | Pakistan Targets Growth of More Than 4% for 2026
+   - xyDG8rOtm28 | ongoing=False | publishedAt=2026-10-12T23:35:50Z | actualEndTime=None | effective=2026-10-12 23:35:50+00:00 | Zelenskyy Says Open to Energy Ceasefire if Russia Agrees
+   - Ivsvcv7i8E4 | ongoing=False | publishedAt=2026-10-12T22:57:30Z | actualEndTime=None | effective=2026-10-12 22:57:30+00:00 | Rep. Moore: Congress Should Focus on Economy, Not Investigat
+   - Nd8W1Jk4VxI | ongoing=False | publishedAt=2026-10-12T22:46:41Z | actualEndTime=None | effective=2026-10-12 22:46:41+00:00 | Wald: Middle East Risks Keep Oil’s Risk Premium in Place
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 48시간 검색 결과 없음
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: [26년 10월 12일 월]  트럼프 "러-우 에너지 휴전" ｜ 후티 반군, 사우디 공항 공격 ｜ 브로드컴 CEO, "AI  최대 제약은 자본" ｜  -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=WVPw-3pa4Pw
+  publishedAt: 2026-10-12T22:04:36Z
+  actualEndTime: 2026-10-12T21:06:43Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - WVPw-3pa4Pw | ongoing=False | publishedAt=2026-10-12T22:04:36Z | actualEndTime=2026-10-12T21:06:43Z | effective=2026-10-12 21:06:43+00:00 | [26년 10월 12일 월]  트럼프 "러-우 에너지 휴전" ｜ 후티 반군, 사우디 공항 공격 ｜ 브로드컴 
+   - b-5ySIOfhto | ongoing=False | publishedAt=2026-10-12T21:52:00Z | actualEndTime=None | effective=2026-10-12 21:52:00+00:00 | 【미국 증시 오늘의 요약】 중국 반도체의 추격에 흔들린 시장…이제 시작되는 진짜 시험대 -  2026/10/
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-30] 이 기업들은 절대 망하지 않습니다! #ABT #SYK #MDT #BSX #EW #DXCM #GEHC #PHG
-  URL: https://www.youtube.com/watch?v=Agquck3mXuQ
-  publishedAt: 2026-10-12T03:00:35Z
+  제목: [미국주식 백과사전-31] 빅테크 = 변동성, 빅파마 = 안정성, 결론은 둘 다 우상향!! #LLY #JNJ #ABBV #MRK
+  URL: https://www.youtube.com/watch?v=1FqlRt57usQ
+  publishedAt: 2026-10-13T03:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 1FqlRt57usQ | ongoing=False | publishedAt=2026-10-13T03:00:37Z | actualEndTime=None | effective=2026-10-13 03:00:37+00:00 | [미국주식 백과사전-31] 빅테크 = 변동성, 빅파마 = 안정성, 결론은 둘 다 우상향!! #LLY #JNJ
+   - BkCQfqXGLYA | ongoing=False | publishedAt=2026-10-13T00:09:17Z | actualEndTime=2026-10-13T00:06:29Z | effective=2026-10-13 00:06:29+00:00 | [미국마감&아침시황] 메모리 고점론, 하나씩 반박해볼게요ㅣ#261013
    - Agquck3mXuQ | ongoing=False | publishedAt=2026-10-12T03:00:35Z | actualEndTime=None | effective=2026-10-12 03:00:35+00:00 | [미국주식 백과사전-30] 이 기업들은 절대 망하지 않습니다! #ABT #SYK #MDT #BSX #EW #
-   - I-jUER6Lu2s | ongoing=False | publishedAt=2026-10-12T00:05:37Z | actualEndTime=2026-10-12T00:02:29Z | effective=2026-10-12 00:02:29+00:00 | [미국마감&아침시황] 호르무즈 쉽지 않네요...ㅣ실적시즌 시작, 이번주엔 무엇을 봐야하나?ㅣ#261012
    - 4PVXhAH-3fY | ongoing=False | publishedAt=2026-10-11T09:00:37Z | actualEndTime=None | effective=2026-10-11 09:00:37+00:00 | 저는 10월에 50% 매도할 예정입니다
-   - NL67X_0mTPU | ongoing=False | publishedAt=2026-10-11T00:00:36Z | actualEndTime=None | effective=2026-10-11 00:00:36+00:00 | [미국주식 백과사전-29] 미국주식 + 반도체 = 우상향? 이런 주식은 피해야 합니다. #UMC #GFS #
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 코스피 역대급 대폭락의 3가지 이유 #코스피 #CXMT #삼성전자
+  URL: https://www.youtube.com/watch?v=YfnyQJ5FTOA
+  publishedAt: 2026-10-13T05:36:14Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - YfnyQJ5FTOA | ongoing=False | publishedAt=2026-10-13T05:36:14Z | actualEndTime=None | effective=2026-10-13 05:36:14+00:00 | 코스피 역대급 대폭락의 3가지 이유 #코스피 #CXMT #삼성전자
+   - 4Wt_PZqM5ZE | ongoing=False | publishedAt=2026-10-12T18:07:52Z | actualEndTime=None | effective=2026-10-12 18:07:52+00:00 | 또 메모리만 패는 나스닥
+   - -aQybbK5sCI | ongoing=False | publishedAt=2026-10-12T08:27:05Z | actualEndTime=None | effective=2026-10-12 08:27:05+00:00 | 코스피 코스닥 폭락의 주범 #코스피 #코스닥 #OpenAI
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - ILs31CN-_VA | ongoing=False | publishedAt=2026-10-12T12:12:03Z | actualEndTime=None | effective=2026-10-12 12:12:03+00:00 | AI투자 판도 조용히 바뀌는 중? 부진했던 빅테크, 팔란티어의 수상한 신고가
