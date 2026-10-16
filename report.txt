@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-15 14:24 (KST)
-Run: 302 (id=38686596654)
+생성 시각: 2026-10-16 14:17 (KST)
+Run: 303 (id=38854972720)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,77 +8,79 @@ Run: 302 (id=38686596654)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: US Stock Selloff Extends to Asia as Chip Rout Deepens
-  URL: https://www.youtube.com/watch?v=9z45uLhgtUk
-  publishedAt: 2026-10-15T05:19:26Z
+  제목: Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concerns
+  URL: https://www.youtube.com/watch?v=13v50BGzPQs
+  publishedAt: 2026-10-16T04:52:54Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 9z45uLhgtUk | ongoing=False | publishedAt=2026-10-15T05:19:26Z | actualEndTime=None | effective=2026-10-15 05:19:26+00:00 | US Stock Selloff Extends to Asia as Chip Rout Deepens
-   - PonYELUZhIo | ongoing=False | publishedAt=2026-10-15T01:41:44Z | actualEndTime=None | effective=2026-10-15 01:41:44+00:00 | JPMorgan's Dimon Sees Benefits From AI, Warns of Risks
-   - CTKel7tdrg4 | ongoing=False | publishedAt=2026-10-15T01:31:42Z | actualEndTime=None | effective=2026-10-15 01:31:42+00:00 | Valterra CFO Guides Market Development Investments
-   - -UtZQOG8POA | ongoing=False | publishedAt=2026-10-15T01:31:40Z | actualEndTime=None | effective=2026-10-15 01:31:40+00:00 | Valterra Platinum Bets on Underground Mining Project
-   - taxqXSUZivA | ongoing=False | publishedAt=2026-10-15T01:30:01Z | actualEndTime=None | effective=2026-10-15 01:30:01+00:00 | Value & Vision: How Valterra's Forging the Future of Platinu
-   - eoOeAoZIbVw | ongoing=False | publishedAt=2026-10-15T01:24:18Z | actualEndTime=None | effective=2026-10-15 01:24:18+00:00 | Starbucks Says It’s Not Buying Chipotle
-   - iVgE3GoSW0k | ongoing=False | publishedAt=2026-10-15T01:25:02Z | actualEndTime=None | effective=2026-10-15 01:25:02+00:00 | Hot Inflation Lifts Fed Rate-Hike Bets
-   - G0gOxDLsTD8 | ongoing=False | publishedAt=2026-10-15T01:23:52Z | actualEndTime=None | effective=2026-10-15 01:23:52+00:00 | Nvidia's Huang Says He Would Not Sell Chips to Irresponsible
-   - QIuQ4NSmZDI | ongoing=False | publishedAt=2026-10-15T01:24:12Z | actualEndTime=None | effective=2026-10-15 01:24:12+00:00 | Bank of America Has 'Accountability' in Face of Fines, Says 
-   - qS5rxg68t4w | ongoing=False | publishedAt=2026-10-15T01:24:04Z | actualEndTime=None | effective=2026-10-15 01:24:04+00:00 | Oil Gains as Middle East, Russia Hostilities Imperil Flows
+   - 13v50BGzPQs | ongoing=False | publishedAt=2026-10-16T04:52:54Z | actualEndTime=None | effective=2026-10-16 04:52:54+00:00 | Chip Selloff Eases as Nvidia CEO Downplays CoreWeave Concern
+   - M59PEppu5DA | ongoing=False | publishedAt=2026-10-16T04:00:04Z | actualEndTime=None | effective=2026-10-16 04:00:04+00:00 | Formula 1 Returns to Africa With Rwanda Grand Prix in 2030s
+   - wcz3cSFXF_M | ongoing=False | publishedAt=2026-10-16T03:10:07Z | actualEndTime=None | effective=2026-10-16 03:10:07+00:00 | Ross Gerber on Tesla Roadster, Potential SpaceX Merger
+   - DQIb3xm_7u0 | ongoing=False | publishedAt=2026-10-15T23:08:25Z | actualEndTime=None | effective=2026-10-15 23:08:25+00:00 | Zelenskyy: ‘Pity’ Ukraine Losing Strong Partner
+   - tQn_e9Yw1gM | ongoing=False | publishedAt=2026-10-15T23:07:48Z | actualEndTime=None | effective=2026-10-15 23:07:48+00:00 | Surveillance Pricing May Be Coming to a Store Near You
+   - HjAgSG8vmzU | ongoing=False | publishedAt=2026-10-15T23:06:07Z | actualEndTime=None | effective=2026-10-15 23:06:07+00:00 | To Make GTA VI, Rockstar Had To Remake Itself
+   - 6cFHczxh4W0 | ongoing=False | publishedAt=2026-10-15T23:05:22Z | actualEndTime=None | effective=2026-10-15 23:05:22+00:00 | Power On: Is Apple’s HomeView Ecosystem Worth Buying Into?
+   - bJd57x4-kDc | ongoing=False | publishedAt=2026-10-15T22:32:32Z | actualEndTime=None | effective=2026-10-15 22:32:32+00:00 | Conley Says Putin Is Testing NATO Unity
+   - jaRcaf0OGA0 | ongoing=False | publishedAt=2026-10-15T22:27:14Z | actualEndTime=None | effective=2026-10-15 22:27:14+00:00 | Rep. Amo Says Trump Should Enforce Russia Sanctions
+   - 8hwwDVmzHZ0 | ongoing=False | publishedAt=2026-10-15T22:22:42Z | actualEndTime=None | effective=2026-10-15 22:22:42+00:00 | Short: Corruption Is Growing Liability for Republicans
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: why the market just tanked
-  URL: https://www.youtube.com/watch?v=m3cMmkH94to
-  publishedAt: 2026-10-14T21:00:43Z
+  제목: Kevin Warsh *JUST* Bailed out the Stock Market HIMSELF
+  URL: https://www.youtube.com/watch?v=r0m6zs83Eo0
+  publishedAt: 2026-10-16T04:54:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - r0m6zs83Eo0 | ongoing=False | publishedAt=2026-10-16T04:54:52Z | actualEndTime=None | effective=2026-10-16 04:54:52+00:00 | Kevin Warsh *JUST* Bailed out the Stock Market HIMSELF
+   - yygH0lmDD_Q | ongoing=False | publishedAt=2026-10-16T02:10:39Z | actualEndTime=2026-10-16T01:53:56Z | effective=2026-10-16 01:53:56+00:00 | The Tesla Roadster Event LIVE w/ Meet Kevin [Elon Musk Revea
+   - 9c6v-yLww5w | ongoing=False | publishedAt=2026-10-16T02:04:49Z | actualEndTime=None | effective=2026-10-16 02:04:49+00:00 | Holy Sh*t Elon Musk's Roadster Reveal [Tesla SpaceX Stock]
+   - CwFrrSxLX_Y | ongoing=False | publishedAt=2026-10-15T16:02:48Z | actualEndTime=2026-10-15T13:10:42Z | effective=2026-10-15 13:10:42+00:00 | *The Critical Release of the PPI & Retail Sales Report* FED 
+   - C358wmTbV3I | ongoing=False | publishedAt=2026-10-15T13:18:11Z | actualEndTime=None | effective=2026-10-15 13:18:11+00:00 | Is the Recession Beginning?!?!?!
    - m3cMmkH94to | ongoing=False | publishedAt=2026-10-14T21:00:43Z | actualEndTime=None | effective=2026-10-14 21:00:43+00:00 | why the market just tanked
    - AddvhRaszlM | ongoing=False | publishedAt=2026-10-14T20:38:59Z | actualEndTime=2026-10-14T20:24:15Z | effective=2026-10-14 20:24:15+00:00 | omg what's happening
    - r2wop5sZ5Go | ongoing=False | publishedAt=2026-10-14T13:47:04Z | actualEndTime=2026-10-14T13:21:32Z | effective=2026-10-14 13:21:32+00:00 | *The Critical Release of the CPI Report* FED RATES
    - ITNtGon3oWU | ongoing=False | publishedAt=2026-10-14T13:27:25Z | actualEndTime=None | effective=2026-10-14 13:27:25+00:00 | This CPI Report is Bad for MANY Reasons...
-   - A7yrr17VEDo | ongoing=False | publishedAt=2026-10-13T22:27:28Z | actualEndTime=None | effective=2026-10-13 22:27:28+00:00 | The Shadow Debt Crisis JUST Got Twice as Bad.
-   - qYgPfFhV3d4 | ongoing=False | publishedAt=2026-10-13T18:44:01Z | actualEndTime=None | effective=2026-10-13 18:44:01+00:00 | The Fed JUST Bailed us Out AGAIN | What do they SEE?!?!?!
-   - rhiD0l8zrYk | ongoing=False | publishedAt=2026-10-13T15:29:35Z | actualEndTime=2026-10-13T15:10:25Z | effective=2026-10-13 15:10:25+00:00 | Stocks Fall, Yields Fall, the $140b SUCKENING Returns
-   - XHjzdg83n3k | ongoing=False | publishedAt=2026-10-13T15:19:34Z | actualEndTime=None | effective=2026-10-13 15:19:34+00:00 | We have *JUST* 7 days left.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 CPI 쇼크 + 코어위브 채권 부실 신호…AI 트레이드 흔들린 하루  -  2026/10/14
-  URL: https://www.youtube.com/watch?v=Jur0NL3coQc
-  publishedAt: 2026-10-14T22:01:01Z
+  제목: [특별 방송]  '케빈 워시' 연준의장 연설  ｜ -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=uyHYbpsI-dQ
+  publishedAt: 2026-10-16T04:10:39Z
+  actualEndTime: 2026-10-16T04:07:34Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - uyHYbpsI-dQ | ongoing=False | publishedAt=2026-10-16T04:10:39Z | actualEndTime=2026-10-16T04:07:34Z | effective=2026-10-16 04:07:34+00:00 | [특별 방송]  '케빈 워시' 연준의장 연설  ｜ -  오선의 미국 증시 라이브
+   - 9kj0j40LGek | ongoing=False | publishedAt=2026-10-15T22:12:18Z | actualEndTime=None | effective=2026-10-15 22:12:18+00:00 | 【미국 증시 오늘의 요약】 장중 -1.4% 나스닥의 극적 반등! AI 부채 우려 잠재운 젠슨 황의 한마디 -
+   - BAAUnEvqWes | ongoing=False | publishedAt=2026-10-15T21:50:44Z | actualEndTime=2026-10-15T21:29:23Z | effective=2026-10-15 21:29:23+00:00 | [26년 10월 15일 목]  생산자물가지수, 소매판매 ｜ 앤트로픽, 3분기 매출 168억 달러 ｜ TSMC
+   - apAu1GQqdUc | ongoing=False | publishedAt=2026-10-15T07:11:49Z | actualEndTime=2026-10-15T07:08:21Z | effective=2026-10-15 07:08:21+00:00 | [특별 방송]  TSMC - 실적발표/어닝콜 ｜ -  오선의 미국 증시 라이브
    - Jur0NL3coQc | ongoing=False | publishedAt=2026-10-14T22:01:01Z | actualEndTime=None | effective=2026-10-14 22:01:01+00:00 | 【미국 증시 오늘의 요약】 CPI 쇼크 + 코어위브 채권 부실 신호…AI 트레이드 흔들린 하루  -  202
    - EV3ukPzhr-M | ongoing=False | publishedAt=2026-10-14T21:33:44Z | actualEndTime=2026-10-14T21:16:14Z | effective=2026-10-14 21:16:14+00:00 | [26년 10월 14일 수]  9월 소비자 물가지수(CPI) ｜ ASML, 3분기 순이익 상회 ｜ 앤트로픽,
-   - l6ewLbEJyuA | ongoing=False | publishedAt=2026-10-13T22:10:33Z | actualEndTime=None | effective=2026-10-13 22:10:33+00:00 | 【미국 증시 오늘의 요약】뉴욕 연은 총재 한마디에 낙폭 줄인 미 증시! 은행주 실적 개막·마이크론 이틀째 하
-   - 7X7txu9IFPI | ongoing=False | publishedAt=2026-10-13T21:51:23Z | actualEndTime=2026-10-13T21:19:30Z | effective=2026-10-13 21:19:30+00:00 | [26년 10월 13일 화]  3분기 실적시즌 개막 ｜ 백악관 대변인 ‘언론 브리핑’ ｜ 월러 이사, “국채
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-33] 격해지는 이란 전쟁, 중동 전쟁 수혜 기업은? #LMT #HWM #GD #NOC #TDG
-  URL: https://www.youtube.com/watch?v=s3GZK3SX38w
-  publishedAt: 2026-10-15T03:00:10Z
+  제목: [미국주식 백과사전-34] 고유가 시대, 에너지 기업 투자전략 #XLE #XOM #CVX #SHEL #TTE #BP
+  URL: https://www.youtube.com/watch?v=UFAowg8Fhwk
+  publishedAt: 2026-10-16T03:00:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UFAowg8Fhwk | ongoing=False | publishedAt=2026-10-16T03:00:14Z | actualEndTime=None | effective=2026-10-16 03:00:14+00:00 | [미국주식 백과사전-34] 고유가 시대, 에너지 기업 투자전략 #XLE #XOM #CVX #SHEL #TTE
+   - Ct0Wcpqgs40 | ongoing=False | publishedAt=2026-10-16T00:08:36Z | actualEndTime=2026-10-16T00:05:39Z | effective=2026-10-16 00:05:39+00:00 | [미국마감&아침시황] 바닥이다? 더 빠진다? 그런거 모르겠고 매수 드갑니다!!ㅣ#261016
    - s3GZK3SX38w | ongoing=False | publishedAt=2026-10-15T03:00:10Z | actualEndTime=None | effective=2026-10-15 03:00:10+00:00 | [미국주식 백과사전-33] 격해지는 이란 전쟁, 중동 전쟁 수혜 기업은? #LMT #HWM #GD #NOC 
    - pyHV2NooSsY | ongoing=False | publishedAt=2026-10-15T00:39:04Z | actualEndTime=2026-10-15T00:33:19Z | effective=2026-10-15 00:33:19+00:00 | [미국마감&아침시황] 심각한 호르무즈, 수상한 연준, 반도체 패닉셀...ㅣ앤트로픽 실적, 좋은거야? 나쁜거야
-   - l2P5EgwcyJk | ongoing=False | publishedAt=2026-10-14T03:00:12Z | actualEndTime=None | effective=2026-10-14 03:00:12+00:00 | [미국주식 백과사전-32] 피해야할 주식? 지금은 괜찮아진 주식?? #GE #RTX #BA
-   - qAuSow2UQ3Q | ongoing=False | publishedAt=2026-10-14T00:04:38Z | actualEndTime=2026-10-14T00:01:56Z | effective=2026-10-14 00:01:56+00:00 | [미국마감&아침시황] 반도체 반등 하고 있습니다!! 두려워하지 맙시다!!ㅣ근데, 중동상황은 좀 심각하긴 해.
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 코스피 6000도 깨버린 3가지 이유 #코스피 #코어위브 #앤트로픽
-  URL: https://www.youtube.com/watch?v=3RI0N4H66sY
-  publishedAt: 2026-10-15T00:18:33Z
+  제목: 코스피 반등 시작하나?
+  URL: https://www.youtube.com/watch?v=6Qd_w8GyLp4
+  publishedAt: 2026-10-15T17:38:19Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 6Qd_w8GyLp4 | ongoing=False | publishedAt=2026-10-15T17:38:19Z | actualEndTime=None | effective=2026-10-15 17:38:19+00:00 | 코스피 반등 시작하나?
    - 3RI0N4H66sY | ongoing=False | publishedAt=2026-10-15T00:18:33Z | actualEndTime=None | effective=2026-10-15 00:18:33+00:00 | 코스피 6000도 깨버린 3가지 이유 #코스피 #코어위브 #앤트로픽
    - gLcwg1PGbcg | ongoing=False | publishedAt=2026-10-14T06:49:54Z | actualEndTime=None | effective=2026-10-14 06:49:54+00:00 | 코스피 장막판에 다시 떨어진 이유 #코스피 #ASML #하이닉스
-   - hzomN7wiW_8 | ongoing=False | publishedAt=2026-10-13T12:23:23Z | actualEndTime=None | effective=2026-10-13 12:23:23+00:00 | 코스피가 무너진 근본적인 이유 (CXMT 아님)
-   - YfnyQJ5FTOA | ongoing=False | publishedAt=2026-10-13T05:36:14Z | actualEndTime=None | effective=2026-10-13 05:36:14+00:00 | 코스피 역대급 대폭락의 3가지 이유 #코스피 #CXMT #삼성전자
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - PrEHp2DoRVU | ongoing=False | publishedAt=2026-10-14T11:39:44Z | actualEndTime=None | effective=2026-10-14 11:39:44+00:00 | 금리 5.5%가 증시 충격 마지노선? 월가 초고수들의 경고, 대비해야 할까
-   - _LOD9GYd1Qk | ongoing=False | publishedAt=2026-10-13T11:11:49Z | actualEndTime=None | effective=2026-10-13 11:11:49+00:00 | 스페이스X의 반격 시작? 머스크의 호언장담 현실 될까
