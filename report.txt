@@ -1,83 +1,66 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-17 14:11 (KST)
-Run: 304 (id=39005345510)
+생성 시각: 2026-10-18 14:16 (KST)
+Run: 305 (id=39099959333)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: Odd Lots: How OpenAI’s Rogue Model Hacked Hugging Face
-  URL: https://www.youtube.com/watch?v=MG9lI90aVWo
-  publishedAt: 2026-10-17T04:00:37Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - MG9lI90aVWo | ongoing=False | publishedAt=2026-10-17T04:00:37Z | actualEndTime=None | effective=2026-10-17 04:00:37+00:00 | Odd Lots: How OpenAI’s Rogue Model Hacked Hugging Face
-   - UWoZdpywe_U | ongoing=False | publishedAt=2026-10-17T04:00:25Z | actualEndTime=None | effective=2026-10-17 04:00:25+00:00 | The Deal: Olympian Gabby Thomas On Building Track League
-   - F7_91lcOgVE | ongoing=False | publishedAt=2026-10-17T04:00:15Z | actualEndTime=None | effective=2026-10-17 04:00:15+00:00 | Tesla, Xpeng Showcase Autonomous Cars in Paris
-   - TzFWMHHPrjA | ongoing=False | publishedAt=2026-10-17T00:00:17Z | actualEndTime=None | effective=2026-10-17 00:00:17+00:00 | Cockroach Party Leader Detained Before Delhi Protest
-   - vPwqqbFUfJI | ongoing=False | publishedAt=2026-10-16T23:21:35Z | actualEndTime=None | effective=2026-10-16 23:21:35+00:00 | Trump Says There's Zero Chance of Replacing Susie Wiles
-   - mfGf-cTEERI | ongoing=False | publishedAt=2026-10-16T23:00:11Z | actualEndTime=None | effective=2026-10-16 23:00:11+00:00 | Wall Street Week | America’s Relationship Woes, Battery Pivo
-   - vZc_zhO43R8 | ongoing=False | publishedAt=2026-10-16T22:34:12Z | actualEndTime=None | effective=2026-10-16 22:34:12+00:00 | Scudder: Texas Democrats Are More Organized Than in 2018
-   - W3hT2UE8F_A | ongoing=False | publishedAt=2026-10-16T22:25:50Z | actualEndTime=None | effective=2026-10-16 22:25:50+00:00 | Clark Calls for Lower Tariffs, More Legal Immigration
-   - OpLogWNjk6w | ongoing=False | publishedAt=2026-10-16T22:20:38Z | actualEndTime=None | effective=2026-10-16 22:20:38+00:00 | Mulvaney Says Katie Zacharia Was Set Up to Fail
-   - vgyc2Au0dbA | ongoing=False | publishedAt=2026-10-16T21:57:19Z | actualEndTime=None | effective=2026-10-16 21:57:19+00:00 | AI Selloff, Oil & Treasury Yields Pressure Markets
+   - zoqBvldIoQk | ongoing=False | publishedAt=2026-10-17T16:32:01Z | actualEndTime=None | effective=2026-10-17 16:32:01+00:00 | AI Debt Concerns, Russia Sanctions Waived, Making 'GTA VI'
+   - sGiLuwJErTo | ongoing=False | publishedAt=2026-10-17T14:37:48Z | actualEndTime=None | effective=2026-10-17 14:37:48+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - PNTnVNa69cI | ongoing=False | publishedAt=2026-10-17T14:00:10Z | actualEndTime=None | effective=2026-10-17 14:00:10+00:00 | The Inflation Warning Coming From America’s Farms
+   - uG8rz3ot2Dk | ongoing=False | publishedAt=2026-10-17T14:01:29Z | actualEndTime=None | effective=2026-10-17 14:01:29+00:00 | Northwell CEO Says Health Care Model Must Change
+   - g4PPOI6zcaI | ongoing=False | publishedAt=2026-10-17T13:43:09Z | actualEndTime=None | effective=2026-10-17 13:43:09+00:00 | Freeland Warns US Alliances Are Fraying
+   - rgkbxeFMpEo | ongoing=False | publishedAt=2026-10-17T13:19:31Z | actualEndTime=None | effective=2026-10-17 13:19:31+00:00 | Sports Fashion Finds a Growing Female Audience
+   - IwwsTx0xNX0 | ongoing=False | publishedAt=2026-10-17T13:04:22Z | actualEndTime=None | effective=2026-10-17 13:04:22+00:00 | AI Selloff Tests Investor Confidence
+   - PxH2L5Q9kA4 | ongoing=False | publishedAt=2026-10-17T12:54:02Z | actualEndTime=None | effective=2026-10-17 12:54:02+00:00 | By The Way: Headlines You May Have Missed
+   - 7USWA_U1kSg | ongoing=False | publishedAt=2026-10-17T12:42:22Z | actualEndTime=None | effective=2026-10-17 12:42:22+00:00 | Global Aid Cuts Deepen Humanitarian Strain
+   - f4pm77GjtsI | ongoing=False | publishedAt=2026-10-17T12:14:53Z | actualEndTime=None | effective=2026-10-17 12:14:53+00:00 | Rockstar Rebuilt Itself to Make GTA VI
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Why The Market Being Down Is Actually GOOD For America! 🦅
-  URL: https://www.youtube.com/watch?v=AsWlaGLUxKY
-  publishedAt: 2026-10-17T01:00:20Z
+  제목: Why The S&P Being All Time High Is BAD! 🤯
+  URL: https://www.youtube.com/watch?v=UG-lpBXGgHM
+  publishedAt: 2026-10-18T01:00:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UG-lpBXGgHM | ongoing=False | publishedAt=2026-10-18T01:00:32Z | actualEndTime=None | effective=2026-10-18 01:00:32+00:00 | Why The S&P Being All Time High Is BAD! 🤯
+   - Li7nv0yCyD0 | ongoing=False | publishedAt=2026-10-17T19:00:04Z | actualEndTime=None | effective=2026-10-17 19:00:04+00:00 | Why Is Starbucks Trying To BUY Chipotle   😭
+   - 4cHxN5i0-ZE | ongoing=False | publishedAt=2026-10-17T17:47:06Z | actualEndTime=None | effective=2026-10-17 17:47:06+00:00 | The Collapse is Starting: Is this the Black Swan?
+   - PNVG2lN3_hI | ongoing=False | publishedAt=2026-10-17T13:00:05Z | actualEndTime=None | effective=2026-10-17 13:00:05+00:00 | Why Meta Muse Is Going VIRAL
+   - _qjbXESwB3w | ongoing=False | publishedAt=2026-10-17T07:00:31Z | actualEndTime=None | effective=2026-10-17 07:00:31+00:00 | Elon Musk Just FLAMED This Company 😭
    - AsWlaGLUxKY | ongoing=False | publishedAt=2026-10-17T01:00:20Z | actualEndTime=None | effective=2026-10-17 01:00:20+00:00 | Why The Market Being Down Is Actually GOOD For America! 🦅
    - _K-t9h6VrEU | ongoing=False | publishedAt=2026-10-17T00:19:54Z | actualEndTime=None | effective=2026-10-17 00:19:54+00:00 | Prepare: Gold Prices are Set to Skyrocket on THIS DATE.
    - Yj24QTdKhJ0 | ongoing=False | publishedAt=2026-10-16T17:57:28Z | actualEndTime=None | effective=2026-10-16 17:57:28+00:00 | Apple JUST Suffered a "NATIONWIDE" Failure.
    - G5vZo6ZH8uo | ongoing=False | publishedAt=2026-10-16T16:54:20Z | actualEndTime=2026-10-16T15:17:22Z | effective=2026-10-16 15:17:22+00:00 | Selling Continues.. Stocks, Bonds, Oil, Geopolitics... the E
    - W3pmAjJmX1A | ongoing=False | publishedAt=2026-10-16T15:27:49Z | actualEndTime=None | effective=2026-10-16 15:27:49+00:00 | Elon Musk & Republicans are Freaking Out.
-   - r0m6zs83Eo0 | ongoing=False | publishedAt=2026-10-16T04:54:52Z | actualEndTime=None | effective=2026-10-16 04:54:52+00:00 | Kevin Warsh *JUST* Bailed out the Stock Market HIMSELF
-   - yygH0lmDD_Q | ongoing=False | publishedAt=2026-10-16T02:10:39Z | actualEndTime=2026-10-16T01:53:56Z | effective=2026-10-16 01:53:56+00:00 | The Tesla Roadster Event LIVE w/ Meet Kevin [Elon Musk Revea
-   - 9c6v-yLww5w | ongoing=False | publishedAt=2026-10-16T02:04:49Z | actualEndTime=None | effective=2026-10-16 02:04:49+00:00 | Holy Sh*t Elon Musk's Roadster Reveal [Tesla SpaceX Stock]
-   - CwFrrSxLX_Y | ongoing=False | publishedAt=2026-10-15T16:02:48Z | actualEndTime=2026-10-15T13:10:42Z | effective=2026-10-15 13:10:42+00:00 | *The Critical Release of the PPI & Retail Sales Report* FED 
-   - C358wmTbV3I | ongoing=False | publishedAt=2026-10-15T13:18:11Z | actualEndTime=None | effective=2026-10-15 13:18:11+00:00 | Is the Recession Beginning?!?!?!
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】 반도체 8연속 하락·코어위브 급락, AI 트레이드 흔들리나  -  2026/10/16
-  URL: https://www.youtube.com/watch?v=EIw44-rw7Cw
-  publishedAt: 2026-10-16T22:40:12Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - EIw44-rw7Cw | ongoing=False | publishedAt=2026-10-16T22:40:12Z | actualEndTime=None | effective=2026-10-16 22:40:12+00:00 | 【미국 증시 오늘의 요약】 반도체 8연속 하락·코어위브 급락, AI 트레이드 흔들리나  -  2026/10/
    - OsqH1F_BL1I | ongoing=False | publishedAt=2026-10-16T21:42:06Z | actualEndTime=2026-10-16T21:22:28Z | effective=2026-10-16 21:22:28+00:00 | [26년 10월 16일 금]  10월 금리 동결 기대 확대 ｜ 대만, 중국향 AI 반도체 수출 통제 강화 ｜
-   - uyHYbpsI-dQ | ongoing=False | publishedAt=2026-10-16T04:10:39Z | actualEndTime=2026-10-16T04:07:34Z | effective=2026-10-16 04:07:34+00:00 | [특별 방송]  '케빈 워시' 연준의장 연설  ｜ -  오선의 미국 증시 라이브
-   - 9kj0j40LGek | ongoing=False | publishedAt=2026-10-15T22:12:18Z | actualEndTime=None | effective=2026-10-15 22:12:18+00:00 | 【미국 증시 오늘의 요약】 장중 -1.4% 나스닥의 극적 반등! AI 부채 우려 잠재운 젠슨 황의 한마디 -
-   - BAAUnEvqWes | ongoing=False | publishedAt=2026-10-15T21:50:44Z | actualEndTime=2026-10-15T21:29:23Z | effective=2026-10-15 21:29:23+00:00 | [26년 10월 15일 목]  생산자물가지수, 소매판매 ｜ 앤트로픽, 3분기 매출 168억 달러 ｜ TSMC
-   - apAu1GQqdUc | ongoing=False | publishedAt=2026-10-15T07:11:49Z | actualEndTime=2026-10-15T07:08:21Z | effective=2026-10-15 07:08:21+00:00 | [특별 방송]  TSMC - 실적발표/어닝콜 ｜ -  오선의 미국 증시 라이브
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 테슬라 로드스터는 '자동차'가 아닌 '드론(UAM)' 입니다...?
-  URL: https://www.youtube.com/watch?v=a5jEvp2xlZk
-  publishedAt: 2026-10-16T23:00:03Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - RhNRRCzFCFY | ongoing=False | publishedAt=2026-10-17T06:00:06Z | actualEndTime=None | effective=2026-10-17 06:00:06+00:00 | 쫄리면 매도하세요 ㅋㅋㅋㅋㅋㅋ 더사요~♥ 퍼가요~♥ 고마워요~♥
    - a5jEvp2xlZk | ongoing=False | publishedAt=2026-10-16T23:00:03Z | actualEndTime=None | effective=2026-10-16 23:00:03+00:00 | 테슬라 로드스터는 '자동차'가 아닌 '드론(UAM)' 입니다...?
    - NF5yZvrIIvw | ongoing=False | publishedAt=2026-10-16T06:03:04Z | actualEndTime=None | effective=2026-10-16 06:03:04+00:00 | 국장이냐, 미장이냐? 그것이 문제로다!
-   - UFAowg8Fhwk | ongoing=False | publishedAt=2026-10-16T03:00:14Z | actualEndTime=None | effective=2026-10-16 03:00:14+00:00 | [미국주식 백과사전-34] 고유가 시대, 에너지 기업 투자전략 #XLE #XOM #CVX #SHEL #TTE
-   - Ct0Wcpqgs40 | ongoing=False | publishedAt=2026-10-16T00:08:36Z | actualEndTime=2026-10-16T00:05:39Z | effective=2026-10-16 00:05:39+00:00 | [미국마감&아침시황] 바닥이다? 더 빠진다? 그런거 모르겠고 매수 드갑니다!!ㅣ#261016
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: AI 주식들은 이제 끝?
-  URL: https://www.youtube.com/watch?v=CviFrBH_K2M
-  publishedAt: 2026-10-16T17:52:47Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - NhSEP0KFais | ongoing=False | publishedAt=2026-10-17T06:42:21Z | actualEndTime=None | effective=2026-10-17 06:42:21+00:00 | 또 다른 AI 펀드 청산? 코어위브 위기 전염? AI 주식 최악의 시나리오로 가나?
    - CviFrBH_K2M | ongoing=False | publishedAt=2026-10-16T17:52:47Z | actualEndTime=None | effective=2026-10-16 17:52:47+00:00 | AI 주식들은 이제 끝?
    - TIwhuO72AFU | ongoing=False | publishedAt=2026-10-16T06:25:14Z | actualEndTime=None | effective=2026-10-16 06:25:14+00:00 | 코스피 대반등 오늘부터 시작? #코스피 #하이닉스 #코어위브
-   - 6Qd_w8GyLp4 | ongoing=False | publishedAt=2026-10-15T17:38:19Z | actualEndTime=None | effective=2026-10-15 17:38:19+00:00 | 코스피 반등 시작하나?
 
 - 소수몽키
   상태: NO_VIDEO
