@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-19 14:29 (KST)
-Run: 306 (id=39204824067)
+생성 시각: 2026-10-20 14:33 (KST)
+Run: 307 (id=39375491217)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,61 +8,64 @@ Run: 306 (id=39204824067)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: China's Growth Rebounds While Home-Price Slump Eases
-  URL: https://www.youtube.com/watch?v=SAi_44z3Loo
-  publishedAt: 2026-10-19T05:17:28Z
+  제목: US Tightens Federal Access to DeepSeek
+  URL: https://www.youtube.com/watch?v=eJfKPH6mNDo
+  publishedAt: 2026-10-20T05:00:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - SAi_44z3Loo | ongoing=False | publishedAt=2026-10-19T05:17:28Z | actualEndTime=None | effective=2026-10-19 05:17:28+00:00 | China's Growth Rebounds While Home-Price Slump Eases
-   - 2RHG1uM5TI8 | ongoing=False | publishedAt=2026-10-19T05:18:37Z | actualEndTime=None | effective=2026-10-19 05:18:37+00:00 | AI Will Empower India's Space Missions, Says Minister
-   - zWOfDQopu3s | ongoing=False | publishedAt=2026-10-19T04:22:30Z | actualEndTime=None | effective=2026-10-19 04:22:30+00:00 | Asian Chip Stocks Extend Losses
-   - vx0j3I7jPcI | ongoing=False | publishedAt=2026-10-18T16:18:24Z | actualEndTime=None | effective=2026-10-18 16:18:24+00:00 | Riots in France, US Ukraine Disagree on Starshield, Watching
-   - Y5M8Gs7AS7I | ongoing=False | publishedAt=2026-10-18T15:19:14Z | actualEndTime=None | effective=2026-10-18 15:19:14+00:00 | Bookmarked: News Stories On Our Reading List
-   - hyDmuq7guqc | ongoing=False | publishedAt=2026-10-18T15:04:10Z | actualEndTime=None | effective=2026-10-18 15:04:10+00:00 | Inside Andreessen’s Growing Political Influence
-   - q--shB_2V2k | ongoing=False | publishedAt=2026-10-18T14:36:08Z | actualEndTime=None | effective=2026-10-18 14:36:08+00:00 | Senate Control Moves Toward a Toss-Up
-   - EqvkKSaE1X0 | ongoing=False | publishedAt=2026-10-18T14:21:24Z | actualEndTime=None | effective=2026-10-18 14:21:24+00:00 | Rep. Veasey Calls for Scrutiny of Trump Russia Ties
-   - oKchaDHk3_Q | ongoing=False | publishedAt=2026-10-18T14:10:17Z | actualEndTime=None | effective=2026-10-18 14:10:17+00:00 | Chicago Tops Travelers’ Favorite US Cities
-   - m9VblmOgeMc | ongoing=False | publishedAt=2026-10-18T14:00:09Z | actualEndTime=None | effective=2026-10-18 14:00:09+00:00 | Can America Rebuild Trust With Its Allies?
+   - eJfKPH6mNDo | ongoing=False | publishedAt=2026-10-20T05:00:46Z | actualEndTime=None | effective=2026-10-20 05:00:46+00:00 | US Tightens Federal Access to DeepSeek
+   - wO7jodKJAkw | ongoing=False | publishedAt=2026-10-20T04:28:01Z | actualEndTime=None | effective=2026-10-20 04:28:01+00:00 | Traders on Edge as AI Jitters Continue
+   - tfO8n6jIBrE | ongoing=False | publishedAt=2026-10-20T03:54:41Z | actualEndTime=None | effective=2026-10-20 03:54:41+00:00 | Australia's Gender Pay Gap Could Persist for Decades
+   - 41CWwtFQ_no | ongoing=False | publishedAt=2026-10-19T23:51:56Z | actualEndTime=None | effective=2026-10-19 23:51:56+00:00 | Trump Open to Putin-Xi Talks Without Zelenskyy, Early Voting
+   - 2qrX2aFebG0 | ongoing=False | publishedAt=2026-10-19T23:11:31Z | actualEndTime=None | effective=2026-10-19 23:11:31+00:00 | Harman: US Foreign Policy in 'Freefall'
+   - AnyfiwRNra0 | ongoing=False | publishedAt=2026-10-19T22:16:48Z | actualEndTime=None | effective=2026-10-19 22:16:48+00:00 | Zelenskyy Says Trump Is Pushing Ukraine to Yield
+   - 3AR5dskKi98 | ongoing=False | publishedAt=2026-10-19T22:12:50Z | actualEndTime=None | effective=2026-10-19 22:12:50+00:00 | Tech Stocks Rebound as Investors Reassess the AI Trade
+   - DBAIqz7s2-Y | ongoing=False | publishedAt=2026-10-19T21:50:33Z | actualEndTime=None | effective=2026-10-19 21:50:33+00:00 | Big Tech Earnings Could Validate AI, Ives Says
+   - gX_hyq8CB8Q | ongoing=False | publishedAt=2026-10-19T21:40:05Z | actualEndTime=None | effective=2026-10-19 21:40:05+00:00 | Retailers Will Struggle During Earnings Season, Says Meredit
+   - bNsolDIUZ-o | ongoing=False | publishedAt=2026-10-19T21:13:47Z | actualEndTime=None | effective=2026-10-19 21:13:47+00:00 | Elon Musk Will Give SpaceX Shares to ‘Every Kid in America’
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: What USA Actually Wants From Iran!
-  URL: https://www.youtube.com/watch?v=VteqFf6IlwI
-  publishedAt: 2026-10-19T01:00:20Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - -1M9rsHUVFI | ongoing=False | publishedAt=2026-10-19T17:18:58Z | actualEndTime=2026-10-19T15:14:28Z | effective=2026-10-19 15:14:28+00:00 | Chip Stocks, AI, Fed, Iran, SpaceX
+   - 4DrkLyosnvk | ongoing=False | publishedAt=2026-10-19T15:28:43Z | actualEndTime=None | effective=2026-10-19 15:28:43+00:00 | The UNTHINKABLE is About to Happen to the Stock Market
+   - 60x34IYK2XM | ongoing=False | publishedAt=2026-10-19T07:00:36Z | actualEndTime=None | effective=2026-10-19 07:00:36+00:00 | Elon Musk Asked For A $80 BILLION Dollar Loan!
    - VteqFf6IlwI | ongoing=False | publishedAt=2026-10-19T01:00:20Z | actualEndTime=None | effective=2026-10-19 01:00:20+00:00 | What USA Actually Wants From Iran!
    - 3zPdeGN0aq8 | ongoing=False | publishedAt=2026-10-18T19:00:16Z | actualEndTime=None | effective=2026-10-18 19:00:16+00:00 | The Best Tax HACK Billionaires Don't Want You To Know! 🤫
    - SnHWQ4iW6o8 | ongoing=False | publishedAt=2026-10-18T13:00:18Z | actualEndTime=None | effective=2026-10-18 13:00:18+00:00 | Why Is The Stock Market So HIGH Right Now
    - _WtrM1Q7IY8 | ongoing=False | publishedAt=2026-10-18T07:00:18Z | actualEndTime=None | effective=2026-10-18 07:00:18+00:00 | 50% Of Americans Own 0 06% Of The Stock Market
-   - UG-lpBXGgHM | ongoing=False | publishedAt=2026-10-18T01:00:32Z | actualEndTime=None | effective=2026-10-18 01:00:32+00:00 | Why The S&P Being All Time High Is BAD! 🤯
-   - Li7nv0yCyD0 | ongoing=False | publishedAt=2026-10-17T19:00:04Z | actualEndTime=None | effective=2026-10-17 19:00:04+00:00 | Why Is Starbucks Trying To BUY Chipotle   😭
-   - 4cHxN5i0-ZE | ongoing=False | publishedAt=2026-10-17T17:47:06Z | actualEndTime=None | effective=2026-10-17 17:47:06+00:00 | The Collapse is Starting: Is this the Black Swan?
-   - PNVG2lN3_hI | ongoing=False | publishedAt=2026-10-17T13:00:05Z | actualEndTime=None | effective=2026-10-17 13:00:05+00:00 | Why Meta Muse Is Going VIRAL
-   - _qjbXESwB3w | ongoing=False | publishedAt=2026-10-17T07:00:31Z | actualEndTime=None | effective=2026-10-17 07:00:31+00:00 | Elon Musk Just FLAMED This Company 😭
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 나스닥 반등! 반도체주 8거래일 만에 상승…AI 불안 끝났나?   -  2026/10/19
+  URL: https://www.youtube.com/watch?v=ausfLI1B_nc
+  publishedAt: 2026-10-19T21:55:02Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - ausfLI1B_nc | ongoing=False | publishedAt=2026-10-19T21:55:02Z | actualEndTime=None | effective=2026-10-19 21:55:02+00:00 | 【미국 증시 오늘의 요약】 나스닥 반등! 반도체주 8거래일 만에 상승…AI 불안 끝났나?   -  2026/
+   - BeeIcWciVI0 | ongoing=False | publishedAt=2026-10-19T21:32:48Z | actualEndTime=2026-10-19T21:11:50Z | effective=2026-10-19 21:11:50+00:00 | [26년 10월 19일 월]  반도체주 8거래일 연속 하락세 마감 ｜ 이번 주 실적 발표에 관심 집중 ｜ 프
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-35] 시추? 정유? 미드스트림? E&P? E&S? 하나씩 정리해봅시다 #ENB #WMB #COP #CNQ #MPC #VLO #SLB #BKR
-  URL: https://www.youtube.com/watch?v=poOVCvzKXKY
-  publishedAt: 2026-10-19T02:59:51Z
+  제목: [미국마감&아침시황] 도대체 주식시장은 언제까지 흔들릴까?ㅣ#261020
+  URL: https://www.youtube.com/watch?v=QuJmwDaXHQA
+  publishedAt: 2026-10-20T00:18:11Z
+  actualEndTime: 2026-10-20T00:14:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QuJmwDaXHQA | ongoing=False | publishedAt=2026-10-20T00:18:11Z | actualEndTime=2026-10-20T00:14:58Z | effective=2026-10-20 00:14:58+00:00 | [미국마감&아침시황] 도대체 주식시장은 언제까지 흔들릴까?ㅣ#261020
    - poOVCvzKXKY | ongoing=False | publishedAt=2026-10-19T02:59:51Z | actualEndTime=None | effective=2026-10-19 02:59:51+00:00 | [미국주식 백과사전-35] 시추? 정유? 미드스트림? E&P? E&S? 하나씩 정리해봅시다 #ENB #WMB
    - aLmw41tc4Rw | ongoing=False | publishedAt=2026-10-19T00:30:48Z | actualEndTime=2026-10-19T00:28:02Z | effective=2026-10-19 00:28:02+00:00 | [미국마감&아침시황] 반대매매 언제까지 터질까...?ㅣ이번주 주요 이슈는?ㅣ#261019
-   - tGT1lrCPaU0 | ongoing=False | publishedAt=2026-10-18T03:00:25Z | actualEndTime=None | effective=2026-10-18 03:00:25+00:00 | 올라갈 것 같으면 떨어지고, 폭락할 것 같으면 올라가는 이유
-   - RhNRRCzFCFY | ongoing=False | publishedAt=2026-10-17T06:00:06Z | actualEndTime=None | effective=2026-10-17 06:00:06+00:00 | 쫄리면 매도하세요 ㅋㅋㅋㅋㅋㅋ 더사요~♥ 퍼가요~♥ 고마워요~♥
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - NhSEP0KFais | ongoing=False | publishedAt=2026-10-17T06:42:21Z | actualEndTime=None | effective=2026-10-17 06:42:21+00:00 | 또 다른 AI 펀드 청산? 코어위브 위기 전염? AI 주식 최악의 시나리오로 가나?
+   - wSmkhWHEYNM | ongoing=False | publishedAt=2026-10-19T17:31:14Z | actualEndTime=None | effective=2026-10-19 17:31:14+00:00 | 나스닥 상승의 진짜 이유
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - quJTDt4JGpU | ongoing=False | publishedAt=2026-10-19T11:01:11Z | actualEndTime=None | effective=2026-10-19 11:01:11+00:00 | AI인프라 약한 고리 결국 터진다? 극단적 공포 진입, 이번에도 기회일까
