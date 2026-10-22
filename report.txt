@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-21 14:33 (KST)
-Run: 308 (id=39550156000)
+생성 시각: 2026-10-22 14:36 (KST)
+Run: 309 (id=39729005317)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,74 +8,73 @@ Run: 308 (id=39550156000)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: SpaceX 3Q Earnings Beat, SpaceX and Tesla Discuss Potential Merger
-  URL: https://www.youtube.com/watch?v=bng_OYfZkNE
-  publishedAt: 2026-10-21T04:49:57Z
+  제목: US Orders Some Diplomats to Leave Saudi Arabia
+  URL: https://www.youtube.com/watch?v=A36OonNwTsg
+  publishedAt: 2026-10-22T05:17:57Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - bng_OYfZkNE | ongoing=False | publishedAt=2026-10-21T04:49:57Z | actualEndTime=None | effective=2026-10-21 04:49:57+00:00 | SpaceX 3Q Earnings Beat, SpaceX and Tesla Discuss Potential 
-   - VQfD72IBymI | ongoing=False | publishedAt=2026-10-21T02:17:30Z | actualEndTime=None | effective=2026-10-21 02:17:30+00:00 | Big Take: CoreWeave And The Fragile AI Economy
-   - HpPFyujFnFc | ongoing=False | publishedAt=2026-10-20T23:38:28Z | actualEndTime=None | effective=2026-10-20 23:38:28+00:00 | Ken Griffin on finding common ground across party lines
-   - mV1V0FXixDE | ongoing=False | publishedAt=2026-10-20T22:43:16Z | actualEndTime=None | effective=2026-10-20 22:43:16+00:00 | Ken Griffin on AI, Midterm Elections and Fiscal Policy
-   - V_R1IXRTKWA | ongoing=False | publishedAt=2026-10-20T22:29:59Z | actualEndTime=None | effective=2026-10-20 22:29:59+00:00 | Netflix Growth Slows as Streaming Competition Intensifies
-   - eGeRp2enS9E | ongoing=False | publishedAt=2026-10-20T22:15:48Z | actualEndTime=None | effective=2026-10-20 22:15:48+00:00 | Citadel's Griffin Says US Has to 'Grow the Damn Economy'
-   - xZL4nUZJFis | ongoing=False | publishedAt=2026-10-20T21:49:32Z | actualEndTime=None | effective=2026-10-20 21:49:32+00:00 | GM Slides as CEO Barra Warns of ‘Intensifying’ Challenges
-   - ubSzSCDBgGg | ongoing=False | publishedAt=2026-10-20T21:48:47Z | actualEndTime=None | effective=2026-10-20 21:48:47+00:00 | Wall Street's AI Debt Fears Deepen
-   - 4WE0jaDsEns | ongoing=False | publishedAt=2026-10-20T21:48:41Z | actualEndTime=None | effective=2026-10-20 21:48:41+00:00 | AI Neoclouds Lose Their Shine, Stalling IPOs and Sinking Sto
-   - m2cJzy-gqmY | ongoing=False | publishedAt=2026-10-20T21:28:30Z | actualEndTime=None | effective=2026-10-20 21:28:30+00:00 | Midterm Politics Played Into Clarity Failure: Rettig
+   - A36OonNwTsg | ongoing=False | publishedAt=2026-10-22T05:17:57Z | actualEndTime=None | effective=2026-10-22 05:17:57+00:00 | US Orders Some Diplomats to Leave Saudi Arabia
+   - wXVdlO3npqw | ongoing=False | publishedAt=2026-10-21T23:26:10Z | actualEndTime=None | effective=2026-10-21 23:26:10+00:00 | Putin Releases Hostage, Earns US Praise as Humanitarian
+   - lloJiNAPZdQ | ongoing=False | publishedAt=2026-10-21T22:47:43Z | actualEndTime=None | effective=2026-10-21 22:47:43+00:00 | Rep. Kamlager-Dove Says She Would Back Hegseth Impeachment
+   - 8HilONcPxZ4 | ongoing=False | publishedAt=2026-10-21T22:42:17Z | actualEndTime=None | effective=2026-10-21 22:42:17+00:00 | Gilmore: US Has Made a ‘180 Degree’ Shift on Ukraine
+   - -pNlUhBs1Yk | ongoing=False | publishedAt=2026-10-21T22:35:21Z | actualEndTime=None | effective=2026-10-21 22:35:21+00:00 | El-Sayed's Final Test in Michigan Is Here
+   - T8brA63WlgU | ongoing=False | publishedAt=2026-10-21T22:01:31Z | actualEndTime=None | effective=2026-10-21 22:01:31+00:00 | Tesla, IBM & Meta Report Earnings as AI Takes Center Stage
+   - 5E73Lwf1f7s | ongoing=False | publishedAt=2026-10-21T21:13:20Z | actualEndTime=None | effective=2026-10-21 21:13:20+00:00 | UK Will Send Air Force Jets to Defend Saudi Arabia
+   - QiRBaSExqOY | ongoing=False | publishedAt=2026-10-21T21:14:03Z | actualEndTime=None | effective=2026-10-21 21:14:03+00:00 | SpaceX and Tesla Will Combine, Steve Westly Predicts
+   - bbBaJCFyLs0 | ongoing=False | publishedAt=2026-10-21T21:13:52Z | actualEndTime=None | effective=2026-10-21 21:13:52+00:00 | Elice CEO Shrugs Off Choppy IPO, Eyes Revenue Boost
+   - 093sWJwRbSg | ongoing=False | publishedAt=2026-10-21T21:10:40Z | actualEndTime=None | effective=2026-10-21 21:10:40+00:00 | Rubio Says Ukraine Wouldn’t Exist Without US Support
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: holy sh*t spaceX stock
-  URL: https://www.youtube.com/watch?v=Jeg_bWQzWLk
-  publishedAt: 2026-10-20T23:16:56Z
+  제목: holy moly META stock!
+  URL: https://www.youtube.com/watch?v=Grzu1RJig3w
+  publishedAt: 2026-10-22T04:47:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Grzu1RJig3w | ongoing=False | publishedAt=2026-10-22T04:47:36Z | actualEndTime=None | effective=2026-10-22 04:47:36+00:00 | holy moly META stock!
+   - Z7yiACIzx0c | ongoing=False | publishedAt=2026-10-21T23:54:57Z | actualEndTime=2026-10-21T23:20:12Z | effective=2026-10-21 23:20:12+00:00 | Tesla & Meta Stock EARNINGS Live!
+   - DT2hYrVSeZE | ongoing=False | publishedAt=2026-10-21T23:38:16Z | actualEndTime=None | effective=2026-10-21 23:38:16+00:00 | wtf Tesla Earnings [Full Breakdown]
+   - WLq7cdrpZTM | ongoing=False | publishedAt=2026-10-21T18:42:49Z | actualEndTime=2026-10-21T15:55:34Z | effective=2026-10-21 15:55:34+00:00 | Post SPCX Earnings | Iran, Tesla, Rates, AI Chips
+   - mc02XlcQmWA | ongoing=False | publishedAt=2026-10-21T16:51:54Z | actualEndTime=None | effective=2026-10-21 16:51:54+00:00 | Even I’m Getting Nervous
    - Jeg_bWQzWLk | ongoing=False | publishedAt=2026-10-20T23:16:56Z | actualEndTime=None | effective=2026-10-20 23:16:56+00:00 | holy sh*t spaceX stock
    - YWko9ktMKgA | ongoing=False | publishedAt=2026-10-20T21:26:46Z | actualEndTime=None | effective=2026-10-20 21:26:46+00:00 | The NEXT Frontier: THESE 3 Stocks Boom
    - kV3MsBAh79Y | ongoing=False | publishedAt=2026-10-20T17:15:04Z | actualEndTime=2026-10-20T16:14:17Z | effective=2026-10-20 16:14:17+00:00 | The Pain Returns... ALREADY AI, Fed, Iran, SpaceX
    - 3tSopkKTPFk | ongoing=False | publishedAt=2026-10-20T15:15:58Z | actualEndTime=None | effective=2026-10-20 15:15:58+00:00 | Holy Iran
-   - -1M9rsHUVFI | ongoing=False | publishedAt=2026-10-19T17:18:58Z | actualEndTime=2026-10-19T15:14:28Z | effective=2026-10-19 15:14:28+00:00 | Chip Stocks, AI, Fed, Iran, SpaceX
-   - 4DrkLyosnvk | ongoing=False | publishedAt=2026-10-19T15:28:43Z | actualEndTime=None | effective=2026-10-19 15:28:43+00:00 | The UNTHINKABLE is About to Happen to the Stock Market
-   - 60x34IYK2XM | ongoing=False | publishedAt=2026-10-19T07:00:36Z | actualEndTime=None | effective=2026-10-19 07:00:36+00:00 | Elon Musk Asked For A $80 BILLION Dollar Loan!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  스페이스X AI 매출 9배 폭증! 머스크 "연 매출 1조 달러 간다"  -  2026/10/20
-  URL: https://www.youtube.com/watch?v=6Mt87EaZewQ
-  publishedAt: 2026-10-20T22:20:29Z
+  제목: 【미국 증시 오늘의 요약】  AI 투자 우려는 끝났나? 스페이스X·슈퍼마이크로 깜짝 실적  -  2026/10/21
+  URL: https://www.youtube.com/watch?v=JXM5LHwISVg
+  publishedAt: 2026-10-21T23:06:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - JXM5LHwISVg | ongoing=False | publishedAt=2026-10-21T23:06:05Z | actualEndTime=None | effective=2026-10-21 23:06:05+00:00 | 【미국 증시 오늘의 요약】  AI 투자 우려는 끝났나? 스페이스X·슈퍼마이크로 깜짝 실적  -  2026/1
+   - tG4TtI4AY2g | ongoing=False | publishedAt=2026-10-21T22:56:24Z | actualEndTime=2026-10-21T22:33:53Z | effective=2026-10-21 22:33:53+00:00 | [26년 10월 21일 수]  스페이스X AI 매출 9배 이상 폭증 ｜ 엔비디아, 삼성전기·앰코 등과 협력 
+   - BF2u20voiU8 | ongoing=False | publishedAt=2026-10-21T10:41:58Z | actualEndTime=2026-10-21T10:36:46Z | effective=2026-10-21 10:36:46+00:00 | [특별 방송] 엔비디아 GTC 독일 - 젠슨 황 CEO 키노트 연설  ｜ -  오선의 미국 증시 라이브
    - 6Mt87EaZewQ | ongoing=False | publishedAt=2026-10-20T22:20:29Z | actualEndTime=None | effective=2026-10-20 22:20:29+00:00 | 【미국 증시 오늘의 요약】  스페이스X AI 매출 9배 폭증! 머스크 "연 매출 1조 달러 간다"  -  2
    - YQ5nDiuC23A | ongoing=False | publishedAt=2026-10-20T22:05:44Z | actualEndTime=2026-10-20T21:44:04Z | effective=2026-10-20 21:44:04+00:00 | [26년 10월 20일 화]   마이크론 대만 노조, 22일 파업 돌입 예정 ｜ 중동 긴장 속 국제유가 급등
-   - ausfLI1B_nc | ongoing=False | publishedAt=2026-10-19T21:55:02Z | actualEndTime=None | effective=2026-10-19 21:55:02+00:00 | 【미국 증시 오늘의 요약】 나스닥 반등! 반도체주 8거래일 만에 상승…AI 불안 끝났나?   -  2026/
-   - BeeIcWciVI0 | ongoing=False | publishedAt=2026-10-19T21:32:48Z | actualEndTime=2026-10-19T21:11:50Z | effective=2026-10-19 21:11:50+00:00 | [26년 10월 19일 월]  반도체주 8거래일 연속 하락세 마감 ｜ 이번 주 실적 발표에 관심 집중 ｜ 프
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-36] 세금 + 수수료... 금 투자 더 스마트하게 할 수 있습니다 #NEM #AEM #B #LIN #SHW #ECL
-  URL: https://www.youtube.com/watch?v=6LQ-ygHxdHw
-  publishedAt: 2026-10-21T03:00:18Z
+  제목: [미국주식 백과사전-37] 미국에 상장된 한국 원자재 기업...? 너무 부끄럽네요 #DOW #CRH #VMC #NUE #MT #PKX
+  URL: https://www.youtube.com/watch?v=U7-lMBdoIcs
+  publishedAt: 2026-10-22T03:00:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - U7-lMBdoIcs | ongoing=False | publishedAt=2026-10-22T03:00:06Z | actualEndTime=None | effective=2026-10-22 03:00:06+00:00 | [미국주식 백과사전-37] 미국에 상장된 한국 원자재 기업...? 너무 부끄럽네요 #DOW #CRH #VMC
+   - FFsH9toyFFg | ongoing=False | publishedAt=2026-10-22T00:45:21Z | actualEndTime=2026-10-22T00:39:20Z | effective=2026-10-22 00:39:20+00:00 | [미국마감&아침시황] 일희일비, 오늘은 왜 떨어지나?ㅣ#261022
    - 6LQ-ygHxdHw | ongoing=False | publishedAt=2026-10-21T03:00:18Z | actualEndTime=None | effective=2026-10-21 03:00:18+00:00 | [미국주식 백과사전-36] 세금 + 수수료... 금 투자 더 스마트하게 할 수 있습니다 #NEM #AEM #
    - Uklq9F4YXic | ongoing=False | publishedAt=2026-10-21T00:18:26Z | actualEndTime=2026-10-21T00:14:59Z | effective=2026-10-21 00:14:59+00:00 | [미국마감&아침시황] 슈퍼! 마이크로!! 머스크!!! 반도체 반등 가자잇!!!!ㅣ#261021
-   - QuJmwDaXHQA | ongoing=False | publishedAt=2026-10-20T00:18:11Z | actualEndTime=2026-10-20T00:14:58Z | effective=2026-10-20 00:14:58+00:00 | [미국마감&아침시황] 도대체 주식시장은 언제까지 흔들릴까?ㅣ#261020
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 일론머스크 "AI 수요 뜨겁다" #일론머스크 #삼성전자 #코스피
-  URL: https://www.youtube.com/watch?v=WIGzYxeHs2I
-  publishedAt: 2026-10-21T04:23:44Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - WIGzYxeHs2I | ongoing=False | publishedAt=2026-10-21T04:23:44Z | actualEndTime=None | effective=2026-10-21 04:23:44+00:00 | 일론머스크 "AI 수요 뜨겁다" #일론머스크 #삼성전자 #코스피
    - 9qWj9i7aNjI | ongoing=False | publishedAt=2026-10-20T06:31:33Z | actualEndTime=None | effective=2026-10-20 06:31:33+00:00 | 오늘 코스피 하락이 더 문제인 이유 #코스피 #하이닉스 #삼성전자
-   - wSmkhWHEYNM | ongoing=False | publishedAt=2026-10-19T17:31:14Z | actualEndTime=None | effective=2026-10-19 17:31:14+00:00 | 나스닥 상승의 진짜 이유
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - JFtx8IXlz5c | ongoing=False | publishedAt=2026-10-20T10:22:14Z | actualEndTime=None | effective=2026-10-20 10:22:14+00:00 | "1999년 붕괴 직전과 완벽히 똑같다" 월가 초고수의 변심, 적중할까
-   - quJTDt4JGpU | ongoing=False | publishedAt=2026-10-19T11:01:11Z | actualEndTime=None | effective=2026-10-19 11:01:11+00:00 | AI인프라 약한 고리 결국 터진다? 극단적 공포 진입, 이번에도 기회일까
