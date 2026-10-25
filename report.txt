@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-24 14:13 (KST)
-Run: 311 (id=40065384287)
+생성 시각: 2026-10-25 14:30 (KST)
+Run: 312 (id=40165796408)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,74 +8,58 @@ Run: 311 (id=40065384287)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Michael Palin on Still Traveling the World at 83
-  URL: https://www.youtube.com/watch?v=yiKknSMnKQc
-  publishedAt: 2026-10-24T04:00:20Z
+  제목: Vietnam Bets Big on High-Speed Rail To Transform Economy
+  URL: https://www.youtube.com/watch?v=5YzvHGwokPw
+  publishedAt: 2026-10-25T04:00:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - yiKknSMnKQc | ongoing=False | publishedAt=2026-10-24T04:00:20Z | actualEndTime=None | effective=2026-10-24 04:00:20+00:00 | Michael Palin on Still Traveling the World at 83
-   - RfNb_DvR1QM | ongoing=False | publishedAt=2026-10-24T00:00:39Z | actualEndTime=None | effective=2026-10-24 00:00:39+00:00 | How to Retire Rich in India
-   - 269Yu1UgYn8 | ongoing=False | publishedAt=2026-10-23T23:05:12Z | actualEndTime=None | effective=2026-10-23 23:05:12+00:00 | Trump Pushes DOJ Lawsuit Over Alaska Senate Race
-   - 9sL1WZsSeB0 | ongoing=False | publishedAt=2026-10-23T23:00:14Z | actualEndTime=None | effective=2026-10-23 23:00:14+00:00 | Wall Street Week | Europe’s AI Player, Argentina’s Two Econo
-   - -nwjUI1U070 | ongoing=False | publishedAt=2026-10-23T22:46:33Z | actualEndTime=None | effective=2026-10-23 22:46:33+00:00 | Wealth Tax Debate, Midterm Investing, AI Anxiety
-   - G0uOXddu6Pk | ongoing=False | publishedAt=2026-10-23T22:19:54Z | actualEndTime=None | effective=2026-10-23 22:19:54+00:00 | Gen. Hodges (Ret.) Says Trump Actions Help Russia's War
-   - Bsz-hcTYfA0 | ongoing=False | publishedAt=2026-10-23T22:18:42Z | actualEndTime=None | effective=2026-10-23 22:18:42+00:00 | $1,999 New iPhone 'Unfolds' During Affordability Crisis
-   - MipgtpyrPqQ | ongoing=False | publishedAt=2026-10-23T22:06:32Z | actualEndTime=None | effective=2026-10-23 22:06:32+00:00 | 'Notes on Being a Man', 'The Invisible Hand'
-   - iYmoXYDv6AY | ongoing=False | publishedAt=2026-10-23T22:04:36Z | actualEndTime=None | effective=2026-10-23 22:04:36+00:00 | AI Jitters, Oil & Big Tech
-   - 70cSwgCTMfc | ongoing=False | publishedAt=2026-10-23T21:59:50Z | actualEndTime=None | effective=2026-10-23 21:59:50+00:00 | The Average US Family Health Plan Now Costs More Than $28,00
+   - 5YzvHGwokPw | ongoing=False | publishedAt=2026-10-25T04:00:13Z | actualEndTime=None | effective=2026-10-25 04:00:13+00:00 | Vietnam Bets Big on High-Speed Rail To Transform Economy
+   - fZzZ0KIWMDw | ongoing=False | publishedAt=2026-10-24T16:00:49Z | actualEndTime=None | effective=2026-10-24 16:00:49+00:00 | Russian Diesel Coming to US, New Middle East Threats
+   - YqUQcJ0m0HQ | ongoing=False | publishedAt=2026-10-24T14:35:00Z | actualEndTime=None | effective=2026-10-24 14:35:00+00:00 | The Real Medical Detective Who Inspired Sherlock Holmes
+   - nZsTI9iv7RY | ongoing=False | publishedAt=2026-10-24T14:06:57Z | actualEndTime=None | effective=2026-10-24 14:06:57+00:00 | AI Boom Faces a Growing Public Backlash
+   - aLUz61BBzr4 | ongoing=False | publishedAt=2026-10-24T14:00:17Z | actualEndTime=None | effective=2026-10-24 14:00:17+00:00 | How This County Made the Data Center Boom Pay Off
+   - lmQUuq6addM | ongoing=False | publishedAt=2026-10-24T13:51:09Z | actualEndTime=None | effective=2026-10-24 13:51:09+00:00 | Inside Gershkovich’s 16 Months in Russian Prisons
+   - 6bKLf0yc8pU | ongoing=False | publishedAt=2026-10-24T13:39:03Z | actualEndTime=None | effective=2026-10-24 13:39:03+00:00 | By The Way: Headlines You May Have Missed
+   - E4W35hyGHwU | ongoing=False | publishedAt=2026-10-24T13:29:03Z | actualEndTime=None | effective=2026-10-24 13:29:03+00:00 | HR Navigates AI and a Changing Workplace
+   - 6FqKVPSTN28 | ongoing=False | publishedAt=2026-10-24T13:17:47Z | actualEndTime=None | effective=2026-10-24 13:17:47+00:00 | Persistent Oil Prices Threaten Inflation Outlook
+   - NVTdb4xFsSY | ongoing=False | publishedAt=2026-10-24T13:00:16Z | actualEndTime=None | effective=2026-10-24 13:00:16+00:00 | iPhone Duo Review + Pre-Order Problems with Andru Edwards
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Tesla Roadster Is INSANE! 🤯
-  URL: https://www.youtube.com/watch?v=65iJsqo1ElI
-  publishedAt: 2026-10-24T01:00:03Z
+  제목: This Is WHY Stocks Are Volatile Right Now!
+  URL: https://www.youtube.com/watch?v=ei_J5JbZC4Q
+  publishedAt: 2026-10-25T01:00:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - ei_J5JbZC4Q | ongoing=False | publishedAt=2026-10-25T01:00:36Z | actualEndTime=None | effective=2026-10-25 01:00:36+00:00 | This Is WHY Stocks Are Volatile Right Now!
+   - PlQk8tOSHWw | ongoing=False | publishedAt=2026-10-24T17:11:48Z | actualEndTime=None | effective=2026-10-24 17:11:48+00:00 | a finance bro's HONEST review of the iPhone Duo
+   - jKJ7SSCE-yk | ongoing=False | publishedAt=2026-10-24T16:12:01Z | actualEndTime=None | effective=2026-10-24 16:12:01+00:00 | on iran and the stock market...
    - 65iJsqo1ElI | ongoing=False | publishedAt=2026-10-24T01:00:03Z | actualEndTime=None | effective=2026-10-24 01:00:03+00:00 | The Tesla Roadster Is INSANE! 🤯
    - QbDrrHReUog | ongoing=False | publishedAt=2026-10-23T17:27:35Z | actualEndTime=2026-10-23T15:03:25Z | effective=2026-10-23 15:03:25+00:00 | Election, Fed, & Iran Fears | Buying the Dip
    - d5sUN3Gx18Q | ongoing=False | publishedAt=2026-10-23T15:17:21Z | actualEndTime=None | effective=2026-10-23 15:17:21+00:00 | PREPARE: The Bailout is Coming.
-   - B37WlbUtC6s | ongoing=False | publishedAt=2026-10-23T01:00:24Z | actualEndTime=None | effective=2026-10-23 01:00:24+00:00 | Private Credit Has A SERIOUS Problem!
-   - -HXNDeabnaM | ongoing=False | publishedAt=2026-10-22T22:02:30Z | actualEndTime=None | effective=2026-10-22 22:02:30+00:00 | The Collapse Begins
-   - kL6x3Rs_1pM | ongoing=False | publishedAt=2026-10-22T21:03:52Z | actualEndTime=2026-10-22T20:46:08Z | effective=2026-10-22 20:46:08+00:00 | The Market CRASH & Earnings
-   - woy-qq4yGFA | ongoing=False | publishedAt=2026-10-22T19:25:00Z | actualEndTime=2026-10-22T15:48:15Z | effective=2026-10-22 15:48:15+00:00 | The Pre-Election Market Crash Pain RETURNS: Iran, Fed, Uncer
-   - xRYpZoPRPh8 | ongoing=False | publishedAt=2026-10-22T18:13:07Z | actualEndTime=None | effective=2026-10-22 18:13:07+00:00 | DO THIS *BEFORE* The Tesla SpaceX Merger!!
-   - LU4FDsvAk4o | ongoing=False | publishedAt=2026-10-22T15:11:26Z | actualEndTime=None | effective=2026-10-22 15:11:26+00:00 | The War Against Iran is "Restarting" --- f**k
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  유가 100달러 돌파에 발목 잡힌 미 증시, AI 투자금 우려 속 빅테크 실적 대기    -  2026/10/23
-  URL: https://www.youtube.com/watch?v=9j3ev828Ssc
-  publishedAt: 2026-10-23T22:27:33Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 9j3ev828Ssc | ongoing=False | publishedAt=2026-10-23T22:27:33Z | actualEndTime=None | effective=2026-10-23 22:27:33+00:00 | 【미국 증시 오늘의 요약】  유가 100달러 돌파에 발목 잡힌 미 증시, AI 투자금 우려 속 빅테크 실적 
    - 9_LKJmalAQU | ongoing=False | publishedAt=2026-10-23T21:10:44Z | actualEndTime=2026-10-23T20:52:01Z | effective=2026-10-23 20:52:01+00:00 | [26년 10월 23일 금]  오픈AI, 기업가치 $1.25조 하향 ｜ 스페이스X, 미국 전역에 자체망 구축
-   - gZUoCghH7Hg | ongoing=False | publishedAt=2026-10-22T22:21:11Z | actualEndTime=None | effective=2026-10-22 22:21:11+00:00 | 【미국 증시 오늘의 요약】  AI 자금 부족 우려에 "중간선거 후 이란 공습" 보도까지… 나스닥 2.9% 급
-   - gNW_IOYP3bE | ongoing=False | publishedAt=2026-10-22T22:01:22Z | actualEndTime=2026-10-22T21:38:06Z | effective=2026-10-22 21:38:06+00:00 | [26년 10월 22일 목]  메타 호실적에도 투자 심리 위축  ｜ 중동 긴장 고조에 국제유가 급등 ｜ 실적
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-39] 반도체가 하락하면 상승하는 종목이 있습니다 #PLTR #ORCL #PANW
-  URL: https://www.youtube.com/watch?v=A_sgj1QsplA
-  publishedAt: 2026-10-24T05:00:26Z
+  제목: [미국주식 백과사전-40] AI 해킹, 사이버 보안 제대로 투자하는 방법 #PANW #CRWD #FTNT #NET #OKTA
+  URL: https://www.youtube.com/watch?v=XYX3Kx1-3FU
+  publishedAt: 2026-10-25T03:00:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - XYX3Kx1-3FU | ongoing=False | publishedAt=2026-10-25T03:00:27Z | actualEndTime=None | effective=2026-10-25 03:00:27+00:00 | [미국주식 백과사전-40] AI 해킹, 사이버 보안 제대로 투자하는 방법 #PANW #CRWD #FTNT #
    - A_sgj1QsplA | ongoing=False | publishedAt=2026-10-24T05:00:26Z | actualEndTime=None | effective=2026-10-24 05:00:26+00:00 | [미국주식 백과사전-39] 반도체가 하락하면 상승하는 종목이 있습니다 #PLTR #ORCL #PANW
-   - kRu2rWB7oJE | ongoing=False | publishedAt=2026-10-23T03:00:12Z | actualEndTime=None | effective=2026-10-23 03:00:12+00:00 | [미국주식 백과사전-38] 전기의 시대, 구리 기업 분석 #BHP #RIO #SCCO #FCX #CTVA #
-   - y79ySD4n-w8 | ongoing=False | publishedAt=2026-10-23T00:16:41Z | actualEndTime=2026-10-23T00:13:37Z | effective=2026-10-23 00:13:37+00:00 | [미국마감&아침시황] SCHD 급등, 극단적인 반도체 숏베팅, 바닥 시그널일까?ㅣ#261023
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 드릴 말씀이 있습니다.
-  URL: https://www.youtube.com/watch?v=Zn6yIuZUG5E
-  publishedAt: 2026-10-24T04:41:48Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - Zn6yIuZUG5E | ongoing=False | publishedAt=2026-10-24T04:41:48Z | actualEndTime=None | effective=2026-10-24 04:41:48+00:00 | 드릴 말씀이 있습니다.
-   - Ifr6_OYsEBI | ongoing=False | publishedAt=2026-10-23T02:23:51Z | actualEndTime=None | effective=2026-10-23 02:23:51+00:00 | 메타가 촉발한 AI 버블론! #메타 #코스피 #솔리다임
-   - 88JuhT1pxag | ongoing=False | publishedAt=2026-10-23T01:09:57Z | actualEndTime=None | effective=2026-10-23 01:09:57+00:00 | 이번 폭락보다 더 큰 문제가 있습니다.
-   - 4sdi2vGvY8k | ongoing=False | publishedAt=2026-10-22T12:58:12Z | actualEndTime=None | effective=2026-10-22 12:58:12+00:00 | 진퇴양난에 빠진 미국 증시
-   - EYFp7ANi5zo | ongoing=False | publishedAt=2026-10-22T06:34:39Z | actualEndTime=None | effective=2026-10-22 06:34:39+00:00 | 꿈도 희망도 없는 한국 증시 #코스피 #하이닉스 #후티반군
 
 - 소수몽키
   상태: NO_VIDEO
