@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-25 14:30 (KST)
-Run: 312 (id=40165796408)
+생성 시각: 2026-10-26 14:36 (KST)
+Run: 313 (id=40275112540)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,58 +8,53 @@ Run: 312 (id=40165796408)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Vietnam Bets Big on High-Speed Rail To Transform Economy
-  URL: https://www.youtube.com/watch?v=5YzvHGwokPw
-  publishedAt: 2026-10-25T04:00:13Z
+  제목: Moonshot's Latest AI Upgrade Takes on Top-Tier US Models
+  URL: https://www.youtube.com/watch?v=IQOlynguqmQ
+  publishedAt: 2026-10-26T05:33:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 5YzvHGwokPw | ongoing=False | publishedAt=2026-10-25T04:00:13Z | actualEndTime=None | effective=2026-10-25 04:00:13+00:00 | Vietnam Bets Big on High-Speed Rail To Transform Economy
-   - fZzZ0KIWMDw | ongoing=False | publishedAt=2026-10-24T16:00:49Z | actualEndTime=None | effective=2026-10-24 16:00:49+00:00 | Russian Diesel Coming to US, New Middle East Threats
-   - YqUQcJ0m0HQ | ongoing=False | publishedAt=2026-10-24T14:35:00Z | actualEndTime=None | effective=2026-10-24 14:35:00+00:00 | The Real Medical Detective Who Inspired Sherlock Holmes
-   - nZsTI9iv7RY | ongoing=False | publishedAt=2026-10-24T14:06:57Z | actualEndTime=None | effective=2026-10-24 14:06:57+00:00 | AI Boom Faces a Growing Public Backlash
-   - aLUz61BBzr4 | ongoing=False | publishedAt=2026-10-24T14:00:17Z | actualEndTime=None | effective=2026-10-24 14:00:17+00:00 | How This County Made the Data Center Boom Pay Off
-   - lmQUuq6addM | ongoing=False | publishedAt=2026-10-24T13:51:09Z | actualEndTime=None | effective=2026-10-24 13:51:09+00:00 | Inside Gershkovich’s 16 Months in Russian Prisons
-   - 6bKLf0yc8pU | ongoing=False | publishedAt=2026-10-24T13:39:03Z | actualEndTime=None | effective=2026-10-24 13:39:03+00:00 | By The Way: Headlines You May Have Missed
-   - E4W35hyGHwU | ongoing=False | publishedAt=2026-10-24T13:29:03Z | actualEndTime=None | effective=2026-10-24 13:29:03+00:00 | HR Navigates AI and a Changing Workplace
-   - 6FqKVPSTN28 | ongoing=False | publishedAt=2026-10-24T13:17:47Z | actualEndTime=None | effective=2026-10-24 13:17:47+00:00 | Persistent Oil Prices Threaten Inflation Outlook
-   - NVTdb4xFsSY | ongoing=False | publishedAt=2026-10-24T13:00:16Z | actualEndTime=None | effective=2026-10-24 13:00:16+00:00 | iPhone Duo Review + Pre-Order Problems with Andru Edwards
+   - IQOlynguqmQ | ongoing=False | publishedAt=2026-10-26T05:33:23Z | actualEndTime=None | effective=2026-10-26 05:33:23+00:00 | Moonshot's Latest AI Upgrade Takes on Top-Tier US Models
+   - RFkPGyDhsJI | ongoing=False | publishedAt=2026-10-26T05:14:16Z | actualEndTime=None | effective=2026-10-26 05:14:16+00:00 | Markets Brace After Lula's Surprise Comeback Win In Brazil E
+   - pwkyT80u2w4 | ongoing=False | publishedAt=2026-10-26T03:48:20Z | actualEndTime=None | effective=2026-10-26 03:48:20+00:00 | Lula Wins Brazil's Presidential Election, Real Futures, Japa
+   - 0XwQ12XxxRE | ongoing=False | publishedAt=2026-10-25T15:47:54Z | actualEndTime=None | effective=2026-10-25 15:47:54+00:00 | Big Tech Earnings, 9 Days to Midterm Elections
+   - 8Ad7VeOfD_c | ongoing=False | publishedAt=2026-10-25T14:50:53Z | actualEndTime=None | effective=2026-10-25 14:50:53+00:00 | Iran War Risks Escalation After Elections
+   - K5s74D7ycRQ | ongoing=False | publishedAt=2026-10-25T14:11:27Z | actualEndTime=None | effective=2026-10-25 14:11:27+00:00 | Midterm Fight Intensifies in Final Campaign Stretch
+   - iSKhNt-Y7mc | ongoing=False | publishedAt=2026-10-25T14:01:51Z | actualEndTime=None | effective=2026-10-25 14:01:51+00:00 | Rep. Crenshaw Presses Musk on Starlink for Ukraine
+   - 5xwYQ0dPR34 | ongoing=False | publishedAt=2026-10-25T14:00:24Z | actualEndTime=None | effective=2026-10-25 14:00:24+00:00 | Inside The Two Argentinas Under Javier Milei
+   - ybqI7j2JVq8 | ongoing=False | publishedAt=2026-10-25T13:54:51Z | actualEndTime=None | effective=2026-10-25 13:54:51+00:00 | Halloween Candy Prices Reflect Cocoa’s Wild Ride
+   - mNCvC9940OA | ongoing=False | publishedAt=2026-10-25T13:47:19Z | actualEndTime=None | effective=2026-10-25 13:47:19+00:00 | Fed Looks Set to Pause After September Rate Hike
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: This Is WHY Stocks Are Volatile Right Now!
-  URL: https://www.youtube.com/watch?v=ei_J5JbZC4Q
-  publishedAt: 2026-10-25T01:00:36Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - ei_J5JbZC4Q | ongoing=False | publishedAt=2026-10-25T01:00:36Z | actualEndTime=None | effective=2026-10-25 01:00:36+00:00 | This Is WHY Stocks Are Volatile Right Now!
    - PlQk8tOSHWw | ongoing=False | publishedAt=2026-10-24T17:11:48Z | actualEndTime=None | effective=2026-10-24 17:11:48+00:00 | a finance bro's HONEST review of the iPhone Duo
    - jKJ7SSCE-yk | ongoing=False | publishedAt=2026-10-24T16:12:01Z | actualEndTime=None | effective=2026-10-24 16:12:01+00:00 | on iran and the stock market...
-   - 65iJsqo1ElI | ongoing=False | publishedAt=2026-10-24T01:00:03Z | actualEndTime=None | effective=2026-10-24 01:00:03+00:00 | The Tesla Roadster Is INSANE! 🤯
-   - QbDrrHReUog | ongoing=False | publishedAt=2026-10-23T17:27:35Z | actualEndTime=2026-10-23T15:03:25Z | effective=2026-10-23 15:03:25+00:00 | Election, Fed, & Iran Fears | Buying the Dip
-   - d5sUN3Gx18Q | ongoing=False | publishedAt=2026-10-23T15:17:21Z | actualEndTime=None | effective=2026-10-23 15:17:21+00:00 | PREPARE: The Bailout is Coming.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - 9j3ev828Ssc | ongoing=False | publishedAt=2026-10-23T22:27:33Z | actualEndTime=None | effective=2026-10-23 22:27:33+00:00 | 【미국 증시 오늘의 요약】  유가 100달러 돌파에 발목 잡힌 미 증시, AI 투자금 우려 속 빅테크 실적 
-   - 9_LKJmalAQU | ongoing=False | publishedAt=2026-10-23T21:10:44Z | actualEndTime=2026-10-23T20:52:01Z | effective=2026-10-23 20:52:01+00:00 | [26년 10월 23일 금]  오픈AI, 기업가치 $1.25조 하향 ｜ 스페이스X, 미국 전역에 자체망 구축
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국주식 백과사전-40] AI 해킹, 사이버 보안 제대로 투자하는 방법 #PANW #CRWD #FTNT #NET #OKTA
-  URL: https://www.youtube.com/watch?v=XYX3Kx1-3FU
-  publishedAt: 2026-10-25T03:00:27Z
+  제목: [미국마감&아침시황] 이번주보다 다음주가 더 중요합니다... 쳇ㅣ#261026
+  URL: https://www.youtube.com/watch?v=Tz3M8kp_EQQ
+  publishedAt: 2026-10-26T00:11:30Z
+  actualEndTime: 2026-10-26T00:08:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Tz3M8kp_EQQ | ongoing=False | publishedAt=2026-10-26T00:11:30Z | actualEndTime=2026-10-26T00:08:37Z | effective=2026-10-26 00:08:37+00:00 | [미국마감&아침시황] 이번주보다 다음주가 더 중요합니다... 쳇ㅣ#261026
    - XYX3Kx1-3FU | ongoing=False | publishedAt=2026-10-25T03:00:27Z | actualEndTime=None | effective=2026-10-25 03:00:27+00:00 | [미국주식 백과사전-40] AI 해킹, 사이버 보안 제대로 투자하는 방법 #PANW #CRWD #FTNT #
-   - A_sgj1QsplA | ongoing=False | publishedAt=2026-10-24T05:00:26Z | actualEndTime=None | effective=2026-10-24 05:00:26+00:00 | [미국주식 백과사전-39] 반도체가 하락하면 상승하는 종목이 있습니다 #PLTR #ORCL #PANW
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 일론머스크 "네오클라우드 대부분 망한다?"
+  URL: https://www.youtube.com/watch?v=LgOIJMIgkUw
+  publishedAt: 2026-10-26T01:40:16Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Zn6yIuZUG5E | ongoing=False | publishedAt=2026-10-24T04:41:48Z | actualEndTime=None | effective=2026-10-24 04:41:48+00:00 | 드릴 말씀이 있습니다.
+   - LgOIJMIgkUw | ongoing=False | publishedAt=2026-10-26T01:40:16Z | actualEndTime=None | effective=2026-10-26 01:40:16+00:00 | 일론머스크 "네오클라우드 대부분 망한다?"
 
 - 소수몽키
   상태: NO_VIDEO
