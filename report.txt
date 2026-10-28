@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-27 14:48 (KST)
-Run: 314 (id=40457392576)
+생성 시각: 2026-10-28 15:26 (KST)
+Run: 315 (id=40643882510)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,67 +8,80 @@ Run: 314 (id=40457392576)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: From Blackouts to Surplus: How Eskom Turned South Africa’s Power Around
-  URL: https://www.youtube.com/watch?v=1BDArICtq0Q
-  publishedAt: 2026-10-27T05:03:19Z
+  제목: US to Issue Visas to Flavio Bolsonaro and His Family
+  URL: https://www.youtube.com/watch?v=Ns9xtskI7b8
+  publishedAt: 2026-10-27T23:15:23Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 1BDArICtq0Q | ongoing=False | publishedAt=2026-10-27T05:03:19Z | actualEndTime=None | effective=2026-10-27 05:03:19+00:00 | From Blackouts to Surplus: How Eskom Turned South Africa’s P
-   - kcJBUfO9rqs | ongoing=False | publishedAt=2026-10-27T05:03:26Z | actualEndTime=None | effective=2026-10-27 05:03:26+00:00 | Johannesburg’s Infrastructure Decay Risks Driving Multinatio
-   - LliCyL1OvM0 | ongoing=False | publishedAt=2026-10-27T04:30:21Z | actualEndTime=None | effective=2026-10-27 04:30:21+00:00 | Asia Stocks Rally as Anthropic IPO Boosts Chip Shares
-   - GKchi58GNXI | ongoing=False | publishedAt=2026-10-27T04:00:22Z | actualEndTime=None | effective=2026-10-27 04:00:22+00:00 | Jackdaw Gas Field Gets UK Approval After Years of Debate
-   - ndm6oNJrmEY | ongoing=False | publishedAt=2026-10-27T02:41:25Z | actualEndTime=None | effective=2026-10-27 02:41:25+00:00 | BlackRock's Rieder on Global Bonds, AI
-   - sL8iuQhBbBc | ongoing=False | publishedAt=2026-10-27T02:33:50Z | actualEndTime=None | effective=2026-10-27 02:33:50+00:00 | BNY CFO on AI Strategy, Business Growth
-   - df6ha9h2GZQ | ongoing=False | publishedAt=2026-10-26T23:18:02Z | actualEndTime=None | effective=2026-10-26 23:18:02+00:00 | New DOJ Charges Against Ex-FBI Chief Comey Unsealed by Court
-   - u1Ik2Uktr5w | ongoing=False | publishedAt=2026-10-26T22:21:25Z | actualEndTime=None | effective=2026-10-26 22:21:25+00:00 | Bottoms Says Georgia Needs Pause on New Data Centers
-   - lhYtPnNUk4Y | ongoing=False | publishedAt=2026-10-26T21:56:06Z | actualEndTime=None | effective=2026-10-26 21:56:06+00:00 | Anthropic IPO, AI Financing & Markets Rally
-   - OHxaQ9r4Hfw | ongoing=False | publishedAt=2026-10-26T21:39:51Z | actualEndTime=None | effective=2026-10-26 21:39:51+00:00 | Brazil’s Lula Wins Record Fourth Term
+   - Ns9xtskI7b8 | ongoing=False | publishedAt=2026-10-27T23:15:23Z | actualEndTime=None | effective=2026-10-27 23:15:23+00:00 | US to Issue Visas to Flavio Bolsonaro and His Family
+   - oAnFA950_WI | ongoing=False | publishedAt=2026-10-27T22:37:57Z | actualEndTime=None | effective=2026-10-27 22:37:57+00:00 | Rep. Issa Says Redistricting Creates More Seats in Play
+   - KsS6vNwppcA | ongoing=False | publishedAt=2026-10-27T22:31:30Z | actualEndTime=None | effective=2026-10-27 22:31:30+00:00 | Rep. Landsman: Ohio Early Vote Looks Strong for Democrats
+   - t8-7_g_PtF4 | ongoing=False | publishedAt=2026-10-27T22:26:22Z | actualEndTime=None | effective=2026-10-27 22:26:22+00:00 | Oren Says Netanyahu Could Benefit From Another Election
+   - WQSMt_9R9Wg | ongoing=False | publishedAt=2026-10-27T22:00:56Z | actualEndTime=None | effective=2026-10-27 22:00:56+00:00 | Tech Rally, Fed Decision & Big Tech Earnings Ahead
+   - g8B6k7Xji6A | ongoing=False | publishedAt=2026-10-27T21:50:27Z | actualEndTime=None | effective=2026-10-27 21:50:27+00:00 | Mavericks CEO: We underestimated Luka’s value
+   - pSTgCymOU5Y | ongoing=False | publishedAt=2026-10-27T21:36:30Z | actualEndTime=None | effective=2026-10-27 21:36:30+00:00 | Traders Brace for Fed Day
+   - le6z5D756gQ | ongoing=False | publishedAt=2026-10-27T21:22:47Z | actualEndTime=None | effective=2026-10-27 21:22:47+00:00 | AI’s Game-Changing IPO
+   - tGcWcP9LGN8 | ongoing=False | publishedAt=2026-10-27T21:12:32Z | actualEndTime=None | effective=2026-10-27 21:12:32+00:00 | OPEC Forecasts Oil Demand Rebound in 2027 | Presented by CME
+   - djR1WkRjlzE | ongoing=False | publishedAt=2026-10-27T21:00:29Z | actualEndTime=None | effective=2026-10-27 21:00:29+00:00 | Hot Inflation Puts the Fed in a Tight Policy Box | Presented
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Elon’s suck just got Dairo and Zuck excited #stocks
-  URL: https://www.youtube.com/watch?v=cS28_iNJhDU
-  publishedAt: 2026-10-26T23:45:07Z
+  제목: oh **** warsh is MAAAAADDDD
+  URL: https://www.youtube.com/watch?v=aV0yYYGZ5LE
+  publishedAt: 2026-10-28T01:58:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - aV0yYYGZ5LE | ongoing=False | publishedAt=2026-10-28T01:58:36Z | actualEndTime=None | effective=2026-10-28 01:58:36+00:00 | oh **** warsh is MAAAAADDDD
+   - dE9tW23W3lc | ongoing=False | publishedAt=2026-10-28T01:11:26Z | actualEndTime=None | effective=2026-10-28 01:11:26+00:00 | I’m blown away by what the CEO of Nvidia just said #NVDA
+   - LpMoj9cnfCo | ongoing=False | publishedAt=2026-10-27T22:56:15Z | actualEndTime=None | effective=2026-10-27 22:56:15+00:00 | holy sh*t JENSEN!!!
+   - NhhTb53JgZ4 | ongoing=False | publishedAt=2026-10-27T22:36:36Z | actualEndTime=2026-10-27T20:48:11Z | effective=2026-10-27 20:48:11+00:00 | here we go, push it: SK Hynix, Hood, Enphase, Visa, Cake, Se
+   - L-PONEtdwDQ | ongoing=False | publishedAt=2026-10-27T21:19:18Z | actualEndTime=2026-10-27T17:15:23Z | effective=2026-10-27 17:15:23+00:00 | BIG WEEK: Fed, Rates, Catalysts, Fear, Stocks, Recovery
+   - WH_NeyCLFA8 | ongoing=False | publishedAt=2026-10-27T20:56:14Z | actualEndTime=None | effective=2026-10-27 20:56:14+00:00 | Robinhood's Warning | HOOD Stock
+   - g3WWOicq7GM | ongoing=False | publishedAt=2026-10-27T17:52:20Z | actualEndTime=None | effective=2026-10-27 17:52:20+00:00 | what if I'm WRONG about Iran
+   - U09SMaCL3uo | ongoing=False | publishedAt=2026-10-27T15:41:10Z | actualEndTime=None | effective=2026-10-27 15:41:10+00:00 | credit spreads JUST *signaled* a FLIP
    - cS28_iNJhDU | ongoing=False | publishedAt=2026-10-26T23:45:07Z | actualEndTime=None | effective=2026-10-26 23:45:07+00:00 | Elon’s suck just got Dairo and Zuck excited #stocks
    - S5og5FxshWk | ongoing=False | publishedAt=2026-10-26T20:43:47Z | actualEndTime=None | effective=2026-10-26 20:43:47+00:00 | The Bond Market *JUST* Broke: Major Fed Warning JUST Issued.
-   - Wx-iQkhT46M | ongoing=False | publishedAt=2026-10-26T12:26:01Z | actualEndTime=None | effective=2026-10-26 12:26:01+00:00 | Prepare for the *MEGA* Flip THIS WEEK
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  앤트로픽 IPO 신청에 되살아난 AI 투자 열기! 반도체주 일제히 반등    -  2026/10/26
-  URL: https://www.youtube.com/watch?v=htrpKjtat0k
-  publishedAt: 2026-10-26T22:18:38Z
+  제목: [특별 방송] SK하이닉스 - 실적발표  ｜ -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=m8HaYP0qcRM
+  publishedAt: 2026-10-28T01:28:37Z
+  actualEndTime: 2026-10-28T01:23:00Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - m8HaYP0qcRM | ongoing=False | publishedAt=2026-10-28T01:28:37Z | actualEndTime=2026-10-28T01:23:00Z | effective=2026-10-28 01:23:00+00:00 | [특별 방송] SK하이닉스 - 실적발표  ｜ -  오선의 미국 증시 라이브
+   - G7y9DR0D7C0 | ongoing=False | publishedAt=2026-10-27T22:08:28Z | actualEndTime=None | effective=2026-10-27 22:08:28+00:00 | 【미국 증시 오늘의 요약】  이란 종전 논의에 유가 하락, 다시 불붙은 AI 반도체 랠리!    -  202
+   - 381hKaXD5UM | ongoing=False | publishedAt=2026-10-27T21:47:02Z | actualEndTime=2026-10-27T21:28:23Z | effective=2026-10-27 21:28:23+00:00 | [26년 10월 27일 화]  엔비디아, 메타에 30억 달러 투자 ｜ 실적발표: 시게이트, 로빈후드 등 ｜ 
    - htrpKjtat0k | ongoing=False | publishedAt=2026-10-26T22:18:38Z | actualEndTime=None | effective=2026-10-26 22:18:38+00:00 | 【미국 증시 오늘의 요약】  앤트로픽 IPO 신청에 되살아난 AI 투자 열기! 반도체주 일제히 반등    -
    - OPDa4rM1Tv4 | ongoing=False | publishedAt=2026-10-26T21:54:43Z | actualEndTime=2026-10-26T21:33:59Z | effective=2026-10-26 21:33:59+00:00 | [26년 10월 26일 월]  연준 금리 결정·빅테크 실적.. 슈퍼위크 개막｜ 메타, 최대 950억 달러 주
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 앤트로픽 11월 상장, 초대형 IPO 부담에 나스닥 하락한다...??
-  URL: https://www.youtube.com/watch?v=0v7L6OFw8IY
-  publishedAt: 2026-10-27T03:00:21Z
+  제목: [미국주식 백과사전-41] SaaS? AI 대체 사양산업 아닌가요? #SAP #SHOP #CRM #UBER
+  URL: https://www.youtube.com/watch?v=RUHk0oW_ubo
+  publishedAt: 2026-10-28T03:30:09Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - RUHk0oW_ubo | ongoing=False | publishedAt=2026-10-28T03:30:09Z | actualEndTime=None | effective=2026-10-28 03:30:09+00:00 | [미국주식 백과사전-41] SaaS? AI 대체 사양산업 아닌가요? #SAP #SHOP #CRM #UBER
+   - 0P4oomKN3-E | ongoing=False | publishedAt=2026-10-28T00:17:30Z | actualEndTime=2026-10-28T00:13:58Z | effective=2026-10-28 00:13:58+00:00 | [미국마감&아침시황] SK하이닉스 실적, FOMC, 구글/마소 실적ㅣ#261028
    - 0v7L6OFw8IY | ongoing=False | publishedAt=2026-10-27T03:00:21Z | actualEndTime=None | effective=2026-10-27 03:00:21+00:00 | 앤트로픽 11월 상장, 초대형 IPO 부담에 나스닥 하락한다...??
    - x_oTG4b9-RU | ongoing=False | publishedAt=2026-10-27T00:14:17Z | actualEndTime=2026-10-27T00:10:42Z | effective=2026-10-27 00:10:42+00:00 | [미국마감&아침시황] 반도체는 잘 팔린다, 주주환원과 전쟁만 해결해보자!!ㅣ#261027
-   - Tz3M8kp_EQQ | ongoing=False | publishedAt=2026-10-26T00:11:30Z | actualEndTime=2026-10-26T00:08:37Z | effective=2026-10-26 00:08:37+00:00 | [미국마감&아침시황] 이번주보다 다음주가 더 중요합니다... 쳇ㅣ#261026
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 앤트로픽의 '이것'이 코스피를 떡상시켰다고? #코스피 #앤트로픽 #하이닉스
-  URL: https://www.youtube.com/watch?v=e8OkkoMuoNU
-  publishedAt: 2026-10-27T04:27:10Z
+  제목: 하이닉스 폭등시킨 '2가지' #하이닉스 #코스피 #실적발표
+  URL: https://www.youtube.com/watch?v=femmgvp-_3A
+  publishedAt: 2026-10-28T02:56:08Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - femmgvp-_3A | ongoing=False | publishedAt=2026-10-28T02:56:08Z | actualEndTime=None | effective=2026-10-28 02:56:08+00:00 | 하이닉스 폭등시킨 '2가지' #하이닉스 #코스피 #실적발표
    - e8OkkoMuoNU | ongoing=False | publishedAt=2026-10-27T04:27:10Z | actualEndTime=None | effective=2026-10-27 04:27:10+00:00 | 앤트로픽의 '이것'이 코스피를 떡상시켰다고? #코스피 #앤트로픽 #하이닉스
    - n8zGtiTYxMI | ongoing=False | publishedAt=2026-10-26T15:48:07Z | actualEndTime=None | effective=2026-10-26 15:48:07+00:00 | 드디어 밝혀진 앤트로픽의 비밀. 심층분석 들어갑니다.
-   - LgOIJMIgkUw | ongoing=False | publishedAt=2026-10-26T01:40:16Z | actualEndTime=None | effective=2026-10-26 01:40:16+00:00 | 일론머스크 "네오클라우드 대부분 망한다?"
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - WM76m1GByyg | ongoing=False | publishedAt=2026-10-27T11:27:25Z | actualEndTime=None | effective=2026-10-27 11:27:25+00:00 | 큰 손들의 강제 주식 매도는 기회? 월가 변곡점 족집게 전망, 적중할까
    - P4i9A1Woky8 | ongoing=False | publishedAt=2026-10-26T11:15:59Z | actualEndTime=None | effective=2026-10-26 11:15:59+00:00 | AI 자금줄 갑자기 뚝 끊겼다? 증시에 등장한 이상 신호, 경고일까
