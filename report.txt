@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-29 15:38 (KST)
-Run: 316 (id=40830355668)
+생성 시각: 2026-10-30 15:38 (KST)
+Run: 317 (id=41015215780)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,80 +8,78 @@ Run: 316 (id=40830355668)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Healey Defends UK Budget, Warns 'Tough Decisions' Ahead
-  URL: https://www.youtube.com/watch?v=COyFDcjtWOQ
-  publishedAt: 2026-10-29T06:00:22Z
+  제목: AI Boom Shows Cracks After US, China Earnings
+  URL: https://www.youtube.com/watch?v=Brk9DUCIFbM
+  publishedAt: 2026-10-30T06:13:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - COyFDcjtWOQ | ongoing=False | publishedAt=2026-10-29T06:00:22Z | actualEndTime=None | effective=2026-10-29 06:00:22+00:00 | Healey Defends UK Budget, Warns 'Tough Decisions' Ahead
-   - PfQidPbRizM | ongoing=False | publishedAt=2026-10-29T05:42:15Z | actualEndTime=None | effective=2026-10-29 05:42:15+00:00 | Taiwan Sees China Behind Airspace Row With Pakistan
-   - QNndiZdC9Ks | ongoing=False | publishedAt=2026-10-29T05:41:38Z | actualEndTime=None | effective=2026-10-29 05:41:38+00:00 | Anthropic IPO: How Investors in Asia Can Get In
-   - SbYYzij9veA | ongoing=False | publishedAt=2026-10-29T05:13:08Z | actualEndTime=None | effective=2026-10-29 05:13:08+00:00 | Tech Rally Stalls as Alphabet, Samsung Disappoint
-   - k8uvAPODALg | ongoing=False | publishedAt=2026-10-28T23:11:32Z | actualEndTime=None | effective=2026-10-28 23:11:32+00:00 | Trump: Mary Peltola To Be Banned From Alaska Senate Race
-   - AX2r0LTbzxw | ongoing=False | publishedAt=2026-10-28T22:38:59Z | actualEndTime=None | effective=2026-10-28 22:38:59+00:00 | Rep. Moore: Congress Faces Packed Post-Midterm Agenda
-   - bTP84ih026E | ongoing=False | publishedAt=2026-10-28T22:34:13Z | actualEndTime=None | effective=2026-10-28 22:34:13+00:00 | Thomas: Alaska Controversy Could Shift Senate Race
-   - bw1od_hHpqk | ongoing=False | publishedAt=2026-10-28T22:28:11Z | actualEndTime=None | effective=2026-10-28 22:28:11+00:00 | Stevenson Says Fed Is Waiting to See Economy Slow
-   - 0K6cvunpfyg | ongoing=False | publishedAt=2026-10-28T21:54:02Z | actualEndTime=None | effective=2026-10-28 21:54:02+00:00 | Fed Holds Rates With a Hawkish Edge
-   - 08bcX2ugB2s | ongoing=False | publishedAt=2026-10-28T21:34:17Z | actualEndTime=None | effective=2026-10-28 21:34:17+00:00 | The Fed Will Deliver Price Stability, Warsh Says
+   - Brk9DUCIFbM | ongoing=False | publishedAt=2026-10-30T06:13:56Z | actualEndTime=None | effective=2026-10-30 06:13:56+00:00 | AI Boom Shows Cracks After US, China Earnings
+   - JtvNQLdExBY | ongoing=False | publishedAt=2026-10-30T06:08:35Z | actualEndTime=None | effective=2026-10-30 06:08:35+00:00 | Crypto Rocked by Biggest Heist on Record
+   - GeprIwt3ZVk | ongoing=False | publishedAt=2026-10-30T03:41:57Z | actualEndTime=None | effective=2026-10-30 03:41:57+00:00 | Binance Freezes Assets After Suspected Hack
+   - utgTvjBMv8A | ongoing=False | publishedAt=2026-10-29T23:30:28Z | actualEndTime=None | effective=2026-10-29 23:30:28+00:00 | Early Voting Turnout Surges Nationwide
+   - KVrz6BlwHEc | ongoing=False | publishedAt=2026-10-29T22:56:22Z | actualEndTime=None | effective=2026-10-29 22:56:22+00:00 | The Debrief: How Democratic Control Could Reshuffle Congress
+   - 6VZN1bYQfQU | ongoing=False | publishedAt=2026-10-29T22:54:32Z | actualEndTime=None | effective=2026-10-29 22:54:32+00:00 | Bloomberg Businessweek Talks Investment Landscape, Integrati
+   - c2gQl1R14p0 | ongoing=False | publishedAt=2026-10-29T22:48:00Z | actualEndTime=None | effective=2026-10-29 22:48:00+00:00 | Trump on Alaska Sen. Race Controversy: It's Voter Fraud
+   - 4gc6q6ysGAQ | ongoing=False | publishedAt=2026-10-29T22:36:05Z | actualEndTime=None | effective=2026-10-29 22:36:05+00:00 | McHenry Sees Democratic House, GOP Leadership Fight
+   - eLa9HRg1C6c | ongoing=False | publishedAt=2026-10-29T22:30:59Z | actualEndTime=None | effective=2026-10-29 22:30:59+00:00 | Sen. Scott Says US Should ‘Demolish’ Iran’s Regime
+   - EDWwcvZBFRQ | ongoing=False | publishedAt=2026-10-29T22:01:46Z | actualEndTime=None | effective=2026-10-29 22:01:46+00:00 | Tech Stocks Slide as Markets Rotate Into Small Caps
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: HOLY AI Merger: Nvidia's AI Stocks Marvell & Lumentum MERGING
-  URL: https://www.youtube.com/watch?v=7j2C87An-SM
-  publishedAt: 2026-10-29T04:34:04Z
+  제목: The Binance Hack | Explained.
+  URL: https://www.youtube.com/watch?v=BMO6RQAFGhM
+  publishedAt: 2026-10-30T04:27:50Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - BMO6RQAFGhM | ongoing=False | publishedAt=2026-10-30T04:27:50Z | actualEndTime=None | effective=2026-10-30 04:27:50+00:00 | The Binance Hack | Explained.
+   - AvcKvg264Ws | ongoing=False | publishedAt=2026-10-29T18:54:25Z | actualEndTime=2026-10-29T15:34:36Z | effective=2026-10-29 15:34:36+00:00 | Now What. The Morning After the Fed & Google Disasters.
+   - pmqaaMHfcm8 | ongoing=False | publishedAt=2026-10-29T18:22:40Z | actualEndTime=None | effective=2026-10-29 18:22:40+00:00 | Negative One Trillion Dollars.
+   - sP9bfi2Tbvg | ongoing=False | publishedAt=2026-10-29T15:03:00Z | actualEndTime=None | effective=2026-10-29 15:03:00+00:00 | We need to Talk.
    - 7j2C87An-SM | ongoing=False | publishedAt=2026-10-29T04:34:04Z | actualEndTime=None | effective=2026-10-29 04:34:04+00:00 | HOLY AI Merger: Nvidia's AI Stocks Marvell & Lumentum MERGIN
    - EaPdGBSuYto | ongoing=False | publishedAt=2026-10-29T03:45:30Z | actualEndTime=None | effective=2026-10-29 03:45:30+00:00 | Team Trump is either about to make a deal or LYING...
    - tCY71_jQp24 | ongoing=False | publishedAt=2026-10-29T02:58:52Z | actualEndTime=None | effective=2026-10-29 02:58:52+00:00 | It's OVER for these Home Buyers | The Housing Crash.
    - fVF76VgCe3U | ongoing=False | publishedAt=2026-10-29T01:48:57Z | actualEndTime=None | effective=2026-10-29 01:48:57+00:00 | The Fed FOMC Meeting was a Disaster
    - kvPpxubs0EE | ongoing=False | publishedAt=2026-10-28T23:32:45Z | actualEndTime=2026-10-28T22:01:03Z | effective=2026-10-28 22:01:03+00:00 | Microsoft Stock & Google Earnings & Bessent
    - 823JkHQLcEQ | ongoing=False | publishedAt=2026-10-28T22:57:49Z | actualEndTime=2026-10-28T19:24:40Z | effective=2026-10-28 19:24:40+00:00 | The Fed Meeting
-   - IPYxNoC1aL4 | ongoing=False | publishedAt=2026-10-28T21:32:58Z | actualEndTime=None | effective=2026-10-28 21:32:58+00:00 | RIP | GOOGLE STOCK CRASH
-   - se0B_kkt7kw | ongoing=False | publishedAt=2026-10-28T20:12:48Z | actualEndTime=2026-10-28T16:14:58Z | effective=2026-10-28 16:14:58+00:00 | Prepare for the Fed Meeting (and War???)
-   - Q7fUNbiYTTc | ongoing=False | publishedAt=2026-10-28T19:35:56Z | actualEndTime=None | effective=2026-10-28 19:35:56+00:00 | holy f**k | What the Fed JUST SAID
-   - ISBrgpVqdEU | ongoing=False | publishedAt=2026-10-28T18:25:26Z | actualEndTime=None | effective=2026-10-28 18:25:26+00:00 | omg Trump just SIGNALED the Iran Deal!!!
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [특별 방송] 삼성전자 - 실적발표  ｜ -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=Yid1PTyaL8o
-  publishedAt: 2026-10-29T02:15:47Z
-  actualEndTime: 2026-10-29T02:12:11Z
+  제목: 【미국 증시 오늘의 요약】  구글 -13% 사상 최대 폭락, 아마존마저 시간외 급락! 다시 커진 AI 수익성 공포    -  2026/10/29
+  URL: https://www.youtube.com/watch?v=7UPQ5J3rgrY
+  publishedAt: 2026-10-29T22:41:17Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 7UPQ5J3rgrY | ongoing=False | publishedAt=2026-10-29T22:41:17Z | actualEndTime=None | effective=2026-10-29 22:41:17+00:00 | 【미국 증시 오늘의 요약】  구글 -13% 사상 최대 폭락, 아마존마저 시간외 급락! 다시 커진 AI 수익성
+   - UBFvk6FZkp0 | ongoing=False | publishedAt=2026-10-29T22:22:36Z | actualEndTime=2026-10-29T22:01:11Z | effective=2026-10-29 22:01:11+00:00 | [26년 10월 29일 목]  PCE가격지수, 3분기 GDP 성장률 ｜ 실적발표: 아마존, 인텔, 샌디스크 
    - Yid1PTyaL8o | ongoing=False | publishedAt=2026-10-29T02:15:47Z | actualEndTime=2026-10-29T02:12:11Z | effective=2026-10-29 02:12:11+00:00 | [특별 방송] 삼성전자 - 실적발표  ｜ -  오선의 미국 증시 라이브
    - Lfbd8ecVs78 | ongoing=False | publishedAt=2026-10-28T23:01:27Z | actualEndTime=None | effective=2026-10-28 23:01:27+00:00 | 【미국 증시 오늘의 요약】  연준은 금리 동결, 시장은 AI에 집중! 오라클 11% 급등·구글 시간외 급락 
    - JNDJWTz347k | ongoing=False | publishedAt=2026-10-28T22:52:30Z | actualEndTime=2026-10-28T22:28:59Z | effective=2026-10-28 22:28:59+00:00 | [26년 10월 28일 수]  연준 금리 결정, FOMC 기자회견  ｜ 실적발표: 마이크로소프트, 구글 등 
-   - m8HaYP0qcRM | ongoing=False | publishedAt=2026-10-28T01:28:37Z | actualEndTime=2026-10-28T01:23:00Z | effective=2026-10-28 01:23:00+00:00 | [특별 방송] SK하이닉스 - 실적발표  ｜ -  오선의 미국 증시 라이브
-   - G7y9DR0D7C0 | ongoing=False | publishedAt=2026-10-27T22:08:28Z | actualEndTime=None | effective=2026-10-27 22:08:28+00:00 | 【미국 증시 오늘의 요약】  이란 종전 논의에 유가 하락, 다시 불붙은 AI 반도체 랠리!    -  202
-   - 381hKaXD5UM | ongoing=False | publishedAt=2026-10-27T21:47:02Z | actualEndTime=2026-10-27T21:28:23Z | effective=2026-10-27 21:28:23+00:00 | [26년 10월 27일 화]  엔비디아, 메타에 30억 달러 투자 ｜ 실적발표: 시게이트, 로빈후드 등 ｜ 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 구글은 검색광고 쇼크, 마소는 CAPEX 속도조절...?ㅣ#261029
-  URL: https://www.youtube.com/watch?v=Vn597Dj_3wQ
-  publishedAt: 2026-10-29T00:34:34Z
-  actualEndTime: 2026-10-29T00:31:43Z
+  제목: 구글 실적발표 떡락?? 단타 드가자잉!!!
+  URL: https://www.youtube.com/watch?v=Lm3Ow4S9ZH8
+  publishedAt: 2026-10-30T03:00:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Lm3Ow4S9ZH8 | ongoing=False | publishedAt=2026-10-30T03:00:05Z | actualEndTime=None | effective=2026-10-30 03:00:05+00:00 | 구글 실적발표 떡락?? 단타 드가자잉!!!
+   - H3uYiK02bwo | ongoing=False | publishedAt=2026-10-30T00:12:59Z | actualEndTime=2026-10-30T00:10:44Z | effective=2026-10-30 00:10:44+00:00 | [미국마감&아침시황] 아마존 너마저...??ㅣ#261030
    - Vn597Dj_3wQ | ongoing=False | publishedAt=2026-10-29T00:34:34Z | actualEndTime=2026-10-29T00:31:43Z | effective=2026-10-29 00:31:43+00:00 | [미국마감&아침시황] 구글은 검색광고 쇼크, 마소는 CAPEX 속도조절...?ㅣ#261029
-   - RUHk0oW_ubo | ongoing=False | publishedAt=2026-10-28T03:30:09Z | actualEndTime=None | effective=2026-10-28 03:30:09+00:00 | [미국주식 백과사전-41] SaaS? AI 대체 사양산업 아닌가요? #SAP #SHOP #CRM #UBER
-   - 0P4oomKN3-E | ongoing=False | publishedAt=2026-10-28T00:17:30Z | actualEndTime=2026-10-28T00:13:58Z | effective=2026-10-28 00:13:58+00:00 | [미국마감&아침시황] SK하이닉스 실적, FOMC, 구글/마소 실적ㅣ#261028
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 잘나가던 코스피 이것에 무너졌다. #코스피 #삼성전자 #증여세
-  URL: https://www.youtube.com/watch?v=GJw5DQPyBnM
-  publishedAt: 2026-10-29T02:43:27Z
+  제목: 빅테크 쇼크에 코스피도 폭락!
+  URL: https://www.youtube.com/watch?v=B08-0DIVmBE
+  publishedAt: 2026-10-30T03:22:32Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - B08-0DIVmBE | ongoing=False | publishedAt=2026-10-30T03:22:32Z | actualEndTime=None | effective=2026-10-30 03:22:32+00:00 | 빅테크 쇼크에 코스피도 폭락!
+   - O9lLR-DSZKg | ongoing=False | publishedAt=2026-10-29T16:19:24Z | actualEndTime=None | effective=2026-10-29 16:19:24+00:00 | 구글의 종말
    - GJw5DQPyBnM | ongoing=False | publishedAt=2026-10-29T02:43:27Z | actualEndTime=None | effective=2026-10-29 02:43:27+00:00 | 잘나가던 코스피 이것에 무너졌다. #코스피 #삼성전자 #증여세
-   - femmgvp-_3A | ongoing=False | publishedAt=2026-10-28T02:56:08Z | actualEndTime=None | effective=2026-10-28 02:56:08+00:00 | 하이닉스 폭등시킨 '2가지' #하이닉스 #코스피 #실적발표
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - MXwB5P9mJxA | ongoing=False | publishedAt=2026-10-29T10:40:19Z | actualEndTime=None | effective=2026-10-29 10:40:19+00:00 | 큰 손이 된 키덜트 덕에 주식도 부활? 장난감 사는 어른 시대의 수혜주들
    - _gMyqLP0928 | ongoing=False | publishedAt=2026-10-28T11:54:54Z | actualEndTime=None | effective=2026-10-28 11:54:54+00:00 | 주식 안 팔아도 세금 내라? 사상 초유의 억만장자세 실험 현실 될까
-   - WM76m1GByyg | ongoing=False | publishedAt=2026-10-27T11:27:25Z | actualEndTime=None | effective=2026-10-27 11:27:25+00:00 | 큰 손들의 강제 주식 매도는 기회? 월가 변곡점 족집게 전망, 적중할까
