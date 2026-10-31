@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-10-30 15:38 (KST)
-Run: 317 (id=41015215780)
+생성 시각: 2026-10-31 15:28 (KST)
+Run: 318 (id=41176705111)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,78 +8,73 @@ Run: 317 (id=41015215780)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: AI Boom Shows Cracks After US, China Earnings
-  URL: https://www.youtube.com/watch?v=Brk9DUCIFbM
-  publishedAt: 2026-10-30T06:13:56Z
+  제목: Intel Suffers Worst Stock Thrashing in Decades on Weak Forecast
+  URL: https://www.youtube.com/watch?v=biE_-YkChqc
+  publishedAt: 2026-10-31T00:19:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Brk9DUCIFbM | ongoing=False | publishedAt=2026-10-30T06:13:56Z | actualEndTime=None | effective=2026-10-30 06:13:56+00:00 | AI Boom Shows Cracks After US, China Earnings
-   - JtvNQLdExBY | ongoing=False | publishedAt=2026-10-30T06:08:35Z | actualEndTime=None | effective=2026-10-30 06:08:35+00:00 | Crypto Rocked by Biggest Heist on Record
-   - GeprIwt3ZVk | ongoing=False | publishedAt=2026-10-30T03:41:57Z | actualEndTime=None | effective=2026-10-30 03:41:57+00:00 | Binance Freezes Assets After Suspected Hack
-   - utgTvjBMv8A | ongoing=False | publishedAt=2026-10-29T23:30:28Z | actualEndTime=None | effective=2026-10-29 23:30:28+00:00 | Early Voting Turnout Surges Nationwide
-   - KVrz6BlwHEc | ongoing=False | publishedAt=2026-10-29T22:56:22Z | actualEndTime=None | effective=2026-10-29 22:56:22+00:00 | The Debrief: How Democratic Control Could Reshuffle Congress
-   - 6VZN1bYQfQU | ongoing=False | publishedAt=2026-10-29T22:54:32Z | actualEndTime=None | effective=2026-10-29 22:54:32+00:00 | Bloomberg Businessweek Talks Investment Landscape, Integrati
-   - c2gQl1R14p0 | ongoing=False | publishedAt=2026-10-29T22:48:00Z | actualEndTime=None | effective=2026-10-29 22:48:00+00:00 | Trump on Alaska Sen. Race Controversy: It's Voter Fraud
-   - 4gc6q6ysGAQ | ongoing=False | publishedAt=2026-10-29T22:36:05Z | actualEndTime=None | effective=2026-10-29 22:36:05+00:00 | McHenry Sees Democratic House, GOP Leadership Fight
-   - eLa9HRg1C6c | ongoing=False | publishedAt=2026-10-29T22:30:59Z | actualEndTime=None | effective=2026-10-29 22:30:59+00:00 | Sen. Scott Says US Should ‘Demolish’ Iran’s Regime
-   - EDWwcvZBFRQ | ongoing=False | publishedAt=2026-10-29T22:01:46Z | actualEndTime=None | effective=2026-10-29 22:01:46+00:00 | Tech Stocks Slide as Markets Rotate Into Small Caps
+   - biE_-YkChqc | ongoing=False | publishedAt=2026-10-31T00:19:56Z | actualEndTime=None | effective=2026-10-31 00:19:56+00:00 | Intel Suffers Worst Stock Thrashing in Decades on Weak Forec
+   - TwHgVWx3Lo8 | ongoing=False | publishedAt=2026-10-31T00:18:20Z | actualEndTime=None | effective=2026-10-31 00:18:20+00:00 | Ice Cube on Big3 League: In a Great Position To Scale
+   - v36754Mj96Y | ongoing=False | publishedAt=2026-10-31T00:18:24Z | actualEndTime=None | effective=2026-10-31 00:18:24+00:00 | Burger King US President on Sales Turnaround
+   - mTW0OYXnqnk | ongoing=False | publishedAt=2026-10-31T00:19:34Z | actualEndTime=None | effective=2026-10-31 00:19:34+00:00 | New Balance CEO Joe Preston on NYC Marathon Partnership
+   - k2QEU1awmxA | ongoing=False | publishedAt=2026-10-30T23:12:18Z | actualEndTime=None | effective=2026-10-30 23:12:18+00:00 | Wall Street Week | Affordability, Data Center Divide, Debt H
+   - XUUZbm3jqdo | ongoing=False | publishedAt=2026-10-30T23:07:59Z | actualEndTime=None | effective=2026-10-30 23:07:59+00:00 | DOJ Ramps Up Criminal Probe Amid Tight Alaska Senate Race
+   - c0NkfbATpXA | ongoing=False | publishedAt=2026-10-30T22:35:47Z | actualEndTime=None | effective=2026-10-30 22:35:47+00:00 | Trump Can Drive Turnout on Both Sides: Taylor
+   - x4ObMtFNClY | ongoing=False | publishedAt=2026-10-30T22:31:15Z | actualEndTime=None | effective=2026-10-30 22:31:15+00:00 | Killin Says Affordability Is Driving Colorado Race
+   - 9hltUhE6XMs | ongoing=False | publishedAt=2026-10-30T22:25:13Z | actualEndTime=None | effective=2026-10-30 22:25:13+00:00 | Toomey Says House in 'Really Rough Spot' for GOP
+   - 7d1McBQ-rUY | ongoing=False | publishedAt=2026-10-30T22:05:46Z | actualEndTime=None | effective=2026-10-30 22:05:46+00:00 | Bloomberg Screentime: Streaming, AI & Creators
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Binance Hack | Explained.
-  URL: https://www.youtube.com/watch?v=BMO6RQAFGhM
-  publishedAt: 2026-10-30T04:27:50Z
+  제목: They JUST Accidentally Revealed the Truth: The AI Bubble
+  URL: https://www.youtube.com/watch?v=R6CTLeHIJBY
+  publishedAt: 2026-10-31T02:50:49Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - R6CTLeHIJBY | ongoing=False | publishedAt=2026-10-31T02:50:49Z | actualEndTime=None | effective=2026-10-31 02:50:49+00:00 | They JUST Accidentally Revealed the Truth: The AI Bubble
+   - biRyvZBLpJ8 | ongoing=False | publishedAt=2026-10-30T22:29:48Z | actualEndTime=2026-10-30T20:04:24Z | effective=2026-10-30 20:04:24+00:00 | The Falling Stock Market.
+   - jt9kvVqzo0M | ongoing=False | publishedAt=2026-10-30T20:31:31Z | actualEndTime=None | effective=2026-10-30 20:31:31+00:00 | Anthropic JUST Crashed the Market: Explained.
+   - SrueFYphB4Y | ongoing=False | publishedAt=2026-10-30T16:51:48Z | actualEndTime=None | effective=2026-10-30 16:51:48+00:00 | The War is about to get REALLY BAD
    - BMO6RQAFGhM | ongoing=False | publishedAt=2026-10-30T04:27:50Z | actualEndTime=None | effective=2026-10-30 04:27:50+00:00 | The Binance Hack | Explained.
    - AvcKvg264Ws | ongoing=False | publishedAt=2026-10-29T18:54:25Z | actualEndTime=2026-10-29T15:34:36Z | effective=2026-10-29 15:34:36+00:00 | Now What. The Morning After the Fed & Google Disasters.
    - pmqaaMHfcm8 | ongoing=False | publishedAt=2026-10-29T18:22:40Z | actualEndTime=None | effective=2026-10-29 18:22:40+00:00 | Negative One Trillion Dollars.
    - sP9bfi2Tbvg | ongoing=False | publishedAt=2026-10-29T15:03:00Z | actualEndTime=None | effective=2026-10-29 15:03:00+00:00 | We need to Talk.
-   - 7j2C87An-SM | ongoing=False | publishedAt=2026-10-29T04:34:04Z | actualEndTime=None | effective=2026-10-29 04:34:04+00:00 | HOLY AI Merger: Nvidia's AI Stocks Marvell & Lumentum MERGIN
-   - EaPdGBSuYto | ongoing=False | publishedAt=2026-10-29T03:45:30Z | actualEndTime=None | effective=2026-10-29 03:45:30+00:00 | Team Trump is either about to make a deal or LYING...
-   - tCY71_jQp24 | ongoing=False | publishedAt=2026-10-29T02:58:52Z | actualEndTime=None | effective=2026-10-29 02:58:52+00:00 | It's OVER for these Home Buyers | The Housing Crash.
-   - fVF76VgCe3U | ongoing=False | publishedAt=2026-10-29T01:48:57Z | actualEndTime=None | effective=2026-10-29 01:48:57+00:00 | The Fed FOMC Meeting was a Disaster
-   - kvPpxubs0EE | ongoing=False | publishedAt=2026-10-28T23:32:45Z | actualEndTime=2026-10-28T22:01:03Z | effective=2026-10-28 22:01:03+00:00 | Microsoft Stock & Google Earnings & Bessent
-   - 823JkHQLcEQ | ongoing=False | publishedAt=2026-10-28T22:57:49Z | actualEndTime=2026-10-28T19:24:40Z | effective=2026-10-28 19:24:40+00:00 | The Fed Meeting
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  구글 -13% 사상 최대 폭락, 아마존마저 시간외 급락! 다시 커진 AI 수익성 공포    -  2026/10/29
-  URL: https://www.youtube.com/watch?v=7UPQ5J3rgrY
-  publishedAt: 2026-10-29T22:41:17Z
+  제목: 【미국 증시 오늘의 요약】  나스닥 6월 이후 최악의 날! 인텔·아마존 실적 쇼크에 바이낸스 63억 달러 해킹까지    -  2026/10/30
+  URL: https://www.youtube.com/watch?v=T5Py6jmHkjg
+  publishedAt: 2026-10-30T22:40:08Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - T5Py6jmHkjg | ongoing=False | publishedAt=2026-10-30T22:40:08Z | actualEndTime=None | effective=2026-10-30 22:40:08+00:00 | 【미국 증시 오늘의 요약】  나스닥 6월 이후 최악의 날! 인텔·아마존 실적 쇼크에 바이낸스 63억 달러 해
+   - lOqPbhBZWjg | ongoing=False | publishedAt=2026-10-30T21:50:33Z | actualEndTime=2026-10-30T21:30:29Z | effective=2026-10-30 21:30:29+00:00 | [26년 10월 30일 금]  아마존·인텔, 실적 실망감에 급락.. ｜ 바이낸스, 63억 달러 해킹 피해 ｜
    - 7UPQ5J3rgrY | ongoing=False | publishedAt=2026-10-29T22:41:17Z | actualEndTime=None | effective=2026-10-29 22:41:17+00:00 | 【미국 증시 오늘의 요약】  구글 -13% 사상 최대 폭락, 아마존마저 시간외 급락! 다시 커진 AI 수익성
    - UBFvk6FZkp0 | ongoing=False | publishedAt=2026-10-29T22:22:36Z | actualEndTime=2026-10-29T22:01:11Z | effective=2026-10-29 22:01:11+00:00 | [26년 10월 29일 목]  PCE가격지수, 3분기 GDP 성장률 ｜ 실적발표: 아마존, 인텔, 샌디스크 
-   - Yid1PTyaL8o | ongoing=False | publishedAt=2026-10-29T02:15:47Z | actualEndTime=2026-10-29T02:12:11Z | effective=2026-10-29 02:12:11+00:00 | [특별 방송] 삼성전자 - 실적발표  ｜ -  오선의 미국 증시 라이브
-   - Lfbd8ecVs78 | ongoing=False | publishedAt=2026-10-28T23:01:27Z | actualEndTime=None | effective=2026-10-28 23:01:27+00:00 | 【미국 증시 오늘의 요약】  연준은 금리 동결, 시장은 AI에 집중! 오라클 11% 급등·구글 시간외 급락 
-   - JNDJWTz347k | ongoing=False | publishedAt=2026-10-28T22:52:30Z | actualEndTime=2026-10-28T22:28:59Z | effective=2026-10-28 22:28:59+00:00 | [26년 10월 28일 수]  연준 금리 결정, FOMC 기자회견  ｜ 실적발표: 마이크로소프트, 구글 등 
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 구글 실적발표 떡락?? 단타 드가자잉!!!
-  URL: https://www.youtube.com/watch?v=Lm3Ow4S9ZH8
-  publishedAt: 2026-10-30T03:00:05Z
+  제목: [미국주식 백과사전-42] SaaSpocalypse? 이 주식들은 너무 위험합니다 #SNOW #ADP #ADBE #INTU #ADSK #KSPI
+  URL: https://www.youtube.com/watch?v=I0GVPYTkB0M
+  publishedAt: 2026-10-31T06:00:13Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - I0GVPYTkB0M | ongoing=False | publishedAt=2026-10-31T06:00:13Z | actualEndTime=None | effective=2026-10-31 06:00:13+00:00 | [미국주식 백과사전-42] SaaSpocalypse? 이 주식들은 너무 위험합니다 #SNOW #ADP #AD
+   - JqKuDEOCjbI | ongoing=False | publishedAt=2026-10-30T16:19:46Z | actualEndTime=2026-10-30T16:13:15Z | effective=2026-10-30 16:13:15+00:00 | [미국주식 LIVE] 나스닥 풀롱 잡아봅니다ㅣ#261030
    - Lm3Ow4S9ZH8 | ongoing=False | publishedAt=2026-10-30T03:00:05Z | actualEndTime=None | effective=2026-10-30 03:00:05+00:00 | 구글 실적발표 떡락?? 단타 드가자잉!!!
    - H3uYiK02bwo | ongoing=False | publishedAt=2026-10-30T00:12:59Z | actualEndTime=2026-10-30T00:10:44Z | effective=2026-10-30 00:10:44+00:00 | [미국마감&아침시황] 아마존 너마저...??ㅣ#261030
-   - Vn597Dj_3wQ | ongoing=False | publishedAt=2026-10-29T00:34:34Z | actualEndTime=2026-10-29T00:31:43Z | effective=2026-10-29 00:31:43+00:00 | [미국마감&아침시황] 구글은 검색광고 쇼크, 마소는 CAPEX 속도조절...?ㅣ#261029
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 빅테크 쇼크에 코스피도 폭락!
-  URL: https://www.youtube.com/watch?v=B08-0DIVmBE
-  publishedAt: 2026-10-30T03:22:32Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - G3__vlk5OcM | ongoing=False | publishedAt=2026-10-30T16:40:48Z | actualEndTime=None | effective=2026-10-30 16:40:48+00:00 | AI 주식 시즌 종료인가?
    - B08-0DIVmBE | ongoing=False | publishedAt=2026-10-30T03:22:32Z | actualEndTime=None | effective=2026-10-30 03:22:32+00:00 | 빅테크 쇼크에 코스피도 폭락!
    - O9lLR-DSZKg | ongoing=False | publishedAt=2026-10-29T16:19:24Z | actualEndTime=None | effective=2026-10-29 16:19:24+00:00 | 구글의 종말
-   - GJw5DQPyBnM | ongoing=False | publishedAt=2026-10-29T02:43:27Z | actualEndTime=None | effective=2026-10-29 02:43:27+00:00 | 잘나가던 코스피 이것에 무너졌다. #코스피 #삼성전자 #증여세
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - DBm1cqv3avc | ongoing=False | publishedAt=2026-10-30T09:33:21Z | actualEndTime=None | effective=2026-10-30 09:33:21+00:00 | AI인프라 쇼크 어떻게 대응해야 할까, 다음 승자까지 마음 편하게 투자하는 법
    - MXwB5P9mJxA | ongoing=False | publishedAt=2026-10-29T10:40:19Z | actualEndTime=None | effective=2026-10-29 10:40:19+00:00 | 큰 손이 된 키덜트 덕에 주식도 부활? 장난감 사는 어른 시대의 수혜주들
-   - _gMyqLP0928 | ongoing=False | publishedAt=2026-10-28T11:54:54Z | actualEndTime=None | effective=2026-10-28 11:54:54+00:00 | 주식 안 팔아도 세금 내라? 사상 초유의 억만장자세 실험 현실 될까
