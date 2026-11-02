@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-01 15:59 (KST)
-Run: 319 (id=41282976491)
+생성 시각: 2026-11-02 15:59 (KST)
+Run: 320 (id=41403313490)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,62 +8,54 @@ Run: 319 (id=41282976491)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: India’s Green Aviation Push Gives Waste Cooking Oil New Life
-  URL: https://www.youtube.com/watch?v=LM5UyMYyGYw
-  publishedAt: 2026-10-31T23:06:53Z
+  제목: Howard Marks Says AI Stumbles Have Boosted Skepticism
+  URL: https://www.youtube.com/watch?v=Dp051peJjXQ
+  publishedAt: 2026-11-02T06:40:51Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - LM5UyMYyGYw | ongoing=False | publishedAt=2026-10-31T23:06:53Z | actualEndTime=None | effective=2026-10-31 23:06:53+00:00 | India’s Green Aviation Push Gives Waste Cooking Oil New Life
-   - _fYHAWnIzeE | ongoing=False | publishedAt=2026-10-31T23:01:02Z | actualEndTime=None | effective=2026-10-31 23:01:02+00:00 | Anthropic's S1 | Google's AI Problem | The Rundown
-   - -WgCm7Z4qy8 | ongoing=False | publishedAt=2026-10-31T21:04:11Z | actualEndTime=None | effective=2026-10-31 21:04:11+00:00 | The Political Debate on Daylight Saving Time
-   - tRcFJBbWoxI | ongoing=False | publishedAt=2026-10-31T16:11:21Z | actualEndTime=None | effective=2026-10-31 16:11:21+00:00 | Tech Stocks Tank, Final Countdown to Midterm Elections
-   - -soOqRzDBW0 | ongoing=False | publishedAt=2026-10-31T15:24:46Z | actualEndTime=None | effective=2026-10-31 15:24:46+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - DiGeEGD7Xr0 | ongoing=False | publishedAt=2026-10-31T15:00:40Z | actualEndTime=None | effective=2026-10-31 15:00:40+00:00 | Israel’s Election Leaves Netanyahu in Limbo
-   - j_A1r4dvgGU | ongoing=False | publishedAt=2026-10-31T14:54:19Z | actualEndTime=None | effective=2026-10-31 14:54:19+00:00 | Bolsonaro Leaves Brazil After Rejecting Election
-   - VvYmC62RXBw | ongoing=False | publishedAt=2026-10-31T14:45:18Z | actualEndTime=None | effective=2026-10-31 14:45:18+00:00 | Midterm Fight Comes Down to the Final Days
-   - NC2OGYpZWNQ | ongoing=False | publishedAt=2026-10-31T14:18:19Z | actualEndTime=None | effective=2026-10-31 14:18:19+00:00 | Rep. Meeks Puts Affordability Atop Democrats’ Agenda
-   - HndwoC6Tmbo | ongoing=False | publishedAt=2026-10-31T14:04:20Z | actualEndTime=None | effective=2026-10-31 14:04:20+00:00 | Why Voters Are Turning Against Data Centers
+   - Dp051peJjXQ | ongoing=False | publishedAt=2026-11-02T06:40:51Z | actualEndTime=None | effective=2026-11-02 06:40:51+00:00 | Howard Marks Says AI Stumbles Have Boosted Skepticism
+   - jp1bYfdXzQs | ongoing=False | publishedAt=2026-11-02T06:17:33Z | actualEndTime=None | effective=2026-11-02 06:17:33+00:00 | Gulf States Push for US-Iran Diplomatic Off-Ramp
+   - 3wyPZg3wt74 | ongoing=False | publishedAt=2026-11-02T05:37:09Z | actualEndTime=None | effective=2026-11-02 05:37:09+00:00 | Asia's Traders Weigh Tech Selloff, US Midterms
+   - 5uEMAmLuQZs | ongoing=False | publishedAt=2026-11-02T04:40:54Z | actualEndTime=None | effective=2026-11-02 04:40:54+00:00 | China Stocks Rise on Reports of Market Support Measures
+   - _dyvftxRfjs | ongoing=False | publishedAt=2026-11-01T16:44:02Z | actualEndTime=None | effective=2026-11-01 16:44:02+00:00 | Big Tech Earnings Coming, Final Midterm Election Push
+   - XkqH15JOVsI | ongoing=False | publishedAt=2026-11-01T16:27:18Z | actualEndTime=None | effective=2026-11-01 16:27:18+00:00 | The Political Debate on Daylight Saving Time
+   - c2kj0tzpzNk | ongoing=False | publishedAt=2026-11-01T15:58:32Z | actualEndTime=None | effective=2026-11-01 15:58:32+00:00 | Bookmarked: News Stories On Our Reading List
+   - jyM31IJL8N8 | ongoing=False | publishedAt=2026-11-01T15:55:03Z | actualEndTime=None | effective=2026-11-01 15:55:03+00:00 | Midterm Results Could Reshape Both Parties
+   - TH3ajuWSqF4 | ongoing=False | publishedAt=2026-11-01T15:38:44Z | actualEndTime=None | effective=2026-11-01 15:38:44+00:00 | Trump Struggles to Sell Voters on the Economy
+   - 7Kfe-dEEPO4 | ongoing=False | publishedAt=2026-11-01T15:03:41Z | actualEndTime=None | effective=2026-11-01 15:03:41+00:00 | Why Capitalism Is Losing Young Americans
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: You've been WARNED.
-  URL: https://www.youtube.com/watch?v=5PPwXRkbNxM
-  publishedAt: 2026-11-01T00:40:31Z
+  제목: HORRIFIC: Florida Learjet Crash Audio [9 Dead] | Explained.
+  URL: https://www.youtube.com/watch?v=M8Gjk4rTNaQ
+  publishedAt: 2026-11-01T22:21:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - M8Gjk4rTNaQ | ongoing=False | publishedAt=2026-11-01T22:21:37Z | actualEndTime=None | effective=2026-11-01 22:21:37+00:00 | HORRIFIC: Florida Learjet Crash Audio [9 Dead] | Explained.
+   - 7KqjagCM80I | ongoing=False | publishedAt=2026-11-01T19:18:43Z | actualEndTime=None | effective=2026-11-01 19:18:43+00:00 | How the Election will Damage Stocks: Prepare.
    - 5PPwXRkbNxM | ongoing=False | publishedAt=2026-11-01T00:40:31Z | actualEndTime=None | effective=2026-11-01 00:40:31+00:00 | You've been WARNED.
-   - R6CTLeHIJBY | ongoing=False | publishedAt=2026-10-31T02:50:49Z | actualEndTime=None | effective=2026-10-31 02:50:49+00:00 | They JUST Accidentally Revealed the Truth: The AI Bubble
-   - biRyvZBLpJ8 | ongoing=False | publishedAt=2026-10-30T22:29:48Z | actualEndTime=2026-10-30T20:04:24Z | effective=2026-10-30 20:04:24+00:00 | The Falling Stock Market.
-   - jt9kvVqzo0M | ongoing=False | publishedAt=2026-10-30T20:31:31Z | actualEndTime=None | effective=2026-10-30 20:31:31+00:00 | Anthropic JUST Crashed the Market: Explained.
-   - SrueFYphB4Y | ongoing=False | publishedAt=2026-10-30T16:51:48Z | actualEndTime=None | effective=2026-10-30 16:51:48+00:00 | The War is about to get REALLY BAD
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - T5Py6jmHkjg | ongoing=False | publishedAt=2026-10-30T22:40:08Z | actualEndTime=None | effective=2026-10-30 22:40:08+00:00 | 【미국 증시 오늘의 요약】  나스닥 6월 이후 최악의 날! 인텔·아마존 실적 쇼크에 바이낸스 63억 달러 해
-   - lOqPbhBZWjg | ongoing=False | publishedAt=2026-10-30T21:50:33Z | actualEndTime=2026-10-30T21:30:29Z | effective=2026-10-30 21:30:29+00:00 | [26년 10월 30일 금]  아마존·인텔, 실적 실망감에 급락.. ｜ 바이낸스, 63억 달러 해킹 피해 ｜
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
-  상태: NO_TRANSCRIPT
-  제목: 좋은 실적에도 주가가 떨어지는 이유가 있습니다...
-  URL: https://www.youtube.com/watch?v=BuztWn2gt4g
-  publishedAt: 2026-11-01T00:00:05Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
-   - BuztWn2gt4g | ongoing=False | publishedAt=2026-11-01T00:00:05Z | actualEndTime=None | effective=2026-11-01 00:00:05+00:00 | 좋은 실적에도 주가가 떨어지는 이유가 있습니다...
-   - I0GVPYTkB0M | ongoing=False | publishedAt=2026-10-31T06:00:13Z | actualEndTime=None | effective=2026-10-31 06:00:13+00:00 | [미국주식 백과사전-42] SaaSpocalypse? 이 주식들은 너무 위험합니다 #SNOW #ADP #AD
-   - JqKuDEOCjbI | ongoing=False | publishedAt=2026-10-30T16:19:46Z | actualEndTime=2026-10-30T16:13:15Z | effective=2026-10-30 16:13:15+00:00 | [미국주식 LIVE] 나스닥 풀롱 잡아봅니다ㅣ#261030
-
-- 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - pO-XVnrlBMA | ongoing=False | publishedAt=2026-11-01T11:00:32Z | actualEndTime=None | effective=2026-11-01 11:00:32+00:00 | 앤트로픽 매수를 반대하는 이유
+   - BuztWn2gt4g | ongoing=False | publishedAt=2026-11-01T00:00:05Z | actualEndTime=None | effective=2026-11-01 00:00:05+00:00 | 좋은 실적에도 주가가 떨어지는 이유가 있습니다...
+
+- 내일은 투자왕 - 김단테
+  상태: NO_TRANSCRIPT
+  제목: 검은 월요일이 아닌 진짜 이유 #코스피 #인텔 #샘알트만
+  URL: https://www.youtube.com/watch?v=DzjJQcqP6sw
+  publishedAt: 2026-11-02T04:30:45Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - DzjJQcqP6sw | ongoing=False | publishedAt=2026-11-02T04:30:45Z | actualEndTime=None | effective=2026-11-02 04:30:45+00:00 | 검은 월요일이 아닌 진짜 이유 #코스피 #인텔 #샘알트만
    - BbcxxMtijlM | ongoing=False | publishedAt=2026-10-31T17:10:49Z | actualEndTime=None | effective=2026-10-31 17:10:49+00:00 | AI 주식 아직 희망이 있다?
-   - G3__vlk5OcM | ongoing=False | publishedAt=2026-10-30T16:40:48Z | actualEndTime=None | effective=2026-10-30 16:40:48+00:00 | AI 주식 시즌 종료인가?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - DBm1cqv3avc | ongoing=False | publishedAt=2026-10-30T09:33:21Z | actualEndTime=None | effective=2026-10-30 09:33:21+00:00 | AI인프라 쇼크 어떻게 대응해야 할까, 다음 승자까지 마음 편하게 투자하는 법
+  비고: 최근 48시간 검색 결과 없음
