@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-02 15:59 (KST)
-Run: 320 (id=41403313490)
+생성 시각: 2026-11-03 16:23 (KST)
+Run: 321 (id=41595985220)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,54 +8,67 @@ Run: 320 (id=41403313490)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Howard Marks Says AI Stumbles Have Boosted Skepticism
-  URL: https://www.youtube.com/watch?v=Dp051peJjXQ
-  publishedAt: 2026-11-02T06:40:51Z
+  제목: Is AI a Bubble? Wall Street Titans Say Not Even Close
+  URL: https://www.youtube.com/watch?v=JDxHpO51cAI
+  publishedAt: 2026-11-03T06:56:36Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - Dp051peJjXQ | ongoing=False | publishedAt=2026-11-02T06:40:51Z | actualEndTime=None | effective=2026-11-02 06:40:51+00:00 | Howard Marks Says AI Stumbles Have Boosted Skepticism
-   - jp1bYfdXzQs | ongoing=False | publishedAt=2026-11-02T06:17:33Z | actualEndTime=None | effective=2026-11-02 06:17:33+00:00 | Gulf States Push for US-Iran Diplomatic Off-Ramp
-   - 3wyPZg3wt74 | ongoing=False | publishedAt=2026-11-02T05:37:09Z | actualEndTime=None | effective=2026-11-02 05:37:09+00:00 | Asia's Traders Weigh Tech Selloff, US Midterms
-   - 5uEMAmLuQZs | ongoing=False | publishedAt=2026-11-02T04:40:54Z | actualEndTime=None | effective=2026-11-02 04:40:54+00:00 | China Stocks Rise on Reports of Market Support Measures
-   - _dyvftxRfjs | ongoing=False | publishedAt=2026-11-01T16:44:02Z | actualEndTime=None | effective=2026-11-01 16:44:02+00:00 | Big Tech Earnings Coming, Final Midterm Election Push
-   - XkqH15JOVsI | ongoing=False | publishedAt=2026-11-01T16:27:18Z | actualEndTime=None | effective=2026-11-01 16:27:18+00:00 | The Political Debate on Daylight Saving Time
-   - c2kj0tzpzNk | ongoing=False | publishedAt=2026-11-01T15:58:32Z | actualEndTime=None | effective=2026-11-01 15:58:32+00:00 | Bookmarked: News Stories On Our Reading List
-   - jyM31IJL8N8 | ongoing=False | publishedAt=2026-11-01T15:55:03Z | actualEndTime=None | effective=2026-11-01 15:55:03+00:00 | Midterm Results Could Reshape Both Parties
-   - TH3ajuWSqF4 | ongoing=False | publishedAt=2026-11-01T15:38:44Z | actualEndTime=None | effective=2026-11-01 15:38:44+00:00 | Trump Struggles to Sell Voters on the Economy
-   - 7Kfe-dEEPO4 | ongoing=False | publishedAt=2026-11-01T15:03:41Z | actualEndTime=None | effective=2026-11-01 15:03:41+00:00 | Why Capitalism Is Losing Young Americans
+   - JDxHpO51cAI | ongoing=False | publishedAt=2026-11-03T06:56:36Z | actualEndTime=None | effective=2026-11-03 06:56:36+00:00 | Is AI a Bubble? Wall Street Titans Say Not Even Close
+   - y-mYlz5bUTc | ongoing=False | publishedAt=2026-11-03T05:43:57Z | actualEndTime=None | effective=2026-11-03 05:43:57+00:00 | Asian Stocks Fall Ahead of US Midterms
+   - UGxU8YDzN3Q | ongoing=False | publishedAt=2026-11-03T05:00:31Z | actualEndTime=None | effective=2026-11-03 05:00:31+00:00 | Binance Estimates $6.3 Billion Hacked in Crypto’s Largest He
+   - X22DSnaBruQ | ongoing=False | publishedAt=2026-11-03T04:47:23Z | actualEndTime=None | effective=2026-11-03 04:47:23+00:00 | US Midterms Test Trumpism as One Nation Surges in Australia
+   - MCrAPRYbWaM | ongoing=False | publishedAt=2026-11-03T04:46:24Z | actualEndTime=None | effective=2026-11-03 04:46:24+00:00 | Wall Street Bosses See Risks But Remain Bullish On AI
+   - 7QHt-OE6v4A | ongoing=False | publishedAt=2026-11-03T00:14:19Z | actualEndTime=None | effective=2026-11-03 00:14:19+00:00 | Kumar: Costs, ICE Are Pushing Latinos Toward Democrats
+   - -Xnz7tLtRKc | ongoing=False | publishedAt=2026-11-03T00:13:10Z | actualEndTime=None | effective=2026-11-03 00:13:10+00:00 | Trump Talks Reflecting Pool in Midterm Closing Message
+   - -fJoBdNv-dw | ongoing=False | publishedAt=2026-11-02T23:28:48Z | actualEndTime=None | effective=2026-11-02 23:28:48+00:00 | Robinhood CFO on Retail IPO Demand, Agentic Trading
+   - WLvP-wGZH0k | ongoing=False | publishedAt=2026-11-02T23:13:56Z | actualEndTime=None | effective=2026-11-02 23:13:56+00:00 | Democrats Could Flip Senate Seat in North Carolina
+   - bjiF2zcvy30 | ongoing=False | publishedAt=2026-11-02T22:58:56Z | actualEndTime=None | effective=2026-11-02 22:58:56+00:00 | Apple Sales Meet Estimates, China Is a Weak Spot
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: HORRIFIC: Florida Learjet Crash Audio [9 Dead] | Explained.
-  URL: https://www.youtube.com/watch?v=M8Gjk4rTNaQ
-  publishedAt: 2026-11-01T22:21:37Z
+  제목: SHOCKING DATA *Update*: Florida Lear Jet CRASH.
+  URL: https://www.youtube.com/watch?v=X1Cu5InB6k4
+  publishedAt: 2026-11-02T19:28:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - X1Cu5InB6k4 | ongoing=False | publishedAt=2026-11-02T19:28:53Z | actualEndTime=None | effective=2026-11-02 19:28:53+00:00 | SHOCKING DATA *Update*: Florida Lear Jet CRASH.
+   - t0BEVSmy5xk | ongoing=False | publishedAt=2026-11-02T15:11:54Z | actualEndTime=None | effective=2026-11-02 15:11:54+00:00 | The Final Hours on Iran: Prepare.
    - M8Gjk4rTNaQ | ongoing=False | publishedAt=2026-11-01T22:21:37Z | actualEndTime=None | effective=2026-11-01 22:21:37+00:00 | HORRIFIC: Florida Learjet Crash Audio [9 Dead] | Explained.
    - 7KqjagCM80I | ongoing=False | publishedAt=2026-11-01T19:18:43Z | actualEndTime=None | effective=2026-11-01 19:18:43+00:00 | How the Election will Damage Stocks: Prepare.
-   - 5PPwXRkbNxM | ongoing=False | publishedAt=2026-11-01T00:40:31Z | actualEndTime=None | effective=2026-11-01 00:40:31+00:00 | You've been WARNED.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  나스닥 6월 이후 최악의 날! 인텔·아마존 실적 쇼크에 바이낸스 63억 달러 해킹까지    -  2026/11/02
+  URL: https://www.youtube.com/watch?v=JADZC7paRZk
+  publishedAt: 2026-11-02T23:37:32Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - JADZC7paRZk | ongoing=False | publishedAt=2026-11-02T23:37:32Z | actualEndTime=None | effective=2026-11-02 23:37:32+00:00 | 【미국 증시 오늘의 요약】  나스닥 6월 이후 최악의 날! 인텔·아마존 실적 쇼크에 바이낸스 63억 달러 해
+   - -2yupc2KITw | ongoing=False | publishedAt=2026-11-02T23:22:54Z | actualEndTime=2026-11-02T23:01:13Z | effective=2026-11-02 23:01:13+00:00 | [26년 11월 02일 월]  이란 최고지도자, 이란 대통령에게 협상 권한 일부 위임｜ 실적발표: 애플, 팔
 
 - 설명왕 테이버
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 빅테크의 AI 포트폴리오를 보면 미래가 보입니다
+  URL: https://www.youtube.com/watch?v=mGotpkO-kxY
+  publishedAt: 2026-11-03T03:00:20Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - mGotpkO-kxY | ongoing=False | publishedAt=2026-11-03T03:00:20Z | actualEndTime=None | effective=2026-11-03 03:00:20+00:00 | 빅테크의 AI 포트폴리오를 보면 미래가 보입니다
+   - JK6SEWXTlHg | ongoing=False | publishedAt=2026-11-03T00:13:49Z | actualEndTime=2026-11-03T00:09:46Z | effective=2026-11-03 00:09:46+00:00 | [미국마감&아침시황] 미국 중간선거 D-1, 이란 공습 재개...?ㅣ애플, 실적이 둔화되고 있다?ㅣ팔란티어,
    - pO-XVnrlBMA | ongoing=False | publishedAt=2026-11-01T11:00:32Z | actualEndTime=None | effective=2026-11-01 11:00:32+00:00 | 앤트로픽 매수를 반대하는 이유
-   - BuztWn2gt4g | ongoing=False | publishedAt=2026-11-01T00:00:05Z | actualEndTime=None | effective=2026-11-01 00:00:05+00:00 | 좋은 실적에도 주가가 떨어지는 이유가 있습니다...
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 검은 월요일이 아닌 진짜 이유 #코스피 #인텔 #샘알트만
-  URL: https://www.youtube.com/watch?v=DzjJQcqP6sw
-  publishedAt: 2026-11-02T04:30:45Z
+  제목: 왜 또 아픈 상처에 소금을 뿌리십니까? #코스피 #하이닉스 #삼성전자
+  URL: https://www.youtube.com/watch?v=tz0nhO93ohc
+  publishedAt: 2026-11-03T07:19:24Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - tz0nhO93ohc | ongoing=False | publishedAt=2026-11-03T07:19:24Z | actualEndTime=None | effective=2026-11-03 07:19:24+00:00 | 왜 또 아픈 상처에 소금을 뿌리십니까? #코스피 #하이닉스 #삼성전자
    - DzjJQcqP6sw | ongoing=False | publishedAt=2026-11-02T04:30:45Z | actualEndTime=None | effective=2026-11-02 04:30:45+00:00 | 검은 월요일이 아닌 진짜 이유 #코스피 #인텔 #샘알트만
-   - BbcxxMtijlM | ongoing=False | publishedAt=2026-10-31T17:10:49Z | actualEndTime=None | effective=2026-10-31 17:10:49+00:00 | AI 주식 아직 희망이 있다?
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - 6Zq7p54WTNI | ongoing=False | publishedAt=2026-11-02T11:36:15Z | actualEndTime=None | effective=2026-11-02 11:36:15+00:00 | 인텔 -30% 쇼크, AI 피크아웃일까 중간선거 코앞 리스크 관리일까
