@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-04 16:05 (KST)
-Run: 322 (id=41789819355)
+생성 시각: 2026-11-05 16:34 (KST)
+Run: 323 (id=41988104125)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,77 +8,77 @@ Run: 322 (id=41789819355)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Talarico Completes Democratic Sweep of Texas
-  URL: https://www.youtube.com/watch?v=aHvLa9NbYBE
-  publishedAt: 2026-11-04T06:34:11Z
+  제목: China Stocks Surge As Blue Wave Sinks Korea's Heavyweights
+  URL: https://www.youtube.com/watch?v=7e8JqHwcw3c
+  publishedAt: 2026-11-05T07:13:44Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - aHvLa9NbYBE | ongoing=False | publishedAt=2026-11-04T06:34:11Z | actualEndTime=None | effective=2026-11-04 06:34:11+00:00 | Talarico Completes Democratic Sweep of Texas
-   - Xqs0aszvJXA | ongoing=False | publishedAt=2026-11-04T06:11:05Z | actualEndTime=None | effective=2026-11-04 06:11:05+00:00 | El-Sayed, Rogers Locked in Tight Race for Michigan Senate Se
-   - Uhuzf0UDCJ0 | ongoing=False | publishedAt=2026-11-04T05:47:54Z | actualEndTime=None | effective=2026-11-04 05:47:54+00:00 | Maine Democrat Jackson Defeats Senator Susan Collins
-   - 2fKLhtvsRNc | ongoing=False | publishedAt=2026-11-04T05:37:01Z | actualEndTime=None | effective=2026-11-04 05:37:01+00:00 | Inside Indonesia’s Wash-Trade Scheme
-   - Kx8A-n9OPV0 | ongoing=False | publishedAt=2026-11-04T05:25:00Z | actualEndTime=None | effective=2026-11-04 05:25:00+00:00 | Democrats Take Control of Congress in Midterm Landslide
-   - W1YGTBDibHk | ongoing=False | publishedAt=2026-11-04T05:03:34Z | actualEndTime=None | effective=2026-11-04 05:03:34+00:00 | Election 2026 Special Coverage | Part 2
-   - LJ_5WC1gPJ8 | ongoing=False | publishedAt=2026-11-04T05:02:40Z | actualEndTime=None | effective=2026-11-04 05:02:40+00:00 | Trump Says He'll Accept Results of Elections
-   - tuDqKUsvxZ4 | ongoing=False | publishedAt=2026-11-04T04:41:05Z | actualEndTime=None | effective=2026-11-04 04:41:05+00:00 | Election Night: Democrat Talarico Beats Paxton in Texas
-   - ajFcRVkpyo0 | ongoing=False | publishedAt=2026-11-04T04:38:25Z | actualEndTime=None | effective=2026-11-04 04:38:25+00:00 | Blue-Wave Bets Weigh on Growth Stocks, Futures
-   - QywnomwOyOk | ongoing=False | publishedAt=2026-11-04T04:36:31Z | actualEndTime=None | effective=2026-11-04 04:36:31+00:00 | Ohio's Brown Coming Back to US Senate
+   - 7e8JqHwcw3c | ongoing=False | publishedAt=2026-11-05T07:13:44Z | actualEndTime=None | effective=2026-11-05 07:13:44+00:00 | China Stocks Surge As Blue Wave Sinks Korea's Heavyweights
+   - 5QVxH0w2r7Y | ongoing=False | publishedAt=2026-11-05T07:13:20Z | actualEndTime=None | effective=2026-11-05 07:13:20+00:00 | Hormuz Diplomacy Gains Ground as Trump Plays Down New Iran S
+   - Oro6OPe4zc4 | ongoing=False | publishedAt=2026-11-05T06:30:37Z | actualEndTime=None | effective=2026-11-05 06:30:37+00:00 | Where to Invest 1 Crore Rupees
+   - KhBdcAJN6P8 | ongoing=False | publishedAt=2026-11-05T05:30:30Z | actualEndTime=None | effective=2026-11-05 05:30:30+00:00 | Who Could Replace Christine Lagarde as ECB President?
+   - obu9TgvRebA | ongoing=False | publishedAt=2026-11-05T05:00:37Z | actualEndTime=None | effective=2026-11-05 05:00:37+00:00 | Supermarkets Across Europe Report Suspected Freezer Hack
+   - UVS3nMPSRb0 | ongoing=False | publishedAt=2026-11-05T04:44:38Z | actualEndTime=None | effective=2026-11-05 04:44:38+00:00 | Asian Chip Stocks Slide, Oil Plunges After US Midterms
+   - O8nINARvaTI | ongoing=False | publishedAt=2026-11-05T00:03:08Z | actualEndTime=None | effective=2026-11-05 00:03:08+00:00 | Democratic Sweep Redraws Political Map
+   - uC1XCFmgtzE | ongoing=False | publishedAt=2026-11-04T23:29:54Z | actualEndTime=None | effective=2026-11-04 23:29:54+00:00 | Trump Talks Ballroom & Arch After Election Loss
+   - CVxA4uYSIxY | ongoing=False | publishedAt=2026-11-04T23:25:11Z | actualEndTime=None | effective=2026-11-04 23:25:11+00:00 | Scudder Says Texas Is Not for Sale
+   - v-cxKkJ_3ZE | ongoing=False | publishedAt=2026-11-04T23:21:09Z | actualEndTime=None | effective=2026-11-04 23:21:09+00:00 | Panetta Says Voters Sent Trump a Message on Iran War
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Election Results: 2026 Live Polls with Meet Kevin
-  URL: https://www.youtube.com/watch?v=LEkfQUtrP3w
-  publishedAt: 2026-11-04T05:39:30Z
-  actualEndTime: 2026-11-04T05:05:59Z
+  제목: I Analyzed Alex Hormozi’s Best & Worst Advice
+  URL: https://www.youtube.com/watch?v=9wPXrD_uKz8
+  publishedAt: 2026-11-05T02:58:52Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 9wPXrD_uKz8 | ongoing=False | publishedAt=2026-11-05T02:58:52Z | actualEndTime=None | effective=2026-11-05 02:58:52+00:00 | I Analyzed Alex Hormozi’s Best & Worst Advice
+   - rf6eHOe_jT0 | ongoing=False | publishedAt=2026-11-04T16:02:12Z | actualEndTime=None | effective=2026-11-04 16:02:12+00:00 | OMG WHAT'S HAPPENING
+   - NApjDYej0xM | ongoing=False | publishedAt=2026-11-04T15:51:50Z | actualEndTime=2026-11-04T15:47:33Z | effective=2026-11-04 15:47:33+00:00 | The Stock Market & Morning After Election 2026.
+   - JYTNMKnbr2E | ongoing=False | publishedAt=2026-11-04T13:40:41Z | actualEndTime=None | effective=2026-11-04 13:40:41+00:00 | Investing in AI Venture Capital with Just $500 (Here’s How)
    - LEkfQUtrP3w | ongoing=False | publishedAt=2026-11-04T05:39:30Z | actualEndTime=2026-11-04T05:05:59Z | effective=2026-11-04 05:05:59+00:00 | Election Results: 2026 Live Polls with Meet Kevin
-   - sRAzMmbzAYc | ongoing=False | publishedAt=2026-11-04T05:29:11Z | actualEndTime=None | effective=2026-11-04 05:29:11+00:00 | YIKES: The Election JUST Flipped Everything.
-   - SLG4LOeBjek | ongoing=False | publishedAt=2026-11-03T22:52:30Z | actualEndTime=None | effective=2026-11-03 22:52:30+00:00 | The Start of the AI Boom (Or Depression) [How Cooked are We?
+   - sRAzMmbzAYc | ongoing=False | publishedAt=2026-11-04T05:29:11Z | actualEndTime=None | effective=2026-11-04 05:29:11+00:00 | What the 2026 Election Results Mean for Us.
+   - SLG4LOeBjek | ongoing=False | publishedAt=2026-11-03T22:52:30Z | actualEndTime=None | effective=2026-11-03 22:52:30+00:00 | The AI Great Depression.
    - Ndibj4_9Hqw | ongoing=False | publishedAt=2026-11-03T22:22:20Z | actualEndTime=2026-11-03T22:17:56Z | effective=2026-11-03 22:17:56+00:00 | The Stock Market, AMD Earnings, and Pre-Election Stream
-   - -UiDN400X-c | ongoing=False | publishedAt=2026-11-03T18:41:44Z | actualEndTime=None | effective=2026-11-03 18:41:44+00:00 | Learjet Crash Stabilizer Found (BROKE OFF!!) & Victim Profil
+   - -UiDN400X-c | ongoing=False | publishedAt=2026-11-03T18:41:44Z | actualEndTime=None | effective=2026-11-03 18:41:44+00:00 | HORRIFIC: Florida Learjet Crash Update & Victims + Dog
    - uEAn9TO6aew | ongoing=False | publishedAt=2026-11-03T14:11:45Z | actualEndTime=None | effective=2026-11-03 14:11:45+00:00 | Trump Accepts Iran Deal Framework | Market Dot Com CRASH Lev
-   - X1Cu5InB6k4 | ongoing=False | publishedAt=2026-11-02T19:28:53Z | actualEndTime=None | effective=2026-11-02 19:28:53+00:00 | SHOCKING DATA *Update*: Florida Lear Jet CRASH.
-   - t0BEVSmy5xk | ongoing=False | publishedAt=2026-11-02T15:11:54Z | actualEndTime=None | effective=2026-11-02 15:11:54+00:00 | The Final Hours on Iran: Prepare.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 11월 03일 화]  실적: AMD, 슈퍼마이크로 ｜ 미국 중간선거 D-Day｜미·이란 협상 추이 주시 속 유가 반등｜  -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=Gm8nvUDKQvM
-  publishedAt: 2026-11-04T06:37:29Z
-  actualEndTime: 2026-11-03T23:00:23Z
+  제목: [26년 11월 04일 수]  미 중간선거 민주당 압승 ｜ AMD·슈퍼마이크로 어닝 서프라이즈｜미 재무부, 분기 국채 발행 계획｜  -  오선의 미국 증시 라이브
+  URL: https://www.youtube.com/watch?v=xljN0Wfcjck
+  publishedAt: 2026-11-04T23:50:13Z
+  actualEndTime: 2026-11-04T22:33:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - xljN0Wfcjck | ongoing=False | publishedAt=2026-11-04T23:50:13Z | actualEndTime=2026-11-04T22:33:53Z | effective=2026-11-04 22:33:53+00:00 | [26년 11월 04일 수]  미 중간선거 민주당 압승 ｜ AMD·슈퍼마이크로 어닝 서프라이즈｜미 재무부, 
+   - sOfuZhI8Dxk | ongoing=False | publishedAt=2026-11-04T23:14:06Z | actualEndTime=None | effective=2026-11-04 23:14:06+00:00 | 【미국 증시 오늘의 요약】  마소·애플은 사상 최고가, 반도체는 6개월 최저치! 민주당 압승이 바꾼 AI 판
    - Gm8nvUDKQvM | ongoing=False | publishedAt=2026-11-04T06:37:29Z | actualEndTime=2026-11-03T23:00:23Z | effective=2026-11-03 23:00:23+00:00 | [26년 11월 03일 화]  실적: AMD, 슈퍼마이크로 ｜ 미국 중간선거 D-Day｜미·이란 협상 추이 
    - bWubgfi4FH8 | ongoing=False | publishedAt=2026-11-03T23:35:38Z | actualEndTime=None | effective=2026-11-03 23:35:38+00:00 | 【미국 증시 오늘의 요약】  미 중간선거 속 AI·반도체 반등! 장 마감 후 AMD·슈퍼마이크로 깜짝 실적까
-   - JADZC7paRZk | ongoing=False | publishedAt=2026-11-02T23:37:32Z | actualEndTime=None | effective=2026-11-02 23:37:32+00:00 | 【미국 증시 오늘의 요약】  나스닥 6월 이후 최악의 날! 인텔·아마존 실적 쇼크에 바이낸스 63억 달러 해
-   - -2yupc2KITw | ongoing=False | publishedAt=2026-11-02T23:22:54Z | actualEndTime=2026-11-02T23:01:13Z | effective=2026-11-02 23:01:13+00:00 | [26년 11월 02일 월]  이란 최고지도자, 이란 대통령에게 협상 권한 일부 위임｜ 실적발표: 애플, 팔
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 이궈궈던!! 반도체 가즈아!!!ㅣ#261104
-  URL: https://www.youtube.com/watch?v=ClaXyAr1uCI
-  publishedAt: 2026-11-04T00:10:12Z
-  actualEndTime: 2026-11-04T00:07:02Z
+  제목: 민주당이 집권하면 미국 AI 패권 위기 온다고?!
+  URL: https://www.youtube.com/watch?v=Yq4jO_TRjp8
+  publishedAt: 2026-11-05T06:00:14Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - Yq4jO_TRjp8 | ongoing=False | publishedAt=2026-11-05T06:00:14Z | actualEndTime=None | effective=2026-11-05 06:00:14+00:00 | 민주당이 집권하면 미국 AI 패권 위기 온다고?!
+   - m8Fpw3rY_tI | ongoing=False | publishedAt=2026-11-05T03:00:38Z | actualEndTime=None | effective=2026-11-05 03:00:38+00:00 | 민주당 때문에 반도체 떡락한다고? 그럼 사야지!!
+   - bnCr6FTi0ZI | ongoing=False | publishedAt=2026-11-05T00:09:54Z | actualEndTime=2026-11-05T00:07:22Z | effective=2026-11-05 00:07:22+00:00 | [미국마감&아침시황] 우울한 트럼프, 헤그세스 짤린다...?ㅣ유가 급락! 금리도 하락! 그런데 반도체는 왜 
    - ClaXyAr1uCI | ongoing=False | publishedAt=2026-11-04T00:10:12Z | actualEndTime=2026-11-04T00:07:02Z | effective=2026-11-04 00:07:02+00:00 | [미국마감&아침시황] 이궈궈던!! 반도체 가즈아!!!ㅣ#261104
-   - mGotpkO-kxY | ongoing=False | publishedAt=2026-11-03T03:00:20Z | actualEndTime=None | effective=2026-11-03 03:00:20+00:00 | 빅테크의 AI 포트폴리오를 보면 미래가 보입니다
-   - JK6SEWXTlHg | ongoing=False | publishedAt=2026-11-03T00:13:49Z | actualEndTime=2026-11-03T00:09:46Z | effective=2026-11-03 00:09:46+00:00 | [미국마감&아침시황] 미국 중간선거 D-1, 이란 공습 재개...?ㅣ애플, 실적이 둔화되고 있다?ㅣ팔란티어,
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 미국 중간선거에 코스피 개박살? #중간선거 #블루웨이브 #코스피
-  URL: https://www.youtube.com/watch?v=_HIPylV9BUs
-  publishedAt: 2026-11-04T03:23:30Z
+  제목: 중간선거에 코스피 대폭락 #중간선거 #블루웨이브 #코스피
+  URL: https://www.youtube.com/watch?v=3uSiJ-uYlhY
+  publishedAt: 2026-11-05T01:45:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 3uSiJ-uYlhY | ongoing=False | publishedAt=2026-11-05T01:45:46Z | actualEndTime=None | effective=2026-11-05 01:45:46+00:00 | 중간선거에 코스피 대폭락 #중간선거 #블루웨이브 #코스피
    - _HIPylV9BUs | ongoing=False | publishedAt=2026-11-04T03:23:30Z | actualEndTime=None | effective=2026-11-04 03:23:30+00:00 | 미국 중간선거에 코스피 개박살? #중간선거 #블루웨이브 #코스피
-   - tz0nhO93ohc | ongoing=False | publishedAt=2026-11-03T07:19:24Z | actualEndTime=None | effective=2026-11-03 07:19:24+00:00 | 왜 또 아픈 상처에 소금을 뿌리십니까? #코스피 #하이닉스 #삼성전자
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 4Gkk5BqjIf0 | ongoing=False | publishedAt=2026-11-03T11:53:59Z | actualEndTime=None | effective=2026-11-03 11:53:59+00:00 | 중간선거 이후 더 큰 전쟁이 시작된다? 유례 없는 움직임, 불길한 신호일까
-   - 6Zq7p54WTNI | ongoing=False | publishedAt=2026-11-02T11:36:15Z | actualEndTime=None | effective=2026-11-02 11:36:15+00:00 | 인텔 -30% 쇼크, AI 피크아웃일까 중간선거 코앞 리스크 관리일까
