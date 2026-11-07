@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-06 16:30 (KST)
-Run: 324 (id=42181246308)
+생성 시각: 2026-11-07 15:43 (KST)
+Run: 325 (id=42348203009)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,75 +8,66 @@ Run: 324 (id=42181246308)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: French Protests: More Than Half a Million Join Cost-of-Living Demonstrations
-  URL: https://www.youtube.com/watch?v=ReTxiIyP0nE
-  publishedAt: 2026-11-06T07:00:10Z
+  제목: Wall Street Week | Blue Wave Economic Impacts, European Welfare Woes
+  URL: https://www.youtube.com/watch?v=UACTCWikfLM
+  publishedAt: 2026-11-07T00:00:08Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ReTxiIyP0nE | ongoing=False | publishedAt=2026-11-06T07:00:10Z | actualEndTime=None | effective=2026-11-06 07:00:10+00:00 | French Protests: More Than Half a Million Join Cost-of-Livin
-   - MCLOLS7PQnw | ongoing=False | publishedAt=2026-11-06T06:52:29Z | actualEndTime=None | effective=2026-11-06 06:52:29+00:00 | Midterms Fallout: Rubio Said to Weigh Future in Trump Admini
-   - Q30pLqQ2tYI | ongoing=False | publishedAt=2026-11-06T06:45:46Z | actualEndTime=None | effective=2026-11-06 06:45:46+00:00 | Stocks Rout: AI Selloff Deepens as Japan, South Korea Tumble
-   - cHYEGRR5QDA | ongoing=False | publishedAt=2026-11-06T06:13:39Z | actualEndTime=None | effective=2026-11-06 06:13:39+00:00 | China Tech Stocks Slide in Broad Market Rout
-   - BKYYU-nOodQ | ongoing=False | publishedAt=2026-11-06T05:36:06Z | actualEndTime=None | effective=2026-11-06 05:36:06+00:00 | Asia Stocks Sell Off As AI Rout Deepens
-   - LYVTAjaPvsc | ongoing=False | publishedAt=2026-11-06T00:07:04Z | actualEndTime=None | effective=2026-11-06 00:07:04+00:00 | Rubio Tells NYT He Plans To Stay With Admin Until the End
-   - RxzbF-y0Nik | ongoing=False | publishedAt=2026-11-05T23:42:30Z | actualEndTime=None | effective=2026-11-05 23:42:30+00:00 | Rep. Subramanyam Says Federal Data Center Plan Is Needed
-   - X0Rrt93deJI | ongoing=False | publishedAt=2026-11-05T23:28:14Z | actualEndTime=None | effective=2026-11-05 23:28:14+00:00 | The Debrief: Democrats Map Out Priorities for Next Congress
-   - AbaaThgpc0c | ongoing=False | publishedAt=2026-11-05T23:22:26Z | actualEndTime=None | effective=2026-11-05 23:22:26+00:00 | Allen Says AI Buildout Already Underway Will Continue
-   - F52GZaYynQE | ongoing=False | publishedAt=2026-11-05T23:02:22Z | actualEndTime=None | effective=2026-11-05 23:02:22+00:00 | Market Selloff, Volatility & Post-Midterm Repositioning
+   - UACTCWikfLM | ongoing=False | publishedAt=2026-11-07T00:00:08Z | actualEndTime=None | effective=2026-11-07 00:00:08+00:00 | Wall Street Week | Blue Wave Economic Impacts, European Welf
+   - g3s5puTeopY | ongoing=False | publishedAt=2026-11-06T23:56:54Z | actualEndTime=None | effective=2026-11-06 23:56:54+00:00 | Wiles Out as White House Chief of Staff, Stephen Miller Take
+   - SQyBr1-rug0 | ongoing=False | publishedAt=2026-11-06T23:28:28Z | actualEndTime=None | effective=2026-11-06 23:28:28+00:00 | Affordability First, Open to Hegseth Impeachment: Rep. Moore
+   - ZF66GWqn2w4 | ongoing=False | publishedAt=2026-11-06T23:22:51Z | actualEndTime=None | effective=2026-11-06 23:22:51+00:00 | Rep. Beyer: Democrats Were Not Elected to Impeach Trump
+   - bCgnb578VOE | ongoing=False | publishedAt=2026-11-06T23:19:19Z | actualEndTime=None | effective=2026-11-06 23:19:19+00:00 | Manchin: Democrats Risk Overplaying Hand on Impeachment
+   - HTuMh12kgUA | ongoing=False | publishedAt=2026-11-06T22:55:10Z | actualEndTime=None | effective=2026-11-06 22:55:10+00:00 | Markets Rebound After Historic Tech Selloff
+   - 7Cy4jNkZpys | ongoing=False | publishedAt=2026-11-06T22:10:14Z | actualEndTime=None | effective=2026-11-06 22:10:14+00:00 | Could the Bond Market Slow AI's Momentum? | Presented by CME
+   - 26FnoirIW_8 | ongoing=False | publishedAt=2026-11-06T22:07:26Z | actualEndTime=None | effective=2026-11-06 22:07:26+00:00 | Trump Names Miller Chief of Staff as Tech Rebounds
+   - 7yIYckrXHfM | ongoing=False | publishedAt=2026-11-06T22:07:09Z | actualEndTime=None | effective=2026-11-06 22:07:09+00:00 | AI Slowdown May Spark Flight to Franc | Presented by CME Gro
+   - qAJWKG1MBMU | ongoing=False | publishedAt=2026-11-06T21:44:48Z | actualEndTime=None | effective=2026-11-06 21:44:48+00:00 | 'Blue Wave' & Your Wallet, Managing Market Volatility
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: The Historic Stock Market Selloff.
-  URL: https://www.youtube.com/watch?v=B72Ojzig7cM
-  publishedAt: 2026-11-05T21:59:39Z
-  actualEndTime: 2026-11-05T21:44:12Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 96IWbcHftyM | ongoing=False | publishedAt=2026-11-06T13:56:56Z | actualEndTime=None | effective=2026-11-06 13:56:56+00:00 | The Economy JUST Flipped.
    - B72Ojzig7cM | ongoing=False | publishedAt=2026-11-05T21:59:39Z | actualEndTime=2026-11-05T21:44:12Z | effective=2026-11-05 21:44:12+00:00 | The Historic Stock Market Selloff.
    - AtEyrDxfrWY | ongoing=False | publishedAt=2026-11-05T21:56:53Z | actualEndTime=None | effective=2026-11-05 21:56:53+00:00 | This Crash is Exceptional.
    - BBOUbVfe968 | ongoing=False | publishedAt=2026-11-05T20:43:41Z | actualEndTime=2026-11-05T17:46:50Z | effective=2026-11-05 17:46:50+00:00 | LIQUIDATION: The Stock Market Pain Continues.
    - _TJ7n3BTskc | ongoing=False | publishedAt=2026-11-05T18:08:33Z | actualEndTime=None | effective=2026-11-05 18:08:33+00:00 | The Great Reset is Starting.
-   - 9wPXrD_uKz8 | ongoing=False | publishedAt=2026-11-05T02:58:52Z | actualEndTime=None | effective=2026-11-05 02:58:52+00:00 | I Analyzed Alex Hormozi’s Best & Worst Advice
-   - rf6eHOe_jT0 | ongoing=False | publishedAt=2026-11-04T16:02:12Z | actualEndTime=None | effective=2026-11-04 16:02:12+00:00 | OMG WHAT'S HAPPENING
-   - NApjDYej0xM | ongoing=False | publishedAt=2026-11-04T15:51:50Z | actualEndTime=2026-11-04T15:47:33Z | effective=2026-11-04 15:47:33+00:00 | The Stock Market & Morning After Election 2026.
-   - JYTNMKnbr2E | ongoing=False | publishedAt=2026-11-04T13:40:41Z | actualEndTime=None | effective=2026-11-04 13:40:41+00:00 | Investing in AI Venture Capital with Just $500 (Here’s How)
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 11월 05일 목]  실적발표: 아이온큐, 아이렌 등 ｜ 민주당 압승 후폭풍 이틀째… ｜ 미국 부채한도 문제 재부상 ｜  -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=1wEoKn2idig
-  publishedAt: 2026-11-06T00:15:06Z
-  actualEndTime: 2026-11-05T23:05:40Z
+  제목: 【미국 증시 오늘의 요약】  폭락 하루 만에 반등한 나스닥, 진짜 회복일까 일시적 숏커버링일까?    -  2026/11/06
+  URL: https://www.youtube.com/watch?v=hzZBK9pF-yU
+  publishedAt: 2026-11-06T23:15:05Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - hzZBK9pF-yU | ongoing=False | publishedAt=2026-11-06T23:15:05Z | actualEndTime=None | effective=2026-11-06 23:15:05+00:00 | 【미국 증시 오늘의 요약】  폭락 하루 만에 반등한 나스닥, 진짜 회복일까 일시적 숏커버링일까?    -  
+   - pXFWi6CIqK4 | ongoing=False | publishedAt=2026-11-06T23:11:31Z | actualEndTime=2026-11-06T22:12:16Z | effective=2026-11-06 22:12:16+00:00 | [26년 11월 06일 금]  경제지표: 비농업 취업자수, 실업률 ｜AI 반도체주 반등｜ AI 규제 우려에 
    - 1wEoKn2idig | ongoing=False | publishedAt=2026-11-06T00:15:06Z | actualEndTime=2026-11-05T23:05:40Z | effective=2026-11-05 23:05:40+00:00 | [26년 11월 05일 목]  실적발표: 아이온큐, 아이렌 등 ｜ 민주당 압승 후폭풍 이틀째… ｜ 미국 부채
    - JxBw1NQMQng | ongoing=False | publishedAt=2026-11-05T23:39:06Z | actualEndTime=None | effective=2026-11-05 23:39:06+00:00 | 【미국 증시 오늘의 요약】  나스닥 100 -6.4% 폭락, 하루 만에 2.3조 달러 증발… 2020년 이후
-   - xljN0Wfcjck | ongoing=False | publishedAt=2026-11-04T23:50:13Z | actualEndTime=2026-11-04T22:33:53Z | effective=2026-11-04 22:33:53+00:00 | [26년 11월 04일 수]  미 중간선거 민주당 압승 ｜ AMD·슈퍼마이크로 어닝 서프라이즈｜미 재무부, 
-   - sOfuZhI8Dxk | ongoing=False | publishedAt=2026-11-04T23:14:06Z | actualEndTime=None | effective=2026-11-04 23:14:06+00:00 | 【미국 증시 오늘의 요약】  마소·애플은 사상 최고가, 반도체는 6개월 최저치! 민주당 압승이 바꾼 AI 판
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 와... 살려주세요...ㅣ#261106
-  URL: https://www.youtube.com/watch?v=MMCmfvq2jHw
-  publishedAt: 2026-11-06T00:17:17Z
-  actualEndTime: 2026-11-06T00:14:43Z
+  제목: 같은 자사주 매입인데 한국·미국은 완전히 다릅니다
+  URL: https://www.youtube.com/watch?v=g0IhjsR4Sek
+  publishedAt: 2026-11-07T03:00:12Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - g0IhjsR4Sek | ongoing=False | publishedAt=2026-11-07T03:00:12Z | actualEndTime=None | effective=2026-11-07 03:00:12+00:00 | 같은 자사주 매입인데 한국·미국은 완전히 다릅니다
+   - VhGgr3GR0kQ | ongoing=False | publishedAt=2026-11-06T16:13:13Z | actualEndTime=2026-11-06T16:01:40Z | effective=2026-11-06 16:01:40+00:00 | [미국주식 LIVE] 아프냐... 나도 아프다....ㅣ#261106
    - MMCmfvq2jHw | ongoing=False | publishedAt=2026-11-06T00:17:17Z | actualEndTime=2026-11-06T00:14:43Z | effective=2026-11-06 00:14:43+00:00 | [미국마감&아침시황] 와... 살려주세요...ㅣ#261106
-   - Yq4jO_TRjp8 | ongoing=False | publishedAt=2026-11-05T06:00:14Z | actualEndTime=None | effective=2026-11-05 06:00:14+00:00 | 민주당이 집권하면 미국 AI 패권 위기 온다고?!
-   - m8Fpw3rY_tI | ongoing=False | publishedAt=2026-11-05T03:00:38Z | actualEndTime=None | effective=2026-11-05 03:00:38+00:00 | 민주당 때문에 반도체 떡락한다고? 그럼 사야지!!
-   - bnCr6FTi0ZI | ongoing=False | publishedAt=2026-11-05T00:09:54Z | actualEndTime=2026-11-05T00:07:22Z | effective=2026-11-05 00:07:22+00:00 | [미국마감&아침시황] 우울한 트럼프, 헤그세스 짤린다...?ㅣ유가 급락! 금리도 하락! 그런데 반도체는 왜 
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 나스낙 코스피가 금융위기급 폭락을 한 이유 #나스닥 #금융위기 #코스피
-  URL: https://www.youtube.com/watch?v=oMpAXKgnR4g
-  publishedAt: 2026-11-06T04:59:01Z
+  제목: 마크 미너비니 "나스닥 반등은 가짜"
+  URL: https://www.youtube.com/watch?v=-J4GMD5iwbI
+  publishedAt: 2026-11-06T18:47:58Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 1bunhEEP6Kk | ongoing=False | publishedAt=2026-11-05T16:38:19Z | actualEndTime=None | effective=2026-11-05 16:38:19+00:00 | 나스닥 멸망...
+   - -J4GMD5iwbI | ongoing=False | publishedAt=2026-11-06T18:47:58Z | actualEndTime=None | effective=2026-11-06 18:47:58+00:00 | 마크 미너비니 "나스닥 반등은 가짜"
+   - iV72GtWgsqg | ongoing=False | publishedAt=2026-11-06T08:57:11Z | actualEndTime=None | effective=2026-11-06 08:57:11+00:00 | AI 주식 멸망 (ft. 시트리니)
    - oMpAXKgnR4g | ongoing=False | publishedAt=2026-11-06T04:59:01Z | actualEndTime=None | effective=2026-11-06 04:59:01+00:00 | 나스낙 코스피가 금융위기급 폭락을 한 이유 #나스닥 #금융위기 #코스피
-   - 3uSiJ-uYlhY | ongoing=False | publishedAt=2026-11-05T01:45:46Z | actualEndTime=None | effective=2026-11-05 01:45:46+00:00 | 중간선거에 코스피 대폭락 #중간선거 #블루웨이브 #코스피
+   - 1bunhEEP6Kk | ongoing=False | publishedAt=2026-11-05T16:38:19Z | actualEndTime=None | effective=2026-11-05 16:38:19+00:00 | 나스닥 멸망...
 
 - 소수몽키
   상태: NO_VIDEO
