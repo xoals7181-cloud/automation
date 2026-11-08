@@ -1,73 +1,56 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-07 15:43 (KST)
-Run: 325 (id=42348203009)
+생성 시각: 2026-11-08 15:49 (KST)
+Run: 326 (id=42456283878)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: Wall Street Week | Blue Wave Economic Impacts, European Welfare Woes
-  URL: https://www.youtube.com/watch?v=UACTCWikfLM
-  publishedAt: 2026-11-07T00:00:08Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - UACTCWikfLM | ongoing=False | publishedAt=2026-11-07T00:00:08Z | actualEndTime=None | effective=2026-11-07 00:00:08+00:00 | Wall Street Week | Blue Wave Economic Impacts, European Welf
-   - g3s5puTeopY | ongoing=False | publishedAt=2026-11-06T23:56:54Z | actualEndTime=None | effective=2026-11-06 23:56:54+00:00 | Wiles Out as White House Chief of Staff, Stephen Miller Take
-   - SQyBr1-rug0 | ongoing=False | publishedAt=2026-11-06T23:28:28Z | actualEndTime=None | effective=2026-11-06 23:28:28+00:00 | Affordability First, Open to Hegseth Impeachment: Rep. Moore
-   - ZF66GWqn2w4 | ongoing=False | publishedAt=2026-11-06T23:22:51Z | actualEndTime=None | effective=2026-11-06 23:22:51+00:00 | Rep. Beyer: Democrats Were Not Elected to Impeach Trump
-   - bCgnb578VOE | ongoing=False | publishedAt=2026-11-06T23:19:19Z | actualEndTime=None | effective=2026-11-06 23:19:19+00:00 | Manchin: Democrats Risk Overplaying Hand on Impeachment
-   - HTuMh12kgUA | ongoing=False | publishedAt=2026-11-06T22:55:10Z | actualEndTime=None | effective=2026-11-06 22:55:10+00:00 | Markets Rebound After Historic Tech Selloff
-   - 7Cy4jNkZpys | ongoing=False | publishedAt=2026-11-06T22:10:14Z | actualEndTime=None | effective=2026-11-06 22:10:14+00:00 | Could the Bond Market Slow AI's Momentum? | Presented by CME
-   - 26FnoirIW_8 | ongoing=False | publishedAt=2026-11-06T22:07:26Z | actualEndTime=None | effective=2026-11-06 22:07:26+00:00 | Trump Names Miller Chief of Staff as Tech Rebounds
-   - 7yIYckrXHfM | ongoing=False | publishedAt=2026-11-06T22:07:09Z | actualEndTime=None | effective=2026-11-06 22:07:09+00:00 | AI Slowdown May Spark Flight to Franc | Presented by CME Gro
-   - qAJWKG1MBMU | ongoing=False | publishedAt=2026-11-06T21:44:48Z | actualEndTime=None | effective=2026-11-06 21:44:48+00:00 | 'Blue Wave' & Your Wallet, Managing Market Volatility
+   - LBSveEI1MQI | ongoing=False | publishedAt=2026-11-07T17:46:42Z | actualEndTime=None | effective=2026-11-07 17:46:42+00:00 | Bremmer: U.S. Retreat From Global Leadership Is a Long-Term 
+   - 5veL7dpOni0 | ongoing=False | publishedAt=2026-11-07T17:28:59Z | actualEndTime=None | effective=2026-11-07 17:28:59+00:00 | Will a Democrat-Led Congress Slow Data Center Buildout?
+   - CMOo74j2Lzo | ongoing=False | publishedAt=2026-11-07T17:15:41Z | actualEndTime=None | effective=2026-11-07 17:15:41+00:00 | Chain Reaction Tech Selloff, New Chief of Staff
+   - q6AkgOsZI1s | ongoing=False | publishedAt=2026-11-07T15:59:21Z | actualEndTime=None | effective=2026-11-07 15:59:21+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
+   - Yzjt9-BX6es | ongoing=False | publishedAt=2026-11-07T15:32:15Z | actualEndTime=None | effective=2026-11-07 15:32:15+00:00 | Ken Chenault on Leadership in an Age of AI
+   - ff4TnErDQ04 | ongoing=False | publishedAt=2026-11-07T15:22:16Z | actualEndTime=None | effective=2026-11-07 15:22:16+00:00 | A Historic First for Women at the Metropolitan Opera
+   - NNl5TT_0lCQ | ongoing=False | publishedAt=2026-11-07T15:00:27Z | actualEndTime=None | effective=2026-11-07 15:00:27+00:00 | Inside Alaska’s Oil Paradox
+   - zmedYyNlNTk | ongoing=False | publishedAt=2026-11-07T14:53:27Z | actualEndTime=None | effective=2026-11-07 14:53:27+00:00 | Texas and Georgia Enter a New Political Era
+   - 6CZTeawYcoY | ongoing=False | publishedAt=2026-11-07T14:26:47Z | actualEndTime=None | effective=2026-11-07 14:26:47+00:00 | Young Travelers Are Warming Up to Cruises
+   - 3DsvSj8xdrI | ongoing=False | publishedAt=2026-11-07T14:17:44Z | actualEndTime=None | effective=2026-11-07 14:17:44+00:00 | Economy and Democracy Drove the Blue Wave
 
 - Meet Kevin
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 96IWbcHftyM | ongoing=False | publishedAt=2026-11-06T13:56:56Z | actualEndTime=None | effective=2026-11-06 13:56:56+00:00 | The Economy JUST Flipped.
-   - B72Ojzig7cM | ongoing=False | publishedAt=2026-11-05T21:59:39Z | actualEndTime=2026-11-05T21:44:12Z | effective=2026-11-05 21:44:12+00:00 | The Historic Stock Market Selloff.
-   - AtEyrDxfrWY | ongoing=False | publishedAt=2026-11-05T21:56:53Z | actualEndTime=None | effective=2026-11-05 21:56:53+00:00 | This Crash is Exceptional.
-   - BBOUbVfe968 | ongoing=False | publishedAt=2026-11-05T20:43:41Z | actualEndTime=2026-11-05T17:46:50Z | effective=2026-11-05 17:46:50+00:00 | LIQUIDATION: The Stock Market Pain Continues.
-   - _TJ7n3BTskc | ongoing=False | publishedAt=2026-11-05T18:08:33Z | actualEndTime=None | effective=2026-11-05 18:08:33+00:00 | The Great Reset is Starting.
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  폭락 하루 만에 반등한 나스닥, 진짜 회복일까 일시적 숏커버링일까?    -  2026/11/06
-  URL: https://www.youtube.com/watch?v=hzZBK9pF-yU
-  publishedAt: 2026-11-06T23:15:05Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - hzZBK9pF-yU | ongoing=False | publishedAt=2026-11-06T23:15:05Z | actualEndTime=None | effective=2026-11-06 23:15:05+00:00 | 【미국 증시 오늘의 요약】  폭락 하루 만에 반등한 나스닥, 진짜 회복일까 일시적 숏커버링일까?    -  
    - pXFWi6CIqK4 | ongoing=False | publishedAt=2026-11-06T23:11:31Z | actualEndTime=2026-11-06T22:12:16Z | effective=2026-11-06 22:12:16+00:00 | [26년 11월 06일 금]  경제지표: 비농업 취업자수, 실업률 ｜AI 반도체주 반등｜ AI 규제 우려에 
-   - 1wEoKn2idig | ongoing=False | publishedAt=2026-11-06T00:15:06Z | actualEndTime=2026-11-05T23:05:40Z | effective=2026-11-05 23:05:40+00:00 | [26년 11월 05일 목]  실적발표: 아이온큐, 아이렌 등 ｜ 민주당 압승 후폭풍 이틀째… ｜ 미국 부채
-   - JxBw1NQMQng | ongoing=False | publishedAt=2026-11-05T23:39:06Z | actualEndTime=None | effective=2026-11-05 23:39:06+00:00 | 【미국 증시 오늘의 요약】  나스닥 100 -6.4% 폭락, 하루 만에 2.3조 달러 증발… 2020년 이후
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 같은 자사주 매입인데 한국·미국은 완전히 다릅니다
-  URL: https://www.youtube.com/watch?v=g0IhjsR4Sek
-  publishedAt: 2026-11-07T03:00:12Z
+  제목: AI 대출시장에는 리만사태와 닷컴버블의 구조가 숨어있습니다
+  URL: https://www.youtube.com/watch?v=LQy684Y7W3k
+  publishedAt: 2026-11-08T00:00:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - LQy684Y7W3k | ongoing=False | publishedAt=2026-11-08T00:00:25Z | actualEndTime=None | effective=2026-11-08 00:00:25+00:00 | AI 대출시장에는 리만사태와 닷컴버블의 구조가 숨어있습니다
    - g0IhjsR4Sek | ongoing=False | publishedAt=2026-11-07T03:00:12Z | actualEndTime=None | effective=2026-11-07 03:00:12+00:00 | 같은 자사주 매입인데 한국·미국은 완전히 다릅니다
    - VhGgr3GR0kQ | ongoing=False | publishedAt=2026-11-06T16:13:13Z | actualEndTime=2026-11-06T16:01:40Z | effective=2026-11-06 16:01:40+00:00 | [미국주식 LIVE] 아프냐... 나도 아프다....ㅣ#261106
-   - MMCmfvq2jHw | ongoing=False | publishedAt=2026-11-06T00:17:17Z | actualEndTime=2026-11-06T00:14:43Z | effective=2026-11-06 00:14:43+00:00 | [미국마감&아침시황] 와... 살려주세요...ㅣ#261106
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 마크 미너비니 "나스닥 반등은 가짜"
-  URL: https://www.youtube.com/watch?v=-J4GMD5iwbI
-  publishedAt: 2026-11-06T18:47:58Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - -J4GMD5iwbI | ongoing=False | publishedAt=2026-11-06T18:47:58Z | actualEndTime=None | effective=2026-11-06 18:47:58+00:00 | 마크 미너비니 "나스닥 반등은 가짜"
    - iV72GtWgsqg | ongoing=False | publishedAt=2026-11-06T08:57:11Z | actualEndTime=None | effective=2026-11-06 08:57:11+00:00 | AI 주식 멸망 (ft. 시트리니)
-   - oMpAXKgnR4g | ongoing=False | publishedAt=2026-11-06T04:59:01Z | actualEndTime=None | effective=2026-11-06 04:59:01+00:00 | 나스낙 코스피가 금융위기급 폭락을 한 이유 #나스닥 #금융위기 #코스피
-   - 1bunhEEP6Kk | ongoing=False | publishedAt=2026-11-05T16:38:19Z | actualEndTime=None | effective=2026-11-05 16:38:19+00:00 | 나스닥 멸망...
 
 - 소수몽키
   상태: NO_VIDEO
