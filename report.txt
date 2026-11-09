@@ -1,56 +1,57 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-08 15:49 (KST)
-Run: 326 (id=42456283878)
+생성 시각: 2026-11-09 16:27 (KST)
+Run: 327 (id=42579420262)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Hacked Records Put Russian War Deaths at  400,000
+  URL: https://www.youtube.com/watch?v=hga7pFusjVc
+  publishedAt: 2026-11-09T07:04:22Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - LBSveEI1MQI | ongoing=False | publishedAt=2026-11-07T17:46:42Z | actualEndTime=None | effective=2026-11-07 17:46:42+00:00 | Bremmer: U.S. Retreat From Global Leadership Is a Long-Term 
-   - 5veL7dpOni0 | ongoing=False | publishedAt=2026-11-07T17:28:59Z | actualEndTime=None | effective=2026-11-07 17:28:59+00:00 | Will a Democrat-Led Congress Slow Data Center Buildout?
-   - CMOo74j2Lzo | ongoing=False | publishedAt=2026-11-07T17:15:41Z | actualEndTime=None | effective=2026-11-07 17:15:41+00:00 | Chain Reaction Tech Selloff, New Chief of Staff
-   - q6AkgOsZI1s | ongoing=False | publishedAt=2026-11-07T15:59:21Z | actualEndTime=None | effective=2026-11-07 15:59:21+00:00 | Pointed! Bloomberg's Weekly News Quiz For Risk-Takers
-   - Yzjt9-BX6es | ongoing=False | publishedAt=2026-11-07T15:32:15Z | actualEndTime=None | effective=2026-11-07 15:32:15+00:00 | Ken Chenault on Leadership in an Age of AI
-   - ff4TnErDQ04 | ongoing=False | publishedAt=2026-11-07T15:22:16Z | actualEndTime=None | effective=2026-11-07 15:22:16+00:00 | A Historic First for Women at the Metropolitan Opera
-   - NNl5TT_0lCQ | ongoing=False | publishedAt=2026-11-07T15:00:27Z | actualEndTime=None | effective=2026-11-07 15:00:27+00:00 | Inside Alaska’s Oil Paradox
-   - zmedYyNlNTk | ongoing=False | publishedAt=2026-11-07T14:53:27Z | actualEndTime=None | effective=2026-11-07 14:53:27+00:00 | Texas and Georgia Enter a New Political Era
-   - 6CZTeawYcoY | ongoing=False | publishedAt=2026-11-07T14:26:47Z | actualEndTime=None | effective=2026-11-07 14:26:47+00:00 | Young Travelers Are Warming Up to Cruises
-   - 3DsvSj8xdrI | ongoing=False | publishedAt=2026-11-07T14:17:44Z | actualEndTime=None | effective=2026-11-07 14:17:44+00:00 | Economy and Democracy Drove the Blue Wave
+   - hga7pFusjVc | ongoing=False | publishedAt=2026-11-09T07:04:22Z | actualEndTime=None | effective=2026-11-09 07:04:22+00:00 | Hacked Records Put Russian War Deaths at  400,000
+   - gTaHaSijCoo | ongoing=False | publishedAt=2026-11-09T06:51:07Z | actualEndTime=None | effective=2026-11-09 06:51:07+00:00 | Rubio Plays Down Chances of Breakthrough in Iran Talks
+   - 4zzpPkAnBlQ | ongoing=False | publishedAt=2026-11-09T05:23:29Z | actualEndTime=None | effective=2026-11-09 05:23:29+00:00 | Nvidia CEO’s Affair Engulfs AI Giant in Spying Probe
+   - e-uRd_CS48c | ongoing=False | publishedAt=2026-11-09T04:54:56Z | actualEndTime=None | effective=2026-11-09 04:54:56+00:00 | Huang's Affair Engulfs Nvidia in Chinese Spying Probe
+   - Vn85vaALt3w | ongoing=False | publishedAt=2026-11-09T02:18:51Z | actualEndTime=None | effective=2026-11-09 02:18:51+00:00 | Nvidia Probes Huang Affair Amid Spying Controversy
+   - w-qWtVt2prU | ongoing=False | publishedAt=2026-11-09T02:18:34Z | actualEndTime=None | effective=2026-11-09 02:18:34+00:00 | Trump Backs Nvidia CEO After He Admits Affair
+   - rxAHCJ44Rck | ongoing=False | publishedAt=2026-11-08T17:04:48Z | actualEndTime=None | effective=2026-11-08 17:04:48+00:00 | Watching Wall Street, Back to Work After Blue Wave, Deadly M
+   - VSrpmavd1W8 | ongoing=False | publishedAt=2026-11-08T16:32:28Z | actualEndTime=None | effective=2026-11-08 16:32:28+00:00 | Bookmarked: News Stories On Our Reading List
+   - rYjn5oVM0ik | ongoing=False | publishedAt=2026-11-08T16:25:31Z | actualEndTime=None | effective=2026-11-08 16:25:31+00:00 | By The Way: Headlines You May Have Missed
+   - zZGwK5vfCi8 | ongoing=False | publishedAt=2026-11-08T16:16:05Z | actualEndTime=None | effective=2026-11-08 16:16:05+00:00 | Markets Brace for Washington Policy Battles
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Jensen Cheated | AI got F**K'd
+  URL: https://www.youtube.com/watch?v=Ft6ce7F3U8s
+  publishedAt: 2026-11-09T01:55:48Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 96IWbcHftyM | ongoing=False | publishedAt=2026-11-06T13:56:56Z | actualEndTime=None | effective=2026-11-06 13:56:56+00:00 | The Economy JUST Flipped.
+   - Ft6ce7F3U8s | ongoing=False | publishedAt=2026-11-09T01:55:48Z | actualEndTime=None | effective=2026-11-09 01:55:48+00:00 | Jensen Cheated | AI got F**K'd
+   - tFJBR8mQqRA | ongoing=False | publishedAt=2026-11-08T19:42:10Z | actualEndTime=None | effective=2026-11-08 19:42:10+00:00 | Trump's NEW Operation in Iran: Prepare.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - hzZBK9pF-yU | ongoing=False | publishedAt=2026-11-06T23:15:05Z | actualEndTime=None | effective=2026-11-06 23:15:05+00:00 | 【미국 증시 오늘의 요약】  폭락 하루 만에 반등한 나스닥, 진짜 회복일까 일시적 숏커버링일까?    -  
-   - pXFWi6CIqK4 | ongoing=False | publishedAt=2026-11-06T23:11:31Z | actualEndTime=2026-11-06T22:12:16Z | effective=2026-11-06 22:12:16+00:00 | [26년 11월 06일 금]  경제지표: 비농업 취업자수, 실업률 ｜AI 반도체주 반등｜ AI 규제 우려에 
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: AI 대출시장에는 리만사태와 닷컴버블의 구조가 숨어있습니다
-  URL: https://www.youtube.com/watch?v=LQy684Y7W3k
-  publishedAt: 2026-11-08T00:00:25Z
+  제목: 비트코인, 하락의 시작...!?
+  URL: https://www.youtube.com/watch?v=oo0BeDvF4RE
+  publishedAt: 2026-11-09T01:43:56Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - oo0BeDvF4RE | ongoing=False | publishedAt=2026-11-09T01:43:56Z | actualEndTime=None | effective=2026-11-09 01:43:56+00:00 | 비트코인, 하락의 시작...!?
+   - bBYh7P1CRGg | ongoing=False | publishedAt=2026-11-09T00:28:48Z | actualEndTime=2026-11-09T00:25:09Z | effective=2026-11-09 00:25:09+00:00 | [미국마감&아침시황] 젠슨황: 인정한다ㅣ트럼프: 카스피해도 통제ㅣ비트코인: 떨어질게...ㅣ반도체: 떨어지냐.
    - LQy684Y7W3k | ongoing=False | publishedAt=2026-11-08T00:00:25Z | actualEndTime=None | effective=2026-11-08 00:00:25+00:00 | AI 대출시장에는 리만사태와 닷컴버블의 구조가 숨어있습니다
-   - g0IhjsR4Sek | ongoing=False | publishedAt=2026-11-07T03:00:12Z | actualEndTime=None | effective=2026-11-07 03:00:12+00:00 | 같은 자사주 매입인데 한국·미국은 완전히 다릅니다
-   - VhGgr3GR0kQ | ongoing=False | publishedAt=2026-11-06T16:13:13Z | actualEndTime=2026-11-06T16:01:40Z | effective=2026-11-06 16:01:40+00:00 | [미국주식 LIVE] 아프냐... 나도 아프다....ㅣ#261106
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - -J4GMD5iwbI | ongoing=False | publishedAt=2026-11-06T18:47:58Z | actualEndTime=None | effective=2026-11-06 18:47:58+00:00 | 마크 미너비니 "나스닥 반등은 가짜"
-   - iV72GtWgsqg | ongoing=False | publishedAt=2026-11-06T08:57:11Z | actualEndTime=None | effective=2026-11-06 08:57:11+00:00 | AI 주식 멸망 (ft. 시트리니)
+  비고: 최근 48시간 검색 결과 없음
 
 - 소수몽키
   상태: NO_VIDEO
