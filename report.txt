@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-10 16:53 (KST)
-Run: 328 (id=42778483013)
+생성 시각: 2026-11-11 16:21 (KST)
+Run: 329 (id=42978917177)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,64 +8,61 @@ Run: 328 (id=42778483013)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry
-  URL: https://www.youtube.com/watch?v=oKWWsTV0qic
-  publishedAt: 2026-11-10T07:47:20Z
+  제목: US Envoy: Nvidia Affair Shows US Should Stay 'Diligent' on China
+  URL: https://www.youtube.com/watch?v=N0couc5zxmQ
+  publishedAt: 2026-11-11T06:47:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - oKWWsTV0qic | ongoing=False | publishedAt=2026-11-10T07:47:20Z | actualEndTime=None | effective=2026-11-10 07:47:20+00:00 | Nvidia Turmoil Raises Stakes for the US-China Tech Rivalry
-   - U-MOXusMMcY | ongoing=False | publishedAt=2026-11-10T07:38:46Z | actualEndTime=None | effective=2026-11-10 07:38:46+00:00 | Nvidia Faces Scrutiny Over US Chip-Smuggling Probe as AI Sto
-   - lM26ssss3QY | ongoing=False | publishedAt=2026-11-10T06:10:52Z | actualEndTime=None | effective=2026-11-10 06:10:52+00:00 | China Trade Surplus Tops $1 Trillion for Second Time
-   - 5FqG0a2VVb0 | ongoing=False | publishedAt=2026-11-10T05:00:11Z | actualEndTime=None | effective=2026-11-10 05:00:11+00:00 | The Race to Dominate Space
-   - mLUY-cKzYtA | ongoing=False | publishedAt=2026-11-10T04:26:39Z | actualEndTime=None | effective=2026-11-10 04:26:39+00:00 | Anthropic Prepares to Market IPO as Nvidia Scandal Stokes AI
-   - SoUu0bTs-rg | ongoing=False | publishedAt=2026-11-09T23:58:30Z | actualEndTime=None | effective=2026-11-09 23:58:30+00:00 | Articles of Impeachment Introduced Against Hegseth
-   - FNtU6qj11b8 | ongoing=False | publishedAt=2026-11-09T23:31:50Z | actualEndTime=None | effective=2026-11-09 23:31:50+00:00 | Short Says Huang China Trip Would Be a Big Mistake
-   - HaV-tKJaAoE | ongoing=False | publishedAt=2026-11-09T23:24:30Z | actualEndTime=None | effective=2026-11-09 23:24:30+00:00 | Sen. Armstrong Says Time Is of the Essence on Permitting
-   - _5TI_x2FIEs | ongoing=False | publishedAt=2026-11-09T23:21:45Z | actualEndTime=None | effective=2026-11-09 23:21:45+00:00 | Rep. Gimenez Says Nvidia Affair Raises Security Concerns
-   - lgUH70gZKnk | ongoing=False | publishedAt=2026-11-09T22:59:52Z | actualEndTime=None | effective=2026-11-09 22:59:52+00:00 | The Close 11/9/2026
+   - N0couc5zxmQ | ongoing=False | publishedAt=2026-11-11T06:47:46Z | actualEndTime=None | effective=2026-11-11 06:47:46+00:00 | US Envoy: Nvidia Affair Shows US Should Stay 'Diligent' on C
+   - kcVgLfwPkfU | ongoing=False | publishedAt=2026-11-11T05:00:19Z | actualEndTime=None | effective=2026-11-11 05:00:19+00:00 | Odd Lots: This Is How New York City Takes Out Its Trash
+   - EhmPpWYAhQo | ongoing=False | publishedAt=2026-11-10T23:56:35Z | actualEndTime=None | effective=2026-11-10 23:56:35+00:00 | House Takes up Hegseth Impeachment Procedural Vote
+   - lYkHPqzTAlM | ongoing=False | publishedAt=2026-11-10T23:21:13Z | actualEndTime=None | effective=2026-11-10 23:21:13+00:00 | Sen. Gallego Sees ‘Good Grounds’ for Hegseth Impeachment
+   - G_QdNfhltnk | ongoing=False | publishedAt=2026-11-10T23:14:17Z | actualEndTime=None | effective=2026-11-10 23:14:17+00:00 | Rep. LaLota ‘Bullish’ on Bipartisan Lame-Duck Deals
+   - QkoSYxEZ7qs | ongoing=False | publishedAt=2026-11-10T22:58:22Z | actualEndTime=None | effective=2026-11-10 22:58:22+00:00 | Hot Inflation, AI Selloff & Anthropic IPO
+   - 36YLJCm3i2A | ongoing=False | publishedAt=2026-11-10T22:42:58Z | actualEndTime=None | effective=2026-11-10 22:42:58+00:00 | Anthropic Targets $1.4 Trillion Valuation
+   - u7vO32Yeu1E | ongoing=False | publishedAt=2026-11-10T22:15:37Z | actualEndTime=None | effective=2026-11-10 22:15:37+00:00 | Jensen Huang’s 700,000% Return Magnifies Nvidia Succession R
+   - sp0mx4I5Vs0 | ongoing=False | publishedAt=2026-11-10T22:11:02Z | actualEndTime=None | effective=2026-11-10 22:11:02+00:00 | Hegseth Says Massie Bid Hurts Troops
+   - lOertlcg5OA | ongoing=False | publishedAt=2026-11-10T22:11:35Z | actualEndTime=None | effective=2026-11-10 22:11:35+00:00 | Congress has to hear from Nvidia's Huang, Says Opinion's Dav
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: New Evidence Found: Learjet 60 Crash
-  URL: https://www.youtube.com/watch?v=mWpmwgkjW5I
-  publishedAt: 2026-11-10T00:51:26Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - WDosULDZRDI | ongoing=False | publishedAt=2026-11-10T17:00:21Z | actualEndTime=None | effective=2026-11-10 17:00:21+00:00 | Lawsuit Filed: Nvidia Stock & Corruption Allegations.
+   - EVUoGmiVlMc | ongoing=False | publishedAt=2026-11-10T13:48:02Z | actualEndTime=2026-11-10T13:46:08Z | effective=2026-11-10 13:46:08+00:00 | Critical CPI Inflation Report & Fed Rate Impact
    - mWpmwgkjW5I | ongoing=False | publishedAt=2026-11-10T00:51:26Z | actualEndTime=None | effective=2026-11-10 00:51:26+00:00 | New Evidence Found: Learjet 60 Crash
    - 7oqw7rFE-AE | ongoing=False | publishedAt=2026-11-09T17:32:51Z | actualEndTime=None | effective=2026-11-09 17:32:51+00:00 | Prepare for Tomorrow: VIOLENT Stock Market
    - 2fIMunhu6oI | ongoing=False | publishedAt=2026-11-09T17:11:22Z | actualEndTime=2026-11-09T17:05:52Z | effective=2026-11-09 17:05:52+00:00 | The Historic Stock Market REBOUND.
-   - Ft6ce7F3U8s | ongoing=False | publishedAt=2026-11-09T01:55:48Z | actualEndTime=None | effective=2026-11-09 01:55:48+00:00 | Jensen Cheated | AI got F**K'd
-   - tFJBR8mQqRA | ongoing=False | publishedAt=2026-11-08T19:42:10Z | actualEndTime=None | effective=2026-11-08 19:42:10+00:00 | Trump's NEW Operation in Iran: Prepare.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  엔비디아는 급락했는데… 미국 증시는 4월 이후 최대 급등!   -  2026/11/09
-  URL: https://www.youtube.com/watch?v=c_nKpi2Ee3M
-  publishedAt: 2026-11-09T23:21:00Z
+  제목: 【미국 증시 오늘의 요약】  예상 웃돈 10월 CPI에 12월 빅스텝 경고까지… 엔비디아 5.4% 급락 마감   -  2026/11/10
+  URL: https://www.youtube.com/watch?v=2AWNw9p1VQY
+  publishedAt: 2026-11-10T23:42:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2AWNw9p1VQY | ongoing=False | publishedAt=2026-11-10T23:42:28Z | actualEndTime=None | effective=2026-11-10 23:42:28+00:00 | 【미국 증시 오늘의 요약】  예상 웃돈 10월 CPI에 12월 빅스텝 경고까지… 엔비디아 5.4% 급락 마감
+   - YlfCYqJ04NI | ongoing=False | publishedAt=2026-11-10T23:26:30Z | actualEndTime=2026-11-10T23:07:04Z | effective=2026-11-10 23:07:04+00:00 | [26년 11월 10일 화]   앤트로픽, IPO 공식 절차 돌입 ｜CPI 상승률, 10년물 국채 경매 ｜ 
    - c_nKpi2Ee3M | ongoing=False | publishedAt=2026-11-09T23:21:00Z | actualEndTime=None | effective=2026-11-09 23:21:00+00:00 | 【미국 증시 오늘의 요약】  엔비디아는 급락했는데… 미국 증시는 4월 이후 최대 급등!   -  2026/1
    - 8xmHO_Q7isg | ongoing=False | publishedAt=2026-11-09T23:12:46Z | actualEndTime=2026-11-09T22:49:33Z | effective=2026-11-09 22:49:33+00:00 | [26년 11월 09일 월]  엔비디아 CEO 사생활 논란... ｜트럼프, 카타르 총리와 회담 ｜ 앤트로픽,
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 어머 이건 사야해 !!
-  URL: https://www.youtube.com/watch?v=g1gFLsKuIRg
-  publishedAt: 2026-11-10T03:00:39Z
+  제목: [미국마감&아침시황] CPI충격, 연준이 독을 풀고 있습니다...ㅣ코어위브 실적, 다 좋은데 주가는 하락ㅣ시리아 파병? 이란 뒷통수 얼얼하네?ㅣ#261111
+  URL: https://www.youtube.com/watch?v=2_jycRUTYLw
+  publishedAt: 2026-11-11T00:14:25Z
+  actualEndTime: 2026-11-11T00:10:06Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - 2_jycRUTYLw | ongoing=False | publishedAt=2026-11-11T00:14:25Z | actualEndTime=2026-11-11T00:10:06Z | effective=2026-11-11 00:10:06+00:00 | [미국마감&아침시황] CPI충격, 연준이 독을 풀고 있습니다...ㅣ코어위브 실적, 다 좋은데 주가는 하락ㅣ시
    - g1gFLsKuIRg | ongoing=False | publishedAt=2026-11-10T03:00:39Z | actualEndTime=None | effective=2026-11-10 03:00:39+00:00 | 어머 이건 사야해 !!
    - 6cw-Rf3v8gs | ongoing=False | publishedAt=2026-11-10T00:23:13Z | actualEndTime=2026-11-10T00:20:02Z | effective=2026-11-10 00:20:02+00:00 | [미국마감&아침시황] 땡큐 젠슨황! BULL륜랠리가 왔습니다!ㅣ#261110
-   - oo0BeDvF4RE | ongoing=False | publishedAt=2026-11-09T01:43:56Z | actualEndTime=None | effective=2026-11-09 01:43:56+00:00 | 비트코인, 하락의 시작...!?
-   - bBYh7P1CRGg | ongoing=False | publishedAt=2026-11-09T00:28:48Z | actualEndTime=2026-11-09T00:25:09Z | effective=2026-11-09 00:25:09+00:00 | [미국마감&아침시황] 젠슨황: 인정한다ㅣ트럼프: 카스피해도 통제ㅣ비트코인: 떨어질게...ㅣ반도체: 떨어지냐.
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 젠슨황 스캔들에 코스피 떡상? #젠슨황 #코스피 #엔비디아
-  URL: https://www.youtube.com/watch?v=tlmjsbCHBLY
-  publishedAt: 2026-11-10T04:15:13Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - 0EB7n1GwF1A | ongoing=False | publishedAt=2026-11-10T17:50:07Z | actualEndTime=None | effective=2026-11-10 17:50:07+00:00 | 12월에 미국 기준금리가 0.5%p 한방에 상승?
    - tlmjsbCHBLY | ongoing=False | publishedAt=2026-11-10T04:15:13Z | actualEndTime=None | effective=2026-11-10 04:15:13+00:00 | 젠슨황 스캔들에 코스피 떡상? #젠슨황 #코스피 #엔비디아
    - wiTydSuyYBI | ongoing=False | publishedAt=2026-11-09T17:55:56Z | actualEndTime=None | effective=2026-11-09 17:55:56+00:00 | 젠슨황 스캔들에도 나스닥이 떡상하는 진짜 이유
    - eO4oBy1qtWk | ongoing=False | publishedAt=2026-11-09T09:33:19Z | actualEndTime=None | effective=2026-11-09 09:33:19+00:00 | 젠슨황 스캔들 더 큰 문제인 이유
@@ -74,4 +71,5 @@ Run: 328 (id=42778483013)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - ra5nRE3x9qk | ongoing=False | publishedAt=2026-11-10T11:03:18Z | actualEndTime=None | effective=2026-11-10 11:03:18+00:00 | 트럼프 관련주 총공세 예고한 민주당, 조심할 주식과 주목할 주식들
    - ucXMFfhriSw | ongoing=False | publishedAt=2026-11-09T11:48:14Z | actualEndTime=None | effective=2026-11-09 11:48:14+00:00 | 미국 민주당 20년 만의 압승에 월가도 패닉? 추가 충격에 대비해야 할까
