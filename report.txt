@@ -1,75 +1,62 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-14 16:12 (KST)
-Run: 332 (id=43569981127)
+생성 시각: 2026-11-15 16:21 (KST)
+Run: 333 (id=43689594331)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: Wall Street Week | Nvidia Shakeup, Midwest Stadium Bids, Care Work Gap, India’s Wedding Economy
-  URL: https://www.youtube.com/watch?v=5jw4WtsMQqU
-  publishedAt: 2026-11-14T04:52:46Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - 5jw4WtsMQqU | ongoing=False | publishedAt=2026-11-14T04:52:46Z | actualEndTime=None | effective=2026-11-14 04:52:46+00:00 | Wall Street Week | Nvidia Shakeup, Midwest Stadium Bids, Car
-   - qE64757Iw8g | ongoing=False | publishedAt=2026-11-14T00:07:58Z | actualEndTime=None | effective=2026-11-14 00:07:58+00:00 | All Airports Are Ground Stopped Until Further Notice: FAA
-   - tn91wjhbFX8 | ongoing=False | publishedAt=2026-11-13T23:52:19Z | actualEndTime=None | effective=2026-11-13 23:52:19+00:00 | Nvidia’s Board CEO Hunt, Stocks Finish Week Higher, Retail i
-   - p2yD7z8bC64 | ongoing=False | publishedAt=2026-11-13T23:37:54Z | actualEndTime=None | effective=2026-11-13 23:37:54+00:00 | LaHood Says Antiquated FAA System Likely Failed
-   - QnuavoIVOB4 | ongoing=False | publishedAt=2026-11-13T23:30:19Z | actualEndTime=None | effective=2026-11-13 23:30:19+00:00 | SpaceX Starship Launches on Flight Test
-   - 19bg1LcSbuU | ongoing=False | publishedAt=2026-11-13T22:47:25Z | actualEndTime=None | effective=2026-11-13 22:47:25+00:00 | Tanker Hits Cruise Ship in New Orleans, Triggering Rescue
-   - FjBTH7aYLzM | ongoing=False | publishedAt=2026-11-13T22:38:40Z | actualEndTime=None | effective=2026-11-13 22:38:40+00:00 | Flights Grounded Across US Over Air Traffic Control Problems
-   - E1G8mPO3Zcc | ongoing=False | publishedAt=2026-11-13T22:37:46Z | actualEndTime=None | effective=2026-11-13 22:37:46+00:00 | Ground Stop Fix Will 'Take Some Time,' Mullin Says
-   - jbvHYx9aQ6k | ongoing=False | publishedAt=2026-11-13T22:12:52Z | actualEndTime=None | effective=2026-11-13 22:12:52+00:00 | Anthropic’s Amodei Doesn’t Want AI Agents to ‘Run Wild’
-   - abGVC9ru8hE | ongoing=False | publishedAt=2026-11-13T22:13:04Z | actualEndTime=None | effective=2026-11-13 22:13:04+00:00 | Alice Huang Firm Procured Banned Nvidia Chips in China
+   - zIZ53YV7ToY | ongoing=False | publishedAt=2026-11-14T16:42:31Z | actualEndTime=None | effective=2026-11-14 16:42:31+00:00 | Nvidia Spy Scandal, Nationwide Ground Stop Lifted, Starship’
+   - 0jC6z__3gJs | ongoing=False | publishedAt=2026-11-14T16:22:14Z | actualEndTime=None | effective=2026-11-14 16:22:14+00:00 | Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
+   - RY69c67XJpQ | ongoing=False | publishedAt=2026-11-14T16:19:48Z | actualEndTime=None | effective=2026-11-14 16:19:48+00:00 | By The Way: Headlines You May Have Missed
+   - dwBfLozrX1g | ongoing=False | publishedAt=2026-11-14T16:11:59Z | actualEndTime=None | effective=2026-11-14 16:11:59+00:00 | The Entrepreneurs Behind Poppi Start Over
+   - b5oQu_60ZdU | ongoing=False | publishedAt=2026-11-14T15:53:09Z | actualEndTime=None | effective=2026-11-14 15:53:09+00:00 | Anthropic IPO Tests Investor Appetite for AI
+   - 8gi95Qx_63A | ongoing=False | publishedAt=2026-11-14T15:39:51Z | actualEndTime=None | effective=2026-11-14 15:39:51+00:00 | How China’s Intelligence Operations Target Tech
+   - wCOuy9uC8B4 | ongoing=False | publishedAt=2026-11-14T15:00:37Z | actualEndTime=None | effective=2026-11-14 15:00:37+00:00 | The Stadium Bidding War Shaking Up the Midwest
+   - wEBhkHTV4Bo | ongoing=False | publishedAt=2026-11-14T14:53:24Z | actualEndTime=None | effective=2026-11-14 14:53:24+00:00 | Looking Beyond Tech’s Recent Market Turmoil
+   - 92OYnlkGy_g | ongoing=False | publishedAt=2026-11-14T14:35:44Z | actualEndTime=None | effective=2026-11-14 14:35:44+00:00 | SpaceX Pushes Starship Reusability to New Test
+   - 5_pqpGYXd7s | ongoing=False | publishedAt=2026-11-14T14:29:33Z | actualEndTime=None | effective=2026-11-14 14:29:33+00:00 | Bessent, Lutnick Clash Over Nvidia China Curbs
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Elon JUST Started Selling Cybercabs for $299/mo
-  URL: https://www.youtube.com/watch?v=pg1ucywxTh0
-  publishedAt: 2026-11-14T02:10:01Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - axiCoySOyBY | ongoing=False | publishedAt=2026-11-14T19:02:29Z | actualEndTime=None | effective=2026-11-14 19:02:29+00:00 | The Return of Nvidia's CEO Jensen Huang.
    - pg1ucywxTh0 | ongoing=False | publishedAt=2026-11-14T02:10:01Z | actualEndTime=None | effective=2026-11-14 02:10:01+00:00 | Elon JUST Started Selling Cybercabs for $299/mo
    - vGjX5vARV9Q | ongoing=False | publishedAt=2026-11-13T23:53:01Z | actualEndTime=None | effective=2026-11-13 23:53:01+00:00 | The REASON why the FAA *JUST* Shutdown All Airports
    - jdKEsw98cC4 | ongoing=False | publishedAt=2026-11-13T23:41:57Z | actualEndTime=2026-11-13T23:37:15Z | effective=2026-11-13 23:37:15+00:00 | BASES ON ALERT 🚨 FAA Orders ALL Flights STOPPED: Nationwide 
    - S7QBYIEfKLs | ongoing=False | publishedAt=2026-11-13T14:23:21Z | actualEndTime=2026-11-13T14:09:39Z | effective=2026-11-13 14:09:39+00:00 | The Inflation Report is HOT Again...
    - JdDKaP_xdh0 | ongoing=False | publishedAt=2026-11-13T14:18:17Z | actualEndTime=None | effective=2026-11-13 14:18:17+00:00 | The Fed Just Hit the Panic Button.
-   - fbC79vAIWWM | ongoing=False | publishedAt=2026-11-13T03:05:09Z | actualEndTime=None | effective=2026-11-13 03:05:09+00:00 | Nvidia CEO *JUST* Lawyered Up! 3rd Affair & FIRED
-   - 0A9uTZ4Q27M | ongoing=False | publishedAt=2026-11-12T15:08:12Z | actualEndTime=None | effective=2026-11-12 15:08:12+00:00 | Nvidia *JUST* FIRED Jensen. Elon Offers Jensen Job!!!!
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  빅스텝 우려 덜어낸 PPI에도 반도체 급락… 엔비디아발 불안에 발목 잡힌 미 증시   -  2026/11/13
-  URL: https://www.youtube.com/watch?v=9T2HC_kDRpk
-  publishedAt: 2026-11-13T23:45:31Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 9T2HC_kDRpk | ongoing=False | publishedAt=2026-11-13T23:45:31Z | actualEndTime=None | effective=2026-11-13 23:45:31+00:00 | 【미국 증시 오늘의 요약】  빅스텝 우려 덜어낸 PPI에도 반도체 급락… 엔비디아발 불안에 발목 잡힌 미 증
    - 4b_bixrzUB0 | ongoing=False | publishedAt=2026-11-13T22:38:07Z | actualEndTime=2026-11-13T22:19:50Z | effective=2026-11-13 22:19:50+00:00 | [26년 11월 13일 금]  경제지표: 생산자물가지수(PPI) ｜ 앤트로픽 IPO에 6배 주문 몰려.. ｜
-   - rwSIyX_WenA | ongoing=False | publishedAt=2026-11-12T22:52:00Z | actualEndTime=None | effective=2026-11-12 22:52:00+00:00 | 【미국 증시 오늘의 요약】  젠슨 황 사임에 흔들린 엔비디아, 반사이익에 AMD·브로드컴 5%대 급등하며 갈
-   - mMhDqo_FoV0 | ongoing=False | publishedAt=2026-11-12T22:32:13Z | actualEndTime=2026-11-12T22:14:12Z | effective=2026-11-12 22:14:12+00:00 | [26년 11월 12일 목]   젠슨 황, 엔비디아 CEO 사임｜ 실적: 네비우스, 세레브라스, 어플라이드머
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: MSTR 인덱스 퇴출, 원인은 트럼프
-  URL: https://www.youtube.com/watch?v=nmdmYtcpLTA
-  publishedAt: 2026-11-13T23:04:23Z
+  제목: 비트코인 하락의 주범, MSTR은 언제 터질까?
+  URL: https://www.youtube.com/watch?v=h3ByZfbl3I8
+  publishedAt: 2026-11-15T03:00:38Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - h3ByZfbl3I8 | ongoing=False | publishedAt=2026-11-15T03:00:38Z | actualEndTime=None | effective=2026-11-15 03:00:38+00:00 | 비트코인 하락의 주범, MSTR은 언제 터질까?
+   - VzB8nq5-sAg | ongoing=False | publishedAt=2026-11-14T23:00:33Z | actualEndTime=None | effective=2026-11-14 23:00:33+00:00 | 금 vs 비트코인 #비트코인
    - nmdmYtcpLTA | ongoing=False | publishedAt=2026-11-13T23:04:23Z | actualEndTime=None | effective=2026-11-13 23:04:23+00:00 | MSTR 인덱스 퇴출, 원인은 트럼프
    - h8R4qxeHV-s | ongoing=False | publishedAt=2026-11-13T16:16:28Z | actualEndTime=2026-11-13T16:09:02Z | effective=2026-11-13 16:09:02+00:00 | [미국주식 LIVE] 계좌의 반등은 면역기능에 도움을 줄 수 있습니다ㅣ#261113
    - viu9Rf7erYw | ongoing=False | publishedAt=2026-11-13T14:00:34Z | actualEndTime=2026-11-13T13:18:43Z | effective=2026-11-13 13:18:43+00:00 | [미국주식 LIVE] 계좌의 반등은 면역기능에 도움을 줄 수 있습니다ㅣ#261113
-   - QY-pwMlaCNc | ongoing=False | publishedAt=2026-11-13T03:00:21Z | actualEndTime=None | effective=2026-11-13 03:00:21+00:00 | 넷플릭스, 이제는 바닥이다?
-   - Lr63WTv78yk | ongoing=False | publishedAt=2026-11-13T00:15:13Z | actualEndTime=2026-11-13T00:11:28Z | effective=2026-11-13 00:11:28+00:00 | [미국마감&아침시황] ㅈㅅ황 OUT!! 후임은 아직...ㅣ국제유가 상승, 채권금리 급등, 엔화는 또 어디가니
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - mk892-Pg1TU | ongoing=False | publishedAt=2026-11-13T18:30:33Z | actualEndTime=None | effective=2026-11-13 18:30:33+00:00 | 또 다시 시작된 젠슨황 위기
-   - 6VzAGnmZzNY | ongoing=False | publishedAt=2026-11-12T15:44:58Z | actualEndTime=None | effective=2026-11-12 15:44:58+00:00 | 한 시대가 끝났습니다. 엔비디아 젠슨황 CEO 사퇴
 
 - 소수몽키
   상태: NO_VIDEO
