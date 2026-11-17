@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-16 16:28 (KST)
-Run: 334 (id=43824054889)
+생성 시각: 2026-11-17 17:40 (KST)
+Run: 335 (id=44048778895)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,52 +8,65 @@ Run: 334 (id=43824054889)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Iran Targets Bahrain, US Deploys Aircraft Carrier
-  URL: https://www.youtube.com/watch?v=iZnyxvmTn0E
-  publishedAt: 2026-11-16T07:04:03Z
+  제목: Nvidia Fallout Hits Southeast Asia Hard
+  URL: https://www.youtube.com/watch?v=C9jfuVjwA2I
+  publishedAt: 2026-11-17T08:34:53Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - iZnyxvmTn0E | ongoing=False | publishedAt=2026-11-16T07:04:03Z | actualEndTime=None | effective=2026-11-16 07:04:03+00:00 | Iran Targets Bahrain, US Deploys Aircraft Carrier
-   - 29n2rRGyzA4 | ongoing=False | publishedAt=2026-11-16T06:29:31Z | actualEndTime=None | effective=2026-11-16 06:29:31+00:00 | Global Investors Return to Indian Stocks After AI Trade Woes
-   - LkLz66RoMe8 | ongoing=False | publishedAt=2026-11-16T06:00:44Z | actualEndTime=None | effective=2026-11-16 06:00:44+00:00 | Shenzhen’s Manufacturing Power Draws Wave of Innovators
-   - pk3OPX7ZE1M | ongoing=False | publishedAt=2026-11-16T04:07:13Z | actualEndTime=None | effective=2026-11-16 04:07:13+00:00 | Anthropic IPO, Nvidia Fallout in Focus; World Leaders Gather
-   - PNMBn-tPLIM | ongoing=False | publishedAt=2026-11-15T16:52:02Z | actualEndTime=None | effective=2026-11-15 16:52:02+00:00 | Nvidia Fallout, FAA Router Failure, Next Mega IPO
-   - -Fp1_gSbR3E | ongoing=False | publishedAt=2026-11-15T15:52:53Z | actualEndTime=None | effective=2026-11-15 15:52:53+00:00 | Bookmarked: News Stories On Our Reading List
-   - Qum4GUdOoaY | ongoing=False | publishedAt=2026-11-15T15:47:58Z | actualEndTime=None | effective=2026-11-15 15:47:58+00:00 | By The Way: Headlines You May Have Missed
-   - jBV8DeEuL-I | ongoing=False | publishedAt=2026-11-15T15:13:25Z | actualEndTime=None | effective=2026-11-15 15:13:25+00:00 | White House Braces for Democratic Investigations
-   - 4V1-9GleooI | ongoing=False | publishedAt=2026-11-15T15:00:01Z | actualEndTime=None | effective=2026-11-15 15:00:01+00:00 | Inside India’s $130 Billion Wedding Economy
-   - Cxynf78_2Kg | ongoing=False | publishedAt=2026-11-15T14:49:05Z | actualEndTime=None | effective=2026-11-15 14:49:05+00:00 | Congress Presses Nvidia Over China Chip Access
+   - C9jfuVjwA2I | ongoing=False | publishedAt=2026-11-17T08:34:53Z | actualEndTime=None | effective=2026-11-17 08:34:53+00:00 | Nvidia Fallout Hits Southeast Asia Hard
+   - DJyTycwMmgs | ongoing=False | publishedAt=2026-11-17T08:23:31Z | actualEndTime=None | effective=2026-11-17 08:23:31+00:00 | Vance Says US Won’t Stay in Iran War for Years as Oil Drops 
+   - i0F3swVvv3s | ongoing=False | publishedAt=2026-11-17T08:17:52Z | actualEndTime=None | effective=2026-11-17 08:17:52+00:00 | Widespread Gloominess Is Already Priced: Market Analysis
+   - v5FigQhD5YA | ongoing=False | publishedAt=2026-11-17T08:09:00Z | actualEndTime=None | effective=2026-11-17 08:09:00+00:00 | US to Curb China's Nvidia Access as Trump Goes to Asia
+   - gC2MQB9FX88 | ongoing=False | publishedAt=2026-11-17T07:06:24Z | actualEndTime=None | effective=2026-11-17 07:06:24+00:00 | Canada's Carney Meets China's Xi in Shenzhen
+   - Z2YVyd3tGG0 | ongoing=False | publishedAt=2026-11-17T06:41:45Z | actualEndTime=None | effective=2026-11-17 06:41:45+00:00 | US Targets China's Remote Chip Access With New Curbs
+   - 8pIu2UOlZk0 | ongoing=False | publishedAt=2026-11-17T05:00:38Z | actualEndTime=None | effective=2026-11-17 05:00:38+00:00 | Anthropic IPO: What Australian Investors Need to Know
+   - GIgfxEotFZA | ongoing=False | publishedAt=2026-11-17T04:29:07Z | actualEndTime=None | effective=2026-11-17 04:29:07+00:00 | US Moves to Curb China's Remote Access to Nvidia's AI Chips
+   - cMZk9bWdFZc | ongoing=False | publishedAt=2026-11-17T00:24:43Z | actualEndTime=None | effective=2026-11-17 00:24:43+00:00 | United Airlines Says It Has a Widespread System Outage: AP
+   - Yt_wdKWStqM | ongoing=False | publishedAt=2026-11-17T00:17:23Z | actualEndTime=None | effective=2026-11-17 00:17:23+00:00 | Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Co
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: Jensen Accepts: Return as Nvidia CEO.
-  URL: https://www.youtube.com/watch?v=WJv-1MammyE
-  publishedAt: 2026-11-15T23:16:47Z
+  제목: The Jensen and Nvidia Situation keeps getting Crazier.
+  URL: https://www.youtube.com/watch?v=x6wAiDEkJAQ
+  publishedAt: 2026-11-17T06:00:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - x6wAiDEkJAQ | ongoing=False | publishedAt=2026-11-17T06:00:04Z | actualEndTime=None | effective=2026-11-17 06:00:04+00:00 | The Jensen and Nvidia Situation keeps getting Crazier.
+   - gmp9ium-mVY | ongoing=False | publishedAt=2026-11-17T02:20:38Z | actualEndTime=None | effective=2026-11-17 02:20:38+00:00 | The Truth About the Nationwide Ground Stop: EXPOSED
+   - jUlIobFTg5E | ongoing=False | publishedAt=2026-11-16T18:00:35Z | actualEndTime=None | effective=2026-11-16 18:00:35+00:00 | The Nvidia & Jensen Market Collapse Begins.
    - WJv-1MammyE | ongoing=False | publishedAt=2026-11-15T23:16:47Z | actualEndTime=None | effective=2026-11-15 23:16:47+00:00 | Jensen Accepts: Return as Nvidia CEO.
-   - axiCoySOyBY | ongoing=False | publishedAt=2026-11-14T19:02:29Z | actualEndTime=None | effective=2026-11-14 19:02:29+00:00 | The Return of Nvidia's CEO Jensen Huang.
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】  젠슨 황 없는 첫 실적 발표…엔비디아 급락에 반도체주 또 무너졌다  -  2026/11/16
+  URL: https://www.youtube.com/watch?v=9vMdh89owis
+  publishedAt: 2026-11-16T23:07:19Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - 9vMdh89owis | ongoing=False | publishedAt=2026-11-16T23:07:19Z | actualEndTime=None | effective=2026-11-16 23:07:19+00:00 | 【미국 증시 오늘의 요약】  젠슨 황 없는 첫 실적 발표…엔비디아 급락에 반도체주 또 무너졌다  -  202
+   - EyJCRlJbprc | ongoing=False | publishedAt=2026-11-16T22:46:08Z | actualEndTime=2026-11-16T22:26:53Z | effective=2026-11-16 22:26:53+00:00 | [26년 11월 16일 월]  엔비디아 리더십 혼란 지속... ｜ 주요 기관투자자 13F 공시 마감일 ｜연준
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 젠슨황 없는 엔비디아 실적발표...??ㅣ#261116
-  URL: https://www.youtube.com/watch?v=DxoreE3zPr4
-  publishedAt: 2026-11-16T00:10:03Z
-  actualEndTime: 2026-11-16T00:07:45Z
+  제목: 형님도 물리셨답니다!!! #피터틸 #13F
+  URL: https://www.youtube.com/watch?v=YiCdUO_q9cM
+  publishedAt: 2026-11-17T04:09:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - YiCdUO_q9cM | ongoing=False | publishedAt=2026-11-17T04:09:28Z | actualEndTime=None | effective=2026-11-17 04:09:28+00:00 | 형님도 물리셨답니다!!! #피터틸 #13F
+   - V3q-eVDUf9Q | ongoing=False | publishedAt=2026-11-17T02:15:49Z | actualEndTime=None | effective=2026-11-17 02:15:49+00:00 | 엔비디아, 지금 매수하기 망설여지는 이유
+   - 50bMc3VuF5U | ongoing=False | publishedAt=2026-11-17T00:08:07Z | actualEndTime=2026-11-17T00:05:06Z | effective=2026-11-17 00:05:06+00:00 | [미국마감&아침시황] 연준은 도대체 무엇을 보고 있나?ㅣ트럼프 2기 설계자의 3-3-3 투자전략ㅣ#26111
    - DxoreE3zPr4 | ongoing=False | publishedAt=2026-11-16T00:10:03Z | actualEndTime=2026-11-16T00:07:45Z | effective=2026-11-16 00:07:45+00:00 | [미국마감&아침시황] 젠슨황 없는 엔비디아 실적발표...??ㅣ#261116
-   - h3ByZfbl3I8 | ongoing=False | publishedAt=2026-11-15T03:00:38Z | actualEndTime=None | effective=2026-11-15 03:00:38+00:00 | 비트코인 하락의 주범, MSTR은 언제 터질까?
-   - VzB8nq5-sAg | ongoing=False | publishedAt=2026-11-14T23:00:33Z | actualEndTime=None | effective=2026-11-14 23:00:33+00:00 | 금 vs 비트코인 #비트코인
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - tfcHULzioZc | ongoing=False | publishedAt=2026-11-16T17:15:18Z | actualEndTime=None | effective=2026-11-16 17:15:18+00:00 | AI Capex 성장 둔화? 초긍정적이던 Seminanalysis 너마저???
+   - 6_6BhhnGDmM | ongoing=False | publishedAt=2026-11-16T09:09:04Z | actualEndTime=None | effective=2026-11-16 09:09:04+00:00 | 젠슨황 컴백 실패? #젠슨황 #엔비디아 #코스피
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 48시간 검색 결과 없음
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  후보(최신 10개) 디버그:
+   - wImd4kZNdN4 | ongoing=False | publishedAt=2026-11-16T09:45:47Z | actualEndTime=None | effective=2026-11-16 09:45:47+00:00 | 엔비디아-33% 폭락, 젠슨 황 사임 나비효과가 증시 혼란 더 키울까
