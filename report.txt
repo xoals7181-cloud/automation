@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-17 17:40 (KST)
-Run: 335 (id=44048778895)
+생성 시각: 2026-11-18 17:03 (KST)
+Run: 336 (id=44263738949)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,60 +8,70 @@ Run: 335 (id=44048778895)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Nvidia Fallout Hits Southeast Asia Hard
-  URL: https://www.youtube.com/watch?v=C9jfuVjwA2I
-  publishedAt: 2026-11-17T08:34:53Z
+  제목: Trump Heads to China for Xi, Putin Summit
+  URL: https://www.youtube.com/watch?v=EKrTHfJKJgQ
+  publishedAt: 2026-11-18T07:47:47Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - C9jfuVjwA2I | ongoing=False | publishedAt=2026-11-17T08:34:53Z | actualEndTime=None | effective=2026-11-17 08:34:53+00:00 | Nvidia Fallout Hits Southeast Asia Hard
-   - DJyTycwMmgs | ongoing=False | publishedAt=2026-11-17T08:23:31Z | actualEndTime=None | effective=2026-11-17 08:23:31+00:00 | Vance Says US Won’t Stay in Iran War for Years as Oil Drops 
-   - i0F3swVvv3s | ongoing=False | publishedAt=2026-11-17T08:17:52Z | actualEndTime=None | effective=2026-11-17 08:17:52+00:00 | Widespread Gloominess Is Already Priced: Market Analysis
-   - v5FigQhD5YA | ongoing=False | publishedAt=2026-11-17T08:09:00Z | actualEndTime=None | effective=2026-11-17 08:09:00+00:00 | US to Curb China's Nvidia Access as Trump Goes to Asia
-   - gC2MQB9FX88 | ongoing=False | publishedAt=2026-11-17T07:06:24Z | actualEndTime=None | effective=2026-11-17 07:06:24+00:00 | Canada's Carney Meets China's Xi in Shenzhen
-   - Z2YVyd3tGG0 | ongoing=False | publishedAt=2026-11-17T06:41:45Z | actualEndTime=None | effective=2026-11-17 06:41:45+00:00 | US Targets China's Remote Chip Access With New Curbs
-   - 8pIu2UOlZk0 | ongoing=False | publishedAt=2026-11-17T05:00:38Z | actualEndTime=None | effective=2026-11-17 05:00:38+00:00 | Anthropic IPO: What Australian Investors Need to Know
-   - GIgfxEotFZA | ongoing=False | publishedAt=2026-11-17T04:29:07Z | actualEndTime=None | effective=2026-11-17 04:29:07+00:00 | US Moves to Curb China's Remote Access to Nvidia's AI Chips
-   - cMZk9bWdFZc | ongoing=False | publishedAt=2026-11-17T00:24:43Z | actualEndTime=None | effective=2026-11-17 00:24:43+00:00 | United Airlines Says It Has a Widespread System Outage: AP
-   - Yt_wdKWStqM | ongoing=False | publishedAt=2026-11-17T00:17:23Z | actualEndTime=None | effective=2026-11-17 00:17:23+00:00 | Tech Under Pressure Ahead of Anthropic IPO, Stock Selloff Co
+   - EKrTHfJKJgQ | ongoing=False | publishedAt=2026-11-18T07:47:47Z | actualEndTime=None | effective=2026-11-18 07:47:47+00:00 | Trump Heads to China for Xi, Putin Summit
+   - oYIXQ82duFY | ongoing=False | publishedAt=2026-11-18T06:35:21Z | actualEndTime=None | effective=2026-11-18 06:35:21+00:00 | Xi Jinping Speaks at APEC as Nvidia Posts Solid First Post-H
+   - 6UzKH01ewrE | ongoing=False | publishedAt=2026-11-18T05:00:14Z | actualEndTime=None | effective=2026-11-18 05:00:14+00:00 | Apple Watch’s Always-Listening AI Features Provide Little Va
+   - Me9j687_CG4 | ongoing=False | publishedAt=2026-11-18T04:15:17Z | actualEndTime=None | effective=2026-11-18 04:15:17+00:00 | Nvidia Says It Can Thrive Without Jensen Huang
+   - nCTYtOjUeYA | ongoing=False | publishedAt=2026-11-18T02:56:05Z | actualEndTime=None | effective=2026-11-18 02:56:05+00:00 | Mahindra Three-Wheeler EV Firm Considers IPO, New Plant
+   - 4oqKDoXQt6o | ongoing=False | publishedAt=2026-11-18T02:30:24Z | actualEndTime=None | effective=2026-11-18 02:30:24+00:00 | The End of Big Law Transparency  Kirkland and Paul Weiss Sto
+   - kMEGlz99E08 | ongoing=False | publishedAt=2026-11-18T00:23:34Z | actualEndTime=None | effective=2026-11-18 00:23:34+00:00 | Stocks End Lower For A 4th Straight Session, Nvidia Earnings
+   - ju-OWwGVbG0 | ongoing=False | publishedAt=2026-11-18T00:21:03Z | actualEndTime=None | effective=2026-11-18 00:21:03+00:00 | Nvidia: Fiscal 2028 Revenue To Grow 75%
+   - ocG028418VE | ongoing=False | publishedAt=2026-11-17T23:44:27Z | actualEndTime=None | effective=2026-11-17 23:44:27+00:00 | Sen. Tillis: Trump Better Served if Lutnick Moves On
+   - cPCo5vkJbcA | ongoing=False | publishedAt=2026-11-17T23:29:18Z | actualEndTime=None | effective=2026-11-17 23:29:18+00:00 | Canada's Anand Eyes Progress on US Trade Talks
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The Jensen and Nvidia Situation keeps getting Crazier.
-  URL: https://www.youtube.com/watch?v=x6wAiDEkJAQ
-  publishedAt: 2026-11-17T06:00:04Z
+  제목: Nvidia's Earnings Call Without Jensen 😳
+  URL: https://www.youtube.com/watch?v=cs0ixGqtWrI
+  publishedAt: 2026-11-18T03:17:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - cs0ixGqtWrI | ongoing=False | publishedAt=2026-11-18T03:17:28Z | actualEndTime=None | effective=2026-11-18 03:17:28+00:00 | Nvidia's Earnings Call Without Jensen 😳
+   - cXMprxBM7Ug | ongoing=False | publishedAt=2026-11-18T01:25:27Z | actualEndTime=None | effective=2026-11-18 01:25:27+00:00 | Nvidia DISASTER | Jensen *REJECTED*
+   - hS3CqyReHzs | ongoing=False | publishedAt=2026-11-17T23:18:19Z | actualEndTime=2026-11-17T23:12:52Z | effective=2026-11-17 23:12:52+00:00 | Nvidia Stock Earnings LIVE 🚨 Holy Moly.
+   - OzdQRWazdE4 | ongoing=False | publishedAt=2026-11-17T21:59:14Z | actualEndTime=None | effective=2026-11-17 21:59:14+00:00 | Cops Called: Nvidia Earnings Breakdown & SEC Investigation
+   - dogmDx8j2fA | ongoing=False | publishedAt=2026-11-17T17:48:16Z | actualEndTime=None | effective=2026-11-17 17:48:16+00:00 | JENSEN CONFIRMS
+   - NsnimG4dBlI | ongoing=False | publishedAt=2026-11-17T12:30:38Z | actualEndTime=None | effective=2026-11-17 12:30:38+00:00 | -92% | Liquidated AGAIN.
    - x6wAiDEkJAQ | ongoing=False | publishedAt=2026-11-17T06:00:04Z | actualEndTime=None | effective=2026-11-17 06:00:04+00:00 | The Jensen and Nvidia Situation keeps getting Crazier.
    - gmp9ium-mVY | ongoing=False | publishedAt=2026-11-17T02:20:38Z | actualEndTime=None | effective=2026-11-17 02:20:38+00:00 | The Truth About the Nationwide Ground Stop: EXPOSED
    - jUlIobFTg5E | ongoing=False | publishedAt=2026-11-16T18:00:35Z | actualEndTime=None | effective=2026-11-16 18:00:35+00:00 | The Nvidia & Jensen Market Collapse Begins.
-   - WJv-1MammyE | ongoing=False | publishedAt=2026-11-15T23:16:47Z | actualEndTime=None | effective=2026-11-15 23:16:47+00:00 | Jensen Accepts: Return as Nvidia CEO.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  젠슨 황 없는 첫 실적 발표…엔비디아 급락에 반도체주 또 무너졌다  -  2026/11/16
-  URL: https://www.youtube.com/watch?v=9vMdh89owis
-  publishedAt: 2026-11-16T23:07:19Z
+  제목: 【미국 증시 오늘의 요약】  엔비디아 깜짝 실적과 1,500억 달러 자사주 매입! -  2026/11/17
+  URL: https://www.youtube.com/watch?v=sC_5aXBb1TY
+  publishedAt: 2026-11-18T00:04:25Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - sC_5aXBb1TY | ongoing=False | publishedAt=2026-11-18T00:04:25Z | actualEndTime=None | effective=2026-11-18 00:04:25+00:00 | 【미국 증시 오늘의 요약】  엔비디아 깜짝 실적과 1,500억 달러 자사주 매입! -  2026/11/17
+   - fh4H38SqIOg | ongoing=False | publishedAt=2026-11-17T23:47:53Z | actualEndTime=2026-11-17T23:23:43Z | effective=2026-11-17 23:23:43+00:00 | [26년 11월 17일 화]  엔비디아 실적발표·어닝콜 ｜ 트럼프, 쿼드 정상들과 회동｜미국, 대중국 반도체
    - 9vMdh89owis | ongoing=False | publishedAt=2026-11-16T23:07:19Z | actualEndTime=None | effective=2026-11-16 23:07:19+00:00 | 【미국 증시 오늘의 요약】  젠슨 황 없는 첫 실적 발표…엔비디아 급락에 반도체주 또 무너졌다  -  202
    - EyJCRlJbprc | ongoing=False | publishedAt=2026-11-16T22:46:08Z | actualEndTime=2026-11-16T22:26:53Z | effective=2026-11-16 22:26:53+00:00 | [26년 11월 16일 월]  엔비디아 리더십 혼란 지속... ｜ 주요 기관투자자 13F 공시 마감일 ｜연준
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 형님도 물리셨답니다!!! #피터틸 #13F
-  URL: https://www.youtube.com/watch?v=YiCdUO_q9cM
-  publishedAt: 2026-11-17T04:09:28Z
+  제목: 손절하지 마세요
+  URL: https://www.youtube.com/watch?v=eL5R8wvXKLk
+  publishedAt: 2026-11-18T06:00:28Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - eL5R8wvXKLk | ongoing=False | publishedAt=2026-11-18T06:00:28Z | actualEndTime=None | effective=2026-11-18 06:00:28+00:00 | 손절하지 마세요
+   - UfRBMX-UjI4 | ongoing=False | publishedAt=2026-11-18T03:45:28Z | actualEndTime=None | effective=2026-11-18 03:45:28+00:00 | 피터틸도 반도체에 물렸습니다
+   - XAl-Tt9cCMc | ongoing=False | publishedAt=2026-11-17T23:17:23Z | actualEndTime=2026-11-17T23:13:58Z | effective=2026-11-17 23:13:58+00:00 | [미국마감&아침시황] 엔비디아 실적발표 실황 LIVEㅣ#261118
    - YiCdUO_q9cM | ongoing=False | publishedAt=2026-11-17T04:09:28Z | actualEndTime=None | effective=2026-11-17 04:09:28+00:00 | 형님도 물리셨답니다!!! #피터틸 #13F
    - V3q-eVDUf9Q | ongoing=False | publishedAt=2026-11-17T02:15:49Z | actualEndTime=None | effective=2026-11-17 02:15:49+00:00 | 엔비디아, 지금 매수하기 망설여지는 이유
    - 50bMc3VuF5U | ongoing=False | publishedAt=2026-11-17T00:08:07Z | actualEndTime=2026-11-17T00:05:06Z | effective=2026-11-17 00:05:06+00:00 | [미국마감&아침시황] 연준은 도대체 무엇을 보고 있나?ㅣ트럼프 2기 설계자의 3-3-3 투자전략ㅣ#26111
-   - DxoreE3zPr4 | ongoing=False | publishedAt=2026-11-16T00:10:03Z | actualEndTime=2026-11-16T00:07:45Z | effective=2026-11-16 00:07:45+00:00 | [미국마감&아침시황] 젠슨황 없는 엔비디아 실적발표...??ㅣ#261116
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - zx-P_6UUI_A | ongoing=False | publishedAt=2026-11-17T09:07:58Z | actualEndTime=None | effective=2026-11-17 09:07:58+00:00 | 드러켄밀러 반도체 다 팔고 이 AI 주식 436% 늘렸다?
    - tfcHULzioZc | ongoing=False | publishedAt=2026-11-16T17:15:18Z | actualEndTime=None | effective=2026-11-16 17:15:18+00:00 | AI Capex 성장 둔화? 초긍정적이던 Seminanalysis 너마저???
    - 6_6BhhnGDmM | ongoing=False | publishedAt=2026-11-16T09:09:04Z | actualEndTime=None | effective=2026-11-16 09:09:04+00:00 | 젠슨황 컴백 실패? #젠슨황 #엔비디아 #코스피
 
@@ -69,4 +79,5 @@ Run: 335 (id=44048778895)
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - MQ8gneRrYuw | ongoing=False | publishedAt=2026-11-17T12:08:10Z | actualEndTime=None | effective=2026-11-17 12:08:10+00:00 | 중간선거 끝나자마자 태세전환하는 연준? 2018년 연말 쇼크 재현될까
    - wImd4kZNdN4 | ongoing=False | publishedAt=2026-11-16T09:45:47Z | actualEndTime=None | effective=2026-11-16 09:45:47+00:00 | 엔비디아-33% 폭락, 젠슨 황 사임 나비효과가 증시 혼란 더 키울까
