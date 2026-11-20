@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-19 17:10 (KST)
-Run: 337 (id=44485295648)
+생성 시각: 2026-11-20 16:53 (KST)
+Run: 338 (id=44698288990)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,80 +8,83 @@ Run: 337 (id=44485295648)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Trump Calls Xi a 'Friend' as Leaders Hold Talks in China
-  URL: https://www.youtube.com/watch?v=1EA6og-pYiQ
-  publishedAt: 2026-11-19T07:00:31Z
+  제목: US-Iran Conflict Escalates as Senate Rejects Bid to Block Further Strikes
+  URL: https://www.youtube.com/watch?v=1b3qe4jjiNA
+  publishedAt: 2026-11-20T07:43:15Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 1EA6og-pYiQ | ongoing=False | publishedAt=2026-11-19T07:00:31Z | actualEndTime=None | effective=2026-11-19 07:00:31+00:00 | Trump Calls Xi a 'Friend' as Leaders Hold Talks in China
-   - etl_8fvPxls | ongoing=False | publishedAt=2026-11-19T06:49:33Z | actualEndTime=None | effective=2026-11-19 06:49:33+00:00 | Xi Hosts Trump at APEC Summit in Shenzhen
-   - hFfH_icd6Qk | ongoing=False | publishedAt=2026-11-19T06:38:48Z | actualEndTime=None | effective=2026-11-19 06:38:48+00:00 | Anthropic Raises $107.3 Billion in Watershed AI Debut
-   - aYrcoNxX2us | ongoing=False | publishedAt=2026-11-19T04:15:51Z | actualEndTime=None | effective=2026-11-19 04:15:51+00:00 | Anthropic IPO Raises $107.3B to Top SpaceX's Record Debut
-   - WjEktpP4P6E | ongoing=False | publishedAt=2026-11-19T03:22:07Z | actualEndTime=None | effective=2026-11-19 03:22:07+00:00 | Citigroup CEO Jane Fraser at Bloomberg Newsmakers Event
-   - ADdHEYvw7YI | ongoing=False | publishedAt=2026-11-19T03:06:46Z | actualEndTime=None | effective=2026-11-19 03:06:46+00:00 | Seeing More Asset-Management Consolidation: Goldman’s Nachma
-   - EPR7sdthf3I | ongoing=False | publishedAt=2026-11-19T03:06:42Z | actualEndTime=None | effective=2026-11-19 03:06:42+00:00 | Flight To Quality in AI Financing: Raghavan
-   - ubbOYYDMcAM | ongoing=False | publishedAt=2026-11-19T03:06:12Z | actualEndTime=None | effective=2026-11-19 03:06:12+00:00 | Anthropic Is Said to Price IPO at $83 Per Share
-   - suITruo7xX8 | ongoing=False | publishedAt=2026-11-19T03:06:36Z | actualEndTime=None | effective=2026-11-19 03:06:36+00:00 | Anthropic’s Valuation Seems Justified: Thakker
-   - 71tIg_ieOHc | ongoing=False | publishedAt=2026-11-19T03:06:25Z | actualEndTime=None | effective=2026-11-19 03:06:25+00:00 | Arm CEO Haas Approached by Nvidia Board’s Recruitment Firm
+   - 1b3qe4jjiNA | ongoing=False | publishedAt=2026-11-20T07:43:15Z | actualEndTime=None | effective=2026-11-20 07:43:15+00:00 | US-Iran Conflict Escalates as Senate Rejects Bid to Block Fu
+   - FuYOom7gtX4 | ongoing=False | publishedAt=2026-11-20T07:30:18Z | actualEndTime=None | effective=2026-11-20 07:30:18+00:00 | Trump Tells European Leaders That Putin Wants Peace
+   - X63Q4iOXuzY | ongoing=False | publishedAt=2026-11-20T07:23:26Z | actualEndTime=None | effective=2026-11-20 07:23:26+00:00 | Can Manchester United's New Coach Fix All the Problems?
+   - zrNa62ODC34 | ongoing=False | publishedAt=2026-11-20T07:08:13Z | actualEndTime=None | effective=2026-11-20 07:08:13+00:00 | Anthropic Soars Then Slips as AI Trade Fears Linger
+   - -aGXmpgkZ3E | ongoing=False | publishedAt=2026-11-20T06:34:01Z | actualEndTime=None | effective=2026-11-20 06:34:01+00:00 | Asia Stocks Drop in Wake of Anthropic's Record Debut
+   - lb0z1fQNVQY | ongoing=False | publishedAt=2026-11-20T05:42:19Z | actualEndTime=None | effective=2026-11-20 05:42:19+00:00 | Global Stocks Set for Worst Run Since 2023 as AI Enthusiasm 
+   - -BFUQ_9gSDE | ongoing=False | publishedAt=2026-11-20T05:00:04Z | actualEndTime=None | effective=2026-11-20 05:00:04+00:00 | Businessweek In December Is All About China
+   - pZ52l2yvlFs | ongoing=False | publishedAt=2026-11-20T03:18:32Z | actualEndTime=None | effective=2026-11-20 03:18:32+00:00 | Trump Offers Xi a Helping Hand on Escalator
+   - oYr99qm54MM | ongoing=False | publishedAt=2026-11-20T00:48:38Z | actualEndTime=None | effective=2026-11-20 00:48:38+00:00 | Why San Francisco’s AI Boom is Unlike Anything Else
+   - CseELv0cfzk | ongoing=False | publishedAt=2026-11-20T00:11:45Z | actualEndTime=None | effective=2026-11-20 00:11:45+00:00 | Documents Released by House Panel Show AI Chip Approvals
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: The FAA Ground Stop Story Doesn't Add Up ✈️
-  URL: https://www.youtube.com/watch?v=2TvRFHq4u4c
-  publishedAt: 2026-11-19T02:33:06Z
+  제목: Stock Up NOW: We're Under Attack.
+  URL: https://www.youtube.com/watch?v=hdIdY3l96BA
+  publishedAt: 2026-11-19T23:33:46Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - hdIdY3l96BA | ongoing=False | publishedAt=2026-11-19T23:33:46Z | actualEndTime=None | effective=2026-11-19 23:33:46+00:00 | Stock Up NOW: We're Under Attack.
+   - SrhVCe3wKc0 | ongoing=False | publishedAt=2026-11-19T20:27:17Z | actualEndTime=None | effective=2026-11-19 20:27:17+00:00 | Is AMD Next? Hunterbrook Says AMD Has a China Problem
+   - 5m4AIfW_56U | ongoing=False | publishedAt=2026-11-19T18:20:25Z | actualEndTime=None | effective=2026-11-19 18:20:25+00:00 | The Next Jensen of Nvidia is CRASHING the MARKET
+   - gSIJGx3Yrw0 | ongoing=False | publishedAt=2026-11-19T17:00:05Z | actualEndTime=None | effective=2026-11-19 17:00:05+00:00 | The Anthropic Stock IPO Valuation
+   - FGxmXaLLPzU | ongoing=False | publishedAt=2026-11-19T16:34:47Z | actualEndTime=None | effective=2026-11-19 16:34:47+00:00 | Should You Buy Anthropic Stock (ANT)? 🤔
+   - 3ftcmy8Fi2o | ongoing=False | publishedAt=2026-11-19T15:49:43Z | actualEndTime=None | effective=2026-11-19 15:49:43+00:00 | Watch Immediately: The Anthropic IPO [Should you Buy]
    - 2TvRFHq4u4c | ongoing=False | publishedAt=2026-11-19T02:33:06Z | actualEndTime=None | effective=2026-11-19 02:33:06+00:00 | The FAA Ground Stop Story Doesn't Add Up ✈️
    - vzGR3e7jkvk | ongoing=False | publishedAt=2026-11-19T02:20:14Z | actualEndTime=None | effective=2026-11-19 02:20:14+00:00 | Prepare for War.
    - Tn8IEhp_iq4 | ongoing=False | publishedAt=2026-11-18T18:11:03Z | actualEndTime=None | effective=2026-11-18 18:11:03+00:00 | The Stock Market is about to do something UNBELIEVABLE.
    - DhZU6oek9_M | ongoing=False | publishedAt=2026-11-18T18:01:48Z | actualEndTime=2026-11-18T17:57:04Z | effective=2026-11-18 17:57:04+00:00 | Markets are Nervous.
-   - cs0ixGqtWrI | ongoing=False | publishedAt=2026-11-18T03:17:28Z | actualEndTime=None | effective=2026-11-18 03:17:28+00:00 | Nvidia's Earnings Call Without Jensen 😳
-   - cXMprxBM7Ug | ongoing=False | publishedAt=2026-11-18T01:25:27Z | actualEndTime=None | effective=2026-11-18 01:25:27+00:00 | Nvidia DISASTER | Jensen *REJECTED*
-   - hS3CqyReHzs | ongoing=False | publishedAt=2026-11-17T23:18:19Z | actualEndTime=2026-11-17T23:12:52Z | effective=2026-11-17 23:12:52+00:00 | Nvidia Stock Earnings LIVE 🚨 Holy Moly.
-   - OzdQRWazdE4 | ongoing=False | publishedAt=2026-11-17T21:59:14Z | actualEndTime=None | effective=2026-11-17 21:59:14+00:00 | Cops Called: Nvidia Earnings Breakdown & SEC Investigation
-   - dogmDx8j2fA | ongoing=False | publishedAt=2026-11-17T17:48:16Z | actualEndTime=None | effective=2026-11-17 17:48:16+00:00 | JENSEN CONFIRMS
-   - NsnimG4dBlI | ongoing=False | publishedAt=2026-11-17T12:30:38Z | actualEndTime=None | effective=2026-11-17 12:30:38+00:00 | -92% | Liquidated AGAIN.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: [26년 11월 18일 수]  엔비디아, 강력한 성장 전망 제시 ｜딜북 서밋: 머스크, 샘 올트먼 등  ｜ FOMC 의사록, 20년물 국채 경매｜  -  오선의 미국 증시 라이브
-  URL: https://www.youtube.com/watch?v=G7p-fmSgq5A
-  publishedAt: 2026-11-18T23:26:12Z
-  actualEndTime: 2026-11-18T22:08:05Z
+  제목: 【미국 증시 오늘의 요약】  앤트로픽 상장에도 엔비디아·빅테크 일제히 약세…AMD는 공매도 직격탄에 급락-  2026/11/19
+  URL: https://www.youtube.com/watch?v=bnR_dSNb2-A
+  publishedAt: 2026-11-19T23:08:27Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - bnR_dSNb2-A | ongoing=False | publishedAt=2026-11-19T23:08:27Z | actualEndTime=None | effective=2026-11-19 23:08:27+00:00 | 【미국 증시 오늘의 요약】  앤트로픽 상장에도 엔비디아·빅테크 일제히 약세…AMD는 공매도 직격탄에 급락- 
+   - tIrF4L5jaqQ | ongoing=False | publishedAt=2026-11-19T22:33:13Z | actualEndTime=2026-11-19T22:18:17Z | effective=2026-11-19 22:18:17+00:00 | [26년 11월 19일 목]  앤트로픽, 역대 최대 IPO ｜미·중·러 정상, 에너지 공급 확대 합의｜ 사이
    - G7p-fmSgq5A | ongoing=False | publishedAt=2026-11-18T23:26:12Z | actualEndTime=2026-11-18T22:08:05Z | effective=2026-11-18 22:08:05+00:00 | [26년 11월 18일 수]  엔비디아, 강력한 성장 전망 제시 ｜딜북 서밋: 머스크, 샘 올트먼 등  ｜ 
    - uugPU4C_U0I | ongoing=False | publishedAt=2026-11-18T22:45:06Z | actualEndTime=None | effective=2026-11-18 22:45:06+00:00 | 【미국 증시 오늘의 요약】  엔비디아 호실적에도 하락… 다음 시험대는 앤트로픽 IPO! -  2026/11/
-   - sC_5aXBb1TY | ongoing=False | publishedAt=2026-11-18T00:04:25Z | actualEndTime=None | effective=2026-11-18 00:04:25+00:00 | 【미국 증시 오늘의 요약】  엔비디아 깜짝 실적과 1,500억 달러 자사주 매입! -  2026/11/17
-   - fh4H38SqIOg | ongoing=False | publishedAt=2026-11-17T23:47:53Z | actualEndTime=2026-11-17T23:23:43Z | effective=2026-11-17 23:23:43+00:00 | [26년 11월 17일 화]  엔비디아 실적발표·어닝콜 ｜ 트럼프, 쿼드 정상들과 회동｜미국, 대중국 반도체
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 롯데는 안됩니다
-  URL: https://www.youtube.com/watch?v=vxjghDnX1Gs
-  publishedAt: 2026-11-19T05:00:27Z
+  제목: 20일, 25일은 주가 상승 하는 날!?
+  URL: https://www.youtube.com/watch?v=owqSkN8t7u4
+  publishedAt: 2026-11-20T03:00:30Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - owqSkN8t7u4 | ongoing=False | publishedAt=2026-11-20T03:00:30Z | actualEndTime=None | effective=2026-11-20 03:00:30+00:00 | 20일, 25일은 주가 상승 하는 날!?
+   - rkMg9RHUIKU | ongoing=False | publishedAt=2026-11-20T00:07:39Z | actualEndTime=2026-11-20T00:05:07Z | effective=2026-11-20 00:05:07+00:00 | [미국마감&아침시황] 숏쟁이들 인증글이 넘쳐납니다...ㅣ젠슨황, 새로운 반도체 회사 세운다...?ㅣ#2611
+   - NXKwGC79sD4 | ongoing=False | publishedAt=2026-11-19T12:00:13Z | actualEndTime=None | effective=2026-11-19 12:00:13+00:00 | 엔비디아 주주는 모두 환자입니다
+   - B-eFihYdsu4 | ongoing=False | publishedAt=2026-11-19T09:00:18Z | actualEndTime=None | effective=2026-11-19 09:00:18+00:00 | 슬픈 진실
    - vxjghDnX1Gs | ongoing=False | publishedAt=2026-11-19T05:00:27Z | actualEndTime=None | effective=2026-11-19 05:00:27+00:00 | 롯데는 안됩니다
    - X0olDR5Vpaw | ongoing=False | publishedAt=2026-11-19T03:00:23Z | actualEndTime=None | effective=2026-11-19 03:00:23+00:00 | 엔비디아, 190 위로는 쉽지 않습니다...
    - C8ww0zocbXY | ongoing=False | publishedAt=2026-11-19T02:43:02Z | actualEndTime=None | effective=2026-11-19 02:43:02+00:00 | MTS는 하루 한번만 열어보면 충분합니다
    - ZM2BRZOmb3I | ongoing=False | publishedAt=2026-11-19T00:26:21Z | actualEndTime=2026-11-19T00:23:45Z | effective=2026-11-19 00:23:45+00:00 | [미국마감&아침시황] 와... 오링났다요...ㅣ#261119
    - 7pa8LADfGmA | ongoing=False | publishedAt=2026-11-18T12:00:26Z | actualEndTime=None | effective=2026-11-18 12:00:26+00:00 | AI가 세상을 점령하고 있습니다
    - 0gkhGOwFd0g | ongoing=False | publishedAt=2026-11-18T09:00:14Z | actualEndTime=None | effective=2026-11-18 09:00:14+00:00 | 반도체 대장은 TSMC 입니다
-   - eL5R8wvXKLk | ongoing=False | publishedAt=2026-11-18T06:00:28Z | actualEndTime=None | effective=2026-11-18 06:00:28+00:00 | 손절하지 마세요
-   - UfRBMX-UjI4 | ongoing=False | publishedAt=2026-11-18T03:45:28Z | actualEndTime=None | effective=2026-11-18 03:45:28+00:00 | 피터틸도 반도체에 물렸습니다
-   - XAl-Tt9cCMc | ongoing=False | publishedAt=2026-11-17T23:17:23Z | actualEndTime=2026-11-17T23:13:58Z | effective=2026-11-17 23:13:58+00:00 | [미국마감&아침시황] 엔비디아 실적발표 실황 LIVEㅣ#261118
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 앤트로픽 AMD가 문제 #코스피 #AMD #앤트로픽
+  URL: https://www.youtube.com/watch?v=XZx0wKmpdxw
+  publishedAt: 2026-11-20T02:56:12Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - XZx0wKmpdxw | ongoing=False | publishedAt=2026-11-20T02:56:12Z | actualEndTime=None | effective=2026-11-20 02:56:12+00:00 | 앤트로픽 AMD가 문제 #코스피 #AMD #앤트로픽
    - mYrEXYkomO4 | ongoing=False | publishedAt=2026-11-18T08:06:37Z | actualEndTime=None | effective=2026-11-18 08:06:37+00:00 | 앤트로픽 IPO가 걱정되는 이유
-   - zx-P_6UUI_A | ongoing=False | publishedAt=2026-11-17T09:07:58Z | actualEndTime=None | effective=2026-11-17 09:07:58+00:00 | 드러켄밀러 반도체 다 팔고 이 AI 주식 436% 늘렸다?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - _HKbEOD-fd8 | ongoing=False | publishedAt=2026-11-19T09:23:01Z | actualEndTime=None | effective=2026-11-19 09:23:01+00:00 | 앤트로픽 상장 후 투자법 달라져야 한다? AI 다음 사이클의 승자들 잡는 법
    - Z4fzVAS4KCc | ongoing=False | publishedAt=2026-11-18T11:40:03Z | actualEndTime=None | effective=2026-11-18 11:40:03+00:00 | AI 끝판왕 앤트로픽 사려고 다른 주식 매도 중? 역대 IPO 패턴 반복될까
-   - MQ8gneRrYuw | ongoing=False | publishedAt=2026-11-17T12:08:10Z | actualEndTime=None | effective=2026-11-17 12:08:10+00:00 | 중간선거 끝나자마자 태세전환하는 연준? 2018년 연말 쇼크 재현될까
