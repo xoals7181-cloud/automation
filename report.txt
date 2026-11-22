@@ -1,28 +1,25 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-21 16:52 (KST)
-Run: 339 (id=44882188082)
+생성 시각: 2026-11-22 16:38 (KST)
+Run: 340 (id=44999123853)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_TRANSCRIPT
-  제목: Trump Vows To Tax US Companies Building Data Centers Abroad
-  URL: https://www.youtube.com/watch?v=H4ZByULvs-Q
-  publishedAt: 2026-11-21T00:09:39Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - H4ZByULvs-Q | ongoing=False | publishedAt=2026-11-21T00:09:39Z | actualEndTime=None | effective=2026-11-21 00:09:39+00:00 | Trump Vows To Tax US Companies Building Data Centers Abroad
-   - JDWS_SF4ir0 | ongoing=False | publishedAt=2026-11-21T00:00:31Z | actualEndTime=None | effective=2026-11-21 00:00:31+00:00 | Wall Street Week | Gaming Blockbuster, Healthcare Costs, Cyb
-   - dM5_l_31zIU | ongoing=False | publishedAt=2026-11-20T23:51:14Z | actualEndTime=None | effective=2026-11-20 23:51:14+00:00 | Historic Market Selloff Deepens After Anthropic IPO
-   - EWPEat-a_LU | ongoing=False | publishedAt=2026-11-20T23:37:59Z | actualEndTime=None | effective=2026-11-20 23:37:59+00:00 | Gov. Lujan Grisham: 2028 Hopefuls Already Eyeing New Mexico
-   - BFiDTr97in4 | ongoing=False | publishedAt=2026-11-20T23:34:14Z | actualEndTime=None | effective=2026-11-20 23:34:14+00:00 | Stocks Plunge After Anthropic IPO, Trump Returns from Asia
-   - uPUVs41q4eo | ongoing=False | publishedAt=2026-11-20T23:31:35Z | actualEndTime=None | effective=2026-11-20 23:31:35+00:00 | Sol Trujillo Says Latino Economic Growth Is an Undervalued I
-   - 7fbq429Zdbg | ongoing=False | publishedAt=2026-11-20T23:31:03Z | actualEndTime=None | effective=2026-11-20 23:31:03+00:00 | Rediker: AI Selloff Is a ‘Healthy’ Correction
-   - Xx6jz7bo9FM | ongoing=False | publishedAt=2026-11-20T23:27:01Z | actualEndTime=None | effective=2026-11-20 23:27:01+00:00 | Curnutt: Selloff May Be ‘Cleansing,’ But Risks Remain
-   - KLAEQz1VTQs | ongoing=False | publishedAt=2026-11-20T22:56:40Z | actualEndTime=None | effective=2026-11-20 22:56:40+00:00 | ‘Always Remain Liquid’: Richards
-   - dFNoyrfcDGY | ongoing=False | publishedAt=2026-11-20T22:30:27Z | actualEndTime=None | effective=2026-11-20 22:30:27+00:00 | Huang Behavior Complaints, Kalshi to Add Stock Trading
+   - 7AkWiMDPAio | ongoing=False | publishedAt=2026-11-21T17:02:13Z | actualEndTime=None | effective=2026-11-21 17:02:13+00:00 | Anthropic IPO Fails to Halt AI Selloff, Ditching the Kitchen
+   - e2Z0wpq72F8 | ongoing=False | publishedAt=2026-11-21T15:50:11Z | actualEndTime=None | effective=2026-11-21 15:50:11+00:00 | Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
+   - xzICHcXA2DI | ongoing=False | publishedAt=2026-11-21T15:26:47Z | actualEndTime=None | effective=2026-11-21 15:26:47+00:00 | Thanksgiving Dinner Is Moving to Restaurants
+   - DK4WgFjZF44 | ongoing=False | publishedAt=2026-11-21T15:18:00Z | actualEndTime=None | effective=2026-11-21 15:18:00+00:00 | The 1982 War Still Haunts the Middle East
+   - dF3hfxgFqrg | ongoing=False | publishedAt=2026-11-21T15:08:05Z | actualEndTime=None | effective=2026-11-21 15:08:05+00:00 | Is AI a Bubble? History Offers Some Clues
+   - 1wMDgN2y65U | ongoing=False | publishedAt=2026-11-21T15:00:02Z | actualEndTime=None | effective=2026-11-21 15:00:02+00:00 | GTA 6: The Blockbuster That is Changing Gaming Forever
+   - 60hFHZ1wvlw | ongoing=False | publishedAt=2026-11-21T14:49:34Z | actualEndTime=None | effective=2026-11-21 14:49:34+00:00 | Wall Street Confronts AI Reality Check
+   - iS-Tv_sXT3A | ongoing=False | publishedAt=2026-11-21T14:22:58Z | actualEndTime=None | effective=2026-11-21 14:22:58+00:00 | Shenzhen Wants to Become a Cultural Capital
+   - CmrF0VO7kLo | ongoing=False | publishedAt=2026-11-21T14:03:28Z | actualEndTime=None | effective=2026-11-21 14:03:28+00:00 | Venezuela’s New Leader Walks a Political Tightrope
+   - 2BkIJSQ5PJ8 | ongoing=False | publishedAt=2026-11-21T13:55:11Z | actualEndTime=None | effective=2026-11-21 13:55:11+00:00 | Trump’s Putin Outreach Tests Ukraine Talks
 
 - Meet Kevin
   상태: NO_VIDEO
@@ -32,50 +29,35 @@ Run: 339 (id=44882188082)
    - zlvcEuxM5xU | ongoing=False | publishedAt=2026-11-20T17:11:03Z | actualEndTime=None | effective=2026-11-20 17:11:03+00:00 | Jensen JUST Crashed the Market: New STARTUP
    - _wtHypm4eqQ | ongoing=False | publishedAt=2026-11-20T16:40:57Z | actualEndTime=2026-11-20T16:35:54Z | effective=2026-11-20 16:35:54+00:00 | The Collapse...
    - 8GU-V2QEPQ0 | ongoing=False | publishedAt=2026-11-20T13:50:15Z | actualEndTime=None | effective=2026-11-20 13:50:15+00:00 | The Fed is Engineering a Total Stock Market Wipeout.
-   - hdIdY3l96BA | ongoing=False | publishedAt=2026-11-19T23:33:46Z | actualEndTime=None | effective=2026-11-19 23:33:46+00:00 | Stock Up NOW: We're Under Attack.
-   - SrhVCe3wKc0 | ongoing=False | publishedAt=2026-11-19T20:27:17Z | actualEndTime=None | effective=2026-11-19 20:27:17+00:00 | Is AMD Next? Hunterbrook Says AMD Has a China Problem
-   - 5m4AIfW_56U | ongoing=False | publishedAt=2026-11-19T18:20:25Z | actualEndTime=None | effective=2026-11-19 18:20:25+00:00 | The Next Jensen of Nvidia is CRASHING the MARKET
-   - gSIJGx3Yrw0 | ongoing=False | publishedAt=2026-11-19T17:00:05Z | actualEndTime=None | effective=2026-11-19 17:00:05+00:00 | The Anthropic Stock IPO Valuation
-   - FGxmXaLLPzU | ongoing=False | publishedAt=2026-11-19T16:34:47Z | actualEndTime=None | effective=2026-11-19 16:34:47+00:00 | Should You Buy Anthropic Stock (ANT)? 🤔
-   - 3ftcmy8Fi2o | ongoing=False | publishedAt=2026-11-19T15:49:43Z | actualEndTime=None | effective=2026-11-19 15:49:43+00:00 | Watch Immediately: The Anthropic IPO [Should you Buy]
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  나스닥 5.3%·반도체 11% 폭락… AI 투매에 미 증시 '조정 국면' 진입 -  2026/11/20
-  URL: https://www.youtube.com/watch?v=wfLaOmwsFa8
-  publishedAt: 2026-11-20T23:11:31Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - wfLaOmwsFa8 | ongoing=False | publishedAt=2026-11-20T23:11:31Z | actualEndTime=None | effective=2026-11-20 23:11:31+00:00 | 【미국 증시 오늘의 요약】  나스닥 5.3%·반도체 11% 폭락… AI 투매에 미 증시 '조정 국면' 진입 
    - UYU_kxQPGOg | ongoing=False | publishedAt=2026-11-20T22:52:43Z | actualEndTime=2026-11-20T22:34:10Z | effective=2026-11-20 22:34:10+00:00 | [26년 11월 20일 금]  트럼프 대통령 '언론 브리핑' ｜월간 옵션 만기·기대인플레이션｜ 앤트로픽 상장
-   - bnR_dSNb2-A | ongoing=False | publishedAt=2026-11-19T23:08:27Z | actualEndTime=None | effective=2026-11-19 23:08:27+00:00 | 【미국 증시 오늘의 요약】  앤트로픽 상장에도 엔비디아·빅테크 일제히 약세…AMD는 공매도 직격탄에 급락- 
-   - tIrF4L5jaqQ | ongoing=False | publishedAt=2026-11-19T22:33:13Z | actualEndTime=2026-11-19T22:18:17Z | effective=2026-11-19 22:18:17+00:00 | [26년 11월 19일 목]  앤트로픽, 역대 최대 IPO ｜미·중·러 정상, 에너지 공급 확대 합의｜ 사이
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 보유편향을 버려야 수익률이 올라옵니다
-  URL: https://www.youtube.com/watch?v=OfuibyZIAyw
-  publishedAt: 2026-11-21T06:00:36Z
+  제목: 월 30만원 로봇청소기...??
+  URL: https://www.youtube.com/watch?v=UmQ939QYWN8
+  publishedAt: 2026-11-22T06:00:11Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - UmQ939QYWN8 | ongoing=False | publishedAt=2026-11-22T06:00:11Z | actualEndTime=None | effective=2026-11-22 06:00:11+00:00 | 월 30만원 로봇청소기...??
+   - QvzHGnDGX-Y | ongoing=False | publishedAt=2026-11-22T03:00:31Z | actualEndTime=None | effective=2026-11-22 03:00:31+00:00 | 주식 바닥의 가장 강력한 시그널...?
+   - v3f5TjEtfpY | ongoing=False | publishedAt=2026-11-22T00:00:06Z | actualEndTime=None | effective=2026-11-22 00:00:06+00:00 | 연준은 개입을 준비하고 있습니다
    - OfuibyZIAyw | ongoing=False | publishedAt=2026-11-21T06:00:36Z | actualEndTime=None | effective=2026-11-21 06:00:36+00:00 | 보유편향을 버려야 수익률이 올라옵니다
    - ym2qyAl4xc4 | ongoing=False | publishedAt=2026-11-21T03:00:02Z | actualEndTime=None | effective=2026-11-21 03:00:02+00:00 | 반도체가 이끄는 나스닥 신고가 랠리
    - kVheMvL3GNo | ongoing=False | publishedAt=2026-11-21T00:00:24Z | actualEndTime=None | effective=2026-11-21 00:00:24+00:00 | 버거형들은 코스피 모릅니다
    - 5-vbgmutfBs | ongoing=False | publishedAt=2026-11-20T16:30:56Z | actualEndTime=2026-11-20T16:23:04Z | effective=2026-11-20 16:23:04+00:00 | [미국주식 LIVE] 다음주에는 반등을 합니다.ㅣ#261120
-   - owqSkN8t7u4 | ongoing=False | publishedAt=2026-11-20T03:00:30Z | actualEndTime=None | effective=2026-11-20 03:00:30+00:00 | 20일, 25일은 주가 상승 하는 날!?
-   - rkMg9RHUIKU | ongoing=False | publishedAt=2026-11-20T00:07:39Z | actualEndTime=2026-11-20T00:05:07Z | effective=2026-11-20 00:05:07+00:00 | [미국마감&아침시황] 숏쟁이들 인증글이 넘쳐납니다...ㅣ젠슨황, 새로운 반도체 회사 세운다...?ㅣ#2611
-   - NXKwGC79sD4 | ongoing=False | publishedAt=2026-11-19T12:00:13Z | actualEndTime=None | effective=2026-11-19 12:00:13+00:00 | 엔비디아 주주는 모두 환자입니다
-   - B-eFihYdsu4 | ongoing=False | publishedAt=2026-11-19T09:00:18Z | actualEndTime=None | effective=2026-11-19 09:00:18+00:00 | 슬픈 진실
 
 - 내일은 투자왕 - 김단테
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - cQHMzYRaexc | ongoing=False | publishedAt=2026-11-20T17:17:22Z | actualEndTime=None | effective=2026-11-20 17:17:22+00:00 | 나스닥 대폭락! 앤트로픽 IPO는 AI 주식의 마지막 불꽃?
-   - XZx0wKmpdxw | ongoing=False | publishedAt=2026-11-20T02:56:12Z | actualEndTime=None | effective=2026-11-20 02:56:12+00:00 | 앤트로픽 AMD가 문제 #코스피 #AMD #앤트로픽
 
 - 소수몽키
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - _HKbEOD-fd8 | ongoing=False | publishedAt=2026-11-19T09:23:01Z | actualEndTime=None | effective=2026-11-19 09:23:01+00:00 | 앤트로픽 상장 후 투자법 달라져야 한다? AI 다음 사이클의 승자들 잡는 법
+  비고: 최근 48시간 검색 결과 없음
