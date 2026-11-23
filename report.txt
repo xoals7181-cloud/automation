@@ -1,62 +1,67 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-22 16:38 (KST)
-Run: 340 (id=44999123853)
+생성 시각: 2026-11-23 17:25 (KST)
+Run: 341 (id=45138519198)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
 
 ■ 채널별 결과
 - Bloomberg
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: US Stocks Set to Rebound After AI Selloff
+  URL: https://www.youtube.com/watch?v=DeiqiwVsFgY
+  publishedAt: 2026-11-23T08:00:38Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - 7AkWiMDPAio | ongoing=False | publishedAt=2026-11-21T17:02:13Z | actualEndTime=None | effective=2026-11-21 17:02:13+00:00 | Anthropic IPO Fails to Halt AI Selloff, Ditching the Kitchen
-   - e2Z0wpq72F8 | ongoing=False | publishedAt=2026-11-21T15:50:11Z | actualEndTime=None | effective=2026-11-21 15:50:11+00:00 | Pointed! Bloomberg’s Weekly News Quiz For Risk-Takers
-   - xzICHcXA2DI | ongoing=False | publishedAt=2026-11-21T15:26:47Z | actualEndTime=None | effective=2026-11-21 15:26:47+00:00 | Thanksgiving Dinner Is Moving to Restaurants
-   - DK4WgFjZF44 | ongoing=False | publishedAt=2026-11-21T15:18:00Z | actualEndTime=None | effective=2026-11-21 15:18:00+00:00 | The 1982 War Still Haunts the Middle East
-   - dF3hfxgFqrg | ongoing=False | publishedAt=2026-11-21T15:08:05Z | actualEndTime=None | effective=2026-11-21 15:08:05+00:00 | Is AI a Bubble? History Offers Some Clues
-   - 1wMDgN2y65U | ongoing=False | publishedAt=2026-11-21T15:00:02Z | actualEndTime=None | effective=2026-11-21 15:00:02+00:00 | GTA 6: The Blockbuster That is Changing Gaming Forever
-   - 60hFHZ1wvlw | ongoing=False | publishedAt=2026-11-21T14:49:34Z | actualEndTime=None | effective=2026-11-21 14:49:34+00:00 | Wall Street Confronts AI Reality Check
-   - iS-Tv_sXT3A | ongoing=False | publishedAt=2026-11-21T14:22:58Z | actualEndTime=None | effective=2026-11-21 14:22:58+00:00 | Shenzhen Wants to Become a Cultural Capital
-   - CmrF0VO7kLo | ongoing=False | publishedAt=2026-11-21T14:03:28Z | actualEndTime=None | effective=2026-11-21 14:03:28+00:00 | Venezuela’s New Leader Walks a Political Tightrope
-   - 2BkIJSQ5PJ8 | ongoing=False | publishedAt=2026-11-21T13:55:11Z | actualEndTime=None | effective=2026-11-21 13:55:11+00:00 | Trump’s Putin Outreach Tests Ukraine Talks
+   - DeiqiwVsFgY | ongoing=False | publishedAt=2026-11-23T08:00:38Z | actualEndTime=None | effective=2026-11-23 08:00:38+00:00 | US Stocks Set to Rebound After AI Selloff
+   - oxofrcnqCxo | ongoing=False | publishedAt=2026-11-23T07:44:53Z | actualEndTime=None | effective=2026-11-23 07:44:53+00:00 | Iran Targets Bahrain as US-Iran Tensions Escalate Over Fresh
+   - Hgyi18BaP_A | ongoing=False | publishedAt=2026-11-23T07:39:41Z | actualEndTime=None | effective=2026-11-23 07:39:41+00:00 | AI Selloff Hammers Asian Stocks, India Bucks the Trend
+   - Jt-Mzwp2czM | ongoing=False | publishedAt=2026-11-23T05:35:28Z | actualEndTime=None | effective=2026-11-23 05:35:28+00:00 | Asian Stocks Drop AI Fears Outweigh Support Measures
+   - gU5BkH9gxTY | ongoing=False | publishedAt=2026-11-23T05:03:34Z | actualEndTime=None | effective=2026-11-23 05:03:34+00:00 | Asia’s Stock Rescue Efforts Gather Pace
+   - 20EnHGhrY58 | ongoing=False | publishedAt=2026-11-23T03:11:47Z | actualEndTime=None | effective=2026-11-23 03:11:47+00:00 | India’s Appeal Grows as Global Tech Selloff Deepens
+   - 3GHg0maol8U | ongoing=False | publishedAt=2026-11-22T17:29:23Z | actualEndTime=None | effective=2026-11-22 17:29:23+00:00 | Market Anxiety Over Tech Trade, Governors Release AI Framewo
+   - 1H7YDhwpkuM | ongoing=False | publishedAt=2026-11-22T16:43:19Z | actualEndTime=None | effective=2026-11-22 16:43:19+00:00 | Bookmarked: News Stories On Our Reading List
+   - T54mL9ReWCk | ongoing=False | publishedAt=2026-11-22T16:19:06Z | actualEndTime=None | effective=2026-11-22 16:19:06+00:00 | By The Way: Headlines You May Have Missed
+   - fc3HyxQUVeU | ongoing=False | publishedAt=2026-11-22T15:58:22Z | actualEndTime=None | effective=2026-11-22 15:58:22+00:00 | Democrats, Republicans Eye the 2028 Field
 
 - Meet Kevin
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: Why did the Stock Market JUST Crash?
+  URL: https://www.youtube.com/watch?v=1xa7PMF8SBE
+  publishedAt: 2026-11-23T03:29:33Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - dFOLw_CTRPY | ongoing=False | publishedAt=2026-11-20T19:17:17Z | actualEndTime=None | effective=2026-11-20 19:17:17+00:00 | How to Hedge THE CRASH Before It's Too Late.
-   - zlvcEuxM5xU | ongoing=False | publishedAt=2026-11-20T17:11:03Z | actualEndTime=None | effective=2026-11-20 17:11:03+00:00 | Jensen JUST Crashed the Market: New STARTUP
-   - _wtHypm4eqQ | ongoing=False | publishedAt=2026-11-20T16:40:57Z | actualEndTime=2026-11-20T16:35:54Z | effective=2026-11-20 16:35:54+00:00 | The Collapse...
-   - 8GU-V2QEPQ0 | ongoing=False | publishedAt=2026-11-20T13:50:15Z | actualEndTime=None | effective=2026-11-20 13:50:15+00:00 | The Fed is Engineering a Total Stock Market Wipeout.
+   - 1xa7PMF8SBE | ongoing=False | publishedAt=2026-11-23T03:29:33Z | actualEndTime=None | effective=2026-11-23 03:29:33+00:00 | Why did the Stock Market JUST Crash?
+   - SKkiIdfsHGo | ongoing=False | publishedAt=2026-11-22T19:35:35Z | actualEndTime=None | effective=2026-11-22 19:35:35+00:00 | The Start of Recession.
 
 - 오선의 미국 증시
   상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
-  후보(최신 10개) 디버그:
-   - wfLaOmwsFa8 | ongoing=False | publishedAt=2026-11-20T23:11:31Z | actualEndTime=None | effective=2026-11-20 23:11:31+00:00 | 【미국 증시 오늘의 요약】  나스닥 5.3%·반도체 11% 폭락… AI 투매에 미 증시 '조정 국면' 진입 
-   - UYU_kxQPGOg | ongoing=False | publishedAt=2026-11-20T22:52:43Z | actualEndTime=2026-11-20T22:34:10Z | effective=2026-11-20 22:34:10+00:00 | [26년 11월 20일 금]  트럼프 대통령 '언론 브리핑' ｜월간 옵션 만기·기대인플레이션｜ 앤트로픽 상장
+  비고: 최근 48시간 검색 결과 없음
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 월 30만원 로봇청소기...??
-  URL: https://www.youtube.com/watch?v=UmQ939QYWN8
-  publishedAt: 2026-11-22T06:00:11Z
+  제목: 엔비디아 200불 다시 갈까, 내년 연말 적정 주가 계산
+  URL: https://www.youtube.com/watch?v=iaMaQcn71m4
+  publishedAt: 2026-11-23T03:30:03Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - iaMaQcn71m4 | ongoing=False | publishedAt=2026-11-23T03:30:03Z | actualEndTime=None | effective=2026-11-23 03:30:03+00:00 | 엔비디아 200불 다시 갈까, 내년 연말 적정 주가 계산
+   - M01lc8qvkVc | ongoing=False | publishedAt=2026-11-23T00:15:00Z | actualEndTime=2026-11-23T00:10:07Z | effective=2026-11-23 00:10:07+00:00 | [미국마감&아침시황] 생일빵이 계좌삭제빵이라니...ㅣ#261123
+   - Vckel2CAZAE | ongoing=False | publishedAt=2026-11-22T12:00:32Z | actualEndTime=None | effective=2026-11-22 12:00:32+00:00 | 유가가 내려오면, 주가는 오릅니다
+   - 9jFv8nFaQa0 | ongoing=False | publishedAt=2026-11-22T09:00:11Z | actualEndTime=None | effective=2026-11-22 09:00:11+00:00 | 엔비디아, 두꺼운 벽이 존재합니다
    - UmQ939QYWN8 | ongoing=False | publishedAt=2026-11-22T06:00:11Z | actualEndTime=None | effective=2026-11-22 06:00:11+00:00 | 월 30만원 로봇청소기...??
    - QvzHGnDGX-Y | ongoing=False | publishedAt=2026-11-22T03:00:31Z | actualEndTime=None | effective=2026-11-22 03:00:31+00:00 | 주식 바닥의 가장 강력한 시그널...?
    - v3f5TjEtfpY | ongoing=False | publishedAt=2026-11-22T00:00:06Z | actualEndTime=None | effective=2026-11-22 00:00:06+00:00 | 연준은 개입을 준비하고 있습니다
-   - OfuibyZIAyw | ongoing=False | publishedAt=2026-11-21T06:00:36Z | actualEndTime=None | effective=2026-11-21 06:00:36+00:00 | 보유편향을 버려야 수익률이 올라옵니다
-   - ym2qyAl4xc4 | ongoing=False | publishedAt=2026-11-21T03:00:02Z | actualEndTime=None | effective=2026-11-21 03:00:02+00:00 | 반도체가 이끄는 나스닥 신고가 랠리
-   - kVheMvL3GNo | ongoing=False | publishedAt=2026-11-21T00:00:24Z | actualEndTime=None | effective=2026-11-21 00:00:24+00:00 | 버거형들은 코스피 모릅니다
-   - 5-vbgmutfBs | ongoing=False | publishedAt=2026-11-20T16:30:56Z | actualEndTime=2026-11-20T16:23:04Z | effective=2026-11-20 16:23:04+00:00 | [미국주식 LIVE] 다음주에는 반등을 합니다.ㅣ#261120
 
 - 내일은 투자왕 - 김단테
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 코스피 오후에 반등한 이유 #코스피 #젠슨황 #앤트로픽
+  URL: https://www.youtube.com/watch?v=ZiQFUx5YcmE
+  publishedAt: 2026-11-23T07:20:45Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - cQHMzYRaexc | ongoing=False | publishedAt=2026-11-20T17:17:22Z | actualEndTime=None | effective=2026-11-20 17:17:22+00:00 | 나스닥 대폭락! 앤트로픽 IPO는 AI 주식의 마지막 불꽃?
+   - ZiQFUx5YcmE | ongoing=False | publishedAt=2026-11-23T07:20:45Z | actualEndTime=None | effective=2026-11-23 07:20:45+00:00 | 코스피 오후에 반등한 이유 #코스피 #젠슨황 #앤트로픽
+   - ecUIGwLMhfc | ongoing=False | publishedAt=2026-11-22T14:47:18Z | actualEndTime=None | effective=2026-11-22 14:47:18+00:00 | AI 버블 붕괴가 금융위기로 이어진다???
 
 - 소수몽키
   상태: NO_VIDEO
