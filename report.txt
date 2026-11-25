@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-24 19:33 (KST)
-Run: 342 (id=45375864118)
+생성 시각: 2026-11-25 18:23 (KST)
+Run: 343 (id=45584917713)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,80 +8,76 @@ Run: 342 (id=45375864118)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Chaotic Market Narrative Cuts Both Ways: Market Analysis
-  URL: https://www.youtube.com/watch?v=ve6BJT4jNfA
-  publishedAt: 2026-11-24T08:53:08Z
+  제목: One More Late-Cycle Mania in AI Trade?: Market Analysis
+  URL: https://www.youtube.com/watch?v=kciMuSCN6f0
+  publishedAt: 2026-11-25T08:35:07Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - ve6BJT4jNfA | ongoing=False | publishedAt=2026-11-24T08:53:08Z | actualEndTime=None | effective=2026-11-24 08:53:08+00:00 | Chaotic Market Narrative Cuts Both Ways: Market Analysis
-   - MDKkVg4cTng | ongoing=False | publishedAt=2026-11-24T08:19:54Z | actualEndTime=None | effective=2026-11-24 08:19:54+00:00 | Zurrer: Huang’s Credibility in Industry Too Important
-   - BUOGExEFY1E | ongoing=False | publishedAt=2026-11-24T08:17:56Z | actualEndTime=None | effective=2026-11-24 08:17:56+00:00 | Jensen Huang: The Boomerang Nvidia Boss Backed By Trump
-   - 2Crysey-k4s | ongoing=False | publishedAt=2026-11-24T07:55:55Z | actualEndTime=None | effective=2026-11-24 07:55:55+00:00 | Is Nvidia's Rally Overlooking Risks Around Jensen Huang's Re
-   - L2i2i6lObXA | ongoing=False | publishedAt=2026-11-24T07:50:55Z | actualEndTime=None | effective=2026-11-24 07:50:55+00:00 | Nvidia Reinstates Huang as CEO as US Sanctions Iran’s Shadow
-   - sHvkE2RO6Y0 | ongoing=False | publishedAt=2026-11-24T06:58:08Z | actualEndTime=None | effective=2026-11-24 06:58:08+00:00 | Jensen Huang's Return to Nvidia Lifts Asian Markets
-   - tNtiAdt02nE | ongoing=False | publishedAt=2026-11-24T04:56:33Z | actualEndTime=None | effective=2026-11-24 04:56:33+00:00 | Asia Stocks Jump as Huang’s Return Lifts AI Trade
-   - vngnXK7TF24 | ongoing=False | publishedAt=2026-11-24T00:45:07Z | actualEndTime=None | effective=2026-11-24 00:45:07+00:00 | Big Take: Jensen Huang Is Back
-   - evperxY0l20 | ongoing=False | publishedAt=2026-11-23T23:52:20Z | actualEndTime=None | effective=2026-11-23 23:52:20+00:00 | Nvidia Board Faces Questions After Huang Reinstatement
-   - TELDnrsqoCU | ongoing=False | publishedAt=2026-11-23T23:30:23Z | actualEndTime=None | effective=2026-11-23 23:30:23+00:00 | Haines: Nvidia Board Better ‘Lawyer Up’
+   - kciMuSCN6f0 | ongoing=False | publishedAt=2026-11-25T08:35:07Z | actualEndTime=None | effective=2026-11-25 08:35:07+00:00 | One More Late-Cycle Mania in AI Trade?: Market Analysis
+   - LvMeCfUnE94 | ongoing=False | publishedAt=2026-11-25T08:26:27Z | actualEndTime=None | effective=2026-11-25 08:26:27+00:00 | Malaysia's AI Ambitions Tested as US Chip Curbs Threaten Dat
+   - eHbwbUULeDE | ongoing=False | publishedAt=2026-11-25T07:42:47Z | actualEndTime=None | effective=2026-11-25 07:42:47+00:00 | US Set to Announce New Tariffs on China, EU
+   - gUtJFBOOfPs | ongoing=False | publishedAt=2026-11-25T07:23:29Z | actualEndTime=None | effective=2026-11-25 07:23:29+00:00 | The Battle Between China's Huawei and the US Government in 1
+   - SkWZoTDUpxk | ongoing=False | publishedAt=2026-11-25T07:00:27Z | actualEndTime=None | effective=2026-11-25 07:00:27+00:00 | Huang Apologizes to Nvidia Staff After Returning as CEO
+   - 6BsNAP6CauQ | ongoing=False | publishedAt=2026-11-25T06:57:35Z | actualEndTime=None | effective=2026-11-25 06:57:35+00:00 | Houthi Drone Hits Riyadh Financial District, Injuring 11 Ami
+   - 9UIqdA_jIrU | ongoing=False | publishedAt=2026-11-25T06:31:59Z | actualEndTime=None | effective=2026-11-25 06:31:59+00:00 | Dangote Refinery Set to Start Trading in Lagos on Dec. 1
+   - moHPeN65X54 | ongoing=False | publishedAt=2026-11-25T06:27:52Z | actualEndTime=None | effective=2026-11-25 06:27:52+00:00 | AI Rout Spills Over Into Asia, US Readies Tariff Hike
+   - MtUZ61mxNcg | ongoing=False | publishedAt=2026-11-25T05:42:59Z | actualEndTime=None | effective=2026-11-25 05:42:59+00:00 | AI Rally Fizzles as US Readies New Tariffs on China
+   - pbjYOmyLprw | ongoing=False | publishedAt=2026-11-25T00:35:17Z | actualEndTime=None | effective=2026-11-25 00:35:17+00:00 | What Jensen Huang’s Second Act Means for AI
 
 - Meet Kevin
-  상태: NO_TRANSCRIPT
-  제목: Beer w/ Kevin Q&A & Jensen Returns.
-  URL: https://www.youtube.com/watch?v=I2gE6Y7nHWw
-  publishedAt: 2026-11-24T03:28:09Z
-  actualEndTime: 2026-11-24T03:23:26Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - zD8aD03pj90 | ongoing=False | publishedAt=2026-11-24T20:26:44Z | actualEndTime=None | effective=2026-11-24 20:26:44+00:00 | The Collapse of Stocks: Bottom & Recession.
+   - 6K4aaQQ3fIY | ongoing=False | publishedAt=2026-11-24T16:52:18Z | actualEndTime=None | effective=2026-11-24 16:52:18+00:00 | Trump is F**KING us Again.
+   - SnEd5YAYPG4 | ongoing=False | publishedAt=2026-11-24T16:25:58Z | actualEndTime=2026-11-24T16:22:47Z | effective=2026-11-24 16:22:47+00:00 | The Short-Sellers are Back.
+   - 9apc5YGrqA4 | ongoing=False | publishedAt=2026-11-24T14:00:52Z | actualEndTime=None | effective=2026-11-24 14:00:52+00:00 | Tesla is about to Explode.
    - I2gE6Y7nHWw | ongoing=False | publishedAt=2026-11-24T03:28:09Z | actualEndTime=2026-11-24T03:23:26Z | effective=2026-11-24 03:23:26+00:00 | Beer w/ Kevin Q&A & Jensen Returns.
    - R2h713oaklU | ongoing=False | publishedAt=2026-11-23T18:08:58Z | actualEndTime=None | effective=2026-11-23 18:08:58+00:00 | What Trump JUST Said!
    - lP9Xja618dY | ongoing=False | publishedAt=2026-11-23T17:18:15Z | actualEndTime=2026-11-23T17:12:17Z | effective=2026-11-23 17:12:17+00:00 | The Recovery Begins.
    - fCEY_9vg6Xk | ongoing=False | publishedAt=2026-11-23T14:18:26Z | actualEndTime=None | effective=2026-11-23 14:18:26+00:00 | Jensen is OFFICIALLY BACK!!! Nvidia!!
-   - 1xa7PMF8SBE | ongoing=False | publishedAt=2026-11-23T03:29:33Z | actualEndTime=None | effective=2026-11-23 03:29:33+00:00 | Why did the Stock Market JUST Crash?
-   - SKkiIdfsHGo | ongoing=False | publishedAt=2026-11-22T19:35:35Z | actualEndTime=None | effective=2026-11-22 19:35:35+00:00 | The Start of Recession.
 
 - 오선의 미국 증시
   상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  젠슨 황 전격 복귀에 엔비디아 31% 폭등! 나스닥100 6.9% 급등  -  2026/11/23
-  URL: https://www.youtube.com/watch?v=gXI1Cm77Jz4
-  publishedAt: 2026-11-23T23:09:01Z
+  제목: 【미국 증시 오늘의 요약】  하루 만에 식은 '젠슨 황 효과'… 미 신규 관세 추진 보도에 반도체지수 8% 급락  -  2026/11/24
+  URL: https://www.youtube.com/watch?v=GwsR3A8bKe4
+  publishedAt: 2026-11-24T22:58:10Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - GwsR3A8bKe4 | ongoing=False | publishedAt=2026-11-24T22:58:10Z | actualEndTime=None | effective=2026-11-24 22:58:10+00:00 | 【미국 증시 오늘의 요약】  하루 만에 식은 '젠슨 황 효과'… 미 신규 관세 추진 보도에 반도체지수 8% 
+   - ke6vwlAjS3w | ongoing=False | publishedAt=2026-11-24T22:35:05Z | actualEndTime=2026-11-24T22:18:32Z | effective=2026-11-24 22:18:32+00:00 | [26년 11월 24일 화]  앤트로픽·오픈AI, 차세대 AI 모델의 안전성 우려 확산 ｜ 미국, '메가스피
    - gXI1Cm77Jz4 | ongoing=False | publishedAt=2026-11-23T23:09:01Z | actualEndTime=None | effective=2026-11-23 23:09:01+00:00 | 【미국 증시 오늘의 요약】  젠슨 황 전격 복귀에 엔비디아 31% 폭등! 나스닥100 6.9% 급등  -  
    - psmETyIVaR8 | ongoing=False | publishedAt=2026-11-23T22:39:57Z | actualEndTime=2026-11-23T22:21:31Z | effective=2026-11-23 22:21:31+00:00 | [26년 11월 23일 월]  젠슨 황, 엔비디아 CEO 복귀! ｜ 서비스업·제조업 PM I｜크라우드스트라이
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: [미국마감&아침시황] 엔비디아 숏쟁이 손실 15조...ㄷㄷㄷㅣ젠슨황 복귀, 얼마나 호재인가?ㅣ#261124
-  URL: https://www.youtube.com/watch?v=DFQyHP1Xo_s
-  publishedAt: 2026-11-23T22:59:34Z
-  actualEndTime: 2026-11-24T03:24:59Z
+  제목: AI해킹괴담...??
+  URL: https://www.youtube.com/watch?v=LP7yKo2evjE
+  publishedAt: 2026-11-25T07:00:37Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - DFQyHP1Xo_s | ongoing=False | publishedAt=2026-11-23T22:59:34Z | actualEndTime=2026-11-24T03:24:59Z | effective=2026-11-24 03:24:59+00:00 | [미국마감&아침시황] 엔비디아 숏쟁이 손실 15조...ㄷㄷㄷㅣ젠슨황 복귀, 얼마나 호재인가?ㅣ#261124
-   - n5XTAwhJe7M | ongoing=False | publishedAt=2026-11-23T14:26:23Z | actualEndTime=2026-11-23T14:17:32Z | effective=2026-11-23 14:17:32+00:00 | [미국주식 LIVE] 반등기원 생일파티ㅣ#261123
-   - iaMaQcn71m4 | ongoing=False | publishedAt=2026-11-23T03:30:03Z | actualEndTime=None | effective=2026-11-23 03:30:03+00:00 | 엔비디아 200불 다시 갈까, 내년 연말 적정 주가 계산
-   - M01lc8qvkVc | ongoing=False | publishedAt=2026-11-23T00:15:00Z | actualEndTime=2026-11-23T00:10:07Z | effective=2026-11-23 00:10:07+00:00 | [미국마감&아침시황] 생일빵이 계좌삭제빵이라니...ㅣ#261123
-   - Vckel2CAZAE | ongoing=False | publishedAt=2026-11-22T12:00:32Z | actualEndTime=None | effective=2026-11-22 12:00:32+00:00 | 유가가 내려오면, 주가는 오릅니다
+   - LP7yKo2evjE | ongoing=False | publishedAt=2026-11-25T07:00:37Z | actualEndTime=None | effective=2026-11-25 07:00:37+00:00 | AI해킹괴담...??
+   - NdzTiUwMrOE | ongoing=False | publishedAt=2026-11-25T03:00:19Z | actualEndTime=None | effective=2026-11-25 03:00:19+00:00 | 연준의 고집, 이제는 버려야 한다? 충격적인 빌 애크먼의 경고
+   - 4h5cAflRhnA | ongoing=False | publishedAt=2026-11-25T01:08:45Z | actualEndTime=None | effective=2026-11-25 01:08:45+00:00 | 생일빵.... 아프네요
+   - 8Z3-fOEXwK0 | ongoing=False | publishedAt=2026-11-25T00:09:22Z | actualEndTime=2026-11-25T00:06:57Z | effective=2026-11-25 00:06:57+00:00 | [미국마감&아침시황] 빠질줄은 알았는데, 이렇게 빠지는건 반칙이잖아...ㅣ#261125
+   - DFQyHP1Xo_s | ongoing=False | publishedAt=2026-11-24T11:57:46Z | actualEndTime=2026-11-24T03:24:59Z | effective=2026-11-24 03:24:59+00:00 | [미국마감&아침시황] 엔비디아 숏쟁이 손실 15조...ㄷㄷㄷㅣ젠슨황 복귀, 얼마나 호재인가?ㅣ#261124
 
 - 내일은 투자왕 - 김단테
   상태: NO_TRANSCRIPT
-  제목: 젠슨황 CEO 복귀! 리스크도 있다?! #젠슨황 #엔비디아 #코스피
-  URL: https://www.youtube.com/watch?v=r175r4VC7CU
-  publishedAt: 2026-11-24T05:23:15Z
+  제목: 젠슨황 컴백에도 망한 증시? #코스피 #젠슨황 #앤트로픽
+  URL: https://www.youtube.com/watch?v=pXaIrJBmoR4
+  publishedAt: 2026-11-25T05:49:26Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - pXaIrJBmoR4 | ongoing=False | publishedAt=2026-11-25T05:49:26Z | actualEndTime=None | effective=2026-11-25 05:49:26+00:00 | 젠슨황 컴백에도 망한 증시? #코스피 #젠슨황 #앤트로픽
+   - zl5hWbAeUBU | ongoing=False | publishedAt=2026-11-24T15:32:14Z | actualEndTime=None | effective=2026-11-24 15:32:14+00:00 | 나스닥 뒤흔든 트럼프 관세전쟁은 젠슨황 때문?
    - r175r4VC7CU | ongoing=False | publishedAt=2026-11-24T05:23:15Z | actualEndTime=None | effective=2026-11-24 05:23:15+00:00 | 젠슨황 CEO 복귀! 리스크도 있다?! #젠슨황 #엔비디아 #코스피
    - pWQAGKb4oVE | ongoing=False | publishedAt=2026-11-23T18:09:21Z | actualEndTime=None | effective=2026-11-23 18:09:21+00:00 | 젠슨황 복귀 비하인드와 역대급 폭등해버린 나스닥 ㄷㄷㄷ
    - xR0JaJwgSa0 | ongoing=False | publishedAt=2026-11-23T14:35:57Z | actualEndTime=None | effective=2026-11-23 14:35:57+00:00 | 황어게인! 젠슨황 엔비디아 CEO 복귀
-   - ZiQFUx5YcmE | ongoing=False | publishedAt=2026-11-23T07:20:45Z | actualEndTime=None | effective=2026-11-23 07:20:45+00:00 | 코스피 오후에 반등한 이유 #코스피 #젠슨황 #앤트로픽
-   - ecUIGwLMhfc | ongoing=False | publishedAt=2026-11-22T14:47:18Z | actualEndTime=None | effective=2026-11-22 14:47:18+00:00 | AI 버블 붕괴가 금융위기로 이어진다???
 
 - 소수몽키
-  상태: NO_TRANSCRIPT
-  제목: 결국 증시 바닥은 트럼프의 입에서 나온다? 트럼프 1기 평행이론 적중할까
-  URL: https://www.youtube.com/watch?v=2O2Zf9m0Pw8
-  publishedAt: 2026-11-24T10:09:13Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
    - 2O2Zf9m0Pw8 | ongoing=False | publishedAt=2026-11-24T10:09:13Z | actualEndTime=None | effective=2026-11-24 10:09:13+00:00 | 결국 증시 바닥은 트럼프의 입에서 나온다? 트럼프 1기 평행이론 적중할까
    - 6amgLtc9IgU | ongoing=False | publishedAt=2026-11-23T13:02:23Z | actualEndTime=None | effective=2026-11-23 13:02:23+00:00 | 나스닥-20%, 엔비디아 -48% 극단적 공포 구간에 진입한 증시, 기회일까
