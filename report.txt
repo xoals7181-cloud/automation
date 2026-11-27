@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-26 18:01 (KST)
-Run: 344 (id=45788072192)
+생성 시각: 2026-11-27 18:18 (KST)
+Run: 345 (id=45972543134)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,85 +8,76 @@ Run: 344 (id=45788072192)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Can Trump Gain Any Leverage Over China With the 40% Tariff Threat?
-  URL: https://www.youtube.com/watch?v=CnRSZHPe4mk
-  publishedAt: 2026-11-26T08:53:54Z
+  제목: Nvidia, AI Fears Jolt Markets: Market Snapshot
+  URL: https://www.youtube.com/watch?v=GN2Xo9WhZ00
+  publishedAt: 2026-11-27T08:26:40Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - CnRSZHPe4mk | ongoing=False | publishedAt=2026-11-26T08:53:54Z | actualEndTime=None | effective=2026-11-26 08:53:54+00:00 | Can Trump Gain Any Leverage Over China With the 40% Tariff T
-   - n8gHOOZhON8 | ongoing=False | publishedAt=2026-11-26T08:31:37Z | actualEndTime=None | effective=2026-11-26 08:31:37+00:00 | Asian Stock Markets Are Cheap Enough Now: Market Analysis
-   - qhUdaaHbl0E | ongoing=False | publishedAt=2026-11-26T08:07:27Z | actualEndTime=None | effective=2026-11-26 08:07:27+00:00 | Trump Aims to Keep Leverage Over Xi With 40% Tariff Threat
-   - aG8br__f9w0 | ongoing=False | publishedAt=2026-11-26T07:53:46Z | actualEndTime=None | effective=2026-11-26 07:53:46+00:00 | Houthis Target Jeddah and Jazan Ports as Attacks on Saudi Ar
-   - QoIgBWh0lrQ | ongoing=False | publishedAt=2026-11-26T07:10:55Z | actualEndTime=None | effective=2026-11-26 07:10:55+00:00 | China Tech Stocks Rebound From Record Slump
-   - BUqb4zskT7c | ongoing=False | publishedAt=2026-11-26T06:34:42Z | actualEndTime=None | effective=2026-11-26 06:34:42+00:00 | US Proposes New Tariffs, Asian Stocks Rise As AI Trade Rebou
-   - 0FQScrcG7Jk | ongoing=False | publishedAt=2026-11-26T06:30:16Z | actualEndTime=None | effective=2026-11-26 06:30:16+00:00 | US Tariff Plan Raises Stakes for India to Clinch Trade Deal
-   - 9RZYy_8m6Qk | ongoing=False | publishedAt=2026-11-26T05:00:23Z | actualEndTime=None | effective=2026-11-26 05:00:23+00:00 | Joanna Stern on Siri’s iOS 27 Issues and Her Viral ‘Apple Da
-   - laGSQbQ7-3I | ongoing=False | publishedAt=2026-11-26T00:11:50Z | actualEndTime=None | effective=2026-11-26 00:11:50+00:00 | Vance: Don’t Think Jensen Huang Needs a Pardon
-   - 7kNXokgqk9w | ongoing=False | publishedAt=2026-11-25T23:46:36Z | actualEndTime=None | effective=2026-11-25 23:46:36+00:00 | Holtz-Eakin: 50bps Hike Would Send ‘Important Message’
+   - GN2Xo9WhZ00 | ongoing=False | publishedAt=2026-11-27T08:26:40Z | actualEndTime=None | effective=2026-11-27 08:26:40+00:00 | Nvidia, AI Fears Jolt Markets: Market Snapshot
+   - wVRsJUkoRH0 | ongoing=False | publishedAt=2026-11-27T08:24:02Z | actualEndTime=None | effective=2026-11-27 08:24:02+00:00 | US Investors Will Have to Chase Rally: Market Analysis
+   - csuSi3fGqxo | ongoing=False | publishedAt=2026-11-27T08:05:30Z | actualEndTime=None | effective=2026-11-27 08:05:30+00:00 | Kuwait Says Iranian Drone Strike Kills Two as Houthi Attack 
+   - t-mS9qnUrrE | ongoing=False | publishedAt=2026-11-27T07:50:02Z | actualEndTime=None | effective=2026-11-27 07:50:02+00:00 | Tech Stocks Rebound After Thanksgiving Holiday
+   - IYiOXIsXTgk | ongoing=False | publishedAt=2026-11-27T07:15:44Z | actualEndTime=None | effective=2026-11-27 07:15:44+00:00 | What to Know Ahead of Spain’s Snap Election
+   - -Zb0K56sPeU | ongoing=False | publishedAt=2026-11-27T07:11:07Z | actualEndTime=None | effective=2026-11-27 07:11:07+00:00 | AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs
+   - f1DdE9E-iEU | ongoing=False | publishedAt=2026-11-27T06:19:50Z | actualEndTime=None | effective=2026-11-27 06:19:50+00:00 | Huawei Teases AI Chip to Rival Giants SK Hynix, Samsung
+   - fS1s9uHbnVs | ongoing=False | publishedAt=2026-11-27T06:10:48Z | actualEndTime=None | effective=2026-11-27 06:10:48+00:00 | Asian Stocks Extend Recovery as AI Trade Rebounds
+   - 1nucn_-EMh4 | ongoing=False | publishedAt=2026-11-26T22:45:05Z | actualEndTime=None | effective=2026-11-26 22:45:05+00:00 | Inflation-Wary Shoppers Prepare for Black Friday
+   - g-he9QWCKH8 | ongoing=False | publishedAt=2026-11-26T14:07:14Z | actualEndTime=None | effective=2026-11-26 14:07:14+00:00 | Spain's De Cos Set to Succeed Lagarde as ECB President
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: THE F**KING BOTTOM
-  URL: https://www.youtube.com/watch?v=JpC9T7K9NYI
-  publishedAt: 2026-11-26T03:37:31Z
+  제목: uh oh. AI Layoffs are Coming.
+  URL: https://www.youtube.com/watch?v=nMPZDP1mbzo
+  publishedAt: 2026-11-27T03:20:29Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - nMPZDP1mbzo | ongoing=False | publishedAt=2026-11-27T03:20:29Z | actualEndTime=None | effective=2026-11-27 03:20:29+00:00 | uh oh. AI Layoffs are Coming.
+   - bP-GQPH-fYc | ongoing=False | publishedAt=2026-11-27T02:15:10Z | actualEndTime=None | effective=2026-11-27 02:15:10+00:00 | CRAP... i might be wrong about the economy...
+   - h3K7JwY_za4 | ongoing=False | publishedAt=2026-11-26T23:02:00Z | actualEndTime=None | effective=2026-11-26 23:02:00+00:00 | oh sh*t... i might be wrong.
+   - KyCmi9A64-Y | ongoing=False | publishedAt=2026-11-26T20:43:15Z | actualEndTime=None | effective=2026-11-26 20:43:15+00:00 | What is ReinvestOne?
    - JpC9T7K9NYI | ongoing=False | publishedAt=2026-11-26T03:37:31Z | actualEndTime=None | effective=2026-11-26 03:37:31+00:00 | THE F**KING BOTTOM
    - nfmo392yEOA | ongoing=False | publishedAt=2026-11-26T02:00:28Z | actualEndTime=None | effective=2026-11-26 02:00:28+00:00 | Title: 1,000,000 SpaceX Satellites… and a Chip Glut? 🛰️
    - VpnlfImHkiY | ongoing=False | publishedAt=2026-11-25T23:30:22Z | actualEndTime=None | effective=2026-11-25 23:30:22+00:00 | Liberation Day 2.0 Just Hit 🚨
    - Imw9-50PJWI | ongoing=False | publishedAt=2026-11-25T23:10:16Z | actualEndTime=None | effective=2026-11-25 23:10:16+00:00 | The Coming 2027 Housing Market Disaster.
    - ik0xdpCAWFA | ongoing=False | publishedAt=2026-11-25T22:30:34Z | actualEndTime=None | effective=2026-11-25 22:30:34+00:00 | Worse Than the Dot-Com Crash? 📉
    - fkPAbJuhjfI | ongoing=False | publishedAt=2026-11-25T22:11:39Z | actualEndTime=2026-11-25T22:06:58Z | effective=2026-11-25 22:06:58+00:00 | ooooohhhhh man
-   - SecQgkVR1sU | ongoing=False | publishedAt=2026-11-25T18:19:11Z | actualEndTime=None | effective=2026-11-25 18:19:11+00:00 | How R*tarded is Buying the Dip Right NOW?
-   - uCEKlIMZ328 | ongoing=False | publishedAt=2026-11-25T17:17:00Z | actualEndTime=2026-11-25T17:10:22Z | effective=2026-11-25 17:10:22+00:00 | ooooohhhhh man
-   - zD8aD03pj90 | ongoing=False | publishedAt=2026-11-24T20:26:44Z | actualEndTime=None | effective=2026-11-24 20:26:44+00:00 | The Collapse of Stocks: Bottom & Recession.
-   - 6K4aaQQ3fIY | ongoing=False | publishedAt=2026-11-24T16:52:18Z | actualEndTime=None | effective=2026-11-24 16:52:18+00:00 | Trump is F**KING us Again.
 
 - 오선의 미국 증시
-  상태: NO_TRANSCRIPT
-  제목: 【미국 증시 오늘의 요약】  나스닥 -4%에서 -0.6%까지 낙폭 만회! 극심한 변동성 속 다우 5만선 사수   -  2026/11/25
-  URL: https://www.youtube.com/watch?v=pl_YNhKvMLc
-  publishedAt: 2026-11-25T22:57:34Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - hWaWXJRHcI4 | ongoing=False | publishedAt=2026-11-26T14:32:39Z | actualEndTime=2026-11-26T14:26:43Z | effective=2026-11-26 14:26:43+00:00 | [26년 11월 26일 목] ‘추수감사절 휴장’ 노가리 방송  - 오선의 미국 증시 라이브
    - pl_YNhKvMLc | ongoing=False | publishedAt=2026-11-25T22:57:34Z | actualEndTime=None | effective=2026-11-25 22:57:34+00:00 | 【미국 증시 오늘의 요약】  나스닥 -4%에서 -0.6%까지 낙폭 만회! 극심한 변동성 속 다우 5만선 사수
-   - eEHBDFbB9vU | ongoing=False | publishedAt=2026-11-25T22:25:43Z | actualEndTime=2026-11-25T22:09:12Z | effective=2026-11-25 22:09:12+00:00 | [26년 11월 25일 목]  PCE가격지수, GDP성장률 ｜ 은행들, 데이터센터 대출 전면 검토｜미국, 전
-   - GwsR3A8bKe4 | ongoing=False | publishedAt=2026-11-24T22:58:10Z | actualEndTime=None | effective=2026-11-24 22:58:10+00:00 | 【미국 증시 오늘의 요약】  하루 만에 식은 '젠슨 황 효과'… 미 신규 관세 추진 보도에 반도체지수 8% 
-   - ke6vwlAjS3w | ongoing=False | publishedAt=2026-11-24T22:35:05Z | actualEndTime=2026-11-24T22:18:32Z | effective=2026-11-24 22:18:32+00:00 | [26년 11월 24일 화]  앤트로픽·오픈AI, 차세대 AI 모델의 안전성 우려 확산 ｜ 미국, '메가스피
+   - eEHBDFbB9vU | ongoing=False | publishedAt=2026-11-25T22:25:43Z | actualEndTime=2026-11-25T22:09:12Z | effective=2026-11-25 22:09:12+00:00 | [26년 11월 25일 수]  PCE가격지수, GDP성장률 ｜ 은행들, 데이터센터 대출 전면 검토｜미국, 전
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: 지금은 나스닥이 더 좋습니다
-  URL: https://www.youtube.com/watch?v=OszbyJU56a8
-  publishedAt: 2026-11-26T07:00:30Z
+  제목: AI/반도체 투자해야하는 인문학적인 이유
+  URL: https://www.youtube.com/watch?v=QnXUcBcUl0I
+  publishedAt: 2026-11-27T07:00:43Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - QnXUcBcUl0I | ongoing=False | publishedAt=2026-11-27T07:00:43Z | actualEndTime=None | effective=2026-11-27 07:00:43+00:00 | AI/반도체 투자해야하는 인문학적인 이유
+   - kDUIQHHBqqg | ongoing=False | publishedAt=2026-11-26T11:00:28Z | actualEndTime=None | effective=2026-11-26 11:00:28+00:00 | 금리인상보다 금리인하가 더 무서운 이유
    - OszbyJU56a8 | ongoing=False | publishedAt=2026-11-26T07:00:30Z | actualEndTime=None | effective=2026-11-26 07:00:30+00:00 | 지금은 나스닥이 더 좋습니다
    - OeFjmYwSsNo | ongoing=False | publishedAt=2026-11-26T04:00:27Z | actualEndTime=None | effective=2026-11-26 04:00:27+00:00 | 반복되는 하락, 반복되는 반등...??
    - uV0GDwg4o3Y | ongoing=False | publishedAt=2026-11-26T01:00:04Z | actualEndTime=None | effective=2026-11-26 01:00:04+00:00 | 현실적인 주식투자의 목표수익률은?
    - zrEZUt-rtN4 | ongoing=False | publishedAt=2026-11-26T00:16:22Z | actualEndTime=2026-11-26T00:13:24Z | effective=2026-11-26 00:13:24+00:00 | [미국마감&아침시황] 숏대장의 숏익절, 진짜 바닥인가?ㅣ#261126
    - 8mg_Vl8NP-g | ongoing=False | publishedAt=2026-11-25T11:00:10Z | actualEndTime=None | effective=2026-11-25 11:00:10+00:00 | 엔비디아 임원이 "30,000주" 판다고?
-   - LP7yKo2evjE | ongoing=False | publishedAt=2026-11-25T07:00:37Z | actualEndTime=None | effective=2026-11-25 07:00:37+00:00 | AI해킹괴담...??
-   - NdzTiUwMrOE | ongoing=False | publishedAt=2026-11-25T03:00:19Z | actualEndTime=None | effective=2026-11-25 03:00:19+00:00 | 연준의 고집, 이제는 버려야 한다? 충격적인 빌 애크먼의 경고
-   - 4h5cAflRhnA | ongoing=False | publishedAt=2026-11-25T01:08:45Z | actualEndTime=None | effective=2026-11-25 01:08:45+00:00 | 생일빵.... 아프네요
-   - 8Z3-fOEXwK0 | ongoing=False | publishedAt=2026-11-25T00:09:22Z | actualEndTime=2026-11-25T00:06:57Z | effective=2026-11-25 00:06:57+00:00 | [미국마감&아침시황] 빠질줄은 알았는데, 이렇게 빠지는건 반칙이잖아...ㅣ#261125
-   - DFQyHP1Xo_s | ongoing=False | publishedAt=2026-11-24T11:57:46Z | actualEndTime=2026-11-24T03:24:59Z | effective=2026-11-24 03:24:59+00:00 | [미국마감&아침시황] 엔비디아 숏쟁이 손실 15조...ㄷㄷㄷㅣ젠슨황 복귀, 얼마나 호재인가?ㅣ#261124
 
 - 내일은 투자왕 - 김단테
+  상태: NO_TRANSCRIPT
+  제목: 자본시장의 대전환 시작된다? #코스피 #코스닥 #김용범
+  URL: https://www.youtube.com/watch?v=q1Hk_ihna4Y
+  publishedAt: 2026-11-27T07:37:51Z
+  비고: 자막 없음/비활성화(Transcript 불가)
+  후보(최신 10개) 디버그:
+   - q1Hk_ihna4Y | ongoing=False | publishedAt=2026-11-27T07:37:51Z | actualEndTime=None | effective=2026-11-27 07:37:51+00:00 | 자본시장의 대전환 시작된다? #코스피 #코스닥 #김용범
+   - LZitYYewUsM | ongoing=False | publishedAt=2026-11-25T18:24:10Z | actualEndTime=None | effective=2026-11-25 18:24:10+00:00 | 끝이 안보인다. 오늘 또 터진 AI 악재들.. 그리고 반전도?
+
+- 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - LZitYYewUsM | ongoing=False | publishedAt=2026-11-25T18:24:10Z | actualEndTime=None | effective=2026-11-25 18:24:10+00:00 | 끝이 안보인다. 오늘 또 터진 AI 악재들.. 그리고 반전도?
-   - pXaIrJBmoR4 | ongoing=False | publishedAt=2026-11-25T05:49:26Z | actualEndTime=None | effective=2026-11-25 05:49:26+00:00 | 젠슨황 컴백에도 망한 증시? #코스피 #젠슨황 #앤트로픽
-   - zl5hWbAeUBU | ongoing=False | publishedAt=2026-11-24T15:32:14Z | actualEndTime=None | effective=2026-11-24 15:32:14+00:00 | 나스닥 뒤흔든 트럼프 관세전쟁은 젠슨황 때문?
-
-- 소수몽키
-  상태: NO_TRANSCRIPT
-  제목: 이번 하락장 이후 올라갈 주식은 정해졌다? 기회가 될 주식들의 특징
-  URL: https://www.youtube.com/watch?v=HqQsZiSJFI8
-  publishedAt: 2026-11-26T08:06:28Z
-  비고: 자막 없음/비활성화(Transcript 불가)
-  후보(최신 10개) 디버그:
    - HqQsZiSJFI8 | ongoing=False | publishedAt=2026-11-26T08:06:28Z | actualEndTime=None | effective=2026-11-26 08:06:28+00:00 | 이번 하락장 이후 올라갈 주식은 정해졌다? 기회가 될 주식들의 특징
    - FoZGuT5uAO4 | ongoing=False | publishedAt=2026-11-25T11:54:28Z | actualEndTime=None | effective=2026-11-25 11:54:28+00:00 | 갑자기 생필품 패닉 바잉에 들어간 미국인들? 음모론일까 경고 신호일까
-   - 2O2Zf9m0Pw8 | ongoing=False | publishedAt=2026-11-24T10:09:13Z | actualEndTime=None | effective=2026-11-24 10:09:13+00:00 | 결국 증시 바닥은 트럼프의 입에서 나온다? 트럼프 1기 평행이론 적중할까
