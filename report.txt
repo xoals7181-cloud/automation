@@ -1,6 +1,6 @@
 [미국 주식 시황 리포트 - 안정형]
-생성 시각: 2026-11-27 18:18 (KST)
-Run: 345 (id=45972543134)
+생성 시각: 2026-11-28 17:34 (KST)
+Run: 346 (id=46126427667)
 검색: 최근 48시간 / 최종 선택: 최근 12시간
 필터 시간 기준: 종료된 라이브는 actualEndTime, 그 외는 publishedAt
 진행중 라이브는 제외
@@ -8,76 +8,71 @@ Run: 345 (id=45972543134)
 ■ 채널별 결과
 - Bloomberg
   상태: NO_TRANSCRIPT
-  제목: Nvidia, AI Fears Jolt Markets: Market Snapshot
-  URL: https://www.youtube.com/watch?v=GN2Xo9WhZ00
-  publishedAt: 2026-11-27T08:26:40Z
+  제목: UK Set To Record Lowest Net Migration Since 1997
+  URL: https://www.youtube.com/watch?v=jlIv9pbPy6A
+  publishedAt: 2026-11-28T06:30:04Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - GN2Xo9WhZ00 | ongoing=False | publishedAt=2026-11-27T08:26:40Z | actualEndTime=None | effective=2026-11-27 08:26:40+00:00 | Nvidia, AI Fears Jolt Markets: Market Snapshot
-   - wVRsJUkoRH0 | ongoing=False | publishedAt=2026-11-27T08:24:02Z | actualEndTime=None | effective=2026-11-27 08:24:02+00:00 | US Investors Will Have to Chase Rally: Market Analysis
-   - csuSi3fGqxo | ongoing=False | publishedAt=2026-11-27T08:05:30Z | actualEndTime=None | effective=2026-11-27 08:05:30+00:00 | Kuwait Says Iranian Drone Strike Kills Two as Houthi Attack 
-   - t-mS9qnUrrE | ongoing=False | publishedAt=2026-11-27T07:50:02Z | actualEndTime=None | effective=2026-11-27 07:50:02+00:00 | Tech Stocks Rebound After Thanksgiving Holiday
-   - IYiOXIsXTgk | ongoing=False | publishedAt=2026-11-27T07:15:44Z | actualEndTime=None | effective=2026-11-27 07:15:44+00:00 | What to Know Ahead of Spain’s Snap Election
-   - -Zb0K56sPeU | ongoing=False | publishedAt=2026-11-27T07:11:07Z | actualEndTime=None | effective=2026-11-27 07:11:07+00:00 | AI Rally Faces Fresh Test: Nvidia Curbs & Trump Tariffs
-   - f1DdE9E-iEU | ongoing=False | publishedAt=2026-11-27T06:19:50Z | actualEndTime=None | effective=2026-11-27 06:19:50+00:00 | Huawei Teases AI Chip to Rival Giants SK Hynix, Samsung
-   - fS1s9uHbnVs | ongoing=False | publishedAt=2026-11-27T06:10:48Z | actualEndTime=None | effective=2026-11-27 06:10:48+00:00 | Asian Stocks Extend Recovery as AI Trade Rebounds
-   - 1nucn_-EMh4 | ongoing=False | publishedAt=2026-11-26T22:45:05Z | actualEndTime=None | effective=2026-11-26 22:45:05+00:00 | Inflation-Wary Shoppers Prepare for Black Friday
-   - g-he9QWCKH8 | ongoing=False | publishedAt=2026-11-26T14:07:14Z | actualEndTime=None | effective=2026-11-26 14:07:14+00:00 | Spain's De Cos Set to Succeed Lagarde as ECB President
+   - jlIv9pbPy6A | ongoing=False | publishedAt=2026-11-28T06:30:04Z | actualEndTime=None | effective=2026-11-28 06:30:04+00:00 | UK Set To Record Lowest Net Migration Since 1997
+   - TF0g18Y5O1U | ongoing=False | publishedAt=2026-11-28T05:05:07Z | actualEndTime=None | effective=2026-11-28 05:05:07+00:00 | Rwanda to Host F1’s Return to Africa, Will It Pay Off?
+   - uY48HGqjFVQ | ongoing=False | publishedAt=2026-11-27T23:00:14Z | actualEndTime=None | effective=2026-11-27 23:00:14+00:00 | Why Jensen Huang’s Return to Nvidia Matters for China
+   - bTuYNT-Q9Ic | ongoing=False | publishedAt=2026-11-27T21:33:29Z | actualEndTime=None | effective=2026-11-27 21:33:29+00:00 | Black Friday Shoppers Tackle Inflation
+   - LM-w0KHG45w | ongoing=False | publishedAt=2026-11-27T18:40:29Z | actualEndTime=None | effective=2026-11-27 18:40:29+00:00 | Nvidia Blackwell Chips Turn Up at China Site Tied to Alice H
+   - ModHpa2V48E | ongoing=False | publishedAt=2026-11-27T18:19:54Z | actualEndTime=None | effective=2026-11-27 18:19:54+00:00 | Huang Is Worth Up to $10 Trillion to the Market, Ives Says
+   - wc435uTiRvI | ongoing=False | publishedAt=2026-11-27T18:21:41Z | actualEndTime=None | effective=2026-11-27 18:21:41+00:00 | SAP Prepares Plan to Cut at Least 10,000 Positions
+   - v8Pd121xtgA | ongoing=False | publishedAt=2026-11-27T18:17:42Z | actualEndTime=None | effective=2026-11-27 18:17:42+00:00 | Still Mispricing in Private Markets: Weinstein
+   - 6D5j2T6ev8I | ongoing=False | publishedAt=2026-11-27T18:17:56Z | actualEndTime=None | effective=2026-11-27 18:17:56+00:00 | Gold Slumps on Rate Hike Outlook, AI Stocks Selloff
+   - XS1vAnjn-nI | ongoing=False | publishedAt=2026-11-27T18:18:05Z | actualEndTime=None | effective=2026-11-27 18:18:05+00:00 | Underlying AI Demand 'Much Bigger' than Market Pricing In, S
 
 - Meet Kevin
   상태: NO_TRANSCRIPT
-  제목: uh oh. AI Layoffs are Coming.
-  URL: https://www.youtube.com/watch?v=nMPZDP1mbzo
-  publishedAt: 2026-11-27T03:20:29Z
+  제목: Major Bank *JUST* Collapsed
+  URL: https://www.youtube.com/watch?v=suA21sZrItg
+  publishedAt: 2026-11-28T06:12:45Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
-   - nMPZDP1mbzo | ongoing=False | publishedAt=2026-11-27T03:20:29Z | actualEndTime=None | effective=2026-11-27 03:20:29+00:00 | uh oh. AI Layoffs are Coming.
-   - bP-GQPH-fYc | ongoing=False | publishedAt=2026-11-27T02:15:10Z | actualEndTime=None | effective=2026-11-27 02:15:10+00:00 | CRAP... i might be wrong about the economy...
-   - h3K7JwY_za4 | ongoing=False | publishedAt=2026-11-26T23:02:00Z | actualEndTime=None | effective=2026-11-26 23:02:00+00:00 | oh sh*t... i might be wrong.
-   - KyCmi9A64-Y | ongoing=False | publishedAt=2026-11-26T20:43:15Z | actualEndTime=None | effective=2026-11-26 20:43:15+00:00 | What is ReinvestOne?
-   - JpC9T7K9NYI | ongoing=False | publishedAt=2026-11-26T03:37:31Z | actualEndTime=None | effective=2026-11-26 03:37:31+00:00 | THE F**KING BOTTOM
-   - nfmo392yEOA | ongoing=False | publishedAt=2026-11-26T02:00:28Z | actualEndTime=None | effective=2026-11-26 02:00:28+00:00 | Title: 1,000,000 SpaceX Satellites… and a Chip Glut? 🛰️
-   - VpnlfImHkiY | ongoing=False | publishedAt=2026-11-25T23:30:22Z | actualEndTime=None | effective=2026-11-25 23:30:22+00:00 | Liberation Day 2.0 Just Hit 🚨
-   - Imw9-50PJWI | ongoing=False | publishedAt=2026-11-25T23:10:16Z | actualEndTime=None | effective=2026-11-25 23:10:16+00:00 | The Coming 2027 Housing Market Disaster.
-   - ik0xdpCAWFA | ongoing=False | publishedAt=2026-11-25T22:30:34Z | actualEndTime=None | effective=2026-11-25 22:30:34+00:00 | Worse Than the Dot-Com Crash? 📉
-   - fkPAbJuhjfI | ongoing=False | publishedAt=2026-11-25T22:11:39Z | actualEndTime=2026-11-25T22:06:58Z | effective=2026-11-25 22:06:58+00:00 | ooooohhhhh man
+   - suA21sZrItg | ongoing=False | publishedAt=2026-11-28T06:12:45Z | actualEndTime=None | effective=2026-11-28 06:12:45+00:00 | Major Bank *JUST* Collapsed
+   - wxqPFt-NQFo | ongoing=False | publishedAt=2026-11-28T03:47:41Z | actualEndTime=None | effective=2026-11-28 03:47:41+00:00 | Elon's Right about Jensen
+   - AXzPn8X7nh0 | ongoing=False | publishedAt=2026-11-28T02:56:25Z | actualEndTime=None | effective=2026-11-28 02:56:25+00:00 | Elon Musk NEW Speech JUST left them SPEECHLESS
+   - 06d3GP4-Ttk | ongoing=False | publishedAt=2026-11-28T01:59:56Z | actualEndTime=None | effective=2026-11-28 01:59:56+00:00 | AI is coming for your job. Do THIS to prepare.
+   - AXiZXG365tI | ongoing=False | publishedAt=2026-11-28T01:06:42Z | actualEndTime=None | effective=2026-11-28 01:06:42+00:00 | The 1962 Crash is Happening AGAIN.
+   - DO-eWNkpcHs | ongoing=False | publishedAt=2026-11-27T21:03:47Z | actualEndTime=None | effective=2026-11-27 21:03:47+00:00 | Survive the Jobpocalypse: Step by Step.
+   - OnJcMK-oXJ8 | ongoing=False | publishedAt=2026-11-27T20:49:08Z | actualEndTime=None | effective=2026-11-27 20:49:08+00:00 | Why we JUST Hit Bottom.
+   - Ufx_lTaCwLA | ongoing=False | publishedAt=2026-11-27T18:38:03Z | actualEndTime=None | effective=2026-11-27 18:38:03+00:00 | WARNING: The Next 10 Days.
+   - yQZeTqUGleI | ongoing=False | publishedAt=2026-11-27T18:22:53Z | actualEndTime=2026-11-27T18:19:13Z | effective=2026-11-27 18:19:13+00:00 | it's starting
+   - wa6K77ohfIc | ongoing=False | publishedAt=2026-11-27T16:45:54Z | actualEndTime=2026-11-27T16:39:35Z | effective=2026-11-27 16:39:35+00:00 | OMG what's HAPPENING? buyin' the dip
 
 - 오선의 미국 증시
-  상태: NO_VIDEO
-  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
+  상태: NO_TRANSCRIPT
+  제목: 【미국 증시 오늘의 요약】 AI 매도세 최악은 지났나? 저가 매수에 나스닥 100 2.6% 급등!   -  2026/11/27
+  URL: https://www.youtube.com/watch?v=lUH9btrER-g
+  publishedAt: 2026-11-27T21:00:04Z
+  비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - lUH9btrER-g | ongoing=False | publishedAt=2026-11-27T21:00:04Z | actualEndTime=None | effective=2026-11-27 21:00:04+00:00 | 【미국 증시 오늘의 요약】 AI 매도세 최악은 지났나? 저가 매수에 나스닥 100 2.6% 급등!   -  
+   - 7hPBzUBTmZE | ongoing=False | publishedAt=2026-11-27T19:27:44Z | actualEndTime=2026-11-27T19:15:09Z | effective=2026-11-27 19:15:09+00:00 | [26년 11월 27일 금]  추수감사절 연휴 랠리 ｜ 글로벌 위험자산 선호 심리 회복 ｜ 트럼프 “젠슨 황
    - hWaWXJRHcI4 | ongoing=False | publishedAt=2026-11-26T14:32:39Z | actualEndTime=2026-11-26T14:26:43Z | effective=2026-11-26 14:26:43+00:00 | [26년 11월 26일 목] ‘추수감사절 휴장’ 노가리 방송  - 오선의 미국 증시 라이브
-   - pl_YNhKvMLc | ongoing=False | publishedAt=2026-11-25T22:57:34Z | actualEndTime=None | effective=2026-11-25 22:57:34+00:00 | 【미국 증시 오늘의 요약】  나스닥 -4%에서 -0.6%까지 낙폭 만회! 극심한 변동성 속 다우 5만선 사수
-   - eEHBDFbB9vU | ongoing=False | publishedAt=2026-11-25T22:25:43Z | actualEndTime=2026-11-25T22:09:12Z | effective=2026-11-25 22:09:12+00:00 | [26년 11월 25일 수]  PCE가격지수, GDP성장률 ｜ 은행들, 데이터센터 대출 전면 검토｜미국, 전
 
 - 설명왕 테이버
   상태: NO_TRANSCRIPT
-  제목: AI/반도체 투자해야하는 인문학적인 이유
-  URL: https://www.youtube.com/watch?v=QnXUcBcUl0I
-  publishedAt: 2026-11-27T07:00:43Z
+  제목: 중국퇴출 → GPU 임대료하락..?ㅣ오라클, 코어위브, 네비우스... 괜찮을까?
+  URL: https://www.youtube.com/watch?v=FEOhplHvqVg
+  publishedAt: 2026-11-28T06:00:24Z
   비고: 자막 없음/비활성화(Transcript 불가)
   후보(최신 10개) 디버그:
+   - FEOhplHvqVg | ongoing=False | publishedAt=2026-11-28T06:00:24Z | actualEndTime=None | effective=2026-11-28 06:00:24+00:00 | 중국퇴출 → GPU 임대료하락..?ㅣ오라클, 코어위브, 네비우스... 괜찮을까?
    - QnXUcBcUl0I | ongoing=False | publishedAt=2026-11-27T07:00:43Z | actualEndTime=None | effective=2026-11-27 07:00:43+00:00 | AI/반도체 투자해야하는 인문학적인 이유
    - kDUIQHHBqqg | ongoing=False | publishedAt=2026-11-26T11:00:28Z | actualEndTime=None | effective=2026-11-26 11:00:28+00:00 | 금리인상보다 금리인하가 더 무서운 이유
-   - OszbyJU56a8 | ongoing=False | publishedAt=2026-11-26T07:00:30Z | actualEndTime=None | effective=2026-11-26 07:00:30+00:00 | 지금은 나스닥이 더 좋습니다
-   - OeFjmYwSsNo | ongoing=False | publishedAt=2026-11-26T04:00:27Z | actualEndTime=None | effective=2026-11-26 04:00:27+00:00 | 반복되는 하락, 반복되는 반등...??
-   - uV0GDwg4o3Y | ongoing=False | publishedAt=2026-11-26T01:00:04Z | actualEndTime=None | effective=2026-11-26 01:00:04+00:00 | 현실적인 주식투자의 목표수익률은?
-   - zrEZUt-rtN4 | ongoing=False | publishedAt=2026-11-26T00:16:22Z | actualEndTime=2026-11-26T00:13:24Z | effective=2026-11-26 00:13:24+00:00 | [미국마감&아침시황] 숏대장의 숏익절, 진짜 바닥인가?ㅣ#261126
-   - 8mg_Vl8NP-g | ongoing=False | publishedAt=2026-11-25T11:00:10Z | actualEndTime=None | effective=2026-11-25 11:00:10+00:00 | 엔비디아 임원이 "30,000주" 판다고?
 
 - 내일은 투자왕 - 김단테
-  상태: NO_TRANSCRIPT
-  제목: 자본시장의 대전환 시작된다? #코스피 #코스닥 #김용범
-  URL: https://www.youtube.com/watch?v=q1Hk_ihna4Y
-  publishedAt: 2026-11-27T07:37:51Z
-  비고: 자막 없음/비활성화(Transcript 불가)
+  상태: NO_VIDEO
+  비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
+   - NEz--_o9HWs | ongoing=False | publishedAt=2026-11-27T18:24:53Z | actualEndTime=None | effective=2026-11-27 18:24:53+00:00 | 트렌드포스 "메모리 슈퍼사이클 끝"
    - q1Hk_ihna4Y | ongoing=False | publishedAt=2026-11-27T07:37:51Z | actualEndTime=None | effective=2026-11-27 07:37:51+00:00 | 자본시장의 대전환 시작된다? #코스피 #코스닥 #김용범
-   - LZitYYewUsM | ongoing=False | publishedAt=2026-11-25T18:24:10Z | actualEndTime=None | effective=2026-11-25 18:24:10+00:00 | 끝이 안보인다. 오늘 또 터진 AI 악재들.. 그리고 반전도?
 
 - 소수몽키
   상태: NO_VIDEO
   비고: 최근 12시간 내 종료된 콘텐츠 없음(진행중 라이브 제외, 종료시간/게시시간 기준)
   후보(최신 10개) 디버그:
-   - HqQsZiSJFI8 | ongoing=False | publishedAt=2026-11-26T08:06:28Z | actualEndTime=None | effective=2026-11-26 08:06:28+00:00 | 이번 하락장 이후 올라갈 주식은 정해졌다? 기회가 될 주식들의 특징
-   - FoZGuT5uAO4 | ongoing=False | publishedAt=2026-11-25T11:54:28Z | actualEndTime=None | effective=2026-11-25 11:54:28+00:00 | 갑자기 생필품 패닉 바잉에 들어간 미국인들? 음모론일까 경고 신호일까
+   - 8WXUg04sqKg | ongoing=False | publishedAt=2026-11-27T10:06:52Z | actualEndTime=None | effective=2026-11-27 10:06:52+00:00 | 미국주식 적립식 투자 이걸로 고민 끝? 미국 주요 지수 한번에 투자하는 법
